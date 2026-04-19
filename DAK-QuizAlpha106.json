@@ -1,0 +1,462 @@
+[
+  {
+    "question": "ಎರಡು ಕೋಣೆಗಳ ಹೃದಯ ಹೊಂದಿರುವ ಕಶೇರುಕ ಯಾವುದು? (Which vertebrate has a two-chambered heart?)",
+    "options": ["ಹಾವು (Snake)", "ಮೀನು (Fish)", "ನೀಲಿ ತಿಮಿಂಗಲ (Blue Whale)", "ಯಾವುದೂ ಅಲ್ಲ (None)"],
+    "answer": 1
+  },
+  {
+    "question": "ಹಾರ್ಮೋನುಗಳು ಯಾವುದರಿಂದ ಉತ್ಪಾದನೆ ಆಗುತ್ತವೆ? (From what are hormones produced?)",
+    "options": ["ಪಿಟ್ಯುಟರಿ ಗ್ರಂಥಿಗಳು", "ಹೈಪೋತೆಲಾಮಸ್", "ಅಂತಃಸ್ರಾವಕ ಗ್ರಂಥಿಗಳು (Endocrine glands)", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 2
+  },
+  {
+    "question": "ಉದರದಲ್ಲಿ ಜೀರ್ಣಕ್ರಿಯೆಗೆ ಯಾವ ಆಮ್ಲ ಸಹಕಾರಿ? (Which acid helps in digestion in the stomach?)",
+    "options": ["ಹೈಡೋಕ್ಲೋರಿಕ್ ಆಮ್ಲ (HCl)", "ಸಲ್ಯೂರಿಕ್ ಆಮ್ಲ", "ಅಸಿಟಿಕ್ ಆಮ್ಲ", "ಬೋರಿಕ್ ಆಮ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ಇವುಗಳಲ್ಲಿ ಯಾವುದು ರಸಗೊಬ್ಬರ ಉತ್ಪನ್ನವಲ್ಲ? (Which of these is not a fertilizer product?)",
+    "options": ["ಕ್ಯಾಲ್ಸಿಯಂ ಕಾರ್ಬೋನೇಟ್", "ಅಮೋನಿಯಂ ಫಾಸ್ಪೇಟ್", "ನೈಟ್ರೋಜನ್ ಫಾಸ್ಪರಸ್", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ಭಾರತದಲ್ಲಿ ಸ್ಥಾಪನೆಯಾದ ಮೊದಲ ಪರಮಾಣು ಕೇಂದ್ರ ಯಾವುದು? (First nuclear power station in India?)",
+    "options": ["ಕೈಗಾ", "ಕಕ್ರಪಾರ್", "ಕಲ್ಪಕಂ", "ತಾರಾಪುರ (Tarapur)"],
+    "answer": 3
+  },
+  {
+    "question": "ಯಾವ ಸಾಧನವು ದ್ರವಗಳ ನಿರ್ದಿಷ್ಟ ಗುರುತ್ವವನ್ನು ನಿರ್ಧರಿಸುತ್ತದೆ? (Device to determine specific gravity?)",
+    "options": ["ಗ್ರಾವಿಮೀಟರ್", "ಹೈಡೋಮೀಟರ್ (Hydrometer)", "ಥರ್ಮಾಮೀಟರ್", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 1
+  },
+  {
+    "question": "ನಂಜು ನಿರೋಧಕ ಶಸ್ತ್ರಚಿಕಿತ್ಸಾ ವಿಧಾನ ಕಂಡು ಹಿಡಿದವರು ಯಾರು? (Who discovered antiseptic surgery?)",
+    "options": ["ಅಲೆಕ್ಸಾಂಡರ್ ಪ್ಲೆಮಿಂಗ್", "ಎಡ್ವರ್ಡ್ ಜೆನ್ನರ್", "ಜೋಸೆಫ್ ಲಿಸ್ಟರ್ (Joseph Lister)", "ಲೂಯಿ ಪಾಶ್ಚರ್"],
+    "answer": 2
+  },
+  {
+    "question": "ರೇಡಿಯೊ ತರಂಗಗಳ ವೇಗವನ್ನು ನಿರ್ಧರಿಸಲು ಏನನ್ನು ಬಳಸುತ್ತಾರೆ? (What is used to determine speed using radio waves?)",
+    "options": ["ಲೀಡರ್", "ರೇಡಾರ್ (Radar)", "ಸೊನಾರ್", "ಲೋರನ್"],
+    "answer": 1
+  },
+  {
+    "question": "ಏನನ್ನು ಅಳೆಯಲು ಸ್ಪಿಗೋಮಾನೋಮೀಟರ್ ಬಳಸುತ್ತಾರೆ? (What is a sphygmomanometer used for?)",
+    "options": ["ರಕ್ತದೊತ್ತಡ (Blood pressure)", "ಅಧಿಕ ರಕ್ತದೊತ್ತಡ", "ದೇಹದ ತಾಪಮಾನ", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ಶಬ್ದದ ಯಾವ ಅಂಶವು ಪ್ರತಿಧ್ವನಿಗೆ ಕಾರಣವಾಗಿದೆ? (Responsible for echo?)",
+    "options": ["ಪ್ರಸಾರ", "ಪ್ರತಿಫಲನ (Reflection)", "ವಕ್ರೀಭವನ", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 1
+  },
+  {
+    "question": "ವಯಸ್ಕರಲ್ಲಿ ಮಿದುಳಿನ ಸರಾಸರಿ ತೂಕವೆಷ್ಟು? (Average brain weight in adults?)",
+    "options": ["1.36 ಕೆಜಿ", "1.46 ಕೆಜಿ", "1.56 ಕೆಜಿ", "1.66 ಕೆಜಿ"],
+    "answer": 0
+  },
+  {
+    "question": "ಇವುಗಳಲ್ಲಿ ಆನುವಂಶಿಕ ಕಾಯಿಲೆ ಯಾವುದು? (Which is a hereditary disease?)",
+    "options": ["ಹಿಮೋಫಿಲಿಯಾ (Hemophilia)", "ಕ್ಷಯ", "ಕ್ಯಾನ್ಸರ್", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ರೇಷ್ಮೆಗೆ ಸಂಬಂಧಿಸಿದ ಅಧ್ಯಯನವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ? (Study of silk?)",
+    "options": ["ಸಿರಿಕಲ್ಟರ್ (Sericulture)", "ಸಿಸ್ಕೋಲಜಿ", "ಥಿಯಾಲಜಿ", "ಸೈಟಾಲಜಿ"],
+    "answer": 0
+  },
+  {
+    "question": "ಎಲೆಕ್ಟಿಕ್ ಹೀಟರ್‌ನಲ್ಲಿ ಬಳಸುವ ಮೂಲವಸ್ತು ಯಾವುದು? (Element in electric heater?)",
+    "options": ["ಕಬಿಣ", "ಹಿತ್ತಾಳೆ", "ನಿಕ್ರೋಮ್ (Nichrome)", "ತಾಮ್ರ"],
+    "answer": 2
+  },
+  {
+    "question": "ಮೂತ್ರಪಿಂಡದ ಮೇಲ್ಬಾಗದಲ್ಲಿರುವ ಗ್ರಂಥಿ ಯಾವುದು? (Gland on top of the kidney?)",
+    "options": ["ಥೈರಾಯ್ಡ್", "ಅಡ್ರಿನಲ್ (Adrenal)", "ಪಿಟ್ಯುಟರಿ", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 1
+  },
+  {
+    "question": "ಕಂಪ್ಯೂಟರ್ ಐಸಿ ಚಿಪ್ ತಯಾರಿಸಲು ಬಳಸುವ ಲೋಹ? (Metal for IC chips?)",
+    "options": ["ಕ್ರೋಮಿಯಂ", "ಚಿನ್ನ", "ಸಿಲಿಕಾನ್ (Silicon)", "ಲೆಡ್"],
+    "answer": 2
+  },
+  {
+    "question": "ಹಾಲು ಹುಳಿಯಾದಾಗ ಯಾವ ಆಮ್ಲ ದೊರೆಯುತ್ತದೆ? (Acid in sour milk?)",
+    "options": ["ಟಾರ್ಟಾರಿಕ್", "ಲ್ಯಾಕ್ಟಿಕ್ ಆಮ್ಲ (Lactic)", "ಬೂಟೆರಿಕ್", "ಅಸಿಟಿಕ್"],
+    "answer": 1
+  },
+  {
+    "question": "ಭೂಮಿಯ ಮೇಲೆ ಹೇರಳವಾಗಿರುವ ಸಾವಯವ ಅಣುಗಳು? (Abundant organic molecules?)",
+    "options": ["ಹಿಮೋಗ್ಲೋಬಿನ್", "ಡಿಎನ್‌ಎ", "ಸೆಲ್ಯುಲೋಸ್ (Cellulose)", "ಕೈಟಿನ್"],
+    "answer": 2
+  },
+  {
+    "question": "ಇವುಗಳಲ್ಲಿ ಯಾವುದು ಅತಿ ದೊಡ್ಡ ಪ್ರಾಣಿ? (Largest animal?)",
+    "options": ["ಆನೆ", "ಜಿರಾಫೆ", "ಹುಲಿ", "ನೀಲಿ ತಿಮಿಂಗಲ (Blue Whale)"],
+    "answer": 3
+  },
+  {
+    "question": "ಹಣ್ಣುಗಳನ್ನು ಪ್ಯಾಕ್ ಮಾಡುವಾಗ ರಕ್ಷಿಸಲು ಏನನ್ನು ಬಳಸುತ್ತಾರೆ? (Used for fruit packing?)",
+    "options": ["ಇಥೈಲ್ ಬೋಮೈಡ್", "ಮಿಥೈಲ್ ಬೋಮೈ (Methyl bromide)", "ಸಿಲ್ವರ್", "ಸೋಡಿಯಂ"],
+    "answer": 1
+  },
+  {
+    "question": "ಸಿಲ್ವಿಕಲ್ಟರ್ ಯಾವುದಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ? (Silviculture relation?)",
+    "options": ["ಮೀನುಗಾರಿಕೆ", "ಎರೆಹುಳು", "ಎಣ್ಣೆಕಾಳು", "ಅರಣ್ಯ ಬೆಳೆಗಳು (Forestry)"],
+    "answer": 3
+  },
+  {
+    "question": "ಯಾವ ಜೀವಿ ಅತಿ ಹೆಚ್ಚು ಪಕ್ಕೆಲುಬುಗಳನ್ನು ಹೊಂದಿದೆ? (Most ribs?)",
+    "options": ["ಮೊಸಳೆ", "ಹಾವು (Snake)", "ಮೀನು", "ತಿಮಿಂಗಲ"],
+    "answer": 1
+  },
+  {
+    "question": "ಅಬೀಜಸಂತಾನ 'ಡಾಲಿ' ಯಾವ ಪ್ರಾಣಿ? (Clone 'Dolly' animal?)",
+    "options": ["ಕುರಿ (Sheep)", "ಹಸು", "ಆಡು", "ನಾಯಿ"],
+    "answer": 0
+  },
+  {
+    "question": "ನಾನ್‌ ಸ್ಟಿಕ್ ಅಡುಗೆ ಸಲಕರಣೆಗಳಲ್ಲಿರುವ ರಾಸಾಯನಿಕ? (Non-stick chemical?)",
+    "options": ["ಪಿವಿಸಿ", "ಗ್ರಾಫೈಟ್", "ಟೆಫ್ಲಾನ್ (Teflon)", "ಸಿಲಿಕಾನ್"],
+    "answer": 2
+  },
+  {
+    "question": "ಹೇಸರಗತ್ತೆ ಯಾವ ಪ್ರಾಣಿಗಳ ಮಿಶ್ರ ತಳಿ? (Mule crossbreed?)",
+    "options": ["ಕತ್ತೆ x ಕತ್ತೆ", "ಗಂಡು ಕತ್ತೆ x ಹೆಣ್ಣು ಕುದುರೆ", "ಕುದುರೆ x ಕಾಡುಗತ್ತೆ", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 1
+  },
+  {
+    "question": "ಗಾಳಿಯಲ್ಲಿ ಅತೀ ವೇಗವಾಗಿ ಚಲಿಸುವುದು ಯಾವುದು? (Fastest in air?)",
+    "options": ["ರಾಕೆಟ್", "ಬೆಳಕು (Light)", "ವಿಮಾನ", "ಶಬ್ದ"],
+    "answer": 1
+  },
+  {
+    "question": "ಕೊಬ್ಬಿನಲ್ಲಿ ಕರಗುವ ವಿಟಮಿನ್‌ಗಳು ಯಾವುವು? (Fat-soluble vitamins?)",
+    "options": ["A, D, K", "D, C", "K, C", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ದೂರದರ್ಶನ ರಿಮೋಟ್‌ನಲ್ಲಿರುವ ಕಿರಣಗಳಾವುವು? (TV remote rays?)",
+    "options": ["ರೇಡಿಯೊ", "ಲೇಸರ್", "ಅತಿ ಕೆಂಪು ಕಿರಣಗಳು (Infrared)", "ಅಲ್ಟಾಸಾನಿಕ್"],
+    "answer": 2
+  },
+  {
+    "question": "ಅಗ್ನಿ ನಂದಿಸಲು ಬಳಸುವ ಅನಿಲ ಯಾವುದು? (Fire extinguisher gas?)",
+    "options": ["ಸಾರಜನಕ", "ಇಂಗಾಲದ ಡೈಆಕ್ರೈಡ್ (CO2)", "ಸಲ್ಪರ್", "ನೈಟ್ರೋಜನ್"],
+    "answer": 1
+  },
+  {
+    "question": "ಮಗುವಿನ IQ 100 ಎಂದರೆ ಅರ್ಥವೇನು? (IQ 100 meaning?)",
+    "options": ["ಕಡಿಮೆ ಸಾಮರ್ಥ್ಯ", "ಹೆಚ್ಚು ಸಾಮರ್ಥ್ಯ", "ಬೌದ್ಧಿಕ ವಯಸ್ಸು = ವಾಸ್ತವಿಕ ವಯಸ್ಸು", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 2
+  },
+  {
+    "question": "ವಾಹನಗಳ ಮಳೆ ಸಂವೇದಕ ತತ್ವ? (Vehicle rain sensor principle?)",
+    "options": ["ಒತ್ತಡ", "ಬರ್ನೌಲಿಸ್", "ಒಟ್ಟು ಅಂತರ-ಸಂಪರ್ಕ ಪ್ರತಿಬಿಂಬ (TIR)", "ವಿಕಿರಣ"],
+    "answer": 2
+  },
+  {
+    "question": "ಚಯಾಪಚಯ ಕ್ರಿಯೆಯ (BMR) ಅರ್ಥವೇನು? (Meaning of BMR?)",
+    "options": ["ದಿನದ ಕ್ಯಾಲೋರಿ", "ವಿಶ್ರಾಂತಿಯಲ್ಲಿ ದಹಿಸುವ ಕ್ಯಾಲೋರಿ", "15 ವರ್ಷದ ಕ್ಯಾಲೋರಿ", "ಜೀವನ ಪರ್ಯಂತ"],
+    "answer": 1
+  },
+  {
+    "question": "ಜೇನುತುಪ್ಪ ಸಕ್ಕರೆಗಿಂತ ಸಿಹಿಯಾಗಿರಲು ಕಾರಣ? (Why is honey sweeter?)",
+    "options": ["ಡೆಕ್ಟೋಸ್", "ಲೆವುಲೋಸ್ (Levulose)", "ಸುಕ್ರೋಸ್", "ಫ್ರಕ್ಟೋಸ್"],
+    "answer": 1
+  },
+  {
+    "question": "ಗುರುತ್ವಾಕರ್ಷಣ ನಿಯಮ ಪ್ರತಿಪಾದಿಸಿದವರು? (Proposed law of gravitation?)",
+    "options": ["ಗೆಲಿಲಿಯೊ", "ಐಸಾಕ್ ನ್ಯೂಟನ್ (Newton)", "ಡಾರ್ವಿನ್", "ಯಾರೂ ಅಲ್ಲ"],
+    "answer": 1
+  },
+  {
+    "question": "ಕಲ್ಲಿದ್ದಲಿನ ಉಪ ಉತ್ಪನ್ನ ಯಾವುದು? (Byproduct of coal?)",
+    "options": ["ಸಾರಜನಕ", "ಕೋಕ್ (Coke)", "ಗ್ರಾಫೈಟ್", "ವಜ್ರ"],
+    "answer": 1
+  },
+  {
+    "question": "ಉಷ್ಣತೆಯಿಂದ ಸೂಕ್ಷ್ಮ ಜೀವಿಗಳನ್ನು ನಾಶಪಡಿಸುವ ವಿಧಾನ? (Heat-killing microbes?)",
+    "options": ["ಪಾಶ್ಚರೀಕರಣ (Pasteurization)", "ವಿಕಿರಣ", "ನಿರ್ಜಲೀಕರಣ", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ಭೂಮಿಯ ಮೇಲೆ ಇರುವ ಅತಿ ದೊಡ್ಡ ಪ್ರಾಣಿ ಯಾವುದು? (Largest animal on Earth?)",
+    "options": ["ನೀಲಿ ತಿಮಿಂಗಲ (Blue Whale)", "ಸ್ವಿಡ್", "ಆನೆ", "ಸಿಂಹ"],
+    "answer": 0
+  },
+  {
+    "question": "ನೇರಳಾತೀತ ವಿಕಿರಣಗಳನ್ನು ಆವಿಷ್ಕರಿಸಿದವರು? (Discovered UV rays?)",
+    "options": ["ರಾಂಟ್‌ಜಿನ್", "ಜೆ.ಡಬ್ಲ್ಯೂ. ರಿಟ್ಟರ್ (J.W. Ritter)", "ಎಲಿಯಸ್", "ಮ್ಯಾಕ್ಸ್ ಪ್ಲಾಂಕ್"],
+    "answer": 1
+  },
+  {
+    "question": "ಅತ್ಯಂತ ಚಿಕ್ಕ ಹಕ್ಕಿ ಯಾವುದು? (Smallest bird?)",
+    "options": ["ಗುಬ್ಬಚ್ಚಿ", "ಹಮ್ಮಿಂಗ್ ಬರ್ಡ್ (Hummingbird)", "ಉಷ್ಟ್ರ ಪಕ್ಷಿ", "ಪಾರಿವಾಳ"],
+    "answer": 1
+  },
+  {
+    "question": "ಅಣಬೆ ಎಂಬುದು? (Mushroom is a...)",
+    "options": ["ಪಾಚಿ", "ವೈರಸ್", "ಶಿಲೀಂಧ್ರ (Fungi)", "ಬ್ಯಾಕ್ಟಿರಿಯಾ"],
+    "answer": 2
+  },
+  {
+    "question": "ಸಾರಜನಕ ಸ್ಥಿರೀಕರಣ ಯಾವ ಬೇರಿನಲ್ಲಿ ಇರುತ್ತದೆ? (Nitrogen in roots?)",
+    "options": ["ಜೋಳ", "ಭತ್ತ", "ಕಡಲೆಬೀಜ (Groundnut)", "ಗೋಧಿ"],
+    "answer": 2
+  },
+  {
+    "question": "ವಿನೆಗರ್‌ನಲ್ಲಿ ಇರುವ ಆಮ್ಲ ಯಾವುದು? (Acid in vinegar?)",
+    "options": ["ಅಸಿಟಿಕ್ ಆಮ್ಲ (Acetic)", "ಸಲ್ಲೂರಿಕ್", "ಹೈಡೋಕ್ಲೋರಿಕ್", "ನೈಟ್ರಿಕ್"],
+    "answer": 0
+  },
+  {
+    "question": "ಅತಿ ಹಗುರವಾದ ಅನಿಲ ಯಾವುದು? (Lightest gas?)",
+    "options": ["ಜಲಜನಕ (Hydrogen)", "ಆಮ್ಲಜನಕ", "ನೈಟ್ರೋಜನ್", "ಹೀಲಿಯಂ"],
+    "answer": 0
+  },
+  {
+    "question": "ಭಾರತದ ಮೊದಲ ಗಗನಯಾನಿ ಯಾರು? (India's first astronaut?)",
+    "options": ["ರಾಕೇಶ್ ಶರ್ಮಾ (Rakesh Sharma)", "ಚಿದಂಬರಂ", "ರಾಮಾನುಜಂ", "ಯಾರೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ನರಗಳ ಅಧ್ಯಯನವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ? (Study of nerves?)",
+    "options": ["ಹೆಮಟಾಲಜಿ", "ನೆಫ್ರಾಲಜಿ", "ನ್ಯೂರಾಲಜಿ (Neurology)", "ಬಯಾಲಜಿ"],
+    "answer": 2
+  },
+  {
+    "question": "ವಿಶ್ವ ಪರಿಸರ ದಿನ ಯಾವಾಗ? (World Environment Day?)",
+    "options": ["ಜೂನ್ 1", "ಜೂನ್ 5 (June 5)", "ಜೂನ್ 15", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 1
+  },
+  {
+    "question": "ಸೂರ್ಯನ ಕಿರಣಗಳಿಂದ ದೊರೆಯುವ ವಿಟಮಿನ್? (Vitamin from sunlight?)",
+    "options": ["ವಿಟಮಿನ್ ಸಿ", "ವಿಟಮಿನ್ ಡಿ (Vitamin D)", "ವಿಟಮಿನ್ ಕೆ", "ವಿಟಮಿನ್ ಎ"],
+    "answer": 1
+  },
+  {
+    "question": "ದೂರವಾಣಿ ಕಂಡು ಹಿಡಿದ ವಿಜ್ಞಾನಿ ಯಾರು? (Inventor of telephone?)",
+    "options": ["ನ್ಯೂಟನ್", "ಅಲೆಕ್ಸಾಂಡರ್ ಗ್ರಹಾಂಬೆಲ್ (Bell)", "ಹಾರ್ವೆ", "ಗೆಲೆಲಿಯೊ"],
+    "answer": 1
+  },
+  {
+    "question": "ಪೋಲಿಯೊ ಲಸಿಕೆ ಅಭಿವೃದ್ಧಿಪಡಿಸಿದವರು? (Polio vaccine developer?)",
+    "options": ["ಜೋನಸ್ ಸಲ್ಕ್ (Jonas Salk)", "ಜಾನ್ ಫ್ರಾಂಕ್ಲಿನ್", "ಜೆನ್ನರ್", "ಯಾರೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ರಕ್ತ ಪರಿಚಲನೆ ವಿವರಿಸಿದ ವಿಜ್ಞಾನಿ? (Described blood circulation?)",
+    "options": ["ವಿಲಿಯಂ ಹಾರ್ವೆ (William Harvey)", "ರೊನಾಲ್ಡ್ ರಾಸ್", "ಮೆಂಡೆಲ್", "ಯಾರೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ಪಿಟ್ಯೂಟರಿ ಗ್ರಂಥಿ ಎಲ್ಲಿದೆ? (Pituitary gland location?)",
+    "options": ["ಕುತ್ತಿಗೆ", "ಕಾಲು", "ತಲೆ (Head)", "ಹೊಟ್ಟೆ"],
+    "answer": 2
+  },
+  {
+    "question": "ಗೋಬರ್ ಗ್ಯಾಸ್ ಪ್ರಮುಖ ಅನಿಲ? (Main gas in Gobar gas?)",
+    "options": ["ಮಿಥೇನ್ (Methane)", "ಆಮ್ಲಜನಕ", "ಜಲಜನಕ", "CO2"],
+    "answer": 0
+  },
+  {
+    "question": "ಕ್ರೋಮೋಸೋಮ್‌ಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು? (Number of chromosomes?)",
+    "options": ["22 ಜೋಡಿ", "23 ಜೋಡಿ (46 total)", "24 ಜೋಡಿ", "46 ಜೋಡಿ"],
+    "answer": 1
+  },
+  {
+    "question": "ಶ್ವಾಸಕೋಶ ಆವರಿಸಿರುವ ತೆಳುವಾದ ಪೊರೆ? (Membrane covering lungs?)",
+    "options": ["ಪ್ಲೋರಾ (Pleura)", "ಕಾರ್ನಿಯಾ", "ಟ್ರೇಕಿಯಾ", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ಮಾನವನ ಅತಿ ಚಿಕ್ಕ ಮೂಳೆ ಯಾವುದು? (Smallest bone?)",
+    "options": ["ಸ್ಟೇಪ್ಸ್ (Stapes)", "ಫೆಮರ್", "ಟಿಬಿಯಾ", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ರಕ್ತ ಹೆಪ್ಪುಗಟ್ಟಲು ಸಹಾಯಕವಾದ ವಿಟಮಿನ್? (Vitamin for blood clotting?)",
+    "options": ["ವಿಟಮಿನ್ ಕೆ (K)", "ವಿಟಮಿನ್ ಸಿ", "ವಿಟಮಿನ್ ಡಿ", "ವಿಟಮಿನ್ ಎ"],
+    "answer": 0
+  },
+  {
+    "question": "ಓಜೋನ್ ಅನಿಲದ ಬಣ್ಣ ಯಾವುದು? (Color of Ozone gas?)",
+    "options": ["ನೀಲಿ (Blue)", "ಬಣ್ಣ ರಹಿತ", "ಹಳದಿ", "ಕೆಂಪು"],
+    "answer": 0
+  },
+  {
+    "question": "ಅಡುಗೆ ಉಪ್ಪಿನ ರಾಸಾಯನಿಕ ಹೆಸರು? (Chemical name of table salt?)",
+    "options": ["ಸಲ್ಫರ್", "ಸೋಡಿಯಂ ಕ್ಲೋರೈಡ್ (NaCl)", "ಹೈಡೋಜನ್", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 1
+  },
+  {
+    "question": "ಪರಿಸರ ಸಂರಕ್ಷಣೆ ಕಾಯ್ದೆ ಜಾರಿಗೆ ಬಂದದ್ದು? (Environment Protection Act year?)",
+    "options": ["1972", "1986", "1961", "1992"],
+    "answer": 1
+  },
+  {
+    "question": "ಹಲ್ಲಿನ ಗಟ್ಟಿಯಾದ ಭಾಗ ಯಾವುದು? (Hardest part of tooth?)",
+    "options": ["ಎನಾಮಲ್ (Enamel)", "ಡೆಂಟಿನ್", "ಪ್ಲಾಕ್", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ಮಿದುಳಿನ ಮುಖ್ಯ ಭಾಗಗಳು ಯಾವುವು? (Main brain parts?)",
+    "options": ["ಸೆರಿಬ್ರಮ್", "ಸೆರಿಬೆಲ್ಲಮ್", "ಮೆಡುಲ್ಲಾ", "ಎಲ್ಲವೂ (All)"],
+    "answer": 3
+  },
+  {
+    "question": "ಚರ್ಮದ ಪದರಗಳು ಯಾವುವು? (Skin layers?)",
+    "options": ["ಎಪಿಡರ್ಮಿಸ್", "ಡರ್ಮಿಸ್", "ಎರಡೂ (Both)", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 2
+  },
+  {
+    "question": "ಮೊಟ್ಟೆ ಇಡುವ ಸಸ್ತನಿ ಯಾವುದು? (Egg-laying mammal?)",
+    "options": ["ಪ್ಲಾಟಿಪಸ್ (Platypus)", "ತಿಮಿಂಗಲ", "ಪೆಂಗ್ವಿನ್", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ಯಕೃತ್ತಿನ (Liver) ಸರಾಸರಿ ತೂಕ? (Average weight of liver?)",
+    "options": ["1.5 ಕೆಜಿ", "2.5 ಕೆಜಿ", "3.5 ಕೆಜಿ", "0.5 ಕೆಜಿ"],
+    "answer": 0
+  },
+  {
+    "question": "ಓಜೋನ್ ಪದರ ಎಲ್ಲಿದೆ? (Where is Ozone layer?)",
+    "options": ["ಟ್ರೊಪೋಸ್ಪಿಯರ್", "ಸ್ಟ್ರಾಟೋಸ್ಪಿಯರ್ (Stratosphere)", "ಎಕ್ಟೋಸ್ಪಿಯರ್", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 1
+  },
+  {
+    "question": "ಕಾಮನಬಿಲ್ಲಿನಲ್ಲಿ ಕೆಂಪು-ಹಳದಿ ಮಧ್ಯದ ಬಣ್ಣ? (Color between red-yellow?)",
+    "options": ["ಕಿತ್ತಳೆ (Orange)", "ಹಸಿರು", "ನೀಲಿ", "ನೇರಳೆ"],
+    "answer": 0
+  },
+  {
+    "question": "ಅಂಧತ್ವಕ್ಕೆ ಕಾರಣವಾದ ವಿಟಮಿನ್ ಕೊರತೆ? (Vitamin for blindness?)",
+    "options": ["ವಿಟಮಿನ್ ಎ (A)", "ವಿಟಮಿನ್ ಬಿ", "ವಿಟಮಿನ್ ಸಿ", "ವಿಟಮಿನ್ ಡಿ"],
+    "answer": 0
+  },
+  {
+    "question": "ಹೋಮಿಯೋಪಥಿ ಜನಕ ಯಾರು? (Father of Homeopathy?)",
+    "options": ["ಜೆನ್ನರ್", "ಪಾಶ್ಚರ್", "ಹನಿಮನ್ (Hahnemann)", "ಹಿಪ್ಪೋಕ್ರೇಟ್ಸ್"],
+    "answer": 2
+  },
+  {
+    "question": "ನೀರಿನ ಮಾಲಿನ್ಯ ಕಾಯ್ದೆ ವರ್ಷ? (Water pollution act year?)",
+    "options": ["1984", "1974", "1964", "1994"],
+    "answer": 1
+  },
+  {
+    "question": "ವೈದ್ಯಶಾಸ್ತ್ರದ ಪಿತಾಮಹ ಯಾರು? (Father of Medicine?)",
+    "options": ["ಹಿಪ್ಪೋಕ್ರೇಟ್ಸ್ (Hippocrates)", "ಅರಿಸ್ಟಾಟಲ್", "ನ್ಯೂಟನ್", "ಗಾಲೆನ್"],
+    "answer": 0
+  },
+  {
+    "question": "ಹಾಲು ಮೊಸರಾಗಲು ಕಾರಣವಾದ ಬ್ಯಾಕ್ಟಿರಿಯಾ? (Bacteria for curd?)",
+    "options": ["ಲ್ಯಾಕ್ಟಿಕ್", "ಬ್ಯಾಸಿಲಸ್", "ಲ್ಯಾಕ್ಟೋಬ್ಯಾಸಿಲಸ್ (Lactobacillus)", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 2
+  },
+  {
+    "question": "ಬೆಳಕಿನ ವೇಗ ಮೊದಲು ಅಳೆದವರು? (First measured speed of light?)",
+    "options": ["ರೋಮರ್ (Romer)", "ಐನ್‌ಸ್ಟಿನ್", "ಗೆಲೆಲಿಯೊ", "ನ್ಯೂಟನ್"],
+    "answer": 0
+  },
+  {
+    "question": "ಮಲೇರಿಯಾ ತರುವ ಸೊಳ್ಳೆ ಯಾವುದು? (Malaria mosquito?)",
+    "options": ["ಹೆಣ್ಣು ಅನಾಫಿಲಿಸ್ (Female Anopheles)", "ಈಡೀಸ್", "ಕ್ಯೂಲೆಕ್ಸ್", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ರಕ್ತದಲ್ಲಿ ಸಕ್ಕರೆ ನಿಯಂತ್ರಿಸುವ ಗ್ರಂಥಿ? (Sugar controlling gland?)",
+    "options": ["ಮೇದೋಜೀರಕ (Pancreas)", "ಯಕೃತ್", "ಹೃದಯ", "ಪಿಟ್ಯೂಟರಿ"],
+    "answer": 0
+  },
+  {
+    "question": "ದವಡೆ ಸ್ನಾಯುಗಳು ಹೇಗಿರುತ್ತವೆ? (Jaw muscles characteristic?)",
+    "options": ["ದುರ್ಬಲ", "ಬಲಿಷ್ಠ (Strongest)", "ತೆಳುವಾದ", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 1
+  },
+  {
+    "question": "DPT ಲಸಿಕೆ ಯಾವುದಕ್ಕೆ ನೀಡುತ್ತಾರೆ? (DPT vaccine targets?)",
+    "options": ["ಡಿಪ್ತೀರಿಯಾ", "ಟೆಟನಸ್", "ಹುಸಿ ಕೆಮ್ಮು", "ಎಲ್ಲವೂ (All)"],
+    "answer": 3
+  },
+  {
+    "question": "ಸಸ್ಯಗಳಲ್ಲಿ ಈಟಿಯೊಲೇಷನ್ ಕಾರಣ? (Cause of etiolation?)",
+    "options": ["ನೀರು", "ಗಾಳಿ", "ಬೆಳಕಿನ ಕೊರತೆ (Lack of light)", "ಗೊಬ್ಬರ"],
+    "answer": 2
+  },
+  {
+    "question": "ಹಸಿರು ಸಸ್ಯಗಳ ಆಹಾರ ವಿಧಾನ? (Green plant feeding method?)",
+    "options": ["ಸ್ವಪೋಷಣೆ (Autotrophic)", "ಪರಪೋಷಣೆ", "ಮಿಶ್ರ ಪೋಷಣೆ", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ಮಿಥೇನ್ ತಯಾರಿಸುವ ಪ್ರಕ್ರಿಯೆ? (Methane process?)",
+    "options": ["CO2 + 2H2O", "C2H4 + O2", "HCl + NaOH", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ಸಾಬೂನು ತಯಾರಿಕೆಗೆ ಬೇಕಾದವು? (Ingredients for soap?)",
+    "options": ["ಕೊಬ್ಬು + NaOH", "ಸಕ್ಕರೆ + ನೀರು", "ಆಮ್ಲ + ಲೋಹ", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ಲಸಿಕೆ ಕಂಡುಹಿಡಿದವರು (ಜೆನ್ನರ್) ಯಾವುದಕ್ಕೆ? (Jenner discovered vaccine for?)",
+    "options": ["ಸಿಡುಬು (Smallpox)", "ಪೋಲಿಯೊ", "ಕ್ಷಯ", "ಏಡ್ಸ್"],
+    "answer": 0
+  },
+  {
+    "question": "ನವಜಾತ ಶಿಶುವಿಗೆ ನೀಡುವ ಕ್ಷಯ ಲಸಿಕೆ? (TB vaccine for newborns?)",
+    "options": ["BCG", "DPT", "Polio", "MMR"],
+    "answer": 0
+  },
+  {
+    "question": "ಕ್ಯಾಟರಾಕ್ಟ್ ಯಾವ ಅಂಗದ ಕಾಯಿಲೆ? (Cataract organ?)",
+    "options": ["ಕಣ್ಣು (Eye)", "ಮೂಗು", "ಕಿವಿ", "ಹೃದಯ"],
+    "answer": 0
+  },
+  {
+    "question": "ಯಾವ ಖನಿಜಾಂಶ ಎಲುಬಿಗೆ ಅಗತ್ಯ? (Mineral for bones?)",
+    "options": ["ಕಬ್ಬಿಣ", "ಕ್ಯಾಲ್ಸಿಯಂ (Calcium)", "ಸತು", "ಚಿನ್ನ"],
+    "answer": 1
+  },
+  {
+    "question": "ಮಳೆ ಹನಿ ವಾಸನೆಗೆ ಕಾರಣ? (Rain smell cause?)",
+    "options": ["ಬ್ಯಾಕ್ಟಿರಿಯಾ (Streptomycetes)", "ವೈರಸ್", "ಶಿಲೀಂಧ್ರ", "ಗಾಳಿ"],
+    "answer": 0
+  },
+  {
+    "question": "ಅತಿ ಶುದ್ಧ ತಾಮ್ರ ದೊರೆಯುವ ರೂಪ? (Purest form of copper?)",
+    "options": ["ಅದಿರು", "ತಾಮ್ರ (Native Copper)", "ಮಿಶ್ರಣ", "ಬಾಕ್ಸೆಟ್"],
+    "answer": 1
+  },
+  {
+    "question": "ದಂತ ಪಂಕ್ತಿಯ ಕೊನೆಯ ಹಲ್ಲುಗಳು? (Last teeth in set?)",
+    "options": ["ಮೋಲಾರ್ (Molars)", "ಕೆನೈನ್", "ಇನ್ಸಿಸರ್", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ಜೇನುತುಪ್ಪದಲ್ಲಿರುವುದು? (Contained in honey?)",
+    "options": ["ಫ್ರಕ್ಟೋಸ್", "ಗ್ಲುಕೋಸ್", "ಎರಡೂ (Both)", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 2
+  },
+  {
+    "question": "ರಕ್ತ ಪರಿಚಲನೆ ಅಳೆದವರು? (Measured blood circulation?)",
+    "options": ["ಹಾರ್ವೆ (William Harvey)", "ನ್ಯೂಟನ್", "ಗೆಲಿಲಿಯೊ", "ಬೋಹರ್"],
+    "answer": 0
+  },
+  {
+    "question": "ಸದರ್ನ್ ಬ್ಲಾಟಿಂಗ್ ಯಾವುದಕ್ಕೆ? (Southern Blotting use?)",
+    "options": ["DNA ಪತ್ತೆ", "RNA ಪತ್ತೆ", "ಪ್ರೊಟೀನ್", "ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 0
+  },
+  {
+    "question": "ಅಬೀಜ ಸಂತಾನ ಡಾಲಿ (1996)? (Dolly clone year/animal?)",
+    "options": ["ಕುರಿ (Sheep)", "ಹಸು", "ಇಲಿ", "ಕೋತಿ"],
+    "answer": 0
+  },
+  {
+    "question": "ಒಟ್ಟು ಪ್ರಶ್ನೆಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು? (Total questions index?)",
+    "options": ["90", "95", "100", "125"],
+    "answer": 2
+  }
+]
