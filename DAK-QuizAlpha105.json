@@ -1,502 +1,502 @@
 [
   {
     "q": "TKDL ಎಂದರೆ / TKDL is a",
-    "o": ["1. ಡಿಜಿಟಲ್ ಗ್ರಂಥಾಲಯ / Digital Library", "2. ಡ್ರೈವಿಂಗ್‌ ಲೈಸೆನ್ಸ್ / Driving License", "3. ವಿತರಣಾ ಪಟ್ಟಿ / Distribution List", "4. ಇವುಗಳಲ್ಲಿ ಯಾವುದೂ ಅಲ್ಲ / None of these"],
+    "o": ["a) ಡಿಜಿಟಲ್ ಗ್ರಂಥಾಲಯ / Digital Library", "b) ಡ್ರೈವಿಂಗ್‌ ಲೈಸೆನ್ಸ್ / Driving License", "c) ವಿತರಣಾ ಪಟ್ಟಿ / Distribution List", "d) ಇವುಗಳಲ್ಲಿ ಯಾವುದೂ ಅಲ್ಲ / None of these"],
+    "a": 0
+  },
+  {
+    "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ವಿಶ್ವ ಸಂಸ್ಥೆಯ ವಿಶೇಷ ಸಂಸ್ಥೆಯಾಗಿದೆ ? / Which is an UN specialized agency?",
+    "o": ["a) UNDP", "b) WHO", "c) UNEP", "d) WFP"],
     "a": 1
   },
   {
-    "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಯುನೈಟೆಡ್ ನೇಷನ್ಸ್ (ವಿಶ್ವ ಸಂಸ್ಥೆ)ನೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುವ ವಿಶ್ವ ಸಂಸ್ಥೆಯ ವಿಶೇಷ ಸಂಸ್ಥೆಯಾಗಿದೆ ? / Which of the following is an UN specialized agency working with the United Nations?",
-    "o": ["1. ವಿಶ್ವಸಂಸ್ಥೆಯ ಅಭಿವೃದ್ಧಿ ಕಾರ್ಯಕ್ರಮ / United Nations Development Programme", "2. ವಿಶ್ವ ಆರೋಗ್ಯ ಸಂಸ್ಥೆ / World Health Organization", "3. ಯುನೈಟೆಡ್ ನೇಷನ್ಸ್ ಪರಿಸರ ಕಾರ್ಯಕ್ರಮ / United Nations Environment Programme", "4. ವಿಶ್ವಆಹಾರ ಕಾರ್ಯಕ್ರಮ / World Food Programme"],
+    "q": "Companies Act ಅಡಿಯಲ್ಲಿ CSR ಪರಿಕಲ್ಪನೆಯು ಯಾವುದಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ ? / CSR pertains to:",
+    "o": ["a) Sustainable Rehabilitation", "b) Simplified Registration", "c) Social Responsibility", "d) None of these"],
     "a": 2
   },
   {
-    "q": "ಕಂಪನಿಗಳ ಕಾಯಿದೆಯಿಂದ ನಿಯಂತ್ರಿಸಲ್ಪಡುವ CSR ಪರಿಕಲ್ಪನೆಯು ಯಾವುದಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ ? / The concept of CSR governed by the Companies Act pertains to",
-    "o": ["1. ಸಮರ್ಥನೀಯ ಪುನರ್ವಸತಿ / Sustainable Rehabilitation", "2. ಸರಳೀಕೃತ ನೋಂದಣಿ / Simplified Registration", "3. ಸಾಮಾಜಿಕ ಜವಾಬ್ದಾರಿ / Social Responsibility", "4. ಇವುಗಳಲ್ಲಿ ಯಾವುದೂ ಅಲ್ಲ / None of these"],
-    "a": 3
+    "q": "BSII, BSIII, BSIV and BSVI are:",
+    "o": ["a) Emission standards", "b) Indigenous missiles", "c) Geo-synchronous satellites", "d) None of these"],
+    "a": 0
   },
   {
-    "q": "The BSII, BSIII, BSIV and BSVI are",
-    "o": ["1. ಹೊರಸೂಸುವಿಕೆಯ ಮಾನದಂಡಗಳು / Emission standards", "2. ಸ್ವದೇಶಿ ಕ್ಷಿಪಣಿಗಳು / Indigenous missiles", "3. ಜಿಯೊ-ಸಿಂಕ್ರೋನಸ್ ಉಪಗ್ರಹಗಳು / Geo-synchronous satellites", "4. ಇವುಗಳಲ್ಲಿ ಯಾವುದೂ ಅಲ್ಲ / None of these"],
-    "a": 1
-  },
-  {
-    "q": "ಯಾವ ರಾಜ್ಯವು ತನ್ನ ಗಡಿಗಳನ್ನು ಗರಿಷ್ಠ (ಅತಿಹೆಚ್ಚು) ರಾಜ್ಯಗಳೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುತ್ತದೆ ? / Which state shares its boundaries with maximum states ?",
-    "o": ["1. ಉತ್ತರ ಪ್ರದೇಶ / Uttar Pradesh", "2. ಅಸ್ಸಾಂ / Assam", "3. ಕರ್ನಾಟಕ / Karnataka", "4. ಮಧ್ಯ ಪ್ರದೇಶ / Madhya Pradesh"],
-    "a": 1
+    "q": "ಯಾವ ರಾಜ್ಯವು ಅತಿಹೆಚ್ಚು ರಾಜ್ಯಗಳೊಂದಿಗೆ ಗಡಿ ಹಂಚಿಕೊಳ್ಳುತ್ತದೆ ? / Which state shares boundaries with maximum states?",
+    "o": ["a) Uttar Pradesh", "b) Assam", "c) Karnataka", "d) Madhya Pradesh"],
+    "a": 0
   },
   {
     "q": "ತಪ್ಪಾಗಿರುವುದನ್ನು ಆರಿಸಿ / Choose the incorrect one:",
-    "o": ["1. ಪಟ್ಟದಕಲ್ಲು- ಚಾಲುಕ್ಯ ವಂಶ / Pattadakal - Chalukya dynasty", "2. ಬೇಲೂರು ಮತ್ತು ಹಳೇಬೀಡು - ಹೊಯ್ಸಳ ವಂಶ / Belur and Halebeedu - Hoysala dynasty", "3. ಕಲ್ಲಿನ ರಥ, ಹಂಪಿ - ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ / Stone chariot, Hampi - Vijayanagara empire", "4. ಇವುಗಳಲ್ಲಿ ಯಾವುದೂ ಅಲ್ಲ / None of these"],
-    "a": 4
-  },
-  {
-    "q": "ಈ ಕೆಳಗಿನ ಸಂಸ್ಥೆ ಮತ್ತು ಧೈಯವಾಕ್ಯಗಳಲ್ಲಿ ಯಾವುದು ಸರಿಯಾಗಿ ಹೊಂದಿಕೆಯಾಗಿದೆ ? / Which of the following organisation and motto are matched correctly?",
-    "o": ["1. ರಾಷ್ಟ್ರೀಯ ಕೆಡೆಟ್ ಕಾರ್ಪ್ಸ್ - ಮನುಷ್ಯರ ಸೇವೆ, ದೇವರ ಸೇವೆಯಾಗಿದೆ / National Cadet Corps - Service to Man is Service to God", "2. ರಾಷ್ಟ್ರೀಯ ಸಾಮಾಜಿಕ ಸೇವೆ - ನಾನಲ್ಲ, ಆದರೆ ನೀವು / National Social Service - Not Me, But You", "3. ಭಾರತೀಯ ರೆಡ್ ಕ್ರಾಸ್ ಸಂಸ್ಥೆ - ಏಕತೆ ಮತ್ತು ಶಿಸ್ತು / Indian Red Cross Society - Unity and Discipline", "4. ಇವುಗಳಲ್ಲಿ ಯಾವುದೂ ಅಲ್ಲ / None of these"],
-    "a": 2
-  },
-  {
-    "q": "ವೃತ್ತಾಕಾರದ ರಂಧ್ರವಿರುವ ಲೋಹದ ಹಾಳೆಯನ್ನು ಬಿಸಿ ಮಾಡಲಾಗುತ್ತದೆ. ಆಗ ಆ ರಂಧ್ರವು / A metal sheet with a circular hole is heated. The hole",
-    "o": ["1. ದೊಡ್ಡದಾಗುತ್ತದೆ / Gets larger", "2. ಚಿಕ್ಕದಾಗುತ್ತದೆ / Gets smaller", "3. ಅದೇ ಗಾತ್ರದಲ್ಲಿರುತ್ತದೆ / Remains of the same size", "4. ವಿರೂಪಗೊಳ್ಳುತ್ತದೆ / Gets deformed"],
-    "a": 1
-  },
-  {
-    "q": "ಹಿತ್ತಾಳೆ ಯಾವುದರ ಮಿಶ್ರಲೋಹವಾಗಿದೆ ? / Brass is alloy of-",
-    "o": ["1. ತಾಮ್ರ ಮತ್ತು ಕಬ್ಬಿಣ / Copper and iron", "2. ಸತು ಮತ್ತು ಕಬ್ಬಿಣ / Zinc and iron", "3. ತಾಮ್ರ ಮತ್ತು ಸತು / Copper and zinc", "4. ಕಬ್ಬಿಣ ಮತ್ತು ನಿಕಲ್ / Iron and nickel"],
+    "o": ["a) ಪಟ್ಟದಕಲ್ಲು- ಚಾಲುಕ್ಯ", "b) ಬೇಲೂರು- ಹೊಯ್ಸಳ", "c) ಹಂಪಿ ರಥ- ವಿಜಯನಗರ", "d) ಇವುಗಳಲ್ಲಿ ಯಾವುದೂ ಅಲ್ಲ"],
     "a": 3
   },
   {
-    "q": "ವೈರಸ್ ಎನ್ನುವುದು / The virus is",
-    "o": ["1. ಪ್ರೋಟೀನ್ ಮತ್ತು ಲಿಪಿಡ್ / Protein and lipid", "2. ನ್ಯೂಕ್ಲಿಯಿಕ್ ಆಮ್ಲ ಮತ್ತು ಪ್ರೋಟೀನ್ / Nucleic acid and protein", "3. ಲಿಪಿಡ್ ಮತ್ತು ಕಾರ್ಬೋಹೈಡ್ರೆಟ್ / Lipid and carbohydrate", "4. ಕಾರ್ಬೋಹೈಡ್ರೆಟ್ / Carbohydrate"],
+    "q": "ಸರಿಯಾದ ಧೈಯವಾಕ್ಯವನ್ನು ಗುರುತಿಸಿ / Correct motto organization pair:",
+    "o": ["a) NCC - Service to God", "b) NSS - Not Me, But You", "c) Red Cross - Unity", "d) None of these"],
+    "a": 1
+  },
+  {
+    "q": "ಲೋಹದ ಹಾಳೆಯನ್ನು ಬಿಸಿ ಮಾಡಿದಾಗ ಅದರ ರಂಧ್ರವು / When a metal sheet is heated, the hole:",
+    "o": ["a) Gets larger", "b) Gets smaller", "c) Remains same", "d) Gets deformed"],
+    "a": 0
+  },
+  {
+    "q": "ಹಿತ್ತಾಳೆ ಯಾವುದರ ಮಿಶ್ರಲೋಹವಾಗಿದೆ ? / Brass is an alloy of:",
+    "o": ["a) Copper and iron", "b) Zinc and iron", "c) Copper and zinc", "d) Iron and nickel"],
     "a": 2
   },
   {
-    "q": "ಕೆಳಗಿನ ಯಾವ ವಿದ್ಯುತ್ಕಾಂತೀಯ ತರಂಗವು ಉದ್ದವಾದ ತರಂಗಾಂತರವನ್ನು ಹೊಂದಿದೆ ? / Which of the following electromagnetic wave has longest wavelength?",
-    "o": ["1. ಅತಿಗೆಂಪು ಕಿರಣಗಳು / Infrared rays", "2. ಗಾಮಾ ಕಿರಣಗಳು / Gamma rays", "3. ನೇರಳಾತೀತ ಕಿರಣಗಳು / Ultraviolet rays", "4. ಗೋಚರ ಬೆಳಕಿನ ಕಿರಣಗಳು / Visible light rays"],
+    "q": "ವೈರಸ್ ಎನ್ನುವುದು / The virus is:",
+    "o": ["a) Protein and lipid", "b) Nucleic acid and protein", "c) Lipid and carbohydrate", "d) Carbohydrate"],
     "a": 1
+  },
+  {
+    "q": "ಯಾವ ತರಂಗವು ಉದ್ದವಾದ ತರಂಗಾಂತರ ಹೊಂದಿದೆ ? / Which wave has longest wavelength?",
+    "o": ["a) Infrared rays", "b) Gamma rays", "c) Ultraviolet rays", "d) Visible light rays"],
+    "a": 0
   },
   {
     "q": "ಟಾರ್ (Tor) ಎಂದರೇನು? / What is Tor?",
-    "o": ["1. ಆಂಟಿ ವೈರಸ್ ತಂತ್ರಾಂಶ / Anti-virus software", "2. VPN ಸೇವೆಗಳನ್ನು ಒದಗಿಸುವ ಅಪ್ಲಿಕೇಶನ್ / An App which provides VPN services", "3. ಡಾರ್ಕ್‌ನೆಟ್ (Darknet) ಅನ್ನು ಪ್ರವೇಶಿಸಲು ವೆಬ್ ಬ್ರೌಸರ್ / Web browser to access Darknet", "4. ಇವುಗಳಲ್ಲಿ ಯಾವುದೂ ಅಲ್ಲ / None of these"],
-    "a": 3
-  },
-  {
-    "q": "MS ವಿಂಡೋಸ್‌ನಲ್ಲಿ ಫೈಲ್/ಫೋಲ್ಡರ್ ಅನ್ನು ಮರುಹೆಸರಿಸಲು ಬಳಸುವ ಫಂಕ್ಷನ್ ಕೀ ಯಾವುದು ? / In MS Windows, 'Function Key' to rename file/folder is",
-    "o": ["1. F3", "2. F2", "3. F5", "4. F6"],
+    "o": ["a) Anti-virus", "b) VPN App", "c) Darknet Browser", "d) None of these"],
     "a": 2
   },
   {
-    "q": "ಬೇಕಿಂಗ್‌ ಸೋಡಾ ಎಂದರೆ / Baking Soda is -",
-    "o": ["1. ಸೋಡಿಯಂ ಕಾರ್ಬೊಹೈಡ್ರೆಟ್ / Sodium Carbohydrate", "2. ಸೋಡಿಯಂ ಬೈಕಾರ್ಬೊನೇಟ್ / Sodium Bicarbonate", "3. ಸೋಡಿಯಂ ಸಲ್ವೇಟ್ / Sodium Sulphate", "4. ಸೋಡಿಯಂ ಹೈಡ್ರಾಕ್ಸೆಡ್ / Sodium Hydroxide"],
-    "a": 2
-  },
-  {
-    "q": "ಥಲಸ್ಸೆಮಿಯಾ ಎಂಬ ಅನುವಂಶಿಕ ಕಾಯಿಲೆ ಯಾವುದರ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ ? / Thalassemia is a hereditary disease which affects",
-    "o": ["1. ರಕ್ತ / Blood", "2. ಶ್ವಾಸಕೋಶಗಳು / Lungs", "3. ಹೃದಯ / Heart", "4. ಮೂತ್ರಪಿಂಡ / Kidney"],
+    "q": "Rename ಮಾಡಲು ಬಳಸುವ ಫಂಕ್ಷನ್ ಕೀ ಯಾವುದು ? / Key to rename file/folder:",
+    "o": ["a) F3", "b) F2", "c) F5", "d) F6"],
     "a": 1
   },
   {
-    "q": "ಚಂದ್ರಯಾನ - 3 ಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ, ಲ್ಯಾಂಡರ್ ಮತ್ತು ರೋವರ್‌ನ ಹೆಸರುಗಳು ಕ್ರಮವಾಗಿ ಏನು ? / In context of Chandrayan-3, names of Lander and Rover respectively are",
-    "o": ["1. ವಿಕ್ರಮ್ ಮತ್ತು ಪ್ರಜ್ಞಾನ್ / Vikram and Pragyan", "2. ವಿಕ್ರಮ್ ಮತ್ತು ಆದಿತ್ಯ / Vikram and Aditya", "3. ಆದಿತ್ಯ ಮತ್ತು ವಿಕ್ರಮ್ / Aditya and Vikram", "4. ಪ್ರಜ್ಞಾನ್‌ ಮತ್ತು ಆದಿತ್ಯ / Pragyan and Aditya"],
+    "q": "ಬೇಕಿಂಗ್‌ ಸೋಡಾ ಎಂದರೆ / Baking Soda is:",
+    "o": ["a) Sodium Carbohydrate", "b) Sodium Bicarbonate", "c) Sodium Sulphate", "d) Sodium Hydroxide"],
     "a": 1
   },
   {
-    "q": "ಸರ್ ಸಿ.ವಿ. ರಾಮನ್‌ರವರು ನೊಬೆಲ್ ಪ್ರಶಸ್ತಿಯನ್ನು ಯಾವುದಕ್ಕೆ ಪಡೆದರು ? / Sir C.V. Raman won Nobel Prize for -",
-    "o": ["1. DNA ಮೇಲಿನ ಕೆಲಸಕ್ಕಾಗಿ / Work on DNA", "2. ಬೆಳಕಿನ ಹರಡುವಿಕೆಯ ಮೇಲಿನ ಕೆಲಸಕ್ಕಾಗಿ / Work on scattering of light", "3. ರೈಬೋಸೋಮ್‌ಗಳ ಕಾರ್ಯರಚನೆ ಮತ್ತು ಕರ್ತವ್ಯದ ಮೇಲಿನ ಕೆಲಸಕ್ಕಾಗಿ / Work structure and function of ribosomes", "4. ಸಾಹಿತ್ಯದ ಮೇಲಿನ ಕೆಲಸಕ್ಕಾಗಿ / Work on literature"],
-    "a": 2
+    "q": "ಥಲಸ್ಸೆಮಿಯಾ ಯಾವುದರ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ ? / Thalassemia affects:",
+    "o": ["a) Blood", "b) Lungs", "c) Heart", "d) Kidney"],
+    "a": 0
   },
   {
-    "q": "ಬೆಳಕು ಹೊರಸೂಸುವ ಡಯೋಡ್ (LED) ಯಾವುದನ್ನು ಪರಿವರ್ತಿಸುತ್ತದೆ ? / Light Emitting Diode (LED) converts",
-    "o": ["1. ಬೆಳಕಿನ ಶಕ್ತಿಯನ್ನು ವಿದ್ಯುತ್‌ ಶಕ್ತಿಯಾಗಿ / Light energy into electrical energy", "2. ವಿದ್ಯುತ್ ಶಕ್ತಿಯನ್ನು ಬೆಳಕಿನ ಶಕ್ತಿಯಾಗಿ / Electrical energy into light energy", "3. ಉಷ್ಣಶಕ್ತಿಯನ್ನು ಬೆಳಕಿನ ಶಕ್ತಿಯಾಗಿ / Thermal energy into light energy", "4. ಯಾಂತ್ರಿಕ ಶಕ್ತಿಯನ್ನು ವಿದ್ಯುತ್ ಶಕ್ತಿಯಾಗಿ / Mechanical energy into electrical energy"],
-    "a": 2
+    "q": "Chandrayan-3 ಲ್ಯಾಂಡರ್ ಮತ್ತು ರೋವರ್ ಹೆಸರುಗಳು: / Names of Lander and Rover:",
+    "o": ["a) Vikram & Pragyan", "b) Vikram & Aditya", "c) Aditya & Vikram", "d) Pragyan & Aditya"],
+    "a": 0
   },
   {
-    "q": "ಮಾರ್ಸ್(ಮಂಗಳ) ಗ್ರಹದ ಮೇಲೆ ನಾಸಾ (NASA) ನಿರ್ವಹಿಸುತ್ತಿರುವ ಸ್ವಾಯತ್ತ ಹೆಲಿಕಾಪ್ಟರ್‌ನ ಹೆಸರೇನು ? / Name of autonomous helicopter being operated by NASA on planet Mars is -",
-    "o": ["1. ಆಪ್ಟಿಮಸ್ / Optimus", "2. ಇಂಜೆನ್ಯುಟಿ / Ingenuity", "3. ಪೆರ್ಸೆವೆರೆನ್ಸ್ / Perseverance", "4. ಕ್ಯೂರಿಯಾಸಿಟಿ / Curiosity"],
-    "a": 2
-  },
-  {
-    "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವ ರಾಜ್ಯ ವಿಧಾನ ಪರಿಷತ್ತು ಹೊಂದಿಲ್ಲ? / Which of the following state does not have legislative council?",
-    "o": ["1. ಕರ್ನಾಟಕ / Karnataka", "2. ಉತ್ತರ ಪ್ರದೇಶ / Uttar Pradesh", "3. ಮಹಾರಾಷ್ಟ್ರ / Maharashtra", "4. ಮಧ್ಯ ಪ್ರದೇಶ / Madhya Pradesh"],
-    "a": 4
-  },
-  {
-    "q": "ಮಂತ್ರಿ ಮಂಡಲದ ಸದಸ್ಯರು ಸಾಮೂಹಿಕವಾಗಿ ಯಾವುದಕ್ಕೆ ಜವಾಬ್ದಾರರಾಗಿರುತ್ತಾರೆ ? / The members of the Council of Ministers are collectively responsible to",
-    "o": ["1. ನ್ಯಾಯಾಂಗ / Judiciary", "2. ಹೌಸ್ ಆಫ್ ಪೀಪಲ್ / House of the People", "3. ಕೌನ್ಸಿಲ್ ಆಫ್ ಸ್ಟೇಟ್ಸ್ / Council of States", "4. ರಾಷ್ಟ್ರಪತಿ / The President"],
-    "a": 2
-  },
-  {
-    "q": "ಸಂವಿಧಾನ ಸಭೆಯ ಅಧ್ಯಕ್ಷರು ಯಾರಾಗಿದ್ದರು ? / The President of the Constituent Assembly was",
-    "o": ["1. ಜವಹರಲಾಲ್ ನೆಹರು / Jawaharlal Nehru", "2. ಡಾ. ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್ / Dr. Rajendra Prasad", "3. ಸರ್ದಾ‌ರ್ ವಲ್ಲಭಭಾಯ್‌ ಪಟೇಲ್ / Sardar Vallabhbhai Patel", "4. ಡಾ. ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕ‌ರ್ / Dr. B.R. Ambedkar"],
-    "a": 2
-  },
-  {
-    "q": "ಭೂಮಿಗೆ ಹೋಲಿಸಿದರೆ ಚಂದ್ರನ ಮೇಲಿನ ಭೌತಿಕ ವಸ್ತುವಿನ ದ್ರವ್ಯರಾಶಿ (M) ಏನಾಗುತ್ತದೆ ? / Mass (M) of a physical object on Moon compared to the Earth -",
-    "o": ["1. 0.16 ಪಟ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ / Will increase by 0.16 times", "2. ಹಾಗೆಯೇ ಇರುತ್ತದೆ / Will remain same", "3. 0.16 ಪಟ್ಟು ಕಡಿಮೆ ಆಗುತ್ತದೆ / Will decrease by 0.16 times", "4. ಇವುಗಳಲ್ಲಿ ಯಾವುದೂ ಅಲ್ಲ / None of these"],
-    "a": 2
-  },
-  {
-    "q": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಅನ್ನು ನಿಯಂತ್ರಿಸುವ ಅಧ್ಯಕ್ಷರ ಅಧಿಕಾರವು ಯಾವ ವಿಧಿಯ ಅಡಿಯಲ್ಲಿದೆ ? / The power of the President to consult the Supreme Court is under",
-    "o": ["1. 132 ನೇ ವಿಧಿ / 132 Article", "2. 143 ನೇ ವಿಧಿ / 143 Article", "3. 136 ನೇ ವಿಧಿ / 136 Article", "4. 131 ನೇ ವಿಧಿ / 131 Article"],
-    "a": 2
-  },
-  {
-    "q": "ಭಾರತದಲ್ಲಿ ರಾಜ್ಯದ ಗಡಿಗಳನ್ನು ಬದಲಾಯಿಸುವ ಅಧಿಕಾರವು ಯಾರ ಹತ್ತಿರ ಇದೆ ? / The authority to alter the boundaries of state in India rests with",
-    "o": ["1. ರಾಜ್ಯ ಸರ್ಕಾರ / The State government", "2. ಸಂಸತ್ತು / The Parliament", "3. ಪ್ರಧಾನ ಮಂತ್ರಿ / The Prime Minister", "4. ರಾಷ್ಟ್ರಪತಿ / The President"],
-    "a": 2
-  },
-  {
-    "q": "ಭಾರತೀಯ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟದ ಸಮಯದಲ್ಲಿ ಈ ಕೆಳಗಿನವರಲ್ಲಿ ಯಾರು 'ಫ್ರೀ ಇಂಡಿಯನ್ ಲೀಜನ್' ಎಂಬ ಸೈನ್ಯವನ್ನು ಬೆಳೆಸಿದರು ? / During the Indian Freedom Struggle, who of the following raised an army called 'Free Indian Legion'?",
-    "o": ["1. ಲಾಲಾ ಹರ್‌ದಯಾಳ್ / Lala Hardayal", "2. ರಾಶ್‌ಬೆಹಾರಿ ಬೋಸ್ / Rashbehari Bose", "3. ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್ / Subhas Chandra Bose", "4. ವಿ.ಡಿ.ಸಾವರ್ಕರ್ / V.D. Savarkar"],
-    "a": 3
-  },
-  {
-    "q": "ರಾಜ್ಯ ನೀತಿಯ ನಿರ್ದೇಶನ ತತ್ವಗಳನ್ನು ಈ ಕೆಳಗಿನ ಯಾವ ಲೇಖನಗಳಲ್ಲಿ ಸೇರಿಸಲಾಗಿದೆ ? / Directive Principles of State Policy are included in the Articles",
-    "o": ["1. 15-24", "2. 25-32", "3. 36-51", "4. 52-60"],
-    "a": 3
-  },
-  {
-    "q": "ಮತದಾನದ ಹಕ್ಕು ಚಲಾಯಿಸುವ ವಯಸ್ಸನ್ನು 21 ವರ್ಷದಿಂದ 18 ವರ್ಷಕ್ಕೆ ಯಾವ ತಿದ್ದುಪಡಿಯಿಂದ ಇಳಿಸಲಾಯಿತು ? / The age to exercise franchise to vote was reduced from 21 years to 18 years by",
-    "o": ["1. ಸಂವಿಧಾನದ 42 ನೇ ತಿದ್ದುಪಡಿ / 42nd amendment", "2. ಸಂವಿಧಾನದ 44 ನೇ ತಿದ್ದುಪಡಿ / 44th amendment", "3. ಸಂವಿಧಾನದ 61 ನೇ ತಿದ್ದುಪಡಿ / 61st amendment", "4. ಸಂವಿಧಾನದ 72 ನೇ ತಿದ್ದುಪಡಿ / 72nd amendment"],
-    "a": 3
-  },
-  {
-    "q": "ಸಂವಿಧಾನ ಸಭೆಯಲ್ಲಿ ವಸ್ತುನಿಷ್ಠ ನಿರ್ಣಯವನ್ನು ಯಾರು ಮಂಡಿಸಿದರು ? / The Objective Resolution in the Constituent Assembly was moved by",
-    "o": ["1. ಡಾ. ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್ / Dr. Rajendra Prasad", "2. ಡಾ. ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕರ್ / Dr. B.R. Ambedkar", "3. ಜವಹರಲಾಲ್ ನೆಹರು / Jawaharalal Nehru", "4. ಅಲ್ಲಡಿ ಕೃಷ್ಣಸ್ವಾಮಿ ಅಯ್ಯ‌ರ್ / Alladi Krishna Swamy Iyer"],
-    "a": 3
-  },
-  {
-    "q": "ಸಂವಿಧಾನದ 371(A) ನೇ ವಿಧಿಯು ಯಾವ ರಾಜ್ಯಕ್ಕೆ ವಿಶೇಷ ಅವಕಾಶವನ್ನು ಒದಗಿಸುತ್ತದೆ ? / Article 371(A) of Constitution provides special provision for",
-    "o": ["1. ಮಹಾರಾಷ್ಟ್ರ ರಾಜ್ಯ / Maharashtra State", "2. ನಾಗಾಲ್ಯಾಂಡ್ ರಾಜ್ಯ / Nagaland State", "3. ಕರ್ನಾಟಕ ರಾಜ್ಯ / Karnataka State", "4. ಅಸ್ಸಾಂ ರಾಜ್ಯ / Assam State"],
-    "a": 2
-  },
-  {
-    "q": "ಗೌಪ್ಯತೆಯ ಹಕ್ಕು ಯಾವ ಲೇಖನದಲ್ಲಿದೆ ? / Right to privacy is contained in",
-    "o": ["1. ಲೇಖನ 22 / Article 22", "2. ಲೇಖನ 19 / Article 19", "3. ಲೇಖನ 21 / Article 21", "4. ಲೇಖನ 22 / Article 22"],
-    "a": 3
-  },
-  {
-    "q": "ಸರ್ವೋಚ್ಛ ನ್ಯಾಯಾಲಯದ ಮೂಲ ಅಧಿಕಾರವು ಯಾವ ವ್ಯಾಪ್ತಿಯಲ್ಲಿ ಒಳಗೊಂಡಿದೆ ? / Original jurisdiction of the Supreme Court is contained in",
-    "o": ["1. 131 ನೇ ವಿಧಿ / Article 131", "2. 129 ನೇ ವಿಧಿ / Article 129", "3. 132 ನೇ ವಿಧಿ / Article 132", "4. 136 ನೇ ವಿಧಿ / Article 136"],
+    "q": "ಸಿ.ವಿ. ರಾಮನ್‌ರವರು ನೊಬೆಲ್ ಪಡೆದದ್ದು ಯಾವುದಕ್ಕೆ ? / C.V. Raman won Nobel for:",
+    "o": ["a) DNA work", "b) Scattering of light", "c) Ribosomes", "d) Literature"],
     "a": 1
   },
   {
-    "q": "ಭಾರತೀಯ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟದ ಸಮಯದಲ್ಲಿ ಈ ಕೆಳಗಿನವರಲ್ಲಿ ಯಾರು 'ಫ್ರೀ ಇಂಡಿಯನ್ ಲೀಜನ್' ಎಂಬ ಸೈನ್ಯವನ್ನು ಬೆಳೆಸಿದರು ? / During the Indian Freedom Struggle, who of the following raised an army called 'Free Indian Legion'?",
-    "o": ["1. ಲಾಲಾ ಹರ್‌ದಯಾಳ್ / Lala Hardayal", "2. ರಾಶ್‌ಬೆಹಾರಿ ಬೋಸ್ / Rashbehari Bose", "3. ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್ / Subhas Chandra Bose", "4. ವಿ.ಡಿ.ಸಾವರ್ಕರ್ / V.D. Savarkar"],
-    "a": 3
-  },
-  {
-    "q": "ಸಂವಿಧಾನದ ಯಾವ ಪರಿಚ್ಛೇದವನ್ನು ಗ್ರಾಮ ಸಭೆಗೆ ಒದಗಿಸಲಾಗಿದೆ ? / Which Article of the Constitution provides for Gram Sabha ?",
-    "o": ["1. 243A", "2. 243B", "3. 243C", "4. 243D"],
+    "q": "LED ಯಾವುದನ್ನು ಪರಿವರ್ತಿಸುತ್ತದೆ ? / LED converts:",
+    "o": ["a) Light to electrical", "b) Electrical to light", "c) Thermal to light", "d) Mechanical to electrical"],
     "a": 1
   },
   {
-    "q": "ಸರ್ದಾರ್ ಪಟೇಲ್ ಅವರ ಅಧ್ಯಕ್ಷತೆಯಲ್ಲಿ 1931 ರಲ್ಲಿ ಕರಾಚಿ ಅಧಿವೇಶನಕ್ಕಾಗಿ ಮೂಲಭೂತ ಹಕ್ಕುಗಳ ಕುರಿತು ನಿರ್ಣಯವನ್ನು ಯಾರು ರಚಿಸಿದರು ? / Who drafted the Resolution on Fundamental Rights for the 1931 Karachi Session?",
-    "o": ["1. ಮಹಾತ್ಮಗಾಂಧಿ / Mahatma Gandhi", "2. ಪಂಡಿತ್ ಜವಹರಲಾಲ್ ನೆಹರು / Pandit Jawaharlal Nehru", "3. ಡಾ. ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್‌ / Dr. Rajendra Prasad", "4. ಡಾ. ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕ‌ರ್ / Dr. B.R. Ambedkar"],
-    "a": 2
-  },
-  {
-    "q": "ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್‌ನಲ್ಲಿ 'ಮಧ್ಯಗಾಮಿ' ಮತ್ತು 'ಉಗ್ರಗಾಮಿ'ಗಳ ವಿಭಜನೆಗೆ ಕಾರಣವಾದ ಚಳುವಳಿ ಯಾವುದು ? / Which movement caused the split in Congress between moderates and extremists?",
-    "o": ["1. ಸ್ವದೇಶಿ ಚಳುವಳಿ / Swadeshi Movement", "2. ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ ಚಳುವಳಿ / Quit India Movement", "3. ಅಸಹಕಾರ ಚಳುವಳಿ / Non-Cooperation Movement", "4. ನಾಗರಿಕ ಅಸಹಕಾರ ಚಳುವಳಿ / Civil Disobedience Movement"],
+    "q": "ಮಂಗಳ ಗ್ರಹದ ಮೇಲಿನ ನಾಸಾ ಹೆಲಿಕಾಪ್ಟರ್ ಹೆಸರು: / NASA Mars helicopter name:",
+    "o": ["a) Optimus", "b) Ingenuity", "c) Perseverance", "d) Curiosity"],
     "a": 1
   },
   {
-    "q": "ರೌಲತ್ ಕಾಯ್ದೆ ಜಾರಿಯಾದಾಗ ಭಾರತದ ವೈಸ್‌ರಾಯ್ ಯಾರಾಗಿದ್ದರು ? / Who was the Viceroy of India when the Rowlatt Act was passed?",
-    "o": ["1. ಲಾರ್ಡ್ ಇರ್ವಿನ್ / Lord Irwin", "2. ಲಾರ್ಡ್ ರೀಡಿಂಗ್ / Lord Reading", "3. ಲಾರ್ಡ್ ಚೆಲ್ಸ್ ಫೋರ್ಡ್ / Lord Chelmsford", "4. ಲಾರ್ಡ್ ವೇವೆಲ್ / Lord Wavell"],
+    "q": "ಯಾವ ರಾಜ್ಯ ವಿಧಾನ ಪರಿಷತ್ತು ಹೊಂದಿಲ್ಲ? / Which state has no legislative council?",
+    "o": ["a) Karnataka", "b) Uttar Pradesh", "c) Maharashtra", "d) Madhya Pradesh"],
     "a": 3
   },
   {
-    "q": "ಕೆಂಪುಕೋಟೆಯ ವಿಚಾರಣೆಯ ಸಂದರ್ಭದಲ್ಲಿ ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಸೇನೆಯ (INA) ಕೈದಿಗಳನ್ನು ರಕ್ಷಿಸಿದವರು ಯಾರು ? / Who defended INA prisoners during the Red Fort Trials?",
-    "o": ["1. ವಿನಾಯಕ ದಾಮೋದರ್ ಸಾವರಕರ್ / Vinayak Damodar Savarkar", "2. ಕೈಲಾಶ್ ನಾಥ್ ಕಟ್‌ಜು / Kailash Nath Katju", "3. ಸುಚೇತಾ ಕೃಪಲಾನಿ / Sucheta Kriplani", "4. ಶ್ಯಾಮಾ ಪ್ರಸಾದ್ ಮುಖರ್ಜಿ / Shyama Prasad Mukherjee"],
-    "a": 2
-  },
-  {
-    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಸಂಸ್ಥೆಗಳನ್ನು ಡಾ. ಅಂಬೇಡ್ಕ‌ರ್ ಸ್ಥಾಪಿಸಿದರು ? / Which organisations were founded by Dr. Ambedkar?",
-    "o": ["1. ಬಹಿಷ್ಕೃತ್ ಹಿತಕರಣಿ ಸಭೆ / Bahishkrit Hitkarini Sabha", "2. ಸ್ವತಂತ್ರ ಕಾರ್ಮಿಕ ಪಕ್ಷ / Independent Labor Party", "3. ಪರಿಶಿಷ್ಟ ಜಾತಿಗಳ ಒಕ್ಕೂಟ / Scheduled Castes Federation", "4. ಇವುಗಳಲ್ಲಿ ಎಲ್ಲವೂ / All of these"],
-    "a": 4
-  },
-  {
-    "q": "ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳುವಳಿಯ ಸಮಯದಲ್ಲಿ ರಹಸ್ಯ ರೇಡಿಯೋ ನಡೆಸಿದವರು ಯಾರು ? / Who ran the secret radio during the Quit India Movement?",
-    "o": ["1. ಉಷಾ ಮೆಹತಾ / Usha Mehta", "2. ಸರೋಜಿಣಿ ನಾಯ್ಡು / Sarojini Naidu", "3. ಅರುಣಾ ಅಸಫ್ ಅಲಿ / Aruna Asaf Ali", "4. ಸುಚೇತಾ ಕೃಪಲಾನಿ / Sucheta Kriplani"],
+    "q": "ಮಂತ್ರಿ ಮಂಡಲವು ಯಾವುದಕ್ಕೆ ಜವಾಬ್ದಾರವಾಗಿರುತ್ತದೆ ? / Council of Ministers responsible to:",
+    "o": ["a) Judiciary", "b) House of People", "c) Council of States", "d) President"],
     "a": 1
   },
   {
-    "q": "ಕರ್ನಾಟಕದ 'ಖಾದಿ ಭಗೀರಥ' ಎಂದು ಯಾರನ್ನು ಕರೆಯುತ್ತಾರೆ ? / Who is known as 'Khadi Bhageeratha' of Karnataka?",
-    "o": ["1. ರಂಗನಾಥ ದಿವಾಕರ್ / Ranganath Diwakar", "2. ಎನ್.ಎಸ್. ಹರ್ಡೀಕರ್ / N.S. Hardikar", "3. ನಿಟ್ಟೂರ್ ಶ್ರೀನಿವಾಸ ರಾವ್ / Nittur Sriniwas Rao", "4. ಗಂಗಾಧರರಾವ್ ಬಾಲಕೃಷ್ಣ ದೇಶಪಾಂಡೆ / Ganghadharrao Balakrishna Deshpande"],
-    "a": 4
-  },
-  {
-    "q": "ಪ್ರಸಿದ್ಧ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ್ತಿ ಬಳ್ಳಾರಿ ಸಿದ್ದಮ್ಮ ಯಾವ ತಾಲ್ಲೂಕಿನಲ್ಲಿ ಜನಿಸಿದರು ? / Famous freedom fighter Bellary Siddamma was born in ... taluka.",
-    "o": ["1. ಧಾರವಾಡ / Dharwad", "2. ಚಿತ್ರದುರ್ಗ / Chitradurga", "3. ಹಾವೇರಿ / Haveri", "4. ಶಿಗ್ಗಾಂವ / Shiggaon"],
-    "a": 3
-  },
-  {
-    "q": "ಅಕ್ಟೋಬರ್ 1824 ರಲ್ಲಿ, ಕಿತ್ತೂರು ಚನ್ನಮ್ಮಳ ಪಡೆಗಳು ಯಾವ ಬ್ರಿಟಿಷ್ ಕಲೆಕ್ಟರ್‌ನನ್ನು ಕೊಂದರು ? / In 1824, who was the British Collector killed by Kittur forces?",
-    "o": ["1. ಸೆಂಟ್ ಜಾನ್ ಠಾಕರೆ / St. John Thackeray", "2. ಸ್ಟೀವನ್‌ಸನ್ / Stevenson", "3. ಚಾಪ್ಲೆನ್ / Chaplain", "4. ವಾಲ್ಟರ್‌ ಇಲಿಯಟ್ / Walter Elliot"],
+    "q": "ಸಂವಿಧಾನ ಸಭೆಯ ಅಧ್ಯಕ್ಷರು ಯಾರಾಗಿದ್ದರು ? / President of Constituent Assembly:",
+    "o": ["a) Nehru", "b) Dr. Rajendra Prasad", "c) Patel", "d) Ambedkar"],
     "a": 1
   },
   {
-    "q": "1878 ರ ದೇಶೀಯ ಪತ್ರಿಕಾ ಕಾಯಿದೆ ರದ್ದುಗೊಳಿಸಿದವರು ಯಾರು ? / Who repealed the Vernacular Press Act of 1878?",
-    "o": ["1. ಲಾರ್ಡ್ ಲಿಟ್ಟನ್ / Lord Lytton", "2. ಲಾರ್ಡ್ ಡಫರಿನ್ / Lord Dufferin", "3. ಲಾರ್ಡ್ ರಿಪ್ಪನ್ / Lord Ripon", "4. ಲಾರ್ಡ್ ಕರ್ಜನ್ / Lord Curzon"],
-    "a": 3
-  },
-  {
-    "q": "ಆಲ್ ಇಂಡಿಯ ಫಾರ್ವಡ್್ರ ಬ್ಲಾಕ್ ಅನ್ನು ಯಾರು ಸ್ಥಾಪಿಸಿದರು ? / Who founded the All India Forward Bloc?",
-    "o": ["1. ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್ / Subhas Chandra Bose", "2. ಮೋತಿಲಾಲ್ ನೆಹರು / Moti Lal Nehru", "3. ಕೇಶವ ಬಲಿರಾಮ ಹೆಡಗೆವಾರ್ / Keshav Baliram Hedgewar", "4. ಮಹಾತ್ಮಗಾಂಧಿ / Mahatma Gandhi"],
+    "q": "ಚಂದ್ರನ ಮೇಲೆ ವಸ್ತುವಿನ ದ್ರವ್ಯರಾಶಿ (Mass) ಏನಾಗುತ್ತದೆ ? / Mass on Moon vs Earth:",
+    "o": ["a) Increases", "b) Remains same", "c) Decreases", "d) None"],
     "a": 1
   },
   {
-    "q": "Look at this series: 31, 29, 24, 22, 17,... ಮುಂದೆ ಯಾವ ಸಂಖ್ಯೆ ಬರಬೇಕು ? / What number should come next?",
-    "o": ["1. 15", "2. 14", "3. 13", "4. 12"],
+    "q": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಅನ್ನು ಸಂಪ್ರದಾಯಿಸುವ ಅಧ್ಯಕ್ಷರ ಅಧಿಕಾರ ವಿಧಿ: / Article for President to consult SC:",
+    "o": ["a) 132", "b) 143", "c) 136", "d) 131"],
     "a": 1
   },
   {
-    "q": "ಈಚಲು ಮರದ ಚಳುವಳಿಯ ಕೇಂದ್ರ ಬಿಂದು ಯಾವುದು ? / What was the epicenter of the Toddy Tree Movement?",
-    "o": ["1. ಅಣ್ಣಿಗೇರಿ / Annegeri", "2. ಈಸೂರು / Esuru", "3. ತುರುವನೂರು / Turvunuru", "4. ಎಡುಯೂರು / Yeduyuru"],
-    "a": 3
-  },
-  {
-    "q": "ಇಂದು ಸೋಮವಾರ. 61 ದಿನಗಳ ನಂತರ ಯಾವ ದಿನ ಬರುತ್ತದೆ ? / Today is Monday. After 61 days, it will be:",
-    "o": ["1. ಬುಧವಾರ / Wednesday", "2. ಶನಿವಾರ / Saturday", "3. ಮಂಗಳವಾರ / Tuesday", "4. ಗುರುವಾರ / Thursday"],
-    "a": 2
-  },
-  {
-    "q": "ಒಬ್ಬ ಹಣ್ಣು ಮಾರಾಟಗಾರ 40% ಸೇಬು ಮಾರಿ 420 ಸೇಬು ಉಳಿಸಿಕೊಂಡಿದ್ದಾನೆ. ಅವನ ಬಳಿ ಇದ್ದ ಒಟ್ಟು ಸೇಬುಗಳೆಷ್ಟು ? / A fruit seller sells 40% apples and has 420 left. Total apples originally?",
-    "o": ["1. 588", "2. 600", "3. 672", "4. 700"],
-    "a": 4
-  },
-  {
-    "q": "ಯಾವ ಪದವು ಇತರೆ ಪದಗಳೊಂದಿಗೆ ಸೇರುವುದಿಲ್ಲ ? / Which word does NOT belong with the others?",
-    "o": ["1. ಇಂಚು / inch", "2. ಔನ್ಸ್ / ounce", "3. ಸೆಂಟಿಮೀಟ‌ರ್ / centimetre", "4. ಮಾರು / yard"],
-    "a": 2
-  },
-  {
-    "q": "ಒಂದು ಧನಾತ್ಮಕ ಸಂಖ್ಯೆಯನ್ನು 17 ರಿಂದ ಹೆಚ್ಚಿಸಿದಾಗ ಸಂಖ್ಯೆಯ ಪರಸ್ಪರ 60 ಪಟ್ಟು ಸಮಾನವಾಗಿರುತ್ತದೆ. ಸಂಖ್ಯೆ ಯಾವುದು ? / A positive number increased by 17 equals 60 times its reciprocal. Find it.",
-    "o": ["1. 3", "2. 10", "3. 17", "4. 20"],
+    "q": "ರಾಜ್ಯದ ಗಡಿ ಬದಲಾಯಿಸುವ ಅಧಿಕಾರ ಯಾರದ್ದಾಗಿದೆ ? / Authority to alter state boundaries:",
+    "o": ["a) State govt", "b) Parliament", "c) PM", "d) President"],
     "a": 1
   },
   {
-    "q": "P ಮತ್ತು Q ನ ಸರಾಸರಿ ಆದಾಯ ₹5,050. Q ಮತ್ತು R ನ ₹6,250. P ಮತ್ತು R ನ ₹5,200. P ನ ಆದಾಯ ಎಷ್ಟು ? / Average income of P,Q is 5050; Q,R is 6250; P,R is 5200. Find P's income.",
-    "o": ["1. 3,500", "2. 4,000", "3. 4,050", "4. 5,000"],
+    "q": "ಭಾರತೀಯ ಸ್ವಾತಂತ್ರ್ಯ ಕಾಯಿದೆಯು ರಾಜಸಮ್ಮತಿ ಪಡೆದದ್ದು: / Independence Act Royal Assent:",
+    "o": ["a) July 1947", "b) May 1947", "c) June 1947", "d) August 1947"],
+    "a": 0
+  },
+  {
+    "q": "Directive Principles (DPSP) ಯಾವ ವಿಧಿಗಳಲ್ಲಿದೆ ? / Articles for DPSP:",
+    "o": ["a) 15-24", "b) 25-32", "c) 36-51", "d) 52-60"],
     "a": 2
   },
   {
-    "q": "7 ಪುರುಷರು ಮತ್ತು 6 ಮಹಿಳೆಯರಿಂದ 5 ಸದಸ್ಯರ ಸಮಿತಿ ರಚಿಸಬೇಕು. ಸಮಿತಿಯಲ್ಲಿ ಕನಿಷ್ಟ 3 ಪುರುಷರು ಇರಬೇಕು. ಎಷ್ಟು ರೀತಿ ? / 5 members from 7 men, 6 women. At least 3 men. How many ways?",
-    "o": ["1. 564", "2. 645", "3. 735", "4. 756"],
-    "a": 4
-  },
-  {
-    "q": "ಆರು ಗಂಟೆಗಳು 2, 4, 6, 8, 10, 12 ಸೆಕೆಂಡ್ ಅಂತರದಲ್ಲಿ ಮೊಳಗುತ್ತವೆ. 30 ನಿಮಿಷದಲ್ಲಿ ಎಷ್ಟು ಬಾರಿ ಒಟ್ಟಿಗೆ ಮೊಳಗುತ್ತವೆ ? / 6 bells toll at intervals of 2-12s. How many times together in 30 mins?",
-    "o": ["1. 4", "2. 10", "3. 15", "4. 16"],
-    "a": 4
-  },
-  {
-    "q": "6 ಯಂತ್ರಗಳು ನಿಮಿಷಕ್ಕೆ 270 ಬಾಟಲಿ ತಯಾರಿಸುತ್ತವೆ. 10 ಯಂತ್ರಗಳು 4 ನಿಮಿಷದಲ್ಲಿ ಎಷ್ಟು ತಯಾರಿಸುತ್ತವೆ ? / 6 machines make 270 bottles/min. How many bottles by 10 machines in 4 mins?",
-    "o": ["1. 648", "2. 1800", "3. 2700", "4. 10800"],
+    "q": "ಮತದಾನದ ವಯಸ್ಸನ್ನು 21 ರಿಂದ 18 ಕ್ಕೆ ಇಳಿಸಿದ ತಿದ್ದುಪಡಿ: / Amendment reducing voting age:",
+    "o": ["a) 42nd", "b) 44th", "c) 61st", "d) 72nd"],
     "a": 2
   },
   {
-    "q": "ಚೌಕದ ಬದಿಯನ್ನು ಅಳೆಯುವಾಗ 2% ದೋಷವಾದರೆ, ವಿಸ್ತೀರ್ಣದಲ್ಲಿ ಎಷ್ಟು ಶೇಕಡಾ ದೋಷವಾಗುತ್ತದೆ ? / 2% error in measuring square side. Error in area?",
-    "o": ["1. 2%", "2. 2.02%", "3. 4%", "4. 4.04%"],
-    "a": 4
-  },
-  {
-    "q": "ಅರ್ಥಶಾಸ್ತ್ರದಲ್ಲಿ GDP ಎಂದರೆ- / In economics, GDP means",
-    "o": ["1. General Development Plan", "2. Gross Domestic Product", "3. Gross Deduction Program", "4. General Domestic Payment"],
+    "q": "ಸಂವಿಧಾನ ಸಭೆಯಲ್ಲಿ Objective Resolution ಮಂಡಿಸಿದವರು: / Who moved Objective Resolution:",
+    "o": ["a) Rajendra Prasad", "b) Ambedkar", "c) Nehru", "d) Alladi K. Iyer"],
     "a": 2
   },
   {
-    "q": "ಎಷ್ಟು 'ಮಹಾರತ್ನ' PSU ಗಳಿವೆ ? / How many 'Maharatna' PSUs are there?",
-    "o": ["1. 9", "2. 15", "3. 13", "4. 19"],
-    "a": 3
-  },
-  {
-    "q": "ಸೈಬರ್ ಅಪರಾಧಗಳನ್ನು ವರದಿ ಮಾಡಲು ಯಾವ ಸಹಾಯವಾಣಿ ರಚಿಸಲಾಗಿದೆ ? / Helpline for reporting cybercrimes?",
-    "o": ["1. 1011", "2. 1930", "3. 1098", "4. 1076"],
-    "a": 2
-  },
-  {
-    "q": "ಕೊಠಡಿ A ನಿಂದ 10 ವಿದ್ಯಾರ್ಥಿ B ಗೆ ಹೋದರೆ ಸಂಖ್ಯೆ ಸಮ. B ನಿಂದ 20 A ಗೆ ಬಂದರೆ A ನಲ್ಲಿ B ಗಿಂತ ದ್ವಿಗುಣ. A ನಲ್ಲಿರುವವರೆಷ್ಟು ? / Room A to B (10) = same; B to A (20) = A is double B. How many in A?",
-    "o": ["1. 20", "2. 80", "3. 100", "4. 200"],
-    "a": 3
-  },
-  {
-    "q": "'ಅನಿಹಿಲೆಶನ್ ಆಫ್ ಕಾಸ್ಟ್' ಬರೆದವರು ಯಾರು ? / Who wrote 'Annihilation of Caste'?",
-    "o": ["1. ವಲ್ಲಭಭಾಯ್ ಪಟೇಲ್ / Sardar Patel", "2. ಡಾ. ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕ‌ರ್ / Dr. Ambedkar", "3. ಜವಹರಲಾಲ್ ನೆಹರು / Nehru", "4. ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್ / Bose"],
-    "a": 2
-  },
-  {
-    "q": "ಯಾವ ಪ್ರಾಧಿಕಾರವು ವಿಮಾ ಕ್ಷೇತ್ರವನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ ? / Which authority regulates the insurance sector?",
-    "o": ["1. SEBI", "2. IRDAI", "3. CCI", "4. MCI"],
-    "a": 2
-  },
-  {
-    "q": "ಮಾಹಿತಿ ಹಕ್ಕು ಕಾಯ್ದೆ ಯಾವ ವರ್ಷದಲ್ಲಿ ಜಾರಿಗೆ ಬಂದಿತು ? / RTI Act came into effect in:",
-    "o": ["1. 2004", "2. 2003", "3. 2005", "4. 2006"],
-    "a": 3
-  },
-  {
-    "q": "DSLR ಎಂದರೆ- / DSLR means",
-    "o": ["1. Durable single lens resource", "2. Digital single lens reflex", "3. Digital short lens reflex", "4. Durable short lens resource"],
-    "a": 2
-  },
-  {
-    "q": "ರಿನ್ನೆ ಪರೀಕ್ಷೆಯು ಇದಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ / Rinne Test is related to:",
-    "o": ["1. ದೃಷ್ಟಿ / Vision", "2. ಮಾತು / Speech", "3. ಶ್ರವಣ / Hearing", "4. ಮೂಳೆ ವಿರೂಪ / Deformity"],
-    "a": 3
-  },
-  {
-    "q": "ಯಾವ ದೇಶ ಇದುವರೆಗೆ ಮಹಿಳೆಯನ್ನು ಸರ್ಕಾರದ ಮುಖ್ಯಸ್ಥೆಯಾಗಿ ಆಯ್ಕೆ ಮಾಡಿಲ್ಲ ? / Which country never had a female head of government?",
-    "o": ["1. ಭಾರತ / India", "2. ಪಾಕಿಸ್ತಾನ / Pakistan", "3. ಬಾಂಗ್ಲಾದೇಶ / Bangladesh", "4. ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ / USA"],
-    "a": 4
-  },
-  {
-    "q": "ಆಸ್ಟ್ರೇಲಿಯನ್ ಓಪನ್ 2024 ರಲ್ಲಿ ಬೋಪಣ್ಣ ಜೊತೆಗಿದ್ದ ಡಬಲ್ಸ್‌ ಜೊತೆಗಾರ ಯಾರು ? / Bopanna's doubles partner in Australian Open 2024?",
-    "o": ["1. ಸಿಮೋನ್ ಬೊಲೆಲ್ಲಿ / Simone Bolelli", "2. ಮ್ಯಾಥ್ಯ ಎಲ್ಲೆನ್ / Matthew Ebden", "3. ಆಂಡ್ರಿಯಾ ವವಸ್ಕೋರಿ / Andrea Vavassori", "4. ಇವುಗಳಲ್ಲಿ ಯಾವುದೂ ಅಲ್ಲ / None"],
-    "a": 2
-  },
-  {
-    "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಮೂಲಭೂತ ಹಕ್ಕು ? / Which is a Fundamental Right?",
-    "o": ["1. ಸ್ವಾತಂತ್ರ್ಯ / Freedom", "2. ಶಿಕ್ಷಣ / Education", "3. ಬದುಕುವುದು / Life", "4. ಇವುಗಳಲ್ಲಿ ಎಲ್ಲವೂ / All of these"],
-    "a": 4
-  },
-  {
-    "q": "ಭಾರತದಲ್ಲಿ ಪ್ರಸ್ತುತ ಇರುವ ಕೇಂದ್ರಾಡಳಿತ ಪ್ರದೇಶಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು ? / Number of Union Territories in India at present?",
-    "o": ["1. 6", "2. 7", "3. 8", "4. 9"],
-    "a": 3
-  },
-  {
-    "q": "ಪೀಠಿಕೆಯ ಪ್ರಕಾರ, ಸಂವಿಧಾನವು ನಾಗರಿಕರಿಗೆ ಯಾವ ಸ್ವಾತಂತ್ರ್ಯ ನೀಡಲು ಶ್ರಮಿಸುತ್ತದೆ ? / Preamble strives to secure Liberty of:",
-    "o": ["1. ಅಭಿವ್ಯಕ್ತಿ / expression", "2. ನಂಬಿಕೆ / belief", "3. ಆರಾಧನೆ / worship", "4. ಇವುಗಳಲ್ಲಿ ಎಲ್ಲವೂ / All of these"],
-    "a": 4
-  },
-  {
-    "q": "ಸುದ್ದಿಯಲ್ಲಿರುವ JN 1 ರೂಪಾಂತರವು ಯಾವುದಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ ? / JN 1 variant is related to:",
-    "o": ["1. ಕಾಮಾಲೆ / Jaundice", "2. ಸಂಧಿವಾತ / Arthritis", "3. ಎನ್ಸೆಫಾಲಿಟಿಸ್‌ / Encephalitis", "4. ಇವುಗಳಲ್ಲಿ ಯಾವುದೂ ಅಲ್ಲ / None of these"],
-    "a": 4
-  },
-  {
-    "q": "ಪೊಲೀಸ್ ಮತ್ತು ನಾಗರಿಕರ ಅನುಪಾತ 3:11. 66 ಪೊಲೀಸರಿದ್ದರೆ ನಾಗರಿಕರ ಸಂಖ್ಯೆ ಎಷ್ಟು ? / Police to Citizens 3:11. If 66 police, find citizens.",
-    "o": ["1. 33", "2. 242", "3. 18", "4. 726"],
-    "a": 2
-  },
-  {
-    "q": "ಬ್ಯಾಕ್ಟಿರಿಯಾ ಕೋಶ ನಿಮಿಷಕ್ಕೊಮ್ಮೆ ದ್ವಿಗುಣವಾಗಿ 72 ನಿಮಿಷದಲ್ಲಿ ಕಪ್ ತುಂಬಿದರೆ, ಕಾಲು ಕಪ್ ತುಂಬಲು ಎಷ್ಟು ಸಮಯ ? / Bacterial cell doubles/min. 72 mins for full cup. Time for quarter cup?",
-    "o": ["1. 18", "2. 36", "3. 54", "4. 70"],
-    "a": 4
-  },
-  {
-    "q": "ಭಾರತದ ಉಪ ರಾಷ್ಟ್ರಪತಿ ಯಾರು ? / Who is the Vice-President of India?",
-    "o": ["1. ಜಗದೀಪ್ ಧನ್‌ಖಡ್ / Jagdeep Dhankhad", "2. ವೆಂಕಯ್ಯ ನಾಯ್ಡು / Venkaiah Naidu", "3. ರಾಮನಾಥ್ ಕೋವಿಂದ್ / Ramnath Kovind", "4. ಇವುಗಳಲ್ಲಿ ಯಾವುದೂ ಅಲ್ಲ / None"],
+    "q": "Article 371(A) ಯಾವ ರಾಜ್ಯಕ್ಕೆ ಸೇರಿದೆ ? / State for Article 371(A):",
+    "o": ["a) Maharashtra", "b) Nagaland", "c) Karnataka", "d) Assam"],
     "a": 1
   },
   {
-    "q": "ರಮೇಶ ನೇರವಾಗಿ 15ಕಿಮೀ ಓಡಿ, ಎಡಕ್ಕೆ ತಿರುಗಿ 10ಕಿಮೀ ಓಡಿ, ಬಲಕ್ಕೆ ತಿರುಗಿ 5ಕಿಮೀ ಓಡಿದರೆ ಯಾವ ದಿಕ್ಕಿನಲ್ಲಿದ್ದಾನೆ ? / Ramesh runs straight 15km, left 10km, right 5km. Facing which direction?",
-    "o": ["1. ಪೂರ್ವ / East", "2. ಪಶ್ಚಿಮ / West", "3. ಉತ್ತರ / North", "4. ದಕ್ಷಿಣ / South"],
-    "a": 3
-  },
-  {
-    "q": "ಯಾವ ನಗರ ವಿಮಾನ ನಿಲ್ದಾಣ ಹೊಂದಿಲ್ಲ ? / Which city does not have an airport?",
-    "o": ["1. ಬೆಳಗಾಂ / Belgaum", "2. ಶಿವಮೊಗ್ಗ / Shivamogga", "3. ಹಾಸನ / Hassan", "4. ಕಲಬುರಗಿ / Kalaburagi"],
-    "a": 3
-  },
-  {
-    "q": "60ಕಿಮೀ ವೇಗದ ರೈಲು 2 ಗಂಟೆ 45 ನಿಮಿಷದಲ್ಲಿ ಎಷ್ಟು ದೂರ ಚಲಿಸುತ್ತದೆ ? / Train speed 60km/h. Distance in 2h 45m?",
-    "o": ["1. 135", "2. 145", "3. 165", "4. 195"],
-    "a": 3
-  },
-  {
-    "q": "ತೈಲ ಸಂಸ್ಕರಣಾಗಾರ (Oil refinery) ಎಲ್ಲಿದೆ ? / Where is the oil refinery located?",
-    "o": ["1. ಬೆಂಗಳೂರು / Bengaluru", "2. ಮಂಗಳೂರು / Mangalore", "3. ಹುಬ್ಬಳ್ಳಿ / Hubli", "4. ಬೆಳಗಾವಿ / Belagavi"],
+    "q": "ಗೌಪ್ಯತೆಯ ಹಕ್ಕು (Right to Privacy) ಯಾವ ವಿಧಿಯಲ್ಲಿದೆ ? / Article for Right to Privacy:",
+    "o": ["a) 22", "b) 19", "c) 21", "d) 23"],
     "a": 2
   },
   {
-    "q": "ಕ್ಷೌರಿಕರು ಮತ್ತು ಚಮ್ಮಾರರು ಯಾವ ವಲಯದ ಅಡಿಯಲ್ಲಿ ಬರುತ್ತಾರೆ ? / Barbers and cobblers fall under which sector?",
-    "o": ["1. ಪ್ರಾಥಮಿಕ / Primary", "2. ದ್ವಿತೀಯ / Secondary", "3. ತೃತೀಯ / Tertiary", "4. ಯಾವುದೂ ಅಲ್ಲ / None"],
-    "a": 3
+    "q": "ಸರ್ವೋಚ್ಛ ನ್ಯಾಯಾಲಯದ ಮೂಲ ಅಧಿಕಾರ ವ್ಯಾಪ್ತಿ ವಿಧಿ: / Original jurisdiction of SC Article:",
+    "o": ["a) 131", "b) 129", "c) 132", "d) 136"],
+    "a": 0
   },
   {
-    "q": "ಚೌಗು ಪ್ರದೇಶಗಳಲ್ಲಿ ತಪ್ಪಾದುದನ್ನು ಆರಿಸಿ / Choose the incorrect Wetland-District pair:",
-    "o": ["1. ಬೋನಲ್-ಯಾದಗಿರ್ / Bonal-Yadgir", "2. ಹೆಗ್ಗೇರಿ-ಹಾವೇರಿ / Heggeri-Haveri", "3. ಅಘನಾಶಿನಿ-ಗದಗ / Aghnashini-Gadag", "4. ಗುಡಾವಿ-ಶಿವಮೊಗ್ಗ / Gudavi-Shivamogga"],
-    "a": 3
-  },
-  {
-    "q": "ಯಾವ ಎಜೆನ್ಸಿ ರಸ್ತೆ ನಿರ್ಮಾಣದಲ್ಲಿ ಭಾಗಿಯಾಗಿಲ್ಲ ? / Which agency is NOT involved in road construction?",
-    "o": ["1. PWD", "2. NHAI", "3. BRO", "4. ಇವುಗಳಲ್ಲಿ ಯಾವುದೂ ಅಲ್ಲ / None of these"],
-    "a": 4
-  },
-  {
-    "q": "ಕರ್ನಾಟಕದಲ್ಲಿ ರಾಷ್ಟ್ರೀಯ ಜಲಮಾರ್ಗವಲ್ಲದ್ದು ಯಾವುದು ? / Which is not a National Waterway in Karnataka?",
-    "o": ["1. ಘಟಪ್ರಭಾ / Ghataprabha", "2. ಶರಾವತಿ / Sharavathi", "3. ಉದ್ಯಾವರ / Udyavara", "4. ಹೇಮಾವತಿ / Hemavathi"],
-    "a": 4
-  },
-  {
-    "q": "ಆಂಗ್ ಸೂ ಕೀ ಯಾವ ದೇಶದ ಮಾಜಿ ನಾಯಕಿ ? / Aung Suu Kyi is former leader of:",
-    "o": ["1. ವಿಯೆಟ್ನಾಂ / Vietnam", "2. ಮ್ಯಾನ್‌ಮಾರ್ / Myanmar", "3. ಬಾಂಗ್ಲಾದೇಶ / Bangladesh", "4. ಭೂತಾನ್ / Bhutan"],
+    "q": "'Free Indian Legion' ಸೈನ್ಯ ಬೆಳೆಸಿದವರು ಯಾರು ? / Who raised 'Free Indian Legion'?",
+    "o": ["a) Lala Hardayal", "b) Rashbehari Bose", "c) Subhas Chandra Bose", "d) Savarkar"],
     "a": 2
   },
   {
-    "q": "ಯಾವುದು ಸಮಭಾಜಕಕ್ಕೆ (Equator) ಹತ್ತಿರದಲ್ಲಿದೆ ? / Which is closest to the equator?",
-    "o": ["1. ಶ್ರೀಲಂಕಾ / Sri Lanka", "2. ಮಾಲೀಮ್ಸ್ / Maldives", "3. ಮಾರಿಷಿಯಸ್ / Mauritius", "4. ಮಡಗಾಸ್ಕರ್ / Madagascar"],
-    "a": 2
+    "q": "Gram Sabha ಕುರಿತಾದ ಸಂವಿಧಾನ ವಿಧಿ: / Article for Gram Sabha:",
+    "o": ["a) 243A", "b) 243B", "c) 243C", "d) 243D"],
+    "a": 0
   },
   {
-    "q": "ವಿಮಾನಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಪದರದಲ್ಲಿ ಪ್ರಯಾಣಿಸುತ್ತವೆ ? / In which layer do airplanes usually travel?",
-    "o": ["1. ಟ್ರೊಪೋಸ್ಪಿಯರ್ / Troposphere", "2. ಸ್ಟಾಟೋಸ್ಪಿಯರ್ / Stratosphere", "3. ಮೆಸೋಸ್ಪಿಯರ್ / Mesosphere", "4. ಅಯಾನುಗೋಳ / Ionosphere"],
-    "a": 2
-  },
-  {
-    "q": "ಭಾರತದ ಅತಿದೊಡ್ಡ ಉಪ್ಪು ನೀರಿನ ಸರೋವರ ಯಾವುದು ? / Largest salt water lake in India?",
-    "o": ["1. ವುಲಾರ್ / Wular", "2. ವೆಂಬನಾಡ್ / Vembanad", "3. ಚಿಲಿಕಾ / Chilika", "4. ನಾಗಾರ್ಜುನ ಸಾಗರ / Sagar"],
-    "a": 3
-  },
-  {
-    "q": "ಯಾವುದು GI ಟ್ಯಾಗ್ ಹೊಂದಿಲ್ಲ ? / Which does not have a GI Tag?",
-    "o": ["1. ಚನ್ನಪಟ್ಟಣ ಬೊಂಬೆ / Channapatna Toys", "2. ಮೊಳಕಾಲ್ಕೂರು ಸೀರೆ / Sarees", "3. ಕಂಚಿನ ಸಾಮಾನು / Bronze Ware", "4. ಇವುಗಳಲ್ಲಿ ಯಾವುದೂ ಅಲ್ಲ / None of these"],
-    "a": 4
-  },
-  {
-    "q": "ಕ್ರೀಡಾಪಟುಗಳಲ್ಲಿ ತಪ್ಪಾದುದನ್ನು ಆರಿಸಿ / Choose the incorrect player-sport pair:",
-    "o": ["1. ಪ್ರಜ್ಞಾನಂದ-ಚದುರಂಗ / Chess", "2. ಸಾಕ್ಷಿ ಮಲ್ಲಿಕ್-ಫೆನ್ಸಿಂಗ್ / Fencing", "3. ಮಾನಸ್ ಧಾಮ್ಮೆ-ಟೆನ್ನಿಸ್ / Tennis", "4. ಲಕ್ಷ್ಯ ಸೇನ್-ಬ್ಯಾಡ್ಮಿಂಟನ್ / Badminton"],
-    "a": 2
-  },
-  {
-    "q": "ದಿನಾಚರಣೆಗಳಲ್ಲಿ ಸರಿಯಾದುದನ್ನು ಆರಿಸಿ / Choose the correct date-event pair:",
-    "o": ["1. ಜ. 12 - ಹೆಣ್ಣುಮಕ್ಕಳ ದಿನ", "2. ಜ. 15 - ಯುವ ದಿನ", "3. ಜ. 24 - ಸೇನಾ ದಿನ", "4. ಜ. 30 - ಹುತಾತ್ಮರ ದಿನ / Martyrs Day"],
-    "a": 4
-  },
-  {
-    "q": "HDI ನ ಅಂಶವಲ್ಲದ್ದು ಯಾವುದು ? / Which is not a component of HDI?",
-    "o": ["1. ಸ್ವಸ್ಥ ಜೀವನ / Healthy Life", "2. ಜ್ಞಾನ / Knowledge", "3. ಜೀವನಮಟ್ಟ / Standard of Living", "4. ಕುಡಿಯುವ ನೀರು / Sanitation"],
-    "a": 4
-  },
-  {
-    "q": "ತನ್ನ ಬದಿಯಲ್ಲಿ ತಿರುಗುವ ಗ್ರಹ ಯಾವುದು ? / Which planet spins on its side?",
-    "o": ["1. ಶುಕ್ರ / Venus", "2. ಶನಿ / Saturn", "3. ಯುರೇನಸ್ / Uranus", "4. ಯಾವುದೂ ಅಲ್ಲ / None"],
-    "a": 3
-  },
-  {
-    "q": "ಪರೀಕ್ಷೆಗಳಲ್ಲಿ ತಪ್ಪಾದುದನ್ನು ಆರಿಸಿ / Choose the incorrect exam-field pair:",
-    "o": ["1. NDA-ರಕ್ಷಣೆ", "2. CAT-IIT", "3. ICAI-CA", "4. CLAT-ಕಾನೂನು"],
-    "a": 2
-  },
-  {
-    "q": "ವಾದ್ಯಗಳಲ್ಲಿ ಸರಿಯಾದುದನ್ನು ಆರಿಸಿ / Choose the correct instrument type:",
-    "o": ["1. ತಾಳವಾದ್ಯ-ತಾಳಗಳು / Percussion-Cymbals", "2. ಗಾಳಿ ವಾದ್ಯ-ವೀಣೆ / Wind-Veena", "3. ತಂತಿ ವಾದ್ಯ-ಕೊಳಲು / String-Flute", "4. ಎಲ್ಲವೂ / All"],
+    "q": "1931 ಕರಾಚಿ ಅಧಿವೇಶನದಲ್ಲಿ ಹಕ್ಕುಗಳ ನಿರ್ಣಯ ರಚಿಸಿದವರು: / Who drafted 1931 rights resolution?",
+    "o": ["a) Gandhi", "b) Nehru", "c) Rajendra Prasad", "d) Ambedkar"],
     "a": 1
   },
   {
-    "q": "ದ್ರಾವಿಡ, ನಾಗರ ಮತ್ತು ವೇಸರ ಎಂಬವುಗಳು / Dravida, Nagara and Vesara are:",
-    "o": ["1. ದೇವಾಲಯದ ವಾಸ್ತುಶಿಲ್ಪ ಶೈಲಿ / Temple Architecture", "2. ಸಾಂಸ್ಕೃತಿಕ ಗುಂಪು / Groups", "3. ಪ್ರದೇಶಗಳು / Regions", "4. ಯಾವುದೂ ಅಲ್ಲ / None"],
+    "q": "ಕಾಂಗ್ರೆಸ್‌ನಲ್ಲಿ ಮಿತಗಾಮಿ-ಅತಿಗಾಮಿ ಸೀಳಿಕೆಗೆ ಕಾರಣವಾದ ಚಳುವಳಿ: / Movement causing Congress split:",
+    "o": ["a) Swadeshi", "b) Quit India", "c) Non-Cooperation", "d) Civil Disobedience"],
+    "a": 0
+  },
+  {
+    "q": "ರೌಲತ್ ಕಾಯ್ದೆ ಸಮಯದಲ್ಲಿ ವೈಸ್‌ರಾಯ್ ಯಾರಾಗಿದ್ದರು ? / Viceroy during Rowlatt Act:",
+    "o": ["a) Irwin", "b) Reading", "c) Chelmsford", "d) Wavell"],
+    "a": 2
+  },
+  {
+    "q": "Red Fort Trials ನಲ್ಲಿ INA ಪರ ವಾದಿಸಿದವರು ಯಾರು ? / Who defended INA in Red Fort Trials?",
+    "o": ["a) Savarkar", "b) Kailash Nath Katju", "c) Sucheta Kriplani", "d) S.P. Mukherjee"],
     "a": 1
   },
   {
-    "q": "ಹಾಲ್ವಾ ಸಮಾರಂಭ ಯಾವ ಸಚಿವಾಲಯಕ್ಕೆ ಸೇರಿದೆ ? / Halwa Ceremony belongs to which Ministry?",
-    "o": ["1. ರಕ್ಷಣೆ / Defence", "2. ಹಣಕಾಸು / Finance", "3. ವಿದೇಶಾಂಗ / External Affairs", "4. ಗೃಹ / Home"],
-    "a": 2
-  },
-  {
-    "q": "ಜಲಸಂಧಿಗಳಲ್ಲಿ ಸರಿಯಾದುದನ್ನು ಆರಿಸಿ / Choose the correct strait-location pair:",
-    "o": ["1. ಪಾಕ್-ಭಾರತ-ಮಾಲೀಮ್ಸ್", "2. ಮಲಕ್ಕಾ-ಮಲೇಷಿಯಾ-ಇಂಡೊನೇಷಿಯಾ", "3. ಜೆಬ್ರಾಲ್ಟರ್-ಸ್ಪೇನ್-ಇಟಲಿ", "4. ಹಾರ್ಮಜ್-ಭಾರತ-ಮಾಲೀಮ್ಸ್"],
-    "a": 2
-  },
-  {
-    "q": "ಧ್ವಜದ ಚಕ್ರದಲ್ಲಿ ಎಷ್ಟು ಕೀಲುಗಳಿವೆ ? / How many spokes in the flag's wheel?",
-    "o": ["1. 18", "2. 24", "3. 32", "4. 64"],
-    "a": 2
-  },
-  {
-    "q": "ಹಿಪೊಕ್ರೆಟಿಕ್ ಶಪಥ ಯಾವ ವೃತ್ತಿಗೆ ಸಂಬಂಧಿಸಿದೆ ? / Hippocratic Oath is for which profession?",
-    "o": ["1. ಎಂಜಿನಿಯರ್ / Engineers", "2. ಶಿಕ್ಷಕ / Teachers", "3. ವೈದ್ಯ / Doctors", "4. ಎಲ್ಲರೂ / All"],
+    "q": "ಡಾ. ಅಂಬೇಡ್ಕ‌ರ್ ಸ್ಥಾಪಿಸಿದ ಸಂಸ್ಥೆ ಯಾವುದು ? / Organisation founded by Ambedkar:",
+    "o": ["a) Hitkarini Sabha", "b) Labor Party", "c) SC Federation", "d) All of these"],
     "a": 3
   },
   {
-    "q": "ವ್ಯಾಪಾರದ ಸಾಮಾಜಿಕ ಜವಾಬ್ದಾರಿಗಳು ಯಾವುವು ? / Social responsibilities of business:",
-    "o": ["1. ಆರ್ಥಿಕ / Economic", "2. ಕಾನೂನು / Legal", "3. ನೈತಿಕ / Ethical", "4. ಇವುಗಳಲ್ಲಿ ಎಲ್ಲವೂ / All of these"],
-    "a": 4
+    "q": "ಉಷಾ ಮೆಹತಾ ಯಾವುದಕ್ಕೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ ? / Usha Mehta is known for:",
+    "o": ["a) Secret Radio", "b) Round Table Conf", "c) INA Leadership", "d) Interim Govt"],
+    "a": 0
   },
   {
-    "q": "ಅತ್ಯಂತ ಹಳೆಯ ಪರ್ವತ ಶ್ರೇಣಿ ಯಾವುದು ? / Which is the oldest mountain range?",
-    "o": ["1. ಅರಾವಳಿ / Aravali", "2. ಪಶ್ಚಿಮ ಘಟ್ಟಗಳು / Western Ghats", "3. ಹಿಮಾಲಯ / Himalayas", "4. ಪೂರ್ವ ಘಟ್ಟಗಳು / Eastern Ghats"],
+    "q": "ಕರ್ನಾಟಕದ 'ಖಾದಿ ಭಗೀರಥ' ಯಾರು ? / 'Khadi Bhageeratha' of Karnataka:",
+    "o": ["a) Diwakar", "b) Hardikar", "c) Srinivas Rao", "d) G.B. Deshpande"],
+    "a": 3
+  },
+  {
+    "q": "ಬಳ್ಳಾರಿ ಸಿದ್ದಮ್ಮ ಯಾವ ಜಿಲ್ಲೆಯಲ್ಲಿ ಜನಿಸಿದರು ? / Bellary Siddamma born in:",
+    "o": ["a) Dharwad", "b) Chitradurga", "c) Haveri", "d) Shiggaon"],
+    "a": 2
+  },
+  {
+    "q": "1824 ರಲ್ಲಿ ಕಿತ್ತೂರು ಪಡೆಗಳು ಕೊಂದ ಬ್ರಿಟಿಷ್ ಕಲೆಕ್ಟರ್: / Collector killed by Kittur in 1824:",
+    "o": ["a) St. John Thackeray", "b) Stevenson", "c) Chaplain", "d) Walter Elliot"],
+    "a": 0
+  },
+  {
+    "q": "1878 ರ ಪತ್ರಿಕಾ ಕಾಯಿದೆ ರದ್ದುಗೊಳಿಸಿದ ವೈಸ್‌ರಾಯ್: / Viceroy who repealed 1878 Press Act:",
+    "o": ["a) Lytton", "b) Dufferin", "c) Ripon", "d) Curzon"],
+    "a": 2
+  },
+  {
+    "q": "Forward Bloc ಸ್ಥಾಪಿಸಿದವರು ಯಾರು ? / Who founded Forward Bloc?",
+    "o": ["a) Subhas Chandra Bose", "b) Moti Lal Nehru", "c) Hedgewar", "d) Gandhi"],
+    "a": 0
+  },
+  {
+    "q": "Series: 31, 29, 24, 22, 17... Next number:",
+    "o": ["a) 15", "b) 14", "c) 13", "d) 12"],
+    "a": 0
+  },
+  {
+    "q": "ಈಚಲು ಮರದ ಚಳುವಳಿಯ ಕೇಂದ್ರ ಯಾವುದು ? / Center of Toddy Tree Movement:",
+    "o": ["a) Annegeri", "b) Esuru", "c) Turvunuru", "d) Yeduyuru"],
+    "a": 2
+  },
+  {
+    "q": "ಇಂದು ಸೋಮವಾರವಾದರೆ, 61 ದಿನಗಳ ನಂತರ ಯಾವ ದಿನ ? / Monday + 61 days:",
+    "o": ["a) Wednesday", "b) Saturday", "c) Tuesday", "d) Thursday"],
     "a": 1
+  },
+  {
+    "q": "40% ಸೇಬು ಮಾರಿ 420 ಉಳಿದಿದ್ದರೆ, ಒಟ್ಟು ಸೇಬುಗಳೆಷ್ಟು ? / 40% sold, 420 left. Total:",
+    "o": ["a) 588", "b) 600", "c) 672", "d) 700"],
+    "a": 3
+  },
+  {
+    "q": "ಗುಂಪಿಗೆ ಸೇರದ ಪದ ಯಾವುದು ? / Odd one out:",
+    "o": ["a) inch", "b) ounce", "c) centimetre", "d) yard"],
+    "a": 1
+  },
+  {
+    "q": "ಸಂಖ್ಯೆ + 17 = 60 * Reciprocal. ಸಂಖ್ಯೆ ಯಾವುದು ? / No + 17 = 60/No. Find No:",
+    "o": ["a) 3", "b) 10", "c) 17", "d) 20"],
+    "a": 0
+  },
+  {
+    "q": "Average income P,Q: 5050; Q,R: 6250; P,R: 5200. P income:",
+    "o": ["a) 3500", "b) 4000", "c) 4050", "d) 5000"],
+    "a": 1
+  },
+  {
+    "q": "7 men, 6 women ನಿಂದ 5 ಜನರಲ್ಲಿ ಕನಿಷ್ಟ 3 ಪುರುಷರಿರುವ ಸಮಿತಿ ಎಷ್ಟು ? / 5 from 7M,6W with min 3M:",
+    "o": ["a) 564", "b) 645", "c) 735", "d) 756"],
+    "a": 3
+  },
+  {
+    "q": "6 ಗಂಟೆಗಳು 2,4,6,8,10,12 ಸೆಕೆಂಡ್ ಅಂತರದಲ್ಲಿ ಮೊಳಗುತ್ತವೆ. 30 ನಿಮಿಷದಲ್ಲಿ ಎಷ್ಟು ಬಾರಿ ? / 6 bells toll at 2-12s. Times in 30m:",
+    "o": ["a) 4", "b) 10", "c) 15", "d) 16"],
+    "a": 3
+  },
+  {
+    "q": "6 ಯಂತ್ರಗಳು 270 ಬಾಟಲಿ/ನಿಮಿಷ ತಯಾರಿಸಿದರೆ, 10 ಯಂತ್ರ 4 ನಿಮಿಷದಲ್ಲಿ ಎಷ್ಟು ? / 6 machines:270/m. 10 mach in 4m:",
+    "o": ["a) 648", "b) 1800", "c) 2700", "d) 10800"],
+    "a": 1
+  },
+  {
+    "q": "ಚೌಕದ ಬದಿ ಅಳತೆಯಲ್ಲಿ 2% ದೋಷವಾದರೆ, ವಿಸ್ತೀರ್ಣದಲ್ಲಿ ದೋಷ %: / 2% side error. Area error %:",
+    "o": ["a) 2%", "b) 2.02%", "c) 4%", "d) 4.04%"],
+    "a": 3
+  },
+  {
+    "q": "GDP ಅಂದರೆ / GDP means:",
+    "o": ["a) General Development", "b) Gross Domestic Product", "c) Deduction Program", "d) Domestic Payment"],
+    "a": 1
+  },
+  {
+    "q": "ಎಷ್ಟು 'ಮಹಾರತ್ನ' PSU ಗಳಿವೆ ? / How many 'Maharatna' PSUs?",
+    "o": ["a) 9", "b) 15", "c) 13", "d) 19"],
+    "a": 2
+  },
+  {
+    "q": "Cybercrimes ವರದಿ ಮಾಡಲು ಸಹಾಯವಾಣಿ ಯಾವುದು ? / Cybercrime reporting helpline:",
+    "o": ["a) 1011", "b) 1930", "c) 1098", "d) 1076"],
+    "a": 1
+  },
+  {
+    "q": "ಕೊಠಡಿ A ನಿಂದ 10 B ಗೆ ಹೋದರೆ ಸಮ. B ನಿಂದ 20 A ಗೆ ಬಂದರೆ A double. A ನಲ್ಲಿ ಇರುವವರೆಷ್ಟು ? / A-10=B+10; B-20,A+20=2B. A count:",
+    "o": ["a) 20", "b) 80", "c) 100", "d) 200"],
+    "a": 2
+  },
+  {
+    "q": "'Annihilation of Caste' ಬರೆದವರು ಯಾರು ? / Who wrote 'Annihilation of Caste'?",
+    "o": ["a) Patel", "b) Ambedkar", "c) Nehru", "d) Bose"],
+    "a": 1
+  },
+  {
+    "q": "ವಿಮಾ ಕ್ಷೇತ್ರವನ್ನು ನಿಯಂತ್ರಿಸುವ ಪ್ರಾಧಿಕಾರ: / Insurance regulator:",
+    "o": ["a) SEBI", "b) IRDAI", "c) CCI", "d) MCI"],
+    "a": 1
+  },
+  {
+    "q": "ಮಾಹಿತಿ ಹಕ್ಕು ಕಾಯ್ದೆ (RTI) ಬಂದ ವರ್ಷ: / Year RTI came into effect:",
+    "o": ["a) 2004", "b) 2003", "c) 2005", "d) 2006"],
+    "a": 2
+  },
+  {
+    "q": "DSLR ಅಂದರೆ / DSLR means:",
+    "o": ["a) Single lens resource", "b) Single lens reflex", "c) Short lens reflex", "d) Short lens resource"],
+    "a": 1
+  },
+  {
+    "q": "ರಿನ್ನೆ ಪರೀಕ್ಷೆ (Rinne Test) ಯಾವುದಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ ? / Rinne Test is for:",
+    "o": ["a) Vision", "b) Speech", "c) Hearing", "d) Bone"],
+    "a": 2
+  },
+  {
+    "q": "ಯಾವ ದೇಶ ಮಹಿಳೆ ಮುಖ್ಯಸ್ಥೆಯನ್ನು ಆರಿಸಿಲ್ಲ ? / Country never had a woman head of govt:",
+    "o": ["a) India", "b) Pakistan", "c) Bangladesh", "d) US"],
+    "a": 3
+  },
+  {
+    "q": "Rohan Bopanna's Australian Open 2024 ಡಬಲ್ಸ್ ಜೊತೆಗಾರ: / Bopanna partner in Aus Open 24:",
+    "o": ["a) Bolelli", "b) Matthew Ebden", "c) Vavassori", "d) None"],
+    "a": 1
+  },
+  {
+    "q": "ಯಾವುದು ಮೂಲಭೂತ ಹಕ್ಕು ? / Which is a Fundamental Right?",
+    "o": ["a) Freedom", "b) Education", "c) Life", "d) All of these"],
+    "a": 3
+  },
+  {
+    "q": "ಪ್ರಸ್ತುತ ಭಾರತದಲ್ಲಿರುವ ಕೇಂದ್ರಾಡಳಿತ ಪ್ರದೇಶಗಳು: / Union Territories in India now:",
+    "o": ["a) 6", "b) 7", "c) 8", "d) 9"],
+    "a": 2
+  },
+  {
+    "q": "ಪೀಠಿಕೆಯು ನಾಗರಿಕರಿಗೆ ಯಾವ ಸ್ವಾತಂತ್ರ್ಯ ನೀಡುತ್ತದೆ ? / Liberty guaranteed in Preamble:",
+    "o": ["a) expression", "b) belief", "c) faith/worship", "d) All of these"],
+    "a": 3
+  },
+  {
+    "q": "JN 1 variant ಯಾವುದಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ ? / JN 1 variant is related to:",
+    "o": ["a) Jaundice", "b) Arthritis", "c) Encephalitis", "d) None (COVID)"],
+    "a": 3
+  },
+  {
+    "q": "ಪೊಲೀಸ್-ನಾಗರಿಕ ಅನುಪಾತ 3:11. 66 ಪೊಲೀಸರಿದ್ದರೆ ನಾಗರಿಕರೆಷ್ಟು ? / Ratio 3:11. 66 Police. Citizens:",
+    "o": ["a) 33", "b) 242", "c) 18", "d) 726"],
+    "a": 1
+  },
+  {
+    "q": "ಬ್ಯಾಕ್ಟಿರಿಯಾ ನಿಮಿಷಕ್ಕೆ double. 72 ನಿಮಿಷಕ್ಕೆ ಕಪ್ ತುಂಬಿದರೆ, 1/4 ಕಪ್ ಯಾವಾಗ ? / Double/m. Full at 72m. Quarter at:",
+    "o": ["a) 18m", "b) 36m", "c) 54m", "d) 70m"],
+    "a": 3
+  },
+  {
+    "q": "ಭಾರತದ ಉಪ ರಾಷ್ಟ್ರಪತಿ ಯಾರು ? / Vice-President of India:",
+    "o": ["a) Jagdeep Dhankhad", "b) Venkaiah Naidu", "c) Ramnath Kovind", "d) None"],
+    "a": 0
+  },
+  {
+    "q": "Ramesh: 15km straight, left 10km, right 5km. Direction?",
+    "o": ["a) East", "b) West", "c) North", "d) South"],
+    "a": 2
+  },
+  {
+    "q": "ಯಾವ ನಗರ ವಿಮಾನ ನಿಲ್ದಾಣ ಹೊಂದಿಲ್ಲ ? / City without airport:",
+    "o": ["a) Belgaum", "b) Shivamogga", "c) Hassan", "d) Kalaburagi"],
+    "a": 2
+  },
+  {
+    "q": "60km/h ವೇಗದಲ್ಲಿ 2 ಗಂಟೆ 45 ನಿಮಿಷಕ್ಕೆ ದೂರ: / Distance at 60km/h in 2h 45m:",
+    "o": ["a) 135", "b) 145", "c) 165", "d) 195"],
+    "a": 2
+  },
+  {
+    "q": "ತೈಲ ಸಂಸ್ಕರಣಾಗಾರ (Oil refinery) ಎಲ್ಲಿದೆ ? / Oil refinery city:",
+    "o": ["a) Bengaluru", "b) Mangalore", "c) Hubli", "d) Belagavi"],
+    "a": 1
+  },
+  {
+    "q": "ಕ್ಷೌರಿಕರು ಮತ್ತು ಚಮ್ಮಾರರು ಯಾವ ವಲಯದವರು ? / Barbers/cobblers sector:",
+    "o": ["a) Primary", "b) Secondary", "c) Tertiary", "d) None"],
+    "a": 2
+  },
+  {
+    "q": "Wetlands-District ತಪ್ಪಾದುದನ್ನು ಆರಿಸಿ / Incorrect wetland district pair:",
+    "o": ["a) Bonal-Yadgir", "b) Heggeri-Haveri", "c) Aghnashini-Gadag", "d) Gudavi-Shivamogga"],
+    "a": 2
+  },
+  {
+    "q": "ಯಾವ ಎಜೆನ್ಸಿ ರಸ್ತೆ ನಿರ್ಮಾಣ ಮಾಡುವುದಿಲ್ಲ ? / Agency NOT for road construction:",
+    "o": ["a) State PWD", "b) NHAI", "c) BRO", "d) None"],
+    "a": 3
+  },
+  {
+    "q": "ಕರ್ನಾಟಕದ ರಾಷ್ಟ್ರೀಯ ಜಲಮಾರ್ಗವಲ್ಲದ್ದು: / Not a National Waterway in KA:",
+    "o": ["a) Ghataprabha", "b) Sharavathi", "c) Udyavara", "d) Hemavathi"],
+    "a": 3
+  },
+  {
+    "q": "Aung Suu Kyi ಯಾವ ದೇಶದ ನಾಯಕಿ ? / Aung Suu Kyi country:",
+    "o": ["a) Vietnam", "b) Myanmar", "c) Bangladesh", "d) Bhutan"],
+    "a": 1
+  },
+  {
+    "q": "ಯಾವುದು ಸಮಭಾಜಕಕ್ಕೆ ಹತ್ತಿರದಲ್ಲಿದೆ ? / Closest to Equator:",
+    "o": ["a) Sri Lanka", "b) Maldives", "c) Mauritius", "d) Madagascar"],
+    "a": 1
+  },
+  {
+    "q": "ವಿಮಾನಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಗೋಳದಲ್ಲಿರುತ್ತವೆ ? / Airplanes layer:",
+    "o": ["a) Troposphere", "b) Stratosphere", "c) Mesosphere", "d) Ionosphere"],
+    "a": 1
+  },
+  {
+    "q": "ಭಾರತದ ಅತಿದೊಡ್ಡ ಉಪ್ಪು ನೀರಿನ ಸರೋವರ: / Largest salt water lake in India:",
+    "o": ["a) Wular", "b) Vembanad", "c) Chilika", "d) Nagarjun Sagar"],
+    "a": 2
+  },
+  {
+    "q": "GI ಟ್ಯಾಗ್ ಹೊಂದಿಲ್ಲದ್ದು ಯಾವುದು ? / No registered GI tag for:",
+    "o": ["a) Channapatna Toys", "b) Molakalmuru Sarees", "c) KA Bronze Ware", "d) None"],
+    "a": 3
+  },
+  {
+    "q": "ತಪ್ಪಾದುದನ್ನು ಆರಿಸಿ / Incorrect pair:",
+    "o": ["a) Praggnananda-Chess", "b) Sakshi Malik-Fencing", "c) Manas Dhamne-Tennis", "d) Lakshya Sen-Badminton"],
+    "a": 1
+  },
+  {
+    "q": "ಸರಿಯಾದುದನ್ನು ಆರಿಸಿ / Correct date pair:",
+    "o": ["a) Jan 12-Girl Child", "b) Jan 15-Youth Day", "c) Jan 24-Army Day", "d) Jan 30-Martyrs"],
+    "a": 3
+  },
+  {
+    "q": "HDI ಅಂಶವಲ್ಲದ್ದು ಯಾವುದು ? / Not an HDI component:",
+    "o": ["a) Healthy life", "b) Knowledge", "c) Standard of living", "d) Sanitation"],
+    "a": 3
+  },
+  {
+    "q": "ಯಾವ ಗ್ರಹ ಬದಿಯಲ್ಲಿ ತಿರುಗುತ್ತದೆ ? / Planet spins on its side:",
+    "o": ["a) Venus", "b) Saturn", "c) Uranus", "d) None"],
+    "a": 2
+  },
+  {
+    "q": "ತಪ್ಪಾದುದನ್ನು ಆರಿಸಿ / Incorrect exam pair:",
+    "o": ["a) NDA-Defense", "b) CAT-IIT", "c) ICAI-CA", "d) CLAT-Law"],
+    "a": 1
+  },
+  {
+    "q": "ಸರಿಯಾದುದನ್ನು ಆರಿಸಿ / Correct instrument pair:",
+    "o": ["a) Percussion-Cymbals", "b) Wind-Veena", "c) String-Flute", "d) All"],
+    "a": 0
+  },
+  {
+    "q": "ದ್ರಾವಿಡ, ನಾಗರ, ವೇಸರ ಯಾವುದು ? / Dravida/Nagara/Vesara are:",
+    "o": ["a) Architecture style", "b) Cultural groups", "c) Regions", "d) None"],
+    "a": 0
+  },
+  {
+    "q": "Halwa Ceremony ಯಾವ ಸಚಿವಾಲಯಕ್ಕೆ ಸೇರಿದೆ ? / Halwa Ceremony ministry:",
+    "o": ["a) Defense", "b) Finance", "c) External", "d) Home"],
+    "a": 1
+  },
+  {
+    "q": "ಸರಿಯಾದುದನ್ನು ಆರಿಸಿ / Correct strait pair:",
+    "o": ["a) Palk-Maldives", "b) Malacca-Malaysia/Indo", "c) Gibraltar-Spain/Italy", "d) Hormuz-India/Maldives"],
+    "a": 1
+  },
+  {
+    "q": "ಧ್ವಜದ ಚಕ್ರದಲ್ಲಿ ಎಷ್ಟು ಕೀಲುಗಳಿವೆ ? / Spokes in National Flag Chakra:",
+    "o": ["a) 18", "b) 24", "c) 32", "d) 64"],
+    "a": 1
+  },
+  {
+    "q": "Hippocratic Oath ಯಾವ ವೃತ್ತಿಯವರದ್ದು ? / Hippocratic Oath profession:",
+    "o": ["a) Engineers", "b) Teachers", "c) Doctors", "d) All"],
+    "a": 2
+  },
+  {
+    "q": "ವ್ಯಾಪಾರದ ಸಾಮಾಜಿಕ ಜವಾಬ್ದಾರಿಗಳು: / Social responsibility of business:",
+    "o": ["a) Economic", "b) Legal", "c) Ethical", "d) All of these"],
+    "a": 3
+  },
+  {
+    "q": "ಭಾರತದ ಅತ್ಯಂತ ಹಳೆಯ ಪರ್ವತ ಶ್ರೇಣಿ: / Oldest mountain range in India:",
+    "o": ["a) Aravali", "b) Western Ghats", "c) Himalayas", "d) Eastern Ghats"],
+    "a": 0
   }
 ]
