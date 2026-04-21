@@ -998,35 +998,5 @@
       "Google Chrome"
     ],
     "a": 2
-  },
-  {
-    "q": "Which of the following is considered the 'Brain' of the computer?",
-    "o": [
-      "RAM",
-      "Hard Disk",
-      "CPU",
-      "Monitor"
-    ],
-    "a": 2
-  },
-  {
-    "q": "What is the full form of 'URL' in the context of the internet?",
-    "o": [
-      "Uniform Resource Locator",
-      "Universal Resource Line",
-      "Unified Radio Link",
-      "User Remote Locator"
-    ],
-    "a": 0
-  },
-  {
-    "q": "In a computer, 1 Gigabyte (GB) is equal to how many Megabytes (MB)?",
-    "o": [
-      "100 MB",
-      "1000 MB",
-      "1024 MB",
-      "1200 MB"
-    ],
-    "a": 2
   }
 ]
