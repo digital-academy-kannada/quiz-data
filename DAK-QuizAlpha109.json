@@ -49,7 +49,17 @@
     ],
     "a": 0
   },
-   {
+  {
+    "q": "ಜ್ಞಾನಭಾರತಿ ವಿಶ್ವವಿದ್ಯಾಲಯ ಇರುವ ಸ್ಥಳ",
+    "o": [
+      "ಹಂಪೆ",
+      "ಮಂಗಳೂರು",
+      "ಬೆಂಗಳೂರು",
+      "ಧಾರವಾಡ"
+    ],
+    "a": 2
+  },
+  {
     "q": "ಕರ್ನಾಟಕದ ಡಾ. ಎಚ್.ಆರ್. ಸುದರ್ಶನ್ ಅವರಿಗೆ ಸಂದಿರುವ ಪ್ರಶಸ್ತಿ",
     "o": [
       "ಬೂಕರ್",
@@ -198,6 +208,825 @@
       "ರಾಮನ ಬಿಲ್ಲು"
     ],
     "a": 2
+  },
+  {
+    "q": "ಒಂದು ಅಕ್ಷರಕ್ಕೆ ಬದಲಾಗಿ ಮತ್ತೊಂದು ಅಕ್ಷರ ಬಂದು ಸೇರುವ ಸಂಧಿ",
+    "o": [
+      "ಲೋಪ",
+      "ಆಗಮ",
+      "ಸವರ್ಣದೀರ್ಘ",
+      "ಆದೇಶ"
+    ],
+    "a": 3
+  },
+  {
+    "q": "ಎರಡು ತಲೆಗಳುಳ್ಳ ಕಾಲ್ಪನಿಕ ಪಕ್ಷಿ",
+    "o": [
+      "ಗಂಡಭೇರುಂಡ",
+      "ಚಕ್ರವಾಕ",
+      "ಬಕ ಪಕ್ಷಿ",
+      "ಪಾರಿವಾಳ"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ಕಂಠೀರವ ಎಂಬ ಹೆಸರುಳ್ಳ ಪ್ರಾಣಿ",
+    "o": [
+      "ಸಿಂಹ",
+      "ಚಿರತೆ",
+      "ಆನೆ",
+      "ಹುಲಿ"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ಕದಳಿ ಎಂದರೆ",
+    "o": [
+      "ಕಿತ್ತಳೆ",
+      "ಮಾವು",
+      "ದಾಳಿಂಬೆ",
+      "ಬಾಳೆ"
+    ],
+    "a": 3
+  },
+  {
+    "q": "'ಬಿದ್ದರು' ಕ್ರಿಯಾಪದದ ಧಾತು",
+    "o": [
+      "ಬೀಳು",
+      "ಬಿದ್ದ",
+      "ಬೀಳಬೇಡ",
+      "ಬೀಳುವರು"
+    ],
+    "a": 0
+  },
+  {
+    "q": "'ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ' ದ ಕೃತಿಕಾರರು",
+    "o": [
+      "ಕುವೆಂಪು",
+      "ಡಿ.ವಿ.ಜಿ.",
+      "ಕಾಳೇಗೌಡ ನಾಗವಾರ",
+      "ಬಿ.ಎಂ.ಶ್ರೀ."
+    ],
+    "a": 1
+  },
+  {
+    "q": "ರಾಮನಗರದಲ್ಲಿರುವ 'ಜಾನಪದ ಲೋಕ'ದ ಸ್ಥಾಪಕರು",
+    "o": [
+      "ಎಚ್.ಎಲ್. ನಾಗೇಗೌಡ",
+      "ಕಾಳೇಗೌಡ ನಾಗವಾರ",
+      "ಕೆಂಪೇಗೌಡ",
+      "ರಾಜಾ ಹನುಮೇಗೌಡ"
+    ],
+    "a": 0
+  },
+  {
+    "q": "'ಆದಿ ಪುರಾಣ' ದ ಕೃತಿಕಾರ",
+    "o": [
+      "ಜನ್ನ",
+      "ನೃಪತುಂಗ",
+      "ಪೊನ್ನ",
+      "ಪಂಪ"
+    ],
+    "a": 3
+  },
+  {
+    "q": "ಆಳಾಗಬಲ್ಲವನು",
+    "o": [
+      "ಅರಸನಾಗಬಲ್ಲ",
+      "ಹಾಳಾಗಬಲ್ಲ",
+      "ಮಂತ್ರಿಯಾಗಬಲ್ಲ",
+      "ಸೇವಕನಾಗಬಲ್ಲ"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ತಂದೆಗೆ ಪತ್ರ ಬರೆಯುವಾಗ ಬಳಸುವ ಒಕ್ಕಣೆ",
+    "o": [
+      "ಪೂಜ್ಯತಂದೆ",
+      "ತೀರ್ಥರೂಪ",
+      "ಪಿತೃದೇವ",
+      "ಪಿತಾಶ್ರೀ"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ಕದಂಬರ ರಾಜಧಾನಿ",
+    "o": [
+      "ಬೆಳವಂಗಲ",
+      "ಮಂಗಳೂರು",
+      "ಬೀದರ್",
+      "ಬನವಾಸಿ"
+    ],
+    "a": 3
+  },
+  {
+    "q": "ಕರ್ನಾಟಕದ ಅತಿ ಎತ್ತರದ ಶಿಖರ",
+    "o": [
+      "ಮುಳ್ಳಯ್ಯನಗಿರಿ",
+      "ನಂದಿಬೆಟ್ಟ",
+      "ಅವಲಬೆಟ್ಟ",
+      "ಚಾಮುಂಡಿಬೆಟ್ಟ"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ಗುಂಪಿಗೆ ಸೇರದ ಪದವನ್ನು ಸೂಚಿಸಿ.",
+    "o": [
+      "ಅಂಜೂರ",
+      "ಸೇಬು",
+      "ಗೋಧಿ",
+      "ಭತ್ತ"
+    ],
+    "a": 3
+  },
+  {
+    "q": "ಆರು ಸಾಲಿನ ಛಂದೋಬಂಧ",
+    "o": [
+      "ರಗಳೆ",
+      "ಷಟ್ಟದಿ",
+      "ಕಂದ",
+      "ತ್ರಿಪದಿ"
+    ],
+    "a": 1
+  },
+  {
+    "q": "There is a cut-throat competition in the Job-market. The underlined word can be replaced with:",
+    "o": [
+      "smooth",
+      "easy",
+      "tough",
+      "negligible"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Fear of water is known as:",
+    "o": [
+      "hydrophobia",
+      "aerophobia",
+      "toxicophobia",
+      "logophobia"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Identify the correctly spelt word.",
+    "o": [
+      "Maintainence",
+      "Maintenence",
+      "Maintenanse",
+      "Maintenance"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Children ______ sweets. (Fill in the blank)",
+    "o": [
+      "is liking",
+      "like",
+      "has liked",
+      "likes"
+    ],
+    "a": 1
+  },
+  {
+    "q": "\"______ you, please, lend me your bike?\"",
+    "o": [
+      "Would",
+      "Must",
+      "Dare",
+      "Should"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Meet me ______ the entrance of the park.",
+    "o": [
+      "above",
+      "at",
+      "to",
+      "on"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Rahim sat ______ his father.",
+    "o": [
+      "away",
+      "besides",
+      "to",
+      "beside"
+    ],
+    "a": 3
+  },
+  {
+    "q": "One who does not know reading and writing is called as:",
+    "o": [
+      "illiterate",
+      "educated",
+      "uncivilized",
+      "literate"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Re-arrange the jumbled segments: P: The children, Q: Cricket, R: are, S: Playing",
+    "o": [
+      "SPQR",
+      "QSPR",
+      "RSPQ",
+      "SQRP"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Identify the odd one in the group.",
+    "o": [
+      "faithfulness",
+      "loyalty",
+      "betrayal",
+      "fidelity"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Identify the correct sentence.",
+    "o": [
+      "I was learning English, now.",
+      "I have learning English, now.",
+      "I had been learning English, now.",
+      "I am learning English, now."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Many people ______ due to COVID-19.",
+    "o": [
+      "passed-away",
+      "passed-out",
+      "passed-in",
+      "passed-by"
+    ],
+    "a": 0
+  },
+  {
+    "q": "John booked one ______ in the Tippu Express.",
+    "o": [
+      "berths",
+      "birth",
+      "berth",
+      "broth"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Getting the Doctorate Degree has added one more feather in his cap. The phrase suggests:",
+    "o": [
+      "additional courage",
+      "additional failure",
+      "additional insult",
+      "additional success"
+    ],
+    "a": 3
+  },
+  {
+    "q": "One must ______ bad habits to lead a healthy life.",
+    "o": [
+      "give-up",
+      "give-away",
+      "give-in",
+      "give-out"
+    ],
+    "a": 0
+  },
+  {
+    "q": "The word 'strike' in \"The workers went on strike\" means:",
+    "o": [
+      "The workers worked enthusiastically.",
+      "The workers were interested to work.",
+      "The workers were ill.",
+      "The workers refused to work."
+    ],
+    "a": 3
+  },
+  {
+    "q": "The plural of the word 'phenomenon':",
+    "o": [
+      "phenomenas",
+      "phenomena",
+      "phenomenes",
+      "phenomenons"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Identify the correct sentence.",
+    "o": [
+      "I went to Bengaluru tomorrow.",
+      "I had gone to Bengaluru tomorrow.",
+      "I will go to Bengaluru tomorrow.",
+      "I was going to Bengaluru tomorrow."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Opposite of the word 'HEALTH':",
+    "o": [
+      "dis-health",
+      "ill-health",
+      "mis-health",
+      "un-health"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Identify the correct sentence (punctuation).",
+    "o": [
+      "Ravi said, \"Do you like English, Meena\"?",
+      "Ravi said \"Do you like English Meena\"?",
+      "Ravi said, \"Do you like English, Meena?\"",
+      "Ravi said \"Do you like English Meena ?\""
+    ],
+    "a": 2
+  },
+  {
+    "q": "Ramu is ______ honest man.",
+    "o": [
+      "the",
+      "an",
+      "of",
+      "a"
+    ],
+    "a": 1
+  },
+  {
+    "q": "I am angry ______ you.",
+    "o": [
+      "by",
+      "on",
+      "with",
+      "upon"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Among the students, the poor ______ were given uniform.",
+    "o": [
+      "once",
+      "one's",
+      "one",
+      "ones"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Choose the correct word: As you ______ so you reap.",
+    "o": [
+      "sow",
+      "show",
+      "sew",
+      "sue"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Mary always blows her own trumpet. This suggests:",
+    "o": [
+      "Mary criticises herself",
+      "Mary boasts herself",
+      "Mary hates herself",
+      "Mary condemns herself"
+    ],
+    "a": 1
+  },
+  {
+    "q": "The word ACKNOWLEDGE means:",
+    "o": [
+      "criticise",
+      "reject",
+      "ban",
+      "accept"
+    ],
+    "a": 3
+  },
+  {
+    "q": "The opposite meaning of BARREN:",
+    "o": [
+      "productive",
+      "intelligent",
+      "civilized",
+      "cultured"
+    ],
+    "a": 0
+  },
+  {
+    "q": "One of the students ______ absent.",
+    "o": [
+      "is",
+      "are",
+      "were",
+      "am"
+    ],
+    "a": 0
+  },
+  {
+    "q": "\"______ I come in, Sir?\" asked the student.",
+    "o": [
+      "Would",
+      "May",
+      "Dare",
+      "Will"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Identify the odd one in the group.",
+    "o": [
+      "Poisonous",
+      "Harmful",
+      "Constructive",
+      "Destructive"
+    ],
+    "a": 2
+  },
+  {
+    "q": "AFFLUENT means:",
+    "o": [
+      "clever",
+      "poor",
+      "foolish",
+      "rich"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Raju works in ______ university.",
+    "o": [
+      "to",
+      "an",
+      "a",
+      "the"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Choose the opposite of the word FAR.",
+    "o": [
+      "Near",
+      "Further",
+      "Away",
+      "Farther"
+    ],
+    "a": 0
+  },
+  {
+    "q": "A person having more than one wife is called:",
+    "o": [
+      "Philanthropist",
+      "Polyandrist",
+      "Polygamist",
+      "Monogamist"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Identify the correctly spelt word.",
+    "o": [
+      "Sattellite",
+      "Sattelite",
+      "Satelite",
+      "Satellite"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Which is the fastest computer?",
+    "o": [
+      "Mini computer",
+      "Mainframe computer",
+      "Super computer",
+      "Micro computer"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ALU stands for",
+    "o": [
+      "Application Logic Unit",
+      "Arithmetic Logic Unit",
+      "None of these",
+      "Array Logic Unit"
+    ],
+    "a": 1
+  },
+  {
+    "q": "The network of systems within an organisation is called as",
+    "o": [
+      "Intranet",
+      "Internet",
+      "Telnet",
+      "Extranet"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Process of copying important data to another location to prevent loss is called:",
+    "o": [
+      "Navigation",
+      "Attachment",
+      "Backup",
+      "Spam"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Which software is used for creating letters and documents?",
+    "o": [
+      "MS-PowerPoint",
+      "MS-Word",
+      "MS-Access",
+      "MS-Excel"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Physical component of a computer system is called as",
+    "o": [
+      "High level language",
+      "Software",
+      "Application software",
+      "Hardware"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Records stored one after the other in a particular order is called as",
+    "o": [
+      "Sequential File",
+      "Direct File",
+      "All of these",
+      "Random File"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Uses of Internet are",
+    "o": [
+      "Software sharing",
+      "Online communication",
+      "All of these",
+      "Feedback"
+    ],
+    "a": 2
+  },
+  {
+    "q": "The first mechanical calculating device is",
+    "o": [
+      "ENIAC",
+      "Abacus",
+      "UNIVAC",
+      "Pascaline"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ISP stands for",
+    "o": [
+      "Intranet Server Provider",
+      "Intranet Service Provider",
+      "Internet Server Provider",
+      "Internet Service Provider"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Microsoft Windows is",
+    "o": [
+      "A database program",
+      "An operating system",
+      "A programming language",
+      "A word processor"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Which software helps user to create slide based presentation?",
+    "o": [
+      "MS-Access",
+      "MS-Word",
+      "MS-PowerPoint",
+      "MS-Outlook"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ATM stands for",
+    "o": [
+      "Arithmetic Teller Machine",
+      "Automatic Teller Machine",
+      "Array Teller Machine",
+      "Automated Teller Machine"
+    ],
+    "a": 3
+  },
+  {
+    "q": "WWW stands for",
+    "o": [
+      "Web World Wide",
+      "World Whole Web",
+      "World Wide Web",
+      "Wide World Web"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Brain of any computer system is",
+    "o": [
+      "Memory Unit",
+      "ALU",
+      "Control Unit",
+      "CPU"
+    ],
+    "a": 3
+  },
+  {
+    "q": "In MS-PowerPoint presentation",
+    "o": [
+      "Both cannot be inserted.",
+      "Sound clips can be inserted.",
+      "Both can be inserted.",
+      "Movie clips can be inserted."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Which is the shortcut key to view a complete slideshow in MS-PowerPoint?",
+    "o": [
+      "F2",
+      "F7",
+      "F12",
+      "F5"
+    ],
+    "a": 3
+  },
+  {
+    "q": "The basic unit in spreadsheet is",
+    "o": [
+      "Table",
+      "Worksheet",
+      "Cell",
+      "Workbook"
+    ],
+    "a": 2
+  },
+  {
+    "q": "E-mail stands for",
+    "o": [
+      "Enhanced Mail",
+      "Electrical Mail",
+      "Electric Mail",
+      "Electronic Mail"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Expand Mbps.",
+    "o": [
+      "Mega bits per second",
+      "Mega bytes per second",
+      "Mini bits per second",
+      "Mini bytes per second"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Which of the following is a primary memory?",
+    "o": [
+      "CDROM",
+      "RAM",
+      "EPROM",
+      "ROM"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Which of these is not an output device?",
+    "o": [
+      "Speaker",
+      "Keyboard",
+      "Monitor",
+      "Printer"
+    ],
+    "a": 1
+  },
+  {
+    "q": "What is the extension of Word files?",
+    "o": [
+      ".doc",
+      ".ppt",
+      ".txt",
+      ".dot"
+    ],
+    "a": 0
+  },
+  {
+    "q": "What is the shortcut key to copy the selected information from the document?",
+    "o": [
+      "ctrl+P",
+      "ctrl+V",
+      "ctrl+X",
+      "ctrl+C"
+    ],
+    "a": 3
+  },
+  {
+    "q": "LAN stands for",
+    "o": [
+      "Location Area Network",
+      "Local Area Network",
+      "Localised Area Network",
+      "Land Area Network"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Who is the father of computers?",
+    "o": [
+      "Herman Hollerith",
+      "Blaise Pascal",
+      "Leibniz",
+      "Charles Babbage"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Which of the following is not an input device?",
+    "o": [
+      "Joystick",
+      "Keyboard",
+      "Monitor",
+      "Mouse"
+    ],
+    "a": 2
+  },
+  {
+    "q": "By default we find ______ number of Excel sheets in a workbook.",
+    "o": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "a": 0
+  },
+  {
+    "q": "DVD stands for",
+    "o": [
+      "Digi Versatile Disc",
+      "Digital Video Disk",
+      "Digi Video Disc",
+      "Digital Versatile Disc"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Which of the following is a web browser used for accessing internet?",
+    "o": [
+      "Mozilla Firefox",
+      "Internet Explorer",
+      "All of these",
+      "Google Chrome"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Which of the following is considered the 'Brain' of the computer?",
+    "o": [
+      "RAM",
+      "Hard Disk",
+      "CPU",
+      "Monitor"
+    ],
+    "a": 2
+  },
+  {
+    "q": "What is the full form of 'URL' in the context of the internet?",
+    "o": [
+      "Uniform Resource Locator",
+      "Universal Resource Line",
+      "Unified Radio Link",
+      "User Remote Locator"
+    ],
+    "a": 0
+  },
+  {
+    "q": "In a computer, 1 Gigabyte (GB) is equal to how many Megabytes (MB)?",
+    "o": [
+      "100 MB",
+      "1000 MB",
+      "1024 MB",
+      "1200 MB"
+    ],
+    "a": 2
   }
-  
-     ]
+]
