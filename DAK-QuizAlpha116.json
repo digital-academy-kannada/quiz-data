@@ -1,0 +1,502 @@
+[
+  {
+    "q": "ಬಸವಪ್ಪ ಶಾಸ್ತ್ರಿಗಳು ರಚಿಸಿದ ಕೃತಿಗಳನ್ನು ಗುರುತಿಸಿ: (I) ದಮಯಂತೀ ಚರಿತ್ರೆ (II) ರಾಮಾಶ್ವಮೇಧ (III) ಸಾವಿತ್ರಿ ಚರಿತ್ರೆ (IV) ರಾಮ ಕಥಾವತಾರ",
+    "o": ["(I) and (II)", "(II) and (III)", "(III) and (IV)", "(I) and (III)"],
+    "a": 3
+  },
+  {
+    "q": "Match the following authors with their novels: (a) Gulwadi Venkataraya (b) Vasudevacharya (c) M.S. Puttanna (d) Bolara Babu",
+    "o": ["a-ii, b-i, c-iv, d-iii", "a-i, b-iii, c-ii, d-iv", "a-iii, b-ii, c-i, d-iv", "a-iv, b-iii, c-ii, d-i"],
+    "a": 0
+  },
+  {
+    "q": "The 97th Constitutional Amendment deals with:",
+    "o": ["Nari Vandana Bill", "Co-operative Societies", "Goods and Services Tax", "Official Languages"],
+    "a": 1
+  },
+  {
+    "q": "Consider statements on 'GS NIRNAY app': (i) Launched by Min. of Panchayat Raj (ii) Access to Gram Sabha info (iii) Transparency (iv) Rural empowerment.",
+    "o": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(iii) and (iv) only", "(i), (ii) and (iv) only"],
+    "a": 1
+  },
+  {
+    "q": "Match Food Parks with locations: (a) Innova Agri (b) Green Food (c) Akshaya Food (d) Agro Food",
+    "o": ["a-i, b-ii, c-iii, d-iv", "a-iv, b-i, c-ii, d-iii", "a-iv, b-ii, c-i, d-iii", "a-i, b-iii, c-ii, d-iv"],
+    "a": 1
+  },
+  {
+    "q": "How many pairs are correctly matched? (a) IWMI-Sri Lanka (b) ILRI-Denmark (c) IFPRI-USA (d) CIP-Peru (e) IRRI-Philippines",
+    "o": ["Only two pairs", "Only three pairs", "Only four pairs", "All the pairs"],
+    "a": 2
+  },
+  {
+    "q": "How many of these rescue operations are correctly matched? (a) Indravati-Haiti (b) Ajay-Israel (c) Kaveri-Sudan (d) Sagar Bandhu-Covid (e) Brahma",
+    "o": ["All of them", "Only 4", "Only 3", "Only 2"],
+    "a": 2
+  },
+  {
+    "q": "How many statements regarding the National Song are correct? (a) Composed by Bankim Chandra (b) Sung in 1896 (c) Not for Civil Investitures (d) Played before Anthem",
+    "o": ["All are correct", "Only three", "Only two", "Only one"],
+    "a": 0
+  },
+  {
+    "q": "How many of these are located in India? (a) ICRISAT (b) ICIMOD (c) IRRI (d) CIFOR",
+    "o": ["Only three", "Only two", "Only one", "None"],
+    "a": 2
+  },
+  {
+    "q": "How many components of 'Project Hanuman' (Andhra Pradesh) for human-animal conflict are correct? (Includes AI monitoring, ambulances, digital app)",
+    "o": ["All are correct", "Only five", "Only four", "Only three"],
+    "a": 0
+  },
+  {
+    "q": "Identify the wrongly paired official mascots: (a) Pragati-Census 2027 (b) Prakash-Census 2027 (c) Mauli-Goa 2025 (d) Purvi-Census 2027",
+    "o": ["(b) and (d)", "(b), (c) and (d)", "(a) and (b)", "(a), (b) and (d)"],
+    "a": 0
+  },
+  {
+    "q": "Which statements are correct for Booker Prize 2025? (a) David Szalay (b) Kiran Desai shortlisted (c) Samantha Harvey 'Orbital' (d) Banu Mushtaq 'Heart Lamp'",
+    "o": ["(a), (b) and (c)", "(a), (c) and (d)", "(b) and (d)", "(a) and (b)"],
+    "a": 0
+  },
+  {
+    "q": "The goal of 'Project Kusha' is to design which mobile long range missile system?",
+    "o": ["Anti-tank guided", "Surface-to-surface", "Surface-to-air", "Air-to-air"],
+    "a": 2
+  },
+  {
+    "q": "In April 2026, who was appointed as India's High Commissioner to Bangladesh?",
+    "o": ["Pranay Verma", "Surinder Bhagat", "Vikram Doraiswami", "Dinesh Trivedi"],
+    "a": 1
+  },
+  {
+    "q": "Match Country with President: (a) Germany (b) Brazil (c) Turkey (d) France",
+    "o": ["a-i, b-ii, c-iii, d-iv", "a-iv, b-i, c-ii, d-iii", "a-ii, b-iii, c-i, d-iv", "a-iv, b-iii, c-ii, d-i"],
+    "a": 1
+  },
+  {
+    "q": "Asha Bhosle passed away on 12th April 2026. Which of the following songs was NOT sung by her?",
+    "o": ["Yaara seeli seeli", "Dil Cheez Kya Hai", "Mera Kuch Samaan", "Radha Kaise Na Jale"],
+    "a": 3
+  },
+  {
+    "q": "Identify wrongly matched IT CEO pairs: (a) TCS-Mohit Joshi (b) Infosys-Salil Parekh (c) Wipro-C. Vijayakumar (d) Tech Mahindra-K. Krithivasan",
+    "o": ["(b) and (c)", "(a) and (d)", "Only (a)", "Only (b)"],
+    "a": 1
+  },
+  {
+    "q": "Identify the incorrect statement about Khelo India Tribal Games 2026:",
+    "o": ["(b) and (c)", "(c) Only", "(a) and (c)", "(a), (b), (c) and (d)"],
+    "a": 2
+  },
+  {
+    "q": "Which statements regarding Karnataka Kreeda Koota 2026 are INCORRECT?",
+    "o": ["(c) only", "(d) only", "(b) and (c)", "(a), (b) and (c)"],
+    "a": 1
+  },
+  {
+    "q": "Expand PM-SVA Nidhi:",
+    "o": ["Prime Minister Street Vendor's AtmaNirbhar Nidhi", "Sainik Vikas Nidhi", "Suraksha Vidhi Nidhi", "Skill Vikas Nidhi"],
+    "a": 0
+  },
+  {
+    "q": "The 'Collegium System' is related to:",
+    "o": ["Judicial Review", "Judicial Activism", "Judicial Appointment", "Judicial Powers"],
+    "a": 2
+  },
+  {
+    "q": "Correct statements on Thar Desert: (a) Area 1.75L sq.km (b) 115cm rain (c) Temp >45°C (d) Dunes called Dhrians.",
+    "o": ["(a), (b) and (c)", "(b), (c) and (d)", "(a), (c) and (d)", "(c) and (d)"],
+    "a": 2
+  },
+  {
+    "q": "Correct statements on Karnataka Renewable Energy: (a) Pavagada/Kolar solar (b) Top 3 in Wind (c) Sharavathi PPP hydro.",
+    "o": ["(a) and (b) only", "(b) and (c) only", "(a) and (c) only", "(a), (b) and (c)"],
+    "a": 0
+  },
+  {
+    "q": "Assertion (A): Sharavathi valley is a Tiger Reserve. Reason (R): It forms a corridor between Western and Eastern Ghats.",
+    "o": ["Both A & R correct, R explains A", "Both A & R correct, R no explain", "A correct, R incorrect", "Both incorrect"],
+    "a": 2
+  },
+  {
+    "q": "M1 & M2 finish job in 20 days. If M3 (2*M1) and M4 (1/3*M2) finish same in 12 days, how many days for M1 alone?",
+    "o": ["32 days", "25 days", "50 days", "30 days"],
+    "a": 3
+  },
+  {
+    "q": "Which two elements are combined to form candles?",
+    "o": ["Paraffin wax and Bee wax", "Paraffin wax and Stearic acid", "Bee wax and Fat acids", "Stearic acid and Fat acids"],
+    "a": 1
+  },
+  {
+    "q": "Mangoes shrivel in salt water, flowers revive in fresh water. The reason is:",
+    "o": ["Osmosis and Diffusion", "Osmosis and Sedimentation", "Osmosis only", "Absorption only"],
+    "a": 2
+  },
+  {
+    "q": "Statement-I: Earthquakes occur at fault zones. Statement-II: Prediction of earthquakes is possible.",
+    "o": ["Both correct", "I correct, II incorrect", "I incorrect, II correct", "Both incorrect"],
+    "a": 1
+  },
+  {
+    "q": "Acceleration due to gravity on a planet is independent of:",
+    "o": ["Mass", "Radius", "Density", "Velocity"],
+    "a": 3
+  },
+  {
+    "q": "Gases responsible for tropospheric pollution are:",
+    "o": ["SO2, CO, N2", "NO2, SO2, O2", "SO2, NO, CO", "CO, CO2, H2"],
+    "a": 2
+  },
+  {
+    "q": "Which are the micro-nutrients required in small quantity for plant growth?",
+    "o": ["Boron, Copper, Chlorine, Zinc", "Nitrogen, Potassium, Phosphorus, Iron", "Phosphorus, Iron, Moly, Zinc", "Potassium, Nitrogen, Zinc, Iron"],
+    "a": 0
+  },
+  {
+    "q": "Statutory body dealing with environmental protection cases in India:",
+    "o": ["Supreme Court", "Ministry of Forestry", "Central Env. Protection Board", "National Green Tribunal"],
+    "a": 3
+  },
+  {
+    "q": "Select the correct match for Ozone:",
+    "o": ["Depletion - Earth Summit", "Hole - Arctic", "Bad Ozone - Troposphere", "Good Ozone - Thermosphere"],
+    "a": 2
+  },
+  {
+    "q": "Match electroplating materials: (a) Chromium (b) Silver (c) Tin (d) Zinc",
+    "o": ["a-i, b-ii, c-iii, d-iv", "a-iv, b-iii, c-i, d-ii", "a-iv, b-iii, c-ii, d-i", "a-i, b-iii, c-ii, d-iv"],
+    "a": 1
+  },
+  {
+    "q": "Technique to correct male infertility (low sperm count):",
+    "o": ["Tissue culture", "Cell culture", "Artificial insemination", "Cryopreservation"],
+    "a": 2
+  },
+  {
+    "q": "High speed winds lifting roofs can be explained by:",
+    "o": ["Tyndall effect", "Pascal's law", "Bernoulli's principle", "Stoke's law"],
+    "a": 2
+  },
+  {
+    "q": "In heating water: (b) Hot water rises, cold sinks (c) Cold water moves from sides to heat source.",
+    "o": ["Only statement (a)", "(b), (c) and (d)", "Only (b) and (c)", "Only (b) and (d)"],
+    "a": 2
+  },
+  {
+    "q": "Statement-I: ECG is heart's electrical activity graph. Statement-II: Hypertension is BP lower than 120/80.",
+    "o": ["Both correct", "Both incorrect", "I correct, II incorrect", "I incorrect, II correct"],
+    "a": 2
+  },
+  {
+    "q": "The 'once a week' pill (i) produced at CDRI (ii) is:",
+    "o": ["i-Ratna, ii-Delhi", "i-Jaya, ii-Bangalore", "i-Saheli, ii-Lucknow", "i-Sonalika, ii-Pune"],
+    "a": 2
+  },
+  {
+    "q": "Match Mosquito with Disease: (a) Anopheles (b) Aedes (c) Culex (d) Tsetse fly",
+    "o": ["a-ii, b-i, c-iv, d-iii", "a-iv, b-iii, c-i, d-ii", "a-iv, b-i, c-ii, d-iii", "a-ii, b-iv, c-iii, d-i"],
+    "a": 2
+  },
+  {
+    "q": "Enzymes converting Sugar -> Glucose and Glucose -> Ethyl Alcohol are:",
+    "o": ["Invertase & Lipase", "Amylase & Lipase", "Invertase & Zymase", "Zymase & Amylase"],
+    "a": 2
+  },
+  {
+    "q": "Which properties don't change for a charged particle moving freely in a magnetic field?",
+    "o": ["Mass and Charge", "Mass and Acceleration", "Charge and Velocity", "Acceleration and Momentum"],
+    "a": 0
+  },
+  {
+    "q": "Gases used for storage of fresh oil for a long time:",
+    "o": ["Helium and Nitrogen", "CO2 and Oxygen", "Nitrogen and Oxygen", "CO2 and Helium"],
+    "a": 0
+  },
+  {
+    "q": "Working principle of an electric fuse:",
+    "o": ["Magnetic effect", "Joule's heating effect", "Chemical effect", "Mechanical effect"],
+    "a": 1
+  },
+  {
+    "q": "Regarding Keladi Nayakas: (B) Venkatappa Nayaka defeated Channabhairadevi. (C) They were Vaishnavites.",
+    "o": ["(A) only", "(B) only", "(A) and (C) only", "(B) and (C) only"],
+    "a": 1
+  },
+  {
+    "q": "Meadows Taylor's 'A Noble Queen' details which queen?",
+    "o": ["Chand Bibi", "Channabyradevi", "Rani Durgavathi", "Ahalya Bhai"],
+    "a": 0
+  },
+  {
+    "q": "Regarding 'Gatha-Saptasati': (a) Written by Hala (c) 700 verses (d) Arya metre.",
+    "o": ["(a) only", "(a) and (b)", "(a), (c) and (d)", "(a), (b) and (c)"],
+    "a": 2
+  },
+  {
+    "q": "Identify which is NOT a feature of Hoysala Architecture:",
+    "o": ["Star shaped base", "Used Red sandstone", "Navaranga ceiling", "Pillared hall windows"],
+    "a": 1
+  },
+  {
+    "q": "Which Sikh Guru was titled 'Sachcha Badshah'?",
+    "o": ["Guru Ramdas", "Guru Haragovind", "Guru Harakrishna", "Guru Angada"],
+    "a": 1
+  },
+  {
+    "q": "Incorrect statement regarding Bhakti Movement in South India:",
+    "o": ["(a) and (b) incorrect", "(d) only incorrect", "(b) and (d) incorrect", "(c) only incorrect"],
+    "a": 3
+  },
+  {
+    "q": "Correct statements on Karnataka Unification: (b) JVP for Andhra (c) Fazal Ali = Re-org (d) Fazal Ali 3-member.",
+    "o": ["(a), (b) and (c)", "(b), (c) and (d)", "(a), (b) and (d)", "Only (c) and (d)"],
+    "a": 1
+  },
+  {
+    "q": "Who proposed 'Conspiracy Theory' about INC foundation?",
+    "o": ["R. P. Dutt", "R. C. Dutt", "Lala Lajpat Rai", "Gopal Krishna Gokhale"],
+    "a": 0
+  },
+  {
+    "q": "Chronological order: (a) Paika (b) Kuka (c) Dondia Wagha (d) Velu Thampi.",
+    "o": ["(c), (d), (a), (b)", "(a), (b), (c), (d)", "(a), (c), (d), (b)", "(c), (a), (b), (d)"],
+    "a": 0
+  },
+  {
+    "q": "Correctly matched European settlements: (a) Portuguese-Santhome (c) Dane-Tranquebar (d) French-Mahe.",
+    "o": ["All correct", "(b) and (c)", "(b) and (d)", "(a), (c) and (d)"],
+    "a": 3
+  },
+  {
+    "q": "Match Sufi Saint with Order: (a) Bakhtiyar Kaki (b) Bahauddin (c) Jilani (d) Sarhindi",
+    "o": ["a-ii, b-iii, c-iv, d-i", "a-i, b-ii, c-iii, d-iv", "a-ii, b-i, c-iv, d-iii", "a-iv, b-ii, c-ii, d-i"],
+    "a": 0
+  },
+  {
+    "q": "Correct regarding Vijayanagara trade: (a) Spices exported (b) Bhatkal port (d) Arab/China/Portugal trade.",
+    "o": ["(a), (c) and (d)", "(a), (b) and (d)", "(a), (b), (c) and (d)", "(b), (c) and (d)"],
+    "a": 1
+  },
+  {
+    "q": "Statement (a): Kali Gandak is a tributary of Gandak.",
+    "o": ["(a) only", "(b) only", "Both (a) and (b)", "Neither (a) nor (b)"],
+    "a": 0
+  },
+  {
+    "q": "Correct Indian Ocean current statements: (a) Reversal (b) Half ocean (c) Land locked north.",
+    "o": ["(a) and (b)", "(a), (b) and (d)", "(a), (c) and (d)", "(a), (b) and (c)"],
+    "a": 3
+  },
+  {
+    "q": "Exclusive Economic Zone (EEZ) extends up to:",
+    "o": ["100 Nautical Miles", "12 Nautical Miles", "200 Nautical Miles", "12 km"],
+    "a": 2
+  },
+  {
+    "q": "Karnataka Coastal Plains: (I) Narrower north, broader south. (II) Western Ghats nearer in north.",
+    "o": ["Both correct, II explains I", "Both correct, II no explain", "I correct, II incorrect", "I incorrect, II correct"],
+    "a": 0
+  },
+  {
+    "q": "Correct sequence of Karnataka peaks (highest to lowest):",
+    "o": ["(c), (b), (d), (a)", "(b), (c), (a), (d)", "(b), (c), (d), (a)", "(c), (b), (a), (d)"],
+    "a": 2
+  },
+  {
+    "q": "Imaginary lines joining places of same elevation:",
+    "o": ["Hachures", "Spot Heights", "Contours", "Benchmark"],
+    "a": 2
+  },
+  {
+    "q": "Match Isopleth maps: (a) Isohyets (b) Isobars (c) Isobaths (d) Isohalines",
+    "o": ["a-iii, b-i, c-iv, d-ii", "a-i, b-iii, c-iv, d-ii", "a-ii, b-i, c-iii, d-iv", "a-iv, b-ii, c-iii, d-i"],
+    "a": 0
+  },
+  {
+    "q": "Match Countries with Deserts: (a) Israel (b) Saudi (c) Iran (d) USA",
+    "o": ["a-i, b-ii, c-iii, d-iv", "a-i, b-iii, c-ii, d-iv", "a-ii, b-iv, c-i, d-iii", "a-ii, b-iv, c-iii, d-i"],
+    "a": 2
+  },
+  {
+    "q": "Correct Tiger Reserves: (i) Kaval-Telangana (ii) Bore-Maharashtra (iii) Pench-MP.",
+    "o": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(ii) and (iii)"],
+    "a": 0
+  },
+  {
+    "q": "Which Gram Panchayat duty is NOT mandatory in Karnataka Act 1993?",
+    "o": ["Protect biodiversity", "Promote harmony", "Voter list prep", "Sanction govt land"],
+    "a": 3
+  },
+  {
+    "q": "Which are 'Units of Gram Swaraj' (Section 3)?",
+    "o": ["Schools", "Habitation/Ward/Gram Sabha", "Standing committees", "Health centres"],
+    "a": 1
+  },
+  {
+    "q": "Body of persons registered as voters in a village is:",
+    "o": ["General Body", "Gram Sabha", "Ward Sabha", "Voter list"],
+    "a": 1
+  },
+  {
+    "q": "Correct PM statements: (a) Appointed by President (c) Leader of Lower House (d) Chief spokesperson.",
+    "o": ["All correct", "(a), (c) and (d)", "(a), (b) and (c)", "(b), (c) and (d)"],
+    "a": 1
+  },
+  {
+    "q": "Correct statements about 'calling attention notice':",
+    "o": ["(a), (b), (c) and (d)", "(a), (b) and (c)", "(b), (c) and (d)", "(c), (d) and (a)"],
+    "a": 0
+  },
+  {
+    "q": "Sequence of Law Making in Parliament:",
+    "o": ["Report, Committee, 1st, 2nd, 3rd", "1st, 2nd, 3rd, Committee, Report", "Committee, 1st, 2nd, 3rd, Report", "1st, 2nd, Committee, Report, 3rd"],
+    "a": 3
+  },
+  {
+    "q": "Correct Presidential Bill statements: (a) Assent makes Act (b) Withhold (d) Give assent.",
+    "o": ["(a), (b) and (c)", "(a), (b) and (d)", "(b), (c) and (d)", "(c), (d) and (a)"],
+    "a": 1
+  },
+  {
+    "q": "Correct Youth Parliament statements: (i) Acquaint generation (ii) Discipline (iii) Democratic values (iv) Recommendation of Whips.",
+    "o": ["(i), (ii) and (iii)", "(i), (ii), (iii) and (iv)", "(ii), (iii) and (iv)", "(ii) and (iii)"],
+    "a": 1
+  },
+  {
+    "q": "Legislative Council: (a) 1/3 Local bodies (b) 1/12 Graduates (c) 1/3 MLAs.",
+    "o": ["(a), (b) and (c)", "(b), (c) and (d)", "(a) and (b)", "(c) and (d)"],
+    "a": 0
+  },
+  {
+    "q": "Statement-I: CIC must be MP/MLA. Statement-II: CIC should be eminent in public life.",
+    "o": ["I correct, II wrong", "II correct, I wrong", "Both correct", "Both incorrect"],
+    "a": 1
+  },
+  {
+    "q": "First President (Chairman) of NHRC India:",
+    "o": ["Justice H.L. Dattu", "Justice Ranganatha Mishra", "Justice A.S. Anand", "Justice Arun Mishra"],
+    "a": 1
+  },
+  {
+    "q": "CAG statements: (a) Art 148 Appointed by President (d) Salary from Consolidated Fund.",
+    "o": ["(b) and (d)", "(a) and (c)", "(c) and (d)", "(a) and (d)"],
+    "a": 3
+  },
+  {
+    "q": "Matched Women programs: (a) Sakhi-Comprehensive (b) Santwana-Legal (c) Shakthi Sadan-Trafficking.",
+    "o": ["(a) and (b)", "(c) and (d)", "(a), (b) and (c)", "All correct"],
+    "a": 2
+  },
+  {
+    "q": "Correct NNP formulas: (a) GNP-Depreciation (b) GDP+Income from Abroad-Depreciation.",
+    "o": ["(a) and (b)", "(a) and (c)", "(b) and (c)", "All correct"],
+    "a": 0
+  },
+  {
+    "q": "Higher value of Gender Inequality Index (GII) indicates:",
+    "o": ["Less disparities, more loss", "Less disparities, less loss", "More disparities, more loss", "More disparities, less loss"],
+    "a": 2
+  },
+  {
+    "q": "Karnataka GCC Policy 2024-29: (a) 500 GCCs (b) 3.5L jobs (c) $50B economy contribution.",
+    "o": ["Only (a)", "(a) and (b)", "(a) and (c)", "All correct"],
+    "a": 3
+  },
+  {
+    "q": "First fully metered 'Drink From Tap' river source in Karnataka:",
+    "o": ["Kali", "Krishna", "Cauvery", "Tungabhadra"],
+    "a": 0
+  },
+  {
+    "q": "NSAP-1995 aims at ensuring standards for (a) Aged (b) Widows (c) Disabled.",
+    "o": ["Only (d)", "(a) and (b)", "(a) and (c)", "(a), (b) and (c)"],
+    "a": 3
+  },
+  {
+    "q": "Match Land Reforms (Karnataka): (a) Zamindar (b) Reforms Act (c) Rent Control (d) Tiller owner.",
+    "o": ["a-iv, b-i, c-iii, d-ii", "a-ii, b-i, c-iii, d-iv", "a-iii, b-iv, c-ii, d-i", "a-iv, b-i, c-ii, d-iii"],
+    "a": 0
+  },
+  {
+    "q": "Grain ATM statements: (a) Started by WFP/Karnataka (c) Called 'Annapoorthi'.",
+    "o": ["(a) only", "(b) only", "(a) and (b)", "(a) and (c)"],
+    "a": 3
+  },
+  {
+    "q": "Find the value of sqrt(110 + sqrt(110 + ...)):",
+    "o": ["12", "11", "10", "9"],
+    "a": 1
+  },
+  {
+    "q": "If sqrt(5^3)+sqrt(125)=17.88, value of sqrt(80)+sqrt[6](5)?",
+    "o": ["13.41", "20.46", "21.66", "22.35"],
+    "a": 0
+  },
+  {
+    "q": "Akash truth 45%, Ravi truth 55%. Contradiction percentage?",
+    "o": ["2%", "4%", "1%", "3%"],
+    "a": 1
+  },
+  {
+    "q": "Product of two numbers is 924, difference is 20. Sum of reciprocals?",
+    "o": ["5/16", "16/5", "27/10", "10/27"],
+    "a": 3
+  },
+  {
+    "q": "Least number divided by 5,7,9 leaves remainder 3, but divided by 6 leaves 0?",
+    "o": ["138", "318", "633", "948"],
+    "a": 1
+  },
+  {
+    "q": "A and B differ by 2 yrs. A's father = 3*B. B's father = 4*A. Sum = 107. Ages?",
+    "o": ["9, 10", "8, 9", "9, 12", "9, 11"],
+    "a": 3
+  },
+  {
+    "q": "If UNIVERSE = RLHSCQPC, then AXIOM = ?",
+    "o": ["YVHMK", "XVHLK", "YVHLK", "YVHMJ"],
+    "a": 2
+  },
+  {
+    "q": "600 books (Math:Eng:Soc = 3:2:1). 10% Math, 25% Eng damaged. Total undamaged = 460. Soc in good condition?",
+    "o": ["50", "40", "30", "20"],
+    "a": 3
+  },
+  {
+    "q": "Average weight of 6 patients = 72kg. New patient added, average = 68kg. New weight?",
+    "o": ["54", "44", "45", "55"],
+    "a": 1
+  },
+  {
+    "q": "Startup gives 15% equity to investor, then 8% of remaining to employees. Investor's current share?",
+    "o": ["78.2%", "72.8%", "60.8%", "62.8%"],
+    "a": 1
+  },
+  {
+    "q": "Nihal says: 'She is my sister's mother's only daughter-in-law'. Relation?",
+    "o": ["Mother", "Sister", "Daughter", "Wife"],
+    "a": 3
+  },
+  {
+    "q": "Chaitra saves Rs 2/day. After 100 days, 4% interest for 2 years. Earned interest?",
+    "o": ["10", "16", "12", "20"],
+    "a": 1
+  },
+  {
+    "q": "Cylinder CSA:TSA = 11:18. Base area = 616 cm². Volume?",
+    "o": ["11576", "13552", "12785", "16415"],
+    "a": 1
+  },
+  {
+    "q": "Identify world's 'Father of Co-operative movement':",
+    "o": ["Frederick Nicholos", "Von Raiffeisen and Herr Schutlz", "MacGlagan", "Justice Ranade"],
+    "a": 1
+  },
+  {
+    "q": "Statement-III: Jayanti Patnaik (1992-95) was first President of NCW.",
+    "o": ["I wrong, II and III correct", "I, II correct, III wrong", "I correct, II, III wrong", "All correct"],
+    "a": 0
+  }
+]
