@@ -1,0 +1,497 @@
+[
+  {
+    "q": "Unicode standard is a",
+    "o": ["Keyboard layout", "Software", "Font", "Character encoding system"],
+    "a": 3
+  },
+  {
+    "q": "DOS stands for",
+    "o": ["Dummy Operating System", "DOS Operating System", "Dirty Operating System", "Disk Operating System"],
+    "a": 3
+  },
+  {
+    "q": "What does Ctrl + Z do?",
+    "o": ["Undo the last action", "Redo the last action", "Add a new page", "Paste the contents from clipboard"],
+    "a": 0
+  },
+  {
+    "q": "What is the shortcut key to split a table in MS Word?",
+    "o": ["Ctrl + Alt + Enter", "Ctrl + Shift + Enter", "Alt + Shift + Enter", "Alt + Space + Enter"],
+    "a": 1
+  },
+  {
+    "q": "When a hyperlink is created, Word formats the Web address as",
+    "o": ["Italicized and coloured red", "Italicized and coloured blue", "Underlined and coloured red", "Underlined and coloured blue"],
+    "a": 3
+  },
+  {
+    "q": "Except for the ______ function, a formula with a logical function shows the word 'TRUE' or 'FALSE' as a result.",
+    "o": ["IF", "AND", "OR", "NOT"],
+    "a": 0
+  },
+  {
+    "q": "What does the VLOOKUP function do?",
+    "o": ["Looks up text that contains 'v'", "Checks whether text is the same in one cell as in the next", "Finds related records", "Arranges data in ascending order"],
+    "a": 2
+  },
+  {
+    "q": "The shortcut key to replace data with another in Excel spreadsheet is",
+    "o": ["Ctrl+R", "Ctrl+Shift+R", "Ctrl+H", "Ctrl+N"],
+    "a": 2
+  },
+  {
+    "q": "Which of the following functions is used to find the highest number in a series of numbers?",
+    "o": ["MAX (B1:B3)", "MAXIMUM (B1:B3)", "HIGH (B1:B3)", "HIGHEST (B1:B3)"],
+    "a": 0
+  },
+  {
+    "q": "If the value in A1 is 'MCQ' and in B1 is 'Questions', which function will return 'MCQ@Questions' in cell C1?",
+    "o": ["=A1+\"@\"+B1", "=A1#\"@\"#B1", "=A1&\"@\"&B1", "=A1$\"@\"$B1"],
+    "a": 2
+  },
+  {
+    "q": "You can embed an MS-Organization Chart in a slide by",
+    "o": ["Clicking the object command on the edit menu", "Clicking the organization chart button on the standard toolbar", "Clicking the insert new slide button on the standard toolbar, then double clicking the organization chart button on the formatting toolbar", "Pressing Ctrl+N"],
+    "a": 0
+  },
+  {
+    "q": "The autoshape tool provides",
+    "o": ["Any shapes you want to add on a slide", "Commonly found shapes", "Clipart shapes", "Only 3D shapes"],
+    "a": 1
+  },
+  {
+    "q": "Which of the following provides a means of printing out feature notes with a miniature slide on a printed page?",
+    "o": ["Slide with animation", "Outline view", "Notes page", "Audience handout"],
+    "a": 3
+  },
+  {
+    "q": "The arrangement of elements such as title and subtitle text, pictures, tables, etc. is called",
+    "o": ["Layout", "Presentation", "Design", "Scheme"],
+    "a": 0
+  },
+  {
+    "q": "Which shortcut key inserts a new slide in the current presentation?",
+    "o": ["Ctrl+N", "Ctrl+M", "Ctrl+S", "Ctrl+F"],
+    "a": 1
+  },
+  {
+    "q": "The ______ program compresses large files into a smaller file.",
+    "o": ["WinZip", "WinShrink", "WinStyle", "WinMap"],
+    "a": 0
+  },
+  {
+    "q": "Recently deleted files are stored in",
+    "o": ["Recycle Bin", "Desktop", "Taskbar", "My Computer"],
+    "a": 0
+  },
+  {
+    "q": "Which of the following runs on computer hardware and serves as a platform for other software to run on?",
+    "o": ["Operating System", "Application Software", "System Software", "Program System"],
+    "a": 0
+  },
+  {
+    "q": "To send e-mail, we use",
+    "o": ["MS-Excel", "Outlook Explorer", "HTML", "Netscape Navigator"],
+    "a": 1
+  },
+  {
+    "q": "BIOS is used by",
+    "o": ["Operating System", "Compiler", "Interpreter", "Application Software"],
+    "a": 0
+  },
+  {
+    "q": "According to a survey report, 62% people watch news on doordarshan, 44% people read newspaper and 24% people read newspaper and watch doordarshan both. What percentage of people neither read the newspaper nor watch doordarshan?",
+    "o": ["8%", "18%", "10%", "0%"],
+    "a": 1
+  },
+  {
+    "q": "ಒಂದು ಸರ್ವೆಯ ವರದಿಯಂತೆ ಶೇಕಡ 62ರಷ್ಟು ಜನ ದೂರದರ್ಶನದಲ್ಲಿ ವಾರ್ತೆಯನ್ನು ವೀಕ್ಷಿಸುತ್ತಾರೆ, ಶೇಕಡ 44ರಷ್ಟು ಜನ ದಿನಪತ್ರಿಕೆಯನ್ನು ಓದುತ್ತಾರೆ ಮತ್ತು ಶೇಕಡ 24ರಷ್ಟು ಜನ ದಿನಪತ್ರಿಕೆಯನ್ನು ಓದುತ್ತಾರೆ ಜೊತೆಗೆ ದೂರದರ್ಶನವನ್ನು ವೀಕ್ಷಿಸುತ್ತಾರೆ. ಶೇಕಡ ಎಷ್ಟು ಜನ ದಿನಪತ್ರಿಕೆಯನ್ನು ಓದುವುದಿಲ್ಲ ಮತ್ತು ದೂರರ್ಶನವನ್ನು ವೀಕ್ಷಿಸುವುದಿಲ್ಲ?",
+    "o": ["8%", "18%", "10%", "0%"],
+    "a": 1
+  },
+  {
+    "q": "The sum of the ages of a mother, a daughter and a son is 87 years. What will be the sum of their ages after 8 years?",
+    "o": ["101 years", "110 years", "111 years", "105 years"],
+    "a": 2
+  },
+  {
+    "q": "ತಾಯಿ, ಮಗಳು ಮತ್ತು ಮಗನ ವಯಸ್ಸಿನ ಒಟ್ಟು ಮೊತ್ತ 87 ವರ್ಷ. ಎಂಟು ವರ್ಷಗಳ ನಂತರ ಅವರ ವಯಸ್ಸಿನ ಒಟ್ಟು ಮೊತ್ತವೆಷ್ಟು?",
+    "o": ["101 ವರ್ಷ", "110 ವರ್ಷ", "111 ವರ್ಷ", "105 ವರ್ಷ"],
+    "a": 2
+  },
+  {
+    "q": "Find the missing number in the sequence: 594, 198, ?, 66",
+    "o": ["33", "11", "22", "12"],
+    "a": 2
+  },
+  {
+    "q": "ಚಿತ್ರದಲ್ಲಿ ಬಿಟ್ಟುಹೋಗಿರುವ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: 594, 198, ?, 66",
+    "o": ["33", "11", "22", "12"],
+    "a": 2
+  },
+  {
+    "q": "Find the next number in the series: 99, 82, 18, 11, ?",
+    "o": ["5", "10", "2", "9"],
+    "a": 3
+  },
+  {
+    "q": "ಸರಣಿಯಲ್ಲಿ ಮುಂದಿನ ಸಂಖ್ಯೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ: 99, 82, 18, 11, ?",
+    "o": ["5", "10", "2", "9"],
+    "a": 3
+  },
+  {
+    "q": "Common countries in both QUAD and I2U2 Coalition are",
+    "o": ["India and United States of America", "Japan and Australia", "United Arab Emirates and Israel", "Australia and United Arab Emirates"],
+    "a": 0
+  },
+  {
+    "q": "QUAD ಮತ್ತು I2U2, ಈ ಎರಡು ರಾಷ್ಟ್ರಗಳ ಗುಂಪುಗಳಲ್ಲಿ ಸಮಾನವಾಗಿ ಇರುವ ದೇಶಗಳು",
+    "o": ["ಭಾರತ ಮತ್ತು ಅಮೆರಿಕಾ", "ಜಪಾನ್ ಮತ್ತು ಆಸ್ಟ್ರೇಲಿಯಾ", "ಅರಬ್ ಎಮಿರೇಟ್ಸ್ ಮತ್ತು ಇಸ್ರೇಲ್", "ಆಸ್ಟ್ರೇಲಿಯಾ ಮತ್ತು ಅರಬ್ ಎಮಿರೇಟ್ಸ್"],
+    "a": 0
+  },
+  {
+    "q": "Population density of India (according to 2011 census) is",
+    "o": ["382 persons per sq km", "412 persons per sq km", "473.4 persons per sq km", "324 persons per sq km"],
+    "a": 0
+  },
+  {
+    "q": "Shinzo Abe was the Prime Minister of Japan for how many terms?",
+    "o": ["One term", "Two terms", "Three terms", "Four terms"],
+    "a": 3
+  },
+  {
+    "q": "ಶಿನ್ ಜೊ ಅಬೆ ರವರು ಜಪಾನ್ ದೇಶಕ್ಕೆ ಎಷ್ಟು ಅವಧಿಗೆ ಪ್ರಧಾನಮಂತ್ರಿಯಾಗಿದ್ದರು?",
+    "o": ["ಒಂದು ಅವಧಿ", "ಎರಡು ಅವಧಿ", "ಮೂರು ಅವಧಿ", "ನಾಲ್ಕು ಅವಧಿ"],
+    "a": 3
+  },
+  {
+    "q": "Which of the following statements about carnivorous plants is/are correct? I. Genus Nepenthes capture insects through leaf-evolved pitchers. II. They employ techniques like nectar, smell, and colour to lure prey.",
+    "o": ["I only", "II only", "Both I and II", "Neither I nor II"],
+    "a": 2
+  },
+  {
+    "q": "ಕೆಳಕಂಡ ಹೇಳಿಕೆಗಳನ್ನು ಗಮನಿಸಿ: I. ನೆಪೆಂಥೀಸ್ ಜಾತಿಯ ಮಾಂಸಾಹಾರಿ ಸಸ್ಯಗಳು ಎಲೆ-ವಿಕಸಿತ ಹೂಜಿಗಳ ಮೂಲಕ ಕೀಟಗಳನ್ನು ಸೆರೆಹಿಡಿಯುತ್ತವೆ. II. ಮಾಂಸಾಹಾರಿ ಸಸ್ಯಗಳು ಬೇಟೆಯನ್ನು ಸೆಳೆಯಲು ಮಕರಂದ, ವಾಸನೆ, ಬಣ್ಣಗಳನ್ನು ಬಳಸಿಕೊಳ್ಳುತ್ತವೆ. ಯಾವುದು ಸರಿಯಾಗಿದೆ?",
+    "o": ["I ಮಾತ್ರ", "II ಮಾತ್ರ", "ಎರಡೂ I ಮತ್ತು II", "I ಅಥವಾ II ಎರಡೂ ಅಲ್ಲ"],
+    "a": 2
+  },
+  {
+    "q": "Which Era/Period is correctly matched with its major life event?",
+    "o": ["Cambrian - First Bird", "Mesozoic - Modern Man", "Holocene - Age of Dinosaurs", "Cretaceous/Mesozoic - Age of Dinosaurs"],
+    "a": 3
+  },
+  {
+    "q": "The twinkling of a star is due to",
+    "o": ["Refraction of starlight in the atmosphere", "Reflection of sunlight by stars", "Total internal reflection in the atmosphere", "Fission reaction in stars"],
+    "a": 0
+  },
+  {
+    "q": "ನಕ್ಷತ್ರವೊಂದು ಮಿನುಗುತ್ತಿರುವುದು ಈ ಕಾರಣದಿಂದ:",
+    "o": ["ವಾಯುಮಂಡಲದಲ್ಲಿನ ನಕ್ಷತ್ರದ ಬೆಳಕಿನ ವಕ್ರೀಭವನದಿಂದ", "ಸೂರ್ಯನ ಬೆಳಕು ನಕ್ಷತ್ರಗಳಿಂದ ಪ್ರತಿಫಲನಗೊಳ್ಳುವುದರಿಂದ", "ವಾಯುಮಂಡಲದಲ್ಲಿನ ಒಟ್ಟಾರೆ ಆಂತರಿಕ ಪ್ರತಿಫಲನ", "ನಕ್ಷತ್ರಗಳಲ್ಲಿ ವಿದಳನ ಪ್ರತಿಕ್ರಿಯೆ"],
+    "a": 0
+  },
+  {
+    "q": "The progressive accumulation of non-degradable pesticides at each higher trophic level in a food chain is known as",
+    "o": ["Bio-degradation", "Bio-remediation", "Bio-magnification", "Bio-trophication"],
+    "a": 2
+  },
+  {
+    "q": "ಕೀಟನಾಶಕಗಳಾಗಿ ಬಳಸುವ ರಾಸಾಯನಿಕಗಳು ಕ್ರಮೇಣ ಪ್ರತಿ ಟ್ರೋಫಿಕ್ ಹಂತದಲ್ಲಿ ಸಂಚಯಿಸಿ ಗರಿಷ್ಟ ಪ್ರಮಾಣ ತಲುಪುವ ವಿದ್ಯಮಾನವನ್ನು ಹೀಗೆ ಕರೆಯಲಾಗಿದೆ:",
+    "o": ["ಜೈವಿಕ-ವಿಘಟನೆ", "ಜೈವಿಕ-ಪರಿಹಾರ", "ಜೈವಿಕ-ವರ್ಧನೆ", "ಜೈವಿಕ-ಟ್ರೋಫೀಕೇಶನ್"],
+    "a": 2
+  },
+  {
+    "q": "Chemical energy in cells is generated by",
+    "o": ["Ribosomes", "Endoplasmic Reticulum", "Mitochondria", "Golgi Bodies"],
+    "a": 2
+  },
+  {
+    "q": "ಜೀವಕೋಶಗಳಲ್ಲಿ ರಾಸಾಯನಿಕ ಶಕ್ತಿಯು ಇದರಿಂದ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ:",
+    "o": ["ರೈಬೋಸೋಮ್‌ಗಳು", "ಎಂಡೋಪ್ಲಾಸ್ಮಿಕ್ ರೆಟಿಕ್ಯುಲಮ್", "ಮೈಟೋಕಾಂಡ್ರಿಯಾ", "ಗಾಲ್ಗಿ ಸಂಕೀರ್ಣಗಳು"],
+    "a": 2
+  },
+  {
+    "q": "Which of the following is not a 'Credit rating agency' operating in India?",
+    "o": ["CRISIL", "ICRA", "IRCI", "CARE"],
+    "a": 2
+  },
+  {
+    "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಭಾರತದಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿರುವ 'ಕ್ರೆಡಿಟ್ ರೇಟಿಂಗ್ ಏಜೆನ್ಸಿ' ಅಲ್ಲ?",
+    "o": ["CRISIL", "ICRA", "IRCI", "CARE"],
+    "a": 2
+  },
+  {
+    "q": "'FEMA' was introduced in the year 1999 to replace an earlier Act called",
+    "o": ["FEPA", "FENA", "FERA", "FETA"],
+    "a": 2
+  },
+  {
+    "q": "1999ರ ವರ್ಷದಲ್ಲಿ 'FEMA' ವನ್ನು ಯಾವ ಹಿಂದಿನ ಕಾಯಿದೆಯ ಬದಲಾಗಿ ಪರಿಚಯಿಸಲಾಯಿತೆಂದರೆ:",
+    "o": ["FEPA", "FENA", "FERA", "FETA"],
+    "a": 2
+  },
+  {
+    "q": "Which scheme did the Government of Karnataka announce to reintroduce for providing quality medical facilities to farmers in its 2022-23 Budget?",
+    "o": ["Anugraha Koduge Programme", "Namma Clinics", "Punyakoti Dattu Yojane", "Yashaswini Yojane"],
+    "a": 3
+  },
+  {
+    "q": "ಕರ್ನಾಟಕ ಸರ್ಕಾರವು ತನ್ನ 2022-23ರ ಆಯವ್ಯಯ ಪತ್ರದಲ್ಲಿ ರೈತರಿಗೆ ಉತ್ತಮ ವೈದ್ಯಕೀಯ ಸೌಕರ್ಯಗಳನ್ನು ಒದಗಿಸುವುದಕ್ಕಾಗಿ ಮರುಜಾರಿಗೊಳಿಸಲು ಘೋಷಿಸಿದ ಯೋಜನೆ ಯಾವುದು?",
+    "o": ["ಅನುಗ್ರಹ ಕೊಡುಗೆ ಯೋಜನೆ", "ನಮ್ಮ ಕ್ಲಿನಿಕ್", "ಪುಣ್ಯಕೋಟಿ ದತ್ತು ಯೋಜನೆ", "ಯಶಸ್ವಿನಿ ಯೋಜನೆ"],
+    "a": 3
+  },
+  {
+    "q": "Which of the following pairings of Agricultural Revolution and its product is correct?",
+    "o": ["Green Revolution - Food grains Production", "White Revolution - Marine Production", "Blue Revolution - Oil seeds Production", "Yellow Revolution - Milk Production"],
+    "a": 0
+  },
+  {
+    "q": "In the context of Pradhan Mantri Kaushal Vikas Yojana, which statement is true? I. It is a flagship scheme of Ministry of Skill Development. II. It imparts training in soft skills and digital literacy.",
+    "o": ["I only", "II only", "Both I and II", "Neither I nor II"],
+    "a": 2
+  },
+  {
+    "q": "In the year 2021, the largest share of Indian imports came from",
+    "o": ["USA", "China", "England", "UAE"],
+    "a": 1
+  },
+  {
+    "q": "2021ನೇ ವರ್ಷದಲ್ಲಿ ಭಾರತದ ಆಮದುಗಳ ಅತಿ ದೊಡ್ಡ ಪಾಲು ಬಂದಿರುವುದು ಎಲ್ಲಿಂದ?",
+    "o": ["ಯು ಎಸ್ ಎ", "ಚೀನಾ", "ಇಂಗ್ಲೆಂಡ್", "ಯು ಎ ಇ"],
+    "a": 1
+  },
+  {
+    "q": "The archaeologist who discovered the earliest stone hand axe in Karnataka was",
+    "o": ["Robert Bruce Foote", "Dr. Wheeler", "Dr. Primrose", "Dr. Allechin"],
+    "a": 2
+  },
+  {
+    "q": "ಕರ್ನಾಟಕದಲ್ಲಿ ಅತೀ ಪ್ರಾಚೀನವಾದ ಕಲ್ಲಿನ ಕೊಡಲಿಯನ್ನು ಕಂಡುಹಿಡಿದ ಪುರಾತತ್ವ ಶಾಸ್ತ್ರಜ್ಞ ಯಾರು?",
+    "o": ["ರಾಬರ್ಟ್ ಬ್ರೂಸ್ ಫೂಟ್", "ಡಾ. ವೀಲರ್", "ಡಾ. ಪ್ರೈಮ್ ರೋಸ್", "ಡಾ. ಅಲ್ಚಿನ್"],
+    "a": 2
+  },
+  {
+    "q": "Which of the following dynasties is correctly paired with its founder?",
+    "o": ["Gangas - Konganivarma", "Kadambas - Sala", "Rashtrakutas - Mayura Varma", "Hoysalas - Dantidurga"],
+    "a": 0
+  },
+  {
+    "q": "The chronological order in which the Europeans relinquished their authority in India was",
+    "o": ["British, French, Dutch, Portuguese", "Portuguese, British, French, Dutch", "Dutch, British, Portuguese, French", "Dutch, British, French, Portuguese"],
+    "a": 3
+  },
+  {
+    "q": "'Rast Goftar' (Truth Teller) was a journal started by",
+    "o": ["Dadabhai Naoroji", "Pherozeshah Mehta", "Raja Ram Mohan Roy", "Dinshaw Wacha"],
+    "a": 0
+  },
+  {
+    "q": "The State cannot put restrictions on the freedom of formation of Association on grounds of",
+    "o": ["Public mortality", "Public order", "Sovereignty and integrity of India", "Public health and convenience"],
+    "a": 3
+  },
+  {
+    "q": "Who appoints the Chief Election Commissioner of India?",
+    "o": ["The Chief Justice of India", "The President", "The Prime Minister", "The Parliament"],
+    "a": 1
+  },
+  {
+    "q": "What is the shortcut key to Center align the text in MS Word?",
+    "o": ["Ctrl + C", "Ctrl + E", "Ctrl + L", "Ctrl + R"],
+    "a": 1
+  },
+  {
+    "q": "Which computer memory is volatile in nature?",
+    "o": ["ROM", "RAM", "PROM", "EEPROM"],
+    "a": 1
+  },
+  {
+    "q": "Which protocol is used to securely transfer files over the internet?",
+    "o": ["HTTP", "FTP", "SFTP", "SMTP"],
+    "a": 2
+  },
+  {
+    "q": "In MS Excel, the intersection of a row and a column is called a:",
+    "o": ["Grid", "Cell", "Table", "Box"],
+    "a": 1
+  },
+  {
+    "q": "Which components of CPU performs arithmetic calculations?",
+    "o": ["Control Unit", "ALU", "Memory Unit", "Registers"],
+    "a": 1
+  },
+  {
+    "q": "The standard protocol suite used for the Internet is:",
+    "o": ["TCP/IP", "SMTP", "FTP", "HTTP"],
+    "a": 0
+  },
+  {
+    "q": "A collection of 8 bits is called a:",
+    "o": ["Nibble", "Byte", "Word", "Kilobyte"],
+    "a": 1
+  },
+  {
+    "q": "Which extension represents an MS PowerPoint presentation file?",
+    "o": [".docx", ".xlsx", ".pptx", ".txt"],
+    "a": 2
+  },
+  {
+    "q": "What is the shortcut key to print a document in MS Word?",
+    "o": ["Ctrl + P", "Ctrl + S", "Ctrl + I", "Ctrl + N"],
+    "a": 0
+  },
+  {
+    "q": "Malicious software designed to cause damage to a computer system is called:",
+    "o": ["Hardware", "Shareware", "Malware", "Firmware"],
+    "a": 2
+  },
+  {
+    "q": "Who is known as the Father of Indian Constitution?",
+    "o": ["Mahatma Gandhi", "Dr. B.R. Ambedkar", "Jawaharlal Nehru", "Dr. Rajendra Prasad"],
+    "a": 1
+  },
+  {
+    "q": "ಭಾರತದ ಸಂವಿಧಾನದ ಪಿತಾಮಹ ಎಂದು ಯಾರನ್ನು ಕರೆಯಲಾಗುತ್ತದೆ?",
+    "o": ["ಮಹಾತ್ಮ ಗಾಂಧಿ", "ಡಾ. ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕರ್", "ಜವಾಹರಲಾಲ್ ನೆಹರು", "ಡಾ. ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್"],
+    "a": 1
+  },
+  {
+    "q": "Which river is famously known as the 'Dakshin Ganga'?",
+    "o": ["Krishna", "Cauvery", "Godavari", "Narmada"],
+    "a": 2
+  },
+  {
+    "q": "ಯಾವ ನದಿಯನ್ನು 'ದಕ್ಷಿಣ ಗಂಗಾ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+    "o": ["ಕೃಷ್ಣಾ", "ಕಾವೇರಿ", "ಗೋದಾವರಿ", "ನರ್ಮದಾ"],
+    "a": 2
+  },
+  {
+    "q": "The fundamental rights of Indian citizens are contained in which part of the Constitution?",
+    "o": ["Part II", "Part III", "Part IV", "Part V"],
+    "a": 1
+  },
+  {
+    "q": "ಭಾರತೀಯ ನಾಗರಿಕರ ಮೂಲಭೂತ ಹಕ್ಕುಗಳು ಸಂವಿಧಾನದ ಯಾವ ಭಾಗದಲ್ಲಿವೆ?",
+    "o": ["ಭಾಗ II", "ಭಾಗ III", "ಭಾಗ IV", "ಭಾಗ V"],
+    "a": 1
+  },
+  {
+    "q": "Who was the first female Prime Minister of India?",
+    "o": ["Pratibha Patil", "Indira Gandhi", "Sarojini Naidu", "Sushma Swaraj"],
+    "a": 1
+  },
+  {
+    "q": "ಭಾರತದ ಮೊದಲ ಮಹಿಳಾ ಪ್ರಧಾನಮಂತ್ರಿ ಯಾರು?",
+    "o": ["ಪ್ರತಿಭಾ ಪಾಟೀಲ್", "ಇಂದಿರಾ ಗಾಂಧಿ", "ಸರೋಜಿನಿ ನಾಯ್ಡು", "ಸುಷ್ಮಾ ಸ್ವರಾಜ್"],
+    "a": 1
+  },
+  {
+    "q": "Where is the headquarters of the Indian Space Research Organisation (ISRO) located?",
+    "o": ["Mumbai", "New Delhi", "Bengaluru", "Chennai"],
+    "a": 2
+  },
+  {
+    "q": "ಭಾರತೀಯ ಬಾಹ್ಯಾಕಾಶ ಸಂಶೋಧನಾ ಸಂಸ್ಥೆಯ (ISRO) ಪ್ರಧಾನ ಕಚೇರಿ ಎಲ್ಲಿದೆ?",
+    "o": ["ಮುಂಬೈ", "ನವದೆಹಲಿ", "ಬೆಂಗಳೂರು", "ಚೆನ್ನೈ"],
+    "a": 2
+  },
+  {
+    "q": "Which gas is most abundant in the Earth's atmosphere?",
+    "o": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+    "a": 3
+  },
+  {
+    "q": "ಭೂಮಿಯ ವಾಯುಮಂಡಲದಲ್ಲಿ ಅತ್ಯಂತ ಹೆಚ್ಚಿನ ಪ್ರಮಾಣದಲ್ಲಿರುವ ಅನಿಲ ಯಾವುದು?",
+    "o": ["ಆಮ್ಲಜನಕ", "ಹೈಡ್ರೋಜನ್", "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್", "ಸಾರಜನಕ"],
+    "a": 3
+  },
+  {
+    "q": "What is the capital city of Karnataka?",
+    "o": ["Mysuru", "Hubballi", "Bengaluru", "Mangaluru"],
+    "a": 2
+  },
+  {
+    "q": "ಕರ್ನಾಟಕದ ರಾಜಧಾನಿ ನಗರ ಯಾವುದು?",
+    "o": ["ಮೈಸೂರು", "ಹುಬ್ಬಳ್ಳಿ", "ಬೆಂಗಳೂರು", "ಮಂಗಳೂರು"],
+    "a": 2
+  },
+  {
+    "q": "Which planet is known as the Red Planet?",
+    "o": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "a": 1
+  },
+  {
+    "q": "ಯಾವ ಗ್ರಹವನ್ನು ಕೆಂಪು ಗ್ರಹ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+    "o": ["ಶುಕ್ರ", "ಮಂಗಳ", "ಗುರು", "ಶನಿ"],
+    "a": 1
+  },
+  {
+    "q": "The deficiency of Vitamin Vitamin A causes which disease?",
+    "o": ["Scurvy", "Rickets", "Night Blindness", "Beriberi"],
+    "a": 2
+  },
+  {
+    "q": "ವಿಟಮಿನ್ 'ಎ' ಕೊರತೆಯಿಂದ ಯಾವ ರೋಗ ಬರುತ್ತದೆ?",
+    "o": ["ಸ್ಕರ್ವಿ", "ರಿಕೆಟ್ಸ್", "ಇರುಳು ಕುರುಡುತನ", "ಬೆರಿಬೆರಿ"],
+    "a": 2
+  },
+  {
+    "q": "Who wrote the national anthem of India?",
+    "o": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Subhash Chandra Bose", "Mahatma Gandhi"],
+    "a": 1
+  },
+  {
+    "q": "ಭಾರತದ ರಾಷ್ಟ್ರಗೀತೆಯನ್ನು ಬರೆದವರು ಯಾರು?",
+    "o": ["ಬಂಕಿಮ ಚಂದ್ರ ಚಟರ್ಜಿ", "ರವೀಂದ್ರನಾಥ ಠಾಗೋರ್", "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್", "ಮಹಾತ್ಮ ಗಾಂಧಿ"],
+    "a": 1
+  },
+  {
+    "q": "Which state is known as the 'Spices Garden of India'?",
+    "o": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh"],
+    "a": 1
+  },
+  {
+    "q": "ಯಾವ ರಾಜ್ಯವನ್ನು 'ಭಾರತದ ಸಾಂಬಾರ ಪದಾರ್ಥಗಳ ತೋಟ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+    "o": ["ಕರ್ನಾಟಕ", "ಕೇರಳ", "ತಮಿಳುನಾಡು", "ಆಂಧ್ರಪ್ರದೇಶ"],
+    "a": 1
+  },
+  {
+    "q": "What is the currency of Japan?",
+    "o": ["Yuan", "Won", "Yen", "Dollar"],
+    "a": 2
+  },
+  {
+    "q": "ಜಪಾನ್ ದೇಶದ ಕರೆನ್ಸಿ ಯಾವುದು?",
+    "o": ["ಯುವಾನ್", "ವೋನ್", "ಯೆನ್", "ಡಾಲರ್"],
+    "a": 2
+  },
+  {
+    "q": "Which instrument is used to measure atmospheric pressure?",
+    "o": ["Thermometer", "Barometer", "Hydrometer", "Anemometer"],
+    "a": 1
+  },
+  {
+    "q": "ವಾಯುಮಂಡಲದ ಒತ್ತಡವನ್ನು ಅಳೆಯಲು ಯಾವ ಉಪಕರಣವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+    "o": ["ಥರ್ಮಾಮೀಟರ್", "ಬಾರೋಮೀಟರ್", "ಹೈಡ್ರೋಮೀಟರ್", "ಅನಿಮೋಮೀಟರ್"],
+    "a": 1
+  },
+  {
+    "q": "Who was the founder of the Vijayanagara Empire?",
+    "o": ["Harihara and Bukka", "Krishnadevaraya", "Raja Raja Chola", "Pulakeshin II"],
+    "a": 0
+  },
+  {
+    "q": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಸ್ಥಾಪಕರು ಯಾರು?",
+    "o": ["ಹರಿಹರ ಮತ್ತು ಬುಕ್ಕ", "ಕೃಷ್ಣದೇವರಾಯ", "ರಾಜ ರಾಜ ಚೋಳ", "ಇಮ್ಮಡಿ ಪುಲಕೇಶಿ"],
+    "a": 0
+  },
+  {
+    "q": "Light year is a unit of measurement of:",
+    "o": ["Time", "Distance", "Speed", "Intensity of Light"],
+    "a": 1
+  },
+  {
+    "q": "ಬೆಳಕಿನ ವರ್ಷ (Light year) ಯಾವುದರ ಅಳತೆಯ ಘಟಕವಾಗಿದೆ?",
+    "o": ["ಸಮಯ", "ದೂರ", "ವೇಗ", "ಬೆಳಕಿನ ತೀವ್ರತೆ"],
+    "a": 1
+  }
+]
