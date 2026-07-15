@@ -1,0 +1,502 @@
+[
+  {
+    "q": "ಪಲ್ಲವ ರಾಜವಂಶದ ಸ್ಥಾಪಕರು ಯಾರು? (Who founded the Pallava dynasty?)",
+    "o": [
+      "ಮಹೇಂದ್ರವರ್ಮನ್ I (Mahendravarman I)",
+      "ನರಸಿಂಹವರ್ಮನ್ I (Narasimhavarman I)",
+      "ವಿಷ್ಣುಗೋಪ (Vishnugopa)",
+      "ಸಿಂಹವಿಷ್ಣು (Simhavishnu)"
+    ],
+    "a": 3
+  },
+  {
+    "q": "ಪಲ್ಲವರು ತಮ್ಮ ರಾಜಧಾನಿಯನ್ನು ಎಲ್ಲಿ ಸ್ಥಾಪಿಸಿದರು? (Where did the Pallavas establish their capital?)",
+    "o": [
+      "ಕಾಂಚೀಪುರಂ (Kanchipuram)",
+      "ಮಾಮಲ್ಲಪುರಂ (Mamallapuram)",
+      "ತಂಜಾವೂರು (Thanjavur)",
+      "ವಾತಾಪಿ (Vatapi)"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ಮಹೇಂದ್ರವರ್ಮನ್ I ರ ಸಮಯದಲ್ಲಿ ಪಲ್ಲವರು ಮತ್ತು ಚಾಳುಕ್ಯರ ನಡುವಿನ ಪ್ರಸಿದ್ಧ ಯುದ್ಧವು ನಡೆದ ಸ್ಥಳ ಯಾವುದು? (At which place did the famous battle between the Pallavas and Chalukyas take place during Mahendravarman I's time?)",
+    "o": [
+      "ತಲಕಾಡು (Talakadu)",
+      "ವಾತಾಪಿ (Vatapi)",
+      "ಪುಲ್ಲಲೂರು (Pullalur)",
+      "ಮಾಮಲ್ಲಪುರಂ (Mamallapuram)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ನರಸಿಂಹವರ್ಮನ್ I ತನ್ನ ವಿಜಯದ ನಂತರ ಯಾವ ಬಿರುದನ್ನು ಧರಿಸಿದನು? (Which title did Narasimhavarman I assume after his victory?)",
+    "o": [
+      "ರಾಜಸಿಂಹ (Rajasimha)",
+      "ಮಹಾಮಲ್ಲ (Mamalla)",
+      "ಭಾರತೇಶ (Bharatesha)",
+      "ವಾತಾಪಿಕೊಂಡ (Vatapikonda)"
+    ],
+    "a": 3
+  },
+  {
+    "q": "ಮಾಮಲ್ಲಪುರಂನಲ್ಲಿರುವ 'ತೀರದ ದೇವಾಲಯ' (Shore Temple) ಯಾವ ಪಲ್ಲವ ಅರಸನ ಕಾಲದಲ್ಲಿ ನಿರ್ಮಿಸಲ್ಪಟ್ಟಿತು? (During whose reign was the 'Shore Temple' at Mamallapuram built?)",
+    "o": [
+      "ನರಸಿಂಹವರ್ಮನ್ I (Narasimhavarman I)",
+      "ರಾಜಸಿಂಹ / ನರಸಿಂಹವರ್ಮನ್ II (Rajasimha / Narasimhavarman II)",
+      "ಮಹೇಂದ್ರವರ್ಮನ್ I (Mahendravarman I)",
+      "ನಂದಿವರ್ಮನ್ II (Nandivarman II)"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ಪಲ್ಲವರ ಪ್ರಸಿದ್ಧ 'ಕೈಲಾಸನಾಥ ದೇವಾಲಯ' (Kailasanatha Temple) ಎಲ್ಲಿದೆ? (Where is the famous Pallava 'Kailasanatha Temple' located?)",
+    "o": [
+      "ಮಾಮಲ್ಲಪುರಂ (Mamallapuram)",
+      "ತಂಜಾವೂರು (Thanjavur)",
+      "ವಾತಾಪಿ (Vatapi)",
+      "ಕಾಂಚೀಪುರಂ (Kanchipuram)"
+    ],
+    "a": 3
+  },
+  {
+    "q": "ಚಾಳುಕ್ಯ ರಾಜವಂಶದ ಸ್ಥಾಪಕರು ಯಾರು? (Who founded the Chalukya dynasty?)",
+    "o": [
+      "ಪುಲಕೇಶಿ II (Pulakeshi II)",
+      "ಪುಲಕೇಶಿ I (Pulakeshi I)",
+      "ವಿಕ್ರಮಾದಿತ್ಯ I (Vikramaditya I)",
+      "ಜಯಸಿಂಹ (Jayasimha)"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ಚಾಳುಕ್ಯರ ರಾಜಧಾನಿಯು ಎಲ್ಲಿತ್ತು? (What was the capital of the Chalukyas?)",
+    "o": [
+      "ಕಾಂಚೀಪುರಂ (Kanchipuram)",
+      "ವಾತಾಪಿ / ಬಾದಾಮಿ (Vatapi / Badami)",
+      "ಮಾಮಲ್ಲಪುರಂ (Mamallapuram)",
+      "ತಲಕಾಡು (Talakadu)"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ಪುಲಕೇಶಿ II ನ ಪ್ರಸಿದ್ಧ ಐಹೊಳೆ ಶಾಸನವು (Aihole Inscription) ಯಾರಿಂದ ರಚಿಸಲ್ಪಟ್ಟಿತು? (Who composed Pulakeshi II's famous Aihole inscription?)",
+    "o": [
+      "ರವಿಕೀರ್ತಿ (Ravikirti)",
+      "ಕಾಳಿದಾಸ (Kalidasa)",
+      "ಭಾರವಿ (Bharavi)",
+      "ದಂಡಿ (Dandi)"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ಹರ್ಷವರ್ಧನ ಮತ್ತು ಪುಲಕೇಶಿ II ರ ನಡುವಿನ ಯುದ್ಧವು ಯಾವ ನದಿಯ ದಡದಲ್ಲಿ ನಡೆಯಿತು? (On which river bank did the battle between Harshavardhana and Pulakeshi II take place?)",
+    "o": [
+      "ಗಂಗಾ (Ganga)",
+      "ಕಾವೇರಿ (Kaveri)",
+      "ನರ್ಮದಾ (Narmada)",
+      "ಗೋದಾವರಿ (Godavari)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ಪುಲಕೇಶಿ II ರ 'ಪರಮೇಶ್ವರ' ಎಂಬ ಬಿರುದು ಯಾವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ? (What does Pulakeshi II's title 'Parameshvara' indicate?)",
+    "o": [
+      "ಅವನು ಬೌದ್ಧಧರ್ಮದ ಅನುಯಾಯಿ (He was a Buddhist)",
+      "ಅವನು ಪರಮ ಶಿವ ಭಕ್ತ (He was a supreme devotee of Shiva)",
+      "ಅವನು ಸರ್ವೋಚ್ಚ ಪ್ರಭು ಎಂದು ಪರಿಗಣಿಸಲ್ಪಟ್ಟನು (He was considered the supreme lord)",
+      "ಅವನು ಜೈನ ಧರ್ಮವನ್ನು ಅನುಸರಿಸಿದನು (He followed Jainism)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ಪಲ್ಲವ-ಚಾಳುಕ್ಯ ದ್ವಂದ್ವಯುದ್ಧವು ಸುಮಾರು ಎಷ್ಟು ವರ್ಷಗಳ ಕಾಲ ನಡೆಯಿತು? (Approximately how many years did the Pallava-Chalukya rivalry last?)",
+    "o": [
+      "50 ವರ್ಷಗಳು (50 years)",
+      "100 ವರ್ಷಗಳು (100 years)",
+      "200 ವರ್ಷಗಳು (200 years)",
+      "300 ವರ್ಷಗಳು (300 years)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ಚಾಳುಕ್ಯರ 'ಚಾಳುಕ್ಯ ಶಕೆ' (Chalukya Era) ಯಾವ ವರ್ಷದಲ್ಲಿ ಪ್ರಾರಂಭವಾಯಿತು? (In which year did the 'Chalukya Era' begin?)",
+    "o": [
+      "550 AD",
+      "543 AD",
+      "600 AD",
+      "610 AD"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ರಾಷ್ಟ್ರಕೂಟ ರಾಜವಂಶದ ಸ್ಥಾಪಕರು ಯಾರು? (Who founded the Rashtrakuta dynasty?)",
+    "o": [
+      "ಅಮೋಘವರ್ಷ I (Amoghavarsha I)",
+      "ದಂತಿದುರ್ಗ (Dantidurga)",
+      "ಕೃಷ್ಣ I (Krishna I)",
+      "ಇಂದ್ರ III (Indra III)"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ರಾಷ್ಟ್ರಕೂಟರ ರಾಜಧಾನಿಯು ಎಲ್ಲಿತ್ತು? (What was the capital of the Rashtrakutas?)",
+    "o": [
+      "ವಾತಾಪಿ (Vatapi)",
+      "ಕಾಂಚೀಪುರಂ (Kanchipuram)",
+      "ತಲಕಾಡು (Talakadu)",
+      "ಮಾನ್ಯಖೇಟ / ಮಳಖೇಡ (Manyakheta / Malkhed)"
+    ],
+    "a": 3
+  },
+  {
+    "q": "ಏಳನೇ ಶತಮಾನದಲ್ಲಿ ಯಾರು ಚೀನಾದ ಪ್ರಯಾಣಿಕರಾಗಿ ಕಾಂಚೀಪುರಂಗೆ ಭೇಟಿ ನೀಡಿದರು? (Who visited Kanchipuram as a Chinese traveler in the 7th century?)",
+    "o": [
+      "ಫಾ-ಹಿಯನ್ (Fa-Hien)",
+      "ಇ-ತ್ಸಿಂಗ್ (I-Tsing)",
+      "ಹ್ಯೂಯೆನ್-ತ್ಸಾಂಗ್ (Hiuen-Tsang)",
+      "ಮಾರ್ಕೋ ಪೋಲೋ (Marco Polo)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ಪಲ್ಲವರ ಕಾಲದಲ್ಲಿ ಕಾಂಚೀಪುರಂ ಯಾವುದಕ್ಕೆ ಪ್ರಸಿದ್ಧವಾಗಿತ್ತು? (What was Kanchipuram famous for during the Pallava period?)",
+    "o": [
+      "ಕೈಗಾರಿಕಾ ಕೇಂದ್ರ (Industrial center)",
+      "ಬೌದ್ಧಿಕ ಮತ್ತು ಧಾರ್ಮಿಕ ಕೇಂದ್ರ (Intellectual and religious center)",
+      "ವಾಣಿಜ್ಯ ಕೇಂದ್ರ (Commercial center)",
+      "ಮಿಲಿಟರಿ ಕೇಂದ್ರ (Military center)"
+    ],
+    "a": 1
+  },
+  {
+    "q": "'ಕೈಲಾಸನಾಥ' ದೇವಾಲಯದ ವಾಸ್ತುಶಿಲ್ಪವು ಯಾವ ಶೈಲಿಗೆ ಸೇರಿದೆ? (Which architectural style does the 'Kailasanatha' temple belong to?)",
+    "o": [
+      "ದ್ರಾವಿಡ ಶೈಲಿ (Dravidian style)",
+      "ನಾಗರ ಶೈಲಿ (Nagara style)",
+      "ವೇಸರ ಶೈಲಿ (Vesara style)",
+      "ಗಾಂಧಾರ ಶೈಲಿ (Gandhara style)"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ರಾಷ್ಟ್ರಕೂಟ ಕೃಷ್ಣ I ರ ಕಾಲದಲ್ಲಿ ನಿರ್ಮಿಸಲ್ಪಟ್ಟ ಪ್ರಸಿದ್ಧ ಏಕಶಿಲಾ ದೇವಾಲಯ ಯಾವುದು? (Which famous monolithic temple was built during the time of Rashtrakuta Krishna I?)",
+    "o": [
+      "ಬೃಹದೀಶ್ವರ ದೇವಾಲಯ (Brihadeeswara temple)",
+      "ತೀರದ ದೇವಾಲಯ (Shore temple)",
+      "ಕೈಲಾಸ ದೇವಾಲಯ - ಎಲ್ಲೋರಾ (Kailasa temple - Ellora)",
+      "ಹೊಯ್ಸಳೇಶ್ವರ ದೇವಾಲಯ (Hoysaleshwara temple)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ರಾಷ್ಟ್ರಕೂಟ ಅರಸ ಅಮೋಘವರ್ಷ I ರ ಸ್ವಂತ ಕೃತಿಯಾವುದು? (What is the famous work written by Rashtrakuta king Amoghavarsha I?)",
+    "o": [
+      "ಕಾವ್ಯಾಲಂಕಾರ (Kavyalamkara)",
+      "ಕವಿರಾಜಮಾರ್ಗ (Kavirajamarga)",
+      "ಅಮೋಘವೃತ್ತಿ (Amoghavritti)",
+      "ಪ್ರಶ್ನೋತ್ತರ ರತ್ನಮಾಲಿಕಾ (Prashnottara Ratnamalika)"
+    ],
+    "a": 3
+  },
+  {
+    "q": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಸ್ಥಾಪಿಸಿದವರು ಯಾರು? (Who founded the Vijayanagara Empire?)",
+    "o": [
+      "ಹಕ್ಕ (ಹರಿಹರ) ಮತ್ತು ಬುಕ್ಕ (Hakka / Harihara and Bukka)",
+      "ಕೃಷ್ಣದೇವರಾಯ (Krishnadevaraya)",
+      "ಸದಾಶಿವರಾಯ (Sadashivaraya)",
+      "ರಾಮರಾಯ (Ramaraya)"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯವು ಸ್ಥಾಪಿತವಾದ ವರ್ಷ ಯಾವುದು? (In which year was the Vijayanagara Empire founded?)",
+    "o": [
+      "1326 AD",
+      "1346 AD",
+      "1336 AD",
+      "1356 AD"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ರಾಜಧಾನಿಯು ಎಲ್ಲಿತ್ತು? (What was the capital of the Vijayanagara Empire?)",
+    "o": [
+      "ಹಂಪಿ / ವಿಜಯನಗರ (Hampi / Vijayanagara)",
+      "ಬೆಳಗಾವಿ (Belgaum)",
+      "ಪೆಣುಗೊಂಡ (Penugonda)",
+      "ಮಳಖೇಡ (Malkhed)"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಅರಸ ಯಾರು? (Who is the most famous ruler of the Vijayanagara Empire?)",
+    "o": [
+      "ಹರಿಹರ I (Harihara I)",
+      "ಕೃಷ್ಣದೇವರಾಯ (Krishnadevaraya)",
+      "ಬುಕ್ಕ I (Bukka I)",
+      "ಸದಾಶಿವರಾಯ (Sadashivaraya)"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ಕೃಷ್ಣದೇವರಾಯನು ಯಾವ ರಾಜ್ಯವನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ತನ್ನ 'ಉತ್ತರ ದಿಗ್ವಿಜಯ'ವನ್ನು ನಡೆಸಿದನು? (Which kingdom did Krishnadevaraya campaign against in his 'Northern Digvijaya'?)",
+    "o": [
+      "ಚೋಳರು (Cholas)",
+      "ಪಾಂಡ್ಯರು (Pandyas)",
+      "ಒರಿಸ್ಸಾದ ಗಜಪತಿಗಳು (Gajapatis of Orissa)",
+      "ಬಹಮನಿ ಸುಲ್ತಾನರು (Bahmani Sultans)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ಕೃಷ್ಣದೇವರಾಯನ ಆಸ್ಥಾನದಲ್ಲಿದ್ದ ಪ್ರಸಿದ್ಧ ಅಷ್ಟದಿಗ್ಗಜ ಕವಿಗಳಲ್ಲಿ ಪ್ರಮುಖರು ಯಾರು? (Who was the most prominent among the 'Ashtadiggajas' in Krishnadevaraya's court?)",
+    "o": [
+      "ತಿಮ್ಮಣ (Timmana)",
+      "ಅಲ್ಲಸಾನಿ ಪೆದ್ದನ (Allasani Peddana)",
+      "ಪೆದ್ದನ (Peddana)",
+      "ಶ್ರೀನಾಥ (Srinatha)"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ಕೃಷ್ಣದೇವರಾಯನು ರಚಿಸಿದ ಪ್ರಸಿದ್ಧ ತೆಲುಗು ಕೃತಿಯಾವುದು? (Which famous Telugu work was written by Krishnadevaraya?)",
+    "o": [
+      "ಮನುಚರಿತ್ರ (Manucharitra)",
+      "ಪಾರಿಜಾತಾಪಹರಣ (Parijatapaharana)",
+      "ರಾಯವಾಚಕಂ (Rayavachakam)",
+      "ಅಮುಕ್ತಮಾಲ್ಯದ (Amuktamalyada)"
+    ],
+    "a": 3
+  },
+  {
+    "q": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ವಿದೇಶಿ ಪ್ರಯಾಣಿಕ ನಿಕೊಲೊ ಡಿ ಕಾಂಟಿ (Nicolo Conti) ಯಾವ ಶತಮಾನದಲ್ಲಿ ಭೇಟಿ ನೀಡಿದನು? (In which century did the foreign traveler Nicolo Conti visit the Vijayanagara Empire?)",
+    "o": [
+      "13ನೇ ಶತಮಾನ (13th century)",
+      "14ನೇ ಶತಮಾನ (14th century)",
+      "15ನೇ ಶತಮಾನ (15th century)",
+      "16ನೇ ಶತಮಾನ (16th century)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ಪೋರ್ಚುಗೀಸ್ ಪ್ರಯಾಣಿಕ ದೊಮಿಂಗೊ ಪಯಸ್ (Domingo Paes) ಮತ್ತು ಫೆರ್ನಾವೊ ನುನ್ಯಸ್ (Fernao Nuniz) ಯಾರ ಆಸ್ಥಾನಕ್ಕೆ ಭೇಟಿ ನೀಡಿದರು? (Which ruler's court did the Portuguese travelers Domingo Paes and Fernao Nuniz visit?)",
+    "o": [
+      "ಹರಿಹರ II (Harihara II)",
+      "ದೇವರಾಯ II (Devaraya II)",
+      "ರಾಮರಾಯ (Ramaraya)",
+      "ಕೃಷ್ಣದೇವರಾಯ (Krishnadevaraya)"
+    ],
+    "a": 3
+  },
+  {
+    "q": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಆಡಳಿತದಲ್ಲಿ 'ಮಹಾಮಂಡಲೇಶ್ವರ' ಎಂದರೆ ಏನು? (What does 'Mahamandaleshvara' mean in the Vijayanagara administration?)",
+    "o": [
+      "ಸಾಮಂತ ರಾಜ (Feudal lord)",
+      "ಕೇಂದ್ರ ಮಂತ್ರಿ (Central minister)",
+      "ಪ್ರಾಂತೀಯ ಗವರ್ನರ್ (Provincial governor)",
+      "ಸೇನಾಧಿಕಾರಿ (Army commander)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಪತನಕ್ಕೆ ಕಾರಣವಾದ 'ತಾಳಿಕೋಟೆ ಯುದ್ಧ' (Battle of Talikota) ಯಾವ ವರ್ಷದಲ್ಲಿ ನಡೆಯಿತು? (In which year did the 'Battle of Talikota' take place?)",
+    "o": [
+      "1545 AD",
+      "1555 AD",
+      "1575 AD",
+      "1565 AD"
+    ],
+    "a": 3
+  },
+  {
+    "q": "ತಾಳಿಕೋಟೆ ಯುದ್ಧದಲ್ಲಿ ವಿಜಯನಗರ ಸೈನ್ಯವನ್ನು ಯಾರು ಮುನ್ನಡೆಸಿದರು? (Who led the Vijayanagara army in the Battle of Talikota?)",
+    "o": [
+      "ಕೃಷ್ಣದೇವರಾಯ (Krishnadevaraya)",
+      "ಸದಾಶಿವರಾಯ (Sadashivaraya)",
+      "ರಾಮರಾಯ (Ramaraya)",
+      "ತಿರುಮಲರಾಯ (Tirumalaraya)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ತಾಳಿಕೋಟೆ ಯುದ್ಧದಲ್ಲಿ ವಿಜಯನಗರವನ್ನು ಎದುರಿಸಿದ ಸುಲ್ತಾನರ ಒಕ್ಕೂಟವು ಯಾವ ರಾಜ್ಯಗಳನ್ನು ಒಳಗೊಂಡಿತ್ತು? (Which sultanates formed the alliance that fought against Vijayanagara?)",
+    "o": [
+      "ಬೀಜಾಪುರ, ಅಹಮದ್ನಗರ, ಗೋಲ್ಕೊಂಡ, ಬಿದರ್ (Bijapur, Ahmadnagar, Golconda, Bidar)",
+      "ಬೀಜಾಪುರ, ಅಹಮದ್ನಗರ, ಬೇರಾರ್, ಬಿದರ್ (Bijapur, Ahmadnagar, Berar, Bidar)",
+      "ಬೀಜಾಪುರ, ಅಹಮದ್ನಗರ, ಗೋಲ್ಕೊಂಡ, ಬೇರಾರ್ (Bijapur, Ahmadnagar, Golconda, Berar)",
+      "ಅಹಮದ್ನಗರ, ಗೋಲ್ಕೊಂಡ, ಬೇರಾರ್, ಬಿದರ್ (Ahmadnagar, Golconda, Berar, Bidar)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ಪಲ್ಲವರ 'ಮಹೇಂದ್ರವರ್ಮನ್ I' ಮತ್ತು 'ನರಸಿಂಹವರ್ಮನ್ I' ನಡುವಿನ ಸಂಬಂಧವೇನು? (What is the relationship between Pallava Mahendravarman I and Narasimhavarman I?)",
+    "o": [
+      "ಸಹೋದರರು (Brothers)",
+      "ತಂದೆ-ಮಗ (Father and son)",
+      "ಮಾವ-ಅಳಿಯ (Father-in-law and son-in-law)",
+      "ಅಜ್ಜ-ಮೊಮ್ಮಗ (Grandfather-grandson)"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ಚಾಳುಕ್ಯ ವಿಕ್ರಮಾದಿತ್ಯ I ತನ್ನ ತಂದೆ ಪುಲಕೇಶಿ II ರ ಸೋಲಿನ ಸೇಡು ತೀರಿಸಿಕೊಳ್ಳಲು ಯಾರ ಮೇಲೆ ದಾಳಿ ಮಾಡಿದನು? (Chalukya Vikramaditya I attacked whom to avenge his father Pulakeshi II's defeat?)",
+    "o": [
+      "ಪಾಂಡ್ಯರು (Pandyas)",
+      "ಚೋಳರು (Cholas)",
+      "ಪಲ್ಲವರು (Pallavas)",
+      "ರಾಷ್ಟ್ರಕೂಟರು (Rashtrakutas)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ಪಲ್ಲವರ ಕಾಲದಲ್ಲಿ 'ಮಾಮಲ್ಲಪುರಂ' ಎಂಬ ಹೆಸರು ಯಾವ ಅರಸನಿಂದ ಬಂದಿದೆ? (The name 'Mamallapuram' came from which ruler?)",
+    "o": [
+      "ನರಸಿಂಹವರ್ಮನ್ I - ಮಾಮಲ್ಲ (Narasimhavarman I - Mamalla)",
+      "ಮಹೇಂದ್ರವರ್ಮನ್ I (Mahendravarman I)",
+      "ರಾಜಸಿಂಹ (Rajasimha)",
+      "ನಂದಿವರ್ಮನ್ (Nandivarman)"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ಪಲ್ಲವ ಮಹೇಂದ್ರವರ್ಮನ್ I ರ ಪ್ರಸಿದ್ಧ 'ಮಂದಗಪಟ್ಟು ಶಾಸನ'ವು ಯಾವ ಭಾಷೆಯಲ್ಲಿದೆ? (In which language is the famous Pallava Mahendravarman I's 'Mandagapattu inscription'?)",
+    "o": [
+      "ಸಂಸ್ಕೃತ (Sanskrit)",
+      "ತಮಿಳು (Tamil)",
+      "ತೆಲುಗು (Telugu)",
+      "ಕನ್ನಡ (Kannada)"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ರಾಷ್ಟ್ರಕೂಟರ ಅಮೋಘವರ್ಷ I ಯಾವ ಧರ್ಮವನ್ನು ಅನುಸರಿಸಿದನು? (Which religion did Rashtrakuta Amoghavarsha I follow?)",
+    "o": [
+      "ಹಿಂದೂ (Hindu)",
+      "ಬೌದ್ಧ (Buddhist)",
+      "ಜೈನ್ (Jain)",
+      "ಇಸ್ಲಾಂ (Islam)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ರಾಷ್ಟ್ರಕೂಟ 'ಎಲ್ಲೋರಾ ಕೈಲಾಸ ದೇವಾಲಯ'ವನ್ನು ಯಾವ ಕಲ್ಲಿನಲ್ಲಿ ಕೆತ್ತಲಾಗಿದೆ? (The Rashtrakuta 'Ellora Kailasa Temple' is carved out of which rock?)",
+    "o": [
+      "ಗ್ರಾನೈಟ್ (Granite)",
+      "ಬಸಾಲ್ಟ್ (Basalt)",
+      "ಮರಳುಗಲ್ಲು (Sandstone)",
+      "ಸುಣ್ಣಕಲ್ಲು (Limestone)"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ಪಲ್ಲವರು ತಮ್ಮ ಶಾಸನಗಳಲ್ಲಿ ಯಾವ ಲಿಪಿಯನ್ನು ಬಳಸಿದರು? (Which script did the Pallavas use in their inscriptions?)",
+    "o": [
+      "ಬ್ರಾಹ್ಮೀ (Brahmi)",
+      "ತಮಿಳು-ಬ್ರಾಹ್ಮೀ (Tamil-Brahmi)",
+      "ಪಲ್ಲವ ಗ್ರಂಥ (Pallava Grantha)",
+      "ಖರೋಷ್ಠಿ (Kharosthi)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ಪ್ರತಿಪಾದನೆ (A): ಪಲ್ಲವ ನರಸಿಂಹವರ್ಮನ್ I ನು ವಾತಾಪಿಯನ್ನು ವಶಪಡಿಸಿಕೊಂಡನು. ಕಾರಣ (R): ಅವನು ಪಲ್ಲವ-ಚಾಳುಕ್ಯ ದ್ವಂದ್ವದಲ್ಲಿ ಚಾಳುಕ್ಯರನ್ನು ಸೋಲಿಸಿದನು.",
+    "o": [
+      "A ಮತ್ತು R ಎರಡೂ ನಿಜ, ಆದರೆ R ಎಂಬುದು A ಯ ಸರಿಯಾದ ವಿವರಣೆಯಲ್ಲ",
+      "A ನಿಜ, ಆದರೆ R ಸುಳ್ಳು",
+      "A ಮತ್ತು R ಎರಡೂ ನಿಜ, R ಎಂಬುದು A ಯ ಸರಿಯಾದ ವಿವರಣೆಯಾಗಿದೆ",
+      "A ಸುಳ್ಳು, ಆದರೆ R ನಿಜ"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ಕೆಳಗಿನ ಪಲ್ಲವ ಅರಸರ ಸರಿಯಾದ ಕಾಲಾನುಕ್ರಮ ಯಾವುದು (ಹಳೆಯದರಿಂದ ಹೊಸದಕ್ಕೆ)? (Correct chronological order of Pallava rulers:)",
+    "o": [
+      "ನರಸಿಂಹವರ್ಮನ್ II -> ಮಹೇಂದ್ರವರ್ಮನ್ I -> ನಂದಿವರ್ಮನ್ II -> ನರಸಿಂಹವರ್ಮನ್ I",
+      "ಮಹೇಂದ್ರವರ್ಮನ್ I -> ನರಸಿಂಹವರ್ಮನ್ I -> ನರಸಿಂಹವರ್ಮನ್ II -> ನಂದಿವರ್ಮನ್ II",
+      "ಮಹೇಂದ್ರವರ್ಮನ್ I -> ನರಸಿಂಹವರ್ಮನ್ II -> ನರಸಿಂಹವರ್ಮನ್ I -> ನಂದಿವರ್ಮನ್ II",
+      "ನರಸಿಂಹವರ್ಮನ್ I -> ಮಹೇಂದ್ರವರ್ಮನ್ I -> ನರಸಿಂಹವರ್ಮನ್ II -> ನಂದಿವರ್ಮನ್ II"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ಕೆಳಗಿನ ಚಾಳುಕ್ಯ ಅರಸರ ಸರಿಯಾದ ಕಾಲಾನುಕ್ರಮ ಯಾವುದು (ಹಳೆಯದರಿಂದ ಹೊಸದಕ್ಕೆ)? (Correct chronological order of Chalukya rulers:)",
+    "o": [
+      "ಪುಲಕೇಶಿ II -> ಪುಲಕೇಶಿ I -> ವಿಕ್ರಮಾದಿತ್ಯ I -> ವಿಕ್ರಮಾದಿತ್ಯ II",
+      "ಪುಲಕೇಶಿ I -> ವಿಕ್ರಮಾದಿತ್ಯ I -> ಪುಲಕೇಶಿ II -> ವಿಕ್ರಮಾದಿತ್ಯ II",
+      "ಪುಲಕೇಶಿ I -> ಪುಲಕೇಶಿ II -> ವಿಕ್ರಮಾದಿತ್ಯ I -> ವಿಕ್ರಮಾದಿತ್ಯ II",
+      "ವಿಕ್ರಮಾದಿತ್ಯ I -> ಪುಲಕೇಶಿ I -> ಪುಲಕೇಶಿ II -> ವಿಕ್ರಮಾದಿತ್ಯ II"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ಕೆಳಗಿನ ರಾಷ್ಟ್ರಕೂಟ ಅರಸರ ಸರಿಯಾದ ಕಾಲಾನುಕ್ರಮ ಯಾವುದು (ಹಳೆಯದರಿಂದ ಹೊಸದಕ್ಕೆ)? (Correct chronological order of Rashtrakuta rulers:)",
+    "o": [
+      "ದಂತಿದುರ್ಗ -> ಕೃಷ್ಣ I -> ಅಮೋಘವರ್ಷ I -> ಇಂದ್ರ III",
+      "ಕೃಷ್ಣ I -> ದಂತಿದುರ್ಗ -> ಅಮೋಘವರ್ಷ I -> ಇಂದ್ರ III",
+      "ದಂತಿದುರ್ಗ -> ಅಮೋಘವರ್ಷ I -> ಕೃಷ್ಣ I -> ಇಂದ್ರ III",
+      "ಅಮೋಘವರ್ಷ I -> ದಂತಿದುರ್ಗ -> ಕೃಷ್ಣ I -> ಇಂದ್ರ III"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ಕೆಳಗಿನ ವಿಜಯನಗರ ಅರಸರ ಸರಿಯಾದ ಕಾಲಾನುಕ್ರಮ ಯಾವುದು (ಹಳೆಯದರಿಂದ ಹೊಸದಕ್ಕೆ)? (Correct chronological order of Vijayanagara rulers:)",
+    "o": [
+      "ಹರಿಹರ I -> ಕೃಷ್ಣದೇವರಾಯ -> ದೇವರಾಯ II -> ರಾಮರಾಯ",
+      "ದೇವರಾಯ II -> ಹರಿಹರ I -> ಕೃಷ್ಣದೇವರಾಯ -> ರಾಮರಾಯ",
+      "ಹರಿಹರ I -> ದೇವರಾಯ II -> ರಾಮರಾಯ -> ಕೃಷ್ಣದೇವರಾಯ",
+      "ಹರಿಹರ I -> ದೇವರಾಯ II -> ಕೃಷ್ಣದೇವರಾಯ -> ರಾಮರಾಯ"
+    ],
+    "a": 3
+  },
+  {
+    "q": "ಕೆಳಗಿನ ವಾಸ್ತುಶಿಲ್ಪ ಶೈಲಿಗಳ ಸರಿಯಾದ ಹೊಂದಾಣಿಕೆ ಯಾವುದು? (1. ತೀರದ ದೇವಾಲಯ, 2. ಕೈಲಾಸ ದೇವಾಲಯ, 3. ವಿರೂಪಾಕ್ಷ ದೇವಾಲಯ, 4. ಪಟ್ಟದಕಲ್ಲಿನ ದೇವಾಲಯಗಳು)",
+    "o": [
+      "1-ಪಲ್ಲವ ವಾಸ್ತುಶಿಲ್ಪ, 2-ರಾಷ್ಟ್ರಕೂಟ ವಾಸ್ತುಶಿಲ್ಪ, 3-ವಿಜಯನಗರ ವಾಸ್ತುಶಿಲ್ಪ, 4-ಚಾಳುಕ್ಯ ವಾಸ್ತುಶಿಲ್ಪ",
+      "1-ಚಾಳುಕ್ಯ ವಾಸ್ತುಶಿಲ್ಪ, 2-ಪಲ್ಲವ ವಾಸ್ತುಶಿಲ್ಪ, 3-ರಾಷ್ಟ್ರಕೂಟ ವಾಸ್ತುಶಿಲ್ಪ, 4-ವಿಜಯನಗರ ವಾಸ್ತುಶಿಲ್ಪ",
+      "1-ರಾಷ್ಟ್ರಕೂಟ ವಾಸ್ತುಶಿಲ್ಪ, 2-ಚಾಳುಕ್ಯ ವಾಸ್ತುಶಿಲ್ಪ, 3-ವಿಜಯನಗರ ವಾಸ್ತುಶಿಲ್ಪ, 4-ಪಲ್ಲವ ವಾಸ್ತುಶಿಲ್ಪ",
+      "1-ಪಲ್ಲವ ವಾಸ್ತುಶಿಲ್ಪ, 2-ಚಾಳುಕ್ಯ ವಾಸ್ತುಶಿಲ್ಪ, 3-ರಾಷ್ಟ್ರಕೂಟ ವಾಸ್ತುಶಿಲ್ಪ, 4-ವಿಜಯನಗರ ವಾಸ್ತುಶಿಲ್ಪ"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ಕೆಳಗಿನ ಐತಿಹಾಸಿಕ ಅಂಶಗಳ ಸರಿಯಾದ ಹೊಂದಾಣಿಕೆ ಯಾವುದು? (1. ಐಹೊಳೆ ಶಾಸನ, 2. ಮಂದಗಪಟ್ಟು ಶಾಸನ, 3. ಅಮುಕ್ತಮಾಲ್ಯದ, 4. ವಾತಾಪಿಕೊಂಡ ಬಿರುದು)",
+    "o": [
+      "1-ಮಹೇಂದ್ರವರ್ಮನ್ I, 2-ಪುಲಕೇಶಿ II, 3-ಕೃಷ್ಣದೇವರಾಯ, 4-ನರಸಿಂಹವರ್ಮನ್ I",
+      "1-ಪುಲಕೇಶಿ II, 2-ಮಹೇಂದ್ರವರ್ಮನ್ I, 3-ಕೃಷ್ಣದೇವರಾಯ, 4-ನರಸಿಂಹವರ್ಮನ್ I",
+      "1-ನರಸಿಂಹವರ್ಮನ್ I, 2-ಮಹೇಂದ್ರವರ್ಮನ್ I, 3-ಪುಲಕೇಶಿ II, 4-ಕೃಷ್ಣದೇವರಾಯ",
+      "1-ಕೃಷ್ಣದೇವರಾಯ, 2-ಮಹೇಂದ್ರವರ್ಮನ್ I, 3-ನರಸಿಂಹವರ್ಮನ್ I, 4-ಪುಲಕೇಶಿ II"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ರಾಷ್ಟ್ರಕೂಟರು ಆರಂಭದಲ್ಲಿ ಯಾವ ರಾಜವಂಶದ ಸಾಮಂತರಾಗಿದ್ದರು? (The Rashtrakutas were initially feudatories of which dynasty?)",
+    "o": [
+      "ಪಲ್ಲವರು (Pallavas)",
+      "ಚಾಳುಕ್ಯರು (Chalukyas)",
+      "ಗಂಗರು (Gangas)",
+      "ಚೋಳರು (Cholas)"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ಪಲ್ಲವ-ಚಾಳುಕ್ಯ ದ್ವಂದ್ವದ ಅಂತಿಮ ಹಂತದಲ್ಲಿ ಯಾವ ರಾಜವಂಶವು ವಿಜಯಶಾಲಿಯಾಯಿತು? (Which dynasty emerged victorious in the final phase of the Pallava-Chalukya rivalry?)",
+    "o": [
+      "ಪಲ್ಲವರು (Pallavas)",
+      "ರಾಷ್ಟ್ರಕೂಟರು (Rashtrakutas)",
+      "ಚಾಳುಕ್ಯರು (Chalukyas)",
+      "ಯಾರೂ ಅಲ್ಲ (Neither)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಪತನದ ನಂತರ, ಅದರ ಪ್ರದೇಶವನ್ನು ಯಾರು ವಿಭಜಿಸಿಕೊಂಡರು? (After the fall of the Vijayanagara Empire, who divided its territory?)",
+    "o": [
+      "ಮರಾಠರು (Marathas)",
+      "ಪೋರ್ಚುಗೀಸರು (Portuguese)",
+      "ಮೈಸೂರು ಅರಸರು (Mysore kings)",
+      "ಬೀಜಾಪುರ ಮತ್ತು ಗೋಲ್ಕೊಂಡ ಸುಲ್ತಾನರು (Bijapur and Golconda sultans)"
+    ],
+    "a": 3
+  }
+]
