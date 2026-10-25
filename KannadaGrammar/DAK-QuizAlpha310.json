@@ -3,600 +3,600 @@
     "q": "“ಭೀಷ್ಮರು ಕುರುಕುಲದ ಮಣಿದೀಪದಂತೆ ಬೆಳಗಿದರು”, ಈ ಅಲಂಕಾರದಲ್ಲಿರುವ ಉಪಮೇಯವನ್ನು ಗುರುತಿಸಿ.",
     "o": ["ಮಣಿದೀಪದಂತೆ", "ಬೆಳಗಿದರು", "ಭೀಷ್ಮರು", "ಕುರುಕುಲದ"],
     "a": 2,
-    "e": "ಉಪಮಾನ ಅಲಂಕಾರದಲ್ಲಿ ಯಾವುದನ್ನು ಹೋಲಿಸಲಾಗುತ್ತದೆಯೋ ಅದನ್ನು ಉಪಮೇಯ ಎನ್ನುವರು. ಇಲ್ಲಿ ಭೀಷ್ಮರನ್ನು ಮಣಿದೀಪಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ."
+    "e": "ಉಪಮಾನ ಅಲಂಕಾರದಲ್ಲಿ ಯಾವುದನ್ನು ಹೋಲಿಸಲಾಗುತ್ತದೆಯೋ ಅದನ್ನು ಉಪಮೇಯ ಎನ್ನುವರು[span_0](start_span)[span_0](end_span). ಇಲ್ಲಿ ಭೀಷ್ಮರನ್ನು ಮಣಿದೀಪಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ[span_1](start_span)[span_1](end_span)."
   },
   {
     "q": "ಕಾರ್ಖಾನೆಯನ್ನು ಸ್ಥಾಪಿಸಲು ವಿಶ್ವೇಶ್ವರಯ್ಯನವರು ನಿರ್ಧರಿಸಿದರಾದರೂ, ಅವರ ನಿರ್ಧಾರಕ್ಕೆ ಬ್ರಿಟೀಷ್ ಸರ್ಕಾರದ ಅಪ್ಪಣೆ ದೊರೆಯಲಿಲ್ಲವೆಂಬ ವಿಷಯ ತಿಳಿದಾಗ ಬಹುವಾಗಿ ಮರುಗಿದರು - ಈ ವಾಕ್ಯದ ಪ್ರಕಾರವನ್ನು ಗುರುತಿಸಿ.",
     "o": ["ಸಾಮಾನ್ಯ ವಾಕ್ಯ", "ಮಿಶ್ರ ವಾಕ್ಯ", "ಸಂಯೋಜಿತ ವಾಕ್ಯ", "ಸಂದಿಗ್ಧ ವಾಕ್ಯ"],
     "a": 1,
-    "e": "ಈ ವಾಕ್ಯವು ಪ್ರಧಾನ ಉಪವಾಕ್ಯ ಹಾಗೂ ಅದರ ಮೇಲೆ ಆಧಾರಿತವಾದ ಅಪೂರ್ಣ ಉಪವಾಕ್ಯಗಳನ್ನು ಹೊಂದಿರುವುದರಿಂದ ಇದು ಮಿಶ್ರ ವಾಕ್ಯವಾಗಿದೆ."
+    "e": "ಈ ವಾಕ್ಯವು ಪ್ರಧಾನ ಉಪವಾಕ್ಯ ಹಾಗೂ ಅದರ ಮೇಲೆ ಆಧಾರಿತವಾದ ಅಪೂರ್ಣ ಉಪವಾಕ್ಯಗಳನ್ನು ಹೊಂದಿರುವುದರಿಂದ ಇದು ಮಿಶ್ರ ವಾಕ್ಯವಾಗಿದೆ[span_2](start_span)[span_2](end_span)."
   },
   {
     "q": "ಕೊಟ್ಟುಣ್ಣಲರಿಯದೆ – ಈ ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದ ಸರಿಯಾದ ರೂಪ ಯಾವುದು?",
     "o": ["ಕೊಟ್ಟು + ಉಣ್ಣಲು + ಅರಿಯದೆ", "ಕೊಟ್ಟು + ಉಣ್ಣಲರಿಯದೆ", "ಕೊಟ್ಟುಣ್ಣಲು + ಅರಿಯದೆ", "ಕೊಟ್ಟು + ಉಣ್ಣು + ಅಲರಿಯದೆ"],
     "a": 0,
-    "e": "ಕೊಟ್ಟುಣ್ಣಲರಿಯದೆ ಪದವು ಕೊಟ್ಟು + ಉಣ್ಣಲು + ಅರಿಯದೆ ಎಂಬ ಪದಗಳ ಸಂಧಿಯಿಂದ ಉಂಟಾಗಿದೆ."
+    "e": "ಕೊಟ್ಟುಣ್ಣಲರಿಯದೆ ಪದವು ಕೊಟ್ಟು + ಉಣ್ಣಲು + ಅರಿಯದೆ ಎಂಬ ಪದಗಳ ಸಂಧಿಯಿಂದ ಉಂಟಾಗಿದೆ[span_3](start_span)[span_3](end_span)."
   },
   {
     "q": "ಕೌಪೀನ ತತ್ಸಮ ಪದದ ಸರಿಯಾದ ತದ್ಭವ ರೂಪ ಯಾವುದು?",
     "o": ["ಬಟ್ಟ", "ಕೋವಣ", "ಕಂ", "ಬಿಲಾಲ"],
     "a": 1,
-    "e": "ಸಂಸ್ಕೃತ ಮೂಲದ ತತ್ಸಮ ಪದವಾದ ಕೌಪೀನವು ಕನ್ನಡದಲ್ಲಿ ಕೋವಣ ಎಂಬ ತದ್ಭವ ರೂಪದಲ್ಲಿ ಬಳಕೆಯಾಗುತ್ತದೆ."
+    "e": "ಸಂಸ್ಕೃತ ಮೂಲದ ತತ್ಸಮ ಪದವಾದ ಕೌಪೀನವು ಕನ್ನಡದಲ್ಲಿ ಕೋವಣ ಎಂಬ ತದ್ಭವ ರೂಪದಲ್ಲಿ ಬಳಕೆಯಾಗುತ್ತದೆ[span_4](start_span)[span_4](end_span)."
   },
   {
     "q": "ಕೃತಘ್ನ ಪದದ ಅರ್ಥವನ್ನು ಗುರುತಿಸಿ.",
     "o": ["ಉಪಕಾರವನ್ನು ಸ್ಮರಿಸುವವ", "ಉಪಕಾರ ಸ್ಮರಣೆ ಇಲ್ಲದವ", "ಉಪಕಾರ ಮಾಡಲು ಹಂಬಲಿಸುವವ", "ಉಪಕಾರದ ಮಹತ್ವ ಅರಿತವ"],
     "a": 1,
-    "e": "ಕೃತಘ್ನ ಎಂದರೆ ತಮಗೆ ಮಾಡಿದ ಉಪಕಾರವನ್ನು ಮರೆಯುವವ ಅಥವಾ ಉಪಕಾರ ಸ್ಮರಣೆ ಇಲ್ಲದವ ಎಂದರ್ಥ."
+    "e": "ಕೃತಘ್ನ ಎಂದರೆ ತಮಗೆ ಮಾಡಿದ ಉಪಕಾರವನ್ನು ಮರೆಯುವವ ಅಥವಾ ಉಪಕಾರ ಸ್ಮರಣೆ ಇಲ್ಲದವ ಎಂದರ್ಥ[span_5](start_span)[span_5](end_span)."
   },
   {
     "q": "ಸಜಾತೀಯ ಮತ್ತು ವಿಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ: ಒಂದೇ ಜಾತಿಯ ಎರಡು ವ್ಯಂಜನಗಳ ಸೇರುವಿಕೆ ಸಜಾತೀಯ ಹಾಗೂ ಬೇರೆ ಬೇರೆ ಜಾತಿಯ ವ್ಯಂಜನಗಳ ಸೇರುವಿಕೆ ವಿಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರ ಎನಿಸಿಕೊಳ್ಳುತ್ತದೆ. ಈ ಹೇಳಿಕೆಗಳ ಕುರಿತು ಸರಿಯಾದ ಆಯ್ಕೆ ಯಾವುದು?",
     "o": ["ಹೇಳಿಕೆ II ಮತ್ತು ಹೇಳಿಕೆ III ಮಾತ್ರ ಸರಿಯಾಗಿವೆ", "ಹೇಳಿಕೆ I ಮತ್ತು ಹೇಳಿಕೆ II ಮಾತ್ರ ಸರಿಯಾಗಿವೆ", "ಎಲ್ಲಾ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ", "ಹೇಳಿಕೆ III ಮಾತ್ರ ಸರಿಯಾಗಿದೆ"],
     "a": 1,
-    "e": "ಒಂದೇ ಜಾತಿಯ ಎರಡು ವ್ಯಂಜನಗಳ ಸೇರುವಿಕೆ ಸಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರ ಹಾಗೂ ಬೇರೆ ಬೇರೆ ಜಾತಿಯ ವ್ಯಂಜನಗಳ ಸೇರುವಿಕೆ ವಿಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರ ಎನಿಸಿಕೊಳ್ಳುತ್ತದೆ."
+    "e": "ಒಂದೇ ಜಾತಿಯ ಎರಡು ವ್ಯಂಜನಗಳ ಸೇರುವಿಕೆ ಸಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರ ಹಾಗೂ ಬೇರೆ ಬೇರೆ ಜಾತಿಯ ವ್ಯಂಜನಗಳ ಸೇರುವಿಕೆ ವಿಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರ ಎನಿಸಿಕೊಳ್ಳುತ್ತದೆ[span_6](start_span)[span_6](end_span)."
   },
   {
     "q": "ರಾಷ್ಟ್ರಕ್ಯ ಪದದಲ್ಲಿರುವ ಸ್ವರಗಳು ಮತ್ತು ವ್ಯಂಜನಗಳ ಸಂಖ್ಯೆ ಕ್ರಮವಾಗಿ ಎಷ್ಟು?",
     "o": ["6 ಮತ್ತು 3", "3 ಮತ್ತು 6", "3 ಮತ್ತು 3", "6 ಮತ್ತು 6"],
     "a": 1,
-    "e": "ರಾಷ್ಟ್ರಕ್ಯ ಪದದಲ್ಲಿ ವ್ಯಾಕರಣದ ನಿಯಮದಂತೆ ಮೂರು ಸ್ವರಗಳು ಮತ್ತು ಆರು ವ್ಯಂಜನಗಳಿರುತ್ತವೆ."
+    "e": "ರಾಷ್ಟ್ರಕ್ಯ ಪದದಲ್ಲಿ ವ್ಯಾಕರಣದ ನಿಯಮದಂತೆ ಮೂರು ಸ್ವರಗಳು ಮತ್ತು ಆರು ವ್ಯಂಜನಗಳಿರುತ್ತವೆ[span_7](start_span)[span_7](end_span)."
   },
   {
     "q": "ಏಕವಚನರೂಪದ ನಾಮಪ್ರಕೃತಿಗಳಿಗೆ ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯಗಳು ಹತ್ತುವಾಗ ಆಗಮಗಳು ಸೇರುವುದು ಮತ್ತು 'ಉ'ಕಾರಾಂತ ನಾಮಪ್ರಕೃತಿಗಳಿಗೆ ತೃತೀಯಾ, ಷಷ್ಠಿ, ಸಪ್ತಮೀ ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯಗಳು ಸೇರುವಾಗ 'ಇನ್' ಆಗಮವಾಗುವುದಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಸರಿಯಾದ ಆಯ್ಕೆ ಯಾವುದು?",
     "o": ["ಹೇಳಿಕೆ I ಸರಿ, ಆದರೆ ಹೇಳಿಕೆ II ತಪ್ಪು", "ಹೇಳಿಕೆ I ಮತ್ತು ಹೇಳಿಕೆ II ಎರಡೂ ತಪ್ಪು", "ಹೇಳಿಕೆ I ಮತ್ತು ಹೇಳಿಕೆ II ಎರಡೂ ಸರಿ", "ಹೇಳಿಕೆ I ತಪ್ಪು, ಆದರೆ ಹೇಳಿಕೆ II ಸರಿ"],
     "a": 2,
-    "e": "ನಾಮಪ್ರಕೃತಿಗಳಿಗೆ ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯ ಸೇರುವಾಗ ಆಗಮಗಳು ಬರುವುದು ಮತ್ತು ಉಕಾರಾಂತ ಪದಗಳಿಗೆ ಇನ್ ಆಗಮ ಬರುವುದು ವ್ಯಾಕರಣದ ನಿಯಮವಾಗಿದೆ."
+    "e": "ನಾಮಪ್ರಕೃತಿಗಳಿಗೆ ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯ ಸೇರುವಾಗ ಆಗಮಗಳು ಬರುವುದು ಮತ್ತು ಉಕಾರಾಂತ ಪದಗಳಿಗೆ ಇನ್ ಆಗಮ ಬರುವುದು ವ್ಯಾಕರಣದ ನಿಯಮವಾಗಿದೆ[span_8](start_span)[span_8](end_span)."
   },
   {
     "q": "ಅಕ್ಷರವೊಂದನ್ನು ಗುರುವಾಗಿ ಗುರುತಿಸುವುದಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ದೀರ್ಘಸ್ವರ, ಅನುಸ್ವಾರ, ವಿಸರ್ಗ, ಸಂಯುಕ್ತಾಕ್ಷರಗಳ ಹಿಂದಿನ ಅಕ್ಷರಗಳು ಗುರುಗಳಾಗುತ್ತವೆ ಎಂಬ ನಿಯಮಗಳ ಕುರಿತು ಸರಿಯಾದ ಹೇಳಿಕೆಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
     "o": ["ಒಂದು ಮಾತ್ರ", "ಎರಡು ಮಾತ್ರ", "ಎಲ್ಲಾ ನಾಲ್ಕೂ", "ಮೂರು ಮಾತ್ರ"],
     "a": 2,
-    "e": "ದೀರ್ಘಸ್ವರಗಳು, ಅನುಸ್ವಾರ, ವಿಸರ್ಗ, ಸಂಯುಕ್ತಾಕ್ಷರದ ಹಿಂದಿನ ಅಕ್ಷರಗಳು ಹಾಗೂ ಪದ್ಯದ ನಿಯಮಿತ ಅಕ್ಷರಗಳ ಗುರುತ್ವ ನಿಯಮಗಳೆಲ್ಲವೂ ಸರಿಯಾಗಿವೆ."
+    "e": "ದೀರ್ಘಸ್ವರಗಳು, ಅನುಸ್ವಾರ, ವಿಸರ್ಗ, ಸಂಯುಕ್ತಾಕ್ಷರದ ಹಿಂದಿನ ಅಕ್ಷರಗಳು ಹಾಗೂ ಪದ್ಯದ ನಿಯಮಿತ ಅಕ್ಷರಗಳ ಗುರುತ್ವ ನಿಯಮಗಳೆಲ್ಲವೂ ಸರಿಯಾಗಿವೆ[span_9](start_span)[span_9](end_span)."
   },
   {
     "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಗುಂಪಿಗೆ ಸೇರದ ಪದಗಳಿರುವ ಜೋಡಿಯನ್ನು ಗುರುತಿಸಿ.",
     "o": ["ನಾನು - ನಾವು", "ಅದು - ಅವು", "ತಾನು - ತಾವು", "ಅವನು - ಅವರು"],
     "a": 1,
-    "e": "ಉಳಿದ ಜೋಡಿಗಳು ಪ್ರಾಣಿವಾಚಕ ಅಥವಾ ಮಾನವ ಸೂಚಕ ಸರ್ವನಾಮಗಳಾಗಿದ್ದು, ಅದು-ಅವು ವಸ್ತು ಅಥವಾ ಇತರೆ ನಾಮಪದಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+    "e": "ಉಳಿದ ಜೋಡಿಗಳು ಪ್ರಾಣಿವಾಚಕ ಅಥವಾ ಮಾನವ ಸೂಚಕ ಸರ್ವನಾಮಗಳಾಗಿದ್ದು, ಅದು-ಅವು ವಸ್ತು ಅಥವಾ ಇತರೆ ನಾಮಪದಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ[span_10](start_span)[span_10](end_span)."
   },
   {
     "q": "ಆ ಹುಡುಗ ಪದವು ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆಯಾಗಿದೆ?",
     "o": ["ದ್ವಂದ್ವ", "ಬಹುವೀಹಿ", "ತತ್ಪುರುಷ", "ಗಮಕ"],
     "a": 3,
-    "e": "ನಿರ್ದೇಶನಾರ್ಥಕ ಸರ್ವನಾಮವು ನಾಮಪದದೊಂದಿಗೆ ಸೇರಿ ಆಗುವ ಸಮಾಸವು ಗಮಕ ಸಮಾಸ ಎನಿಸಿಕೊಳ್ಳುತ್ತದೆ."
+    "e": "ನಿರ್ದೇಶನಾರ್ಥಕ ಸರ್ವನಾಮವು ನಾಮಪದದೊಂದಿಗೆ ಸೇರಿ ಆಗುವ ಸಮಾಸವು ಗಮಕ ಸಮಾಸ ಎನಿಸಿಕೊಳ್ಳುತ್ತದೆ[span_11](start_span)[span_11](end_span)."
   },
   {
     "q": "ಸ್ವಾಮಿ ಗಟ್ಟ ಬೆಟ್ಟವಂ ಸೇರಿ ಪರರಿಂ ಜೀವಿಸುತ್ತ ಕಾಡಿನ ಜೋಗಿಗಳಂತೆ ತಿರುಗುವವರಿಗೆ ಇಂಥಾ ದೇಶವೆಂದು ಹೇಗೆ ಹೇಳೋಣ ಎಂದರು - ಈ ವಾಕ್ಯಕ್ಕೆ ಸೂಕ್ತವಾದ ಲೇಖನ ಚಿಹ್ನೆಗಳನ್ನು ಹೊಂದಿರುವ ವಾಕ್ಯವನ್ನು ಗುರುತಿಸಿ.",
     "o": ["ಸ್ವಾಮಿ ! ಗಟ್ಟ ಬೆಟ್ಟವಂ ಸೇರಿ, ಪರರಿಂ ಜೀವಿಸುತ್ತ ; ಕಾಡಿನ ಜೋಗಿಗಳಂತೆ ತಿರುಗುವವರಿಗೆ, ಇಂಥಾ ! ದೇಶವೆಂದು ಹೇಗೆ ಹೇಳೋಣ ಎಂದರು.", "ಸ್ವಾಮಿ, ಗಟ್ಟ ಬೆಟ್ಟವಂ ಸೇರಿ, ಪರರಿಂ ಜೀವಿಸುತ್ತ ಕಾಡಿನ ಜೋಗಿಗಳಂತೆ ತಿರುಗುವವರಿಗೆ ಇಂಥಾ ದೇಶವೆಂದು ಹೇಗೆ ಹೇಳೋಣ ? ಎಂದರು.", "ಸ್ವಾಮಿ ! ಗಟ್ಟ ಬೆಟ್ಟವಂ ಸೇರಿ ! ಪರರಿಂ ಜೀವಿಸುತ್ತ, ಕಾಡಿನ ಜೋಗಿಗಳಂತೆ ತಿರುಗುವವರಿಗೆ, ಇಂಥಾ ! ದೇಶವೆಂದು ಹೇಗೆ ಹೇಳೋಣ ? ಎಂದರು.", "ಸ್ವಾಮಿ ! ಗಟ್ಟ ಬೆಟ್ಟವಂ ! ಸೇರಿ, ಪರರಿಂ ಜೀವಿಸುತ್ತ ; ಕಾಡಿನ ಜೋಗಿಗಳಂತೆ ! ತಿರುಗುವವರಿಗೆ, ಇಂಥಾ, ದೇಶವೆಂದು ಹೇಗೆ ? ಹೇಳೋಣ ಎಂದರು."],
     "a": 1,
-    "e": "ಸಂಬೋಧನೆಗೆ ಅಲ್ಪವಿರಾಮ ಮತ್ತು ಪ್ರಶ್ನೆಗೆ ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಯನ್ನು ಸರಿಯಾಗಿ ಬಳಸಿರುವ ವಾಕ್ಯವೇ ಸರಿಯಾದ ಲೇಖನ ಚಿಹ್ನೆಗಳ ರೂಢಿಯಾಗಿದೆ."
+    "e": "ಸಂಬೋಧನೆಗೆ ಅಲ್ಪವಿರಾಮ ಮತ್ತು ಪ್ರಶ್ನೆಗೆ ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಯನ್ನು ಸರಿಯಾಗಿ ಬಳಸಿರುವ ವಾಕ್ಯವೇ ಸರಿಯಾದ ಲೇಖನ ಚಿಹ್ನೆಗಳ ರೂಢಿಯಾಗಿದೆ[span_12](start_span)[span_12](end_span)."
   },
   {
     "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಗುಂಪಿಗೆ ಸೇರದ ಪದವನ್ನು ಗುರುತಿಸಿ.",
     "o": ["ಮೋರ", "ಬಿನ್ನಣ", "ವಿಸ್ತಾರ", "ಮಣ್ಣು"],
     "a": 2,
-    "e": "ವಿಸ್ತಾರ ಎಂಬುದು ಆಕಾರ ಅಥವಾ ವ್ಯಾಪ್ತಿಯನ್ನು ಸೂಚಿಸಿದರೆ, ಉಳಿದವು ಭಾಷಾ ಅಥವಾ ಸಾಹಿತ್ಯಕ ಶೈಲಿಯ ಪದಗಳಾಗಿವೆ."
+    "e": "ವಿಸ್ತಾರ ಎಂಬುದು ಆಕಾರ ಅಥವಾ ವ್ಯಾಪ್ತಿಯನ್ನು ಸೂಚಿಸಿದರೆ, ಉಳಿದವು ಭಾಷಾ ಅಥವಾ ಸಾಹಿತ್ಯಕ ಶೈಲಿಯ ಪದಗಳಾಗಿವೆ[span_13](start_span)[span_13](end_span)."
   },
   {
     "q": "ಗುಂಪಿಗೆ ಸೇರದ ಸಂಧಿಪದವನ್ನು ಗುರುತಿಸಿ.",
     "o": ["ಸಚಿತ್ರ", "ದೇವೇಂದ್ರ", "ಅಧ್ಯಯನ", "ವಾಹ್ಮಯ"],
     "a": 2,
-    "e": "ಅಧ್ಯಯನ ಎಂಬುದು ಯಣ್ ಸಂಧಿಗೆ ಉದಾಹರಣೆಯಾಗಿದ್ದು, ಉಳಿದವು ಬೇರೆ ಸಂಧಿಗಳಿಗೆ ಅಥವಾ ವರ್ಗೀಯ ವ್ಯಂಜನ ಸಂಧಿಗೆ ಸೇರಿವೆ."
+    "e": "ಅಧ್ಯಯನ ಎಂಬುದು ಯಣ್ ಸಂಧಿಗೆ ಉದಾಹರಣೆಯಾಗಿದ್ದು, ಉಳಿದವು ಬೇರೆ ಸಂಧಿಗಳಿಗೆ ಅಥವಾ ವರ್ಗೀಯ ವ್ಯಂಜನ ಸಂಧಿಗೆ ಸೇರಿವೆ[span_14](start_span)[span_14](end_span)."
   },
   {
     "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಗುಂಪಿಗೆ ಸೇರದ ಪದವನ್ನು ಗುರುತಿಸಿ.",
     "o": ["ಬಡತನ", "ಮಡಿವಾಳ", "ಹಣವಂತ", "ಮೋಸಗಾರ"],
     "a": 0,
-    "e": "ಬಡತನ ಎಂಬುದು ಭಾವನಾಮವಾಗಿದ್ದರೆ, ಉಳಿದವು ವೃತ್ತಿ ಅಥವಾ ಗುಣ ವಿಶೇಷತೆಯನ್ನು ಸೂಚಿಸುವ ನಾಮಪದಗಳಾಗಿವೆ."
+    "e": "ಬಡತನ ಎಂಬುದು ಭಾವನಾಮವಾಗಿದ್ದರೆ, ಉಳಿದವು ವೃತ್ತಿ ಅಥವಾ ಗುಣ ವಿಶೇಷತೆಯನ್ನು ಸೂಚಿಸುವ ನಾಮಪದಗಳಾಗಿವೆ[span_15](start_span)[span_15](end_span)."
   },
   {
     "q": "ಕ್ರಿಯಾಪದಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ: ಧಾತುವಿಗೆ ಸೇರಿ ಕಾಲವನ್ನು ತೋರಿಸುವ ಪ್ರತ್ಯಯಗಳಿಗೆ ಕಾಲಪ್ರತ್ಯಯ ಎನ್ನುವರು ಹಾಗೂ ವರ್ತಮಾನಕಾಲ ಪ್ರತ್ಯಯ 'ಉತ್ತ' ಆಗಿದೆ.",
     "o": ["c ಮತ್ತು d", "a ಮತ್ತು b", "a ಮತ್ತು d", "b ಮತ್ತು c"],
     "a": 1,
-    "e": "ಧಾತುವಿಗೆ ಸೇರಿ ಕಾಲ ಸೂಚಿಸುವ ಪ್ರತ್ಯಯಗಳು ಕಾಲಪ್ರತ್ಯಯಗಳಾಗಿದ್ದು, ವರ್ತಮಾನ ಕಾಲದಲ್ಲಿ ಉತ್ತ ಪ್ರತ್ಯಯ ಬಳಕೆಯಾಗುತ್ತದೆ."
+    "e": "ಧಾತುವಿಗೆ ಸೇರಿ ಕಾಲ ಸೂಚಿಸುವ ಪ್ರತ್ಯಯಗಳು ಕಾಲಪ್ರತ್ಯಯಗಳಾಗಿದ್ದು, ವರ್ತಮಾನ ಕಾಲದಲ್ಲಿ ಉತ್ತ ಪ್ರತ್ಯಯ ಬಳಕೆಯಾಗುತ್ತದೆ[span_16](start_span)[span_16](end_span)."
   },
   {
     "q": "ಕಳ್ಕೊಲಂ ಯಾವ ಸಂಧಿಗೆ ಉದಾಹರಣೆಯಾಗಿದೆ?",
     "o": ["ಆಗಮಸಂಧಿ", "ಲೋಪಸಂಧಿ", "ಆದೇಶ ಸಂಧಿ", "ಸಂಧಿವಿಕಲ್ಪ"],
-    "a": 3,
-    "e": "ಕಳ್ + ಕೊಲಂ ಎಂಬ ಪದ ಸೇರುವಾಗ ಕಕಾರಕ್ಕೆ ತಕಾರ ಅಥವಾ ಆದೇಶ ಬಂದು ಆದೇಶ ಸಂಧಿಯಾಗುತ್ತದೆ."
+    "a": 2,
+    "e": "ಕಳ್ + ಕೊಲಂ ಎಂಬ ಪದ ಸೇರುವಾಗ ಕಕಾರಕ್ಕೆ ತಕಾರ ಅಥವಾ ಆದೇಶ ಬಂದು ಆದೇಶ ಸಂಧಿಯಾಗುತ್ತದೆ[span_17](start_span)[span_17](end_span)."
   },
   {
     "q": "ಅಖ್ಯಾತ ಪ್ರತ್ಯಯಗಳು ಈ ಕೆಳಗಿನ ಯಾವ ಪ್ರಕೃತಿಯೊಂದಿಗೆ ಸೇರುತ್ತವೆ?",
     "o": ["ಅವ್ಯಯ", "ನಾಮಪ್ರಕೃತಿ", "ಕೃದಂತಾವ್ಯಯ", "ಕ್ರಿಯಾಪ್ರಕೃತಿ"],
     "a": 3,
-    "e": "ಪುರುಷ, ಲಿಂಗ, ವಚನಗಳನ್ನು ಸೂಚಿಸುವ ಅಖ್ಯಾತ ಪ್ರತ್ಯಯಗಳು ಕ್ರಿಯಾಪ್ರಕೃತಿಯೊಂದಿಗೆ ಸೇರುತ್ತವೆ."
+    "e": "ಪುರುಷ, ಲಿಂಗ, ವಚನಗಳನ್ನು ಸೂಚಿಸುವ ಅಖ್ಯಾತ ಪ್ರತ್ಯಯಗಳು ಕ್ರಿಯಾಪ್ರಕೃತಿಯೊಂದಿಗೆ ಸೇರುತ್ತವೆ[span_18](start_span)[span_18](end_span)."
   },
   {
     "q": "ವಿಶೇಷಣ, ವಿಶೇಷ್ಯಗಳು ಹಾಗೂ ಉಪಮಾ, ಉಪಮೇಯಗಳು ಸೇರಿ ಆಗುವ ಸಮಾಸ ಯಾವುದು?",
     "o": ["ಬಹುವೀಹಿ ಸಮಾಸ", "ಕರ್ಮಧಾರಯ ಸಮಾಸ", "ತತ್ಪುರುಷ ಸಮಾಸ", "ದ್ವಂದ್ವ ಸಮಾಸ"],
     "a": 1,
-    "e": "ವಿಶೇಷಣ-ವಿಶೇಷ್ಯ ಹಾಗೂ ಉಪಮಾನ-ಉಪಮೇಯ ಭಾವದಿಂದ ಕೂಡಿರುವ ಸಮಾಸ ಕರ್ಮಧಾರಯ ಸಮಾಸವೆನಿಸುತ್ತದೆ."
+    "e": "ವಿಶೇಷಣ-ವಿಶೇಷ್ಯ ಹಾಗೂ ಉಪಮಾನ-ಉಪಮೇಯ ಭಾವದಿಂದ ಕೂಡಿರುವ ಸಮಾಸ ಕರ್ಮಧಾರಯ ಸಮಾಸವೆನಿಸುತ್ತದೆ[span_19](start_span)[span_19](end_span)."
   },
   {
     "q": "ಲಲಿತ ರಗಳೆಯ ಮೊದಲ ಪಾದದಲ್ಲಿರುವ ಮಾತ್ರೆಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
-    "o": ["೧೪ ಮಾತ್ರೆಗಳು", "೧೨ ಮಾತ್ರೆಗಳು", "೧೦ ಮಾತ್ರೆಗಳು", "೨೦ ಮಾತ್ರೆಗಳು"],
+    "o": ["14 ಮಾತ್ರೆಗಳು", "12 ಮಾತ್ರೆಗಳು", "10 ಮಾತ್ರೆಗಳು", "20 ಮಾತ್ರೆಗಳು"],
     "a": 0,
-    "e": "ಲಲಿತ ರಗಳೆಯು ನಿರ್ದಿಷ್ಟ ಮಾತ್ರೆಗಳ ಗಣದಿಂದ ಕೂಡಿದ್ದು, ಇದರ ಪಾದದಲ್ಲಿ ಹದಿನಾಲ್ಕು ಮಾತ್ರೆಗಳಿರುತ್ತವೆ."
+    "e": "ಲಲಿತ ರಗಳೆಯು ನಿರ್ದಿಷ್ಟ ಮಾತ್ರೆಗಳ ಗಣದಿಂದ ಕೂಡಿದ್ದು, ಇದರ ಪಾದದಲ್ಲಿ ಹದಿನಾಲ್ಕು ಮಾತ್ರೆಗಳಿರುತ್ತವೆ[span_20](start_span)[span_20](end_span)."
   },
   {
     "q": "ಅಕ್ಕಟಾ ತಪ್ಪಾಯಿತು ಈ ವಾಕ್ಯದಲ್ಲಿ ಕ್ರಮವಾಗಿ ಬರಬೇಕಾದ ಲೇಖನ ಚಿಹ್ನೆಗಳನ್ನು ಗುರುತಿಸಿ.",
     "o": ["ಭಾವಸೂಚಕ ಚಿಹ್ನೆ, ಪೂರ್ಣವಿರಾಮ ಚಿಹ್ನೆ", "ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆ, ಪೂರ್ಣವಿರಾಮ ಚಿಹ್ನೆ", "ಅಧಿಕ ಚಿಹ್ನೆ, ಭಾವಸೂಚಕ ಚಿಹ್ನೆ", "ಅರ್ಧವಿರಾಮ ಚಿಹ್ನೆ, ಭಾವಸೂಚಕ ಚಿಹ್ನೆ"],
     "a": 0,
-    "e": "ಅಕ್ಕಟಾ ಎಂಬುದು ಆಶ್ಚರ್ಯ ಅಥವಾ ಭಾವನೆಯನ್ನು ಸೂಚಿಸುವುದರಿಂದ ಭಾವಸೂಚಕ ಚಿಹ್ನೆ ಮತ್ತು ವಾಕ್ಯದ ಕೊನೆಗೆ ಪೂರ್ಣವಿರಾಮ ಬರುತ್ತದೆ."
+    "e": "ಅಕ್ಕಟಾ ಎಂಬುದು ಆಶ್ಚರ್ಯ ಅಥವಾ ಭಾವನೆಯನ್ನು ಸೂಚಿಸುವುದರಿಂದ ಭಾವಸೂಚಕ ಚಿಹ್ನೆ ಮತ್ತು ವಾಕ್ಯದ ಕೊನೆಗೆ ಪೂರ್ಣವಿರಾಮ ಬರುತ್ತದೆ[span_21](start_span)[span_21](end_span)."
   },
   {
     "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ನಾಮಪ್ರಕೃತಿಯನ್ನು ಗುರುತಿಸಿ.",
     "o": ["ಆದರೆ", "ಬಾ", "ಚೆನ್ನಾಗಿ", "ಮನೆ"],
     "a": 3,
-    "e": "ಮನೆ ಎಂಬುದು ಒಂದು ನಾಮಪದದ ಮೂಲರೂಪ ಅಥವಾ ನಾಮಪ್ರಕೃತಿಯಾಗಿದೆ."
+    "e": "ಮನೆ ಎಂಬುದು ಒಂದು ನಾಮಪದದ ಮೂಲರೂಪ ಅಥವಾ ನಾಮಪ್ರಕೃತಿಯಾಗಿದೆ[span_22](start_span)[span_22](end_span)."
   },
   {
     "q": "ಪಂಪ ಪ್ರಶಸ್ತಿ ಪಡೆದ ದೇವರು ಕೃತಿಯನ್ನು ರಚಿಸಿದವರು ಯಾರು?",
     "o": ["ಚಂದ್ರಶೇಖರ ಕಂಬಾರ", "ಎ.ಎನ್.ಮೂರ್ತಿರಾವ್", "ಚೆನ್ನವೀರ ಕಣವಿ", "ಎಸ್.ಎಲ್. ಭೈರಪ್ಪ"],
     "a": 1,
-    "e": "ಪ್ರಸಿದ್ಧ ಲೇಖಕ ಎ.ಎನ್. ಮೂರ್ತಿರಾವ್ ಅವರು ದೇವರು ಎಂಬ ವಿಚಾರಪೂರ್ಣ ಕೃತಿಯನ್ನು ರಚಿಸಿದ್ದಾರೆ."
+    "e": "ಪ್ರಸಿದ್ಧ ಲೇಖಕ ಎ.ಎನ್. ಮೂರ್ತಿರಾವ್ ಅವರು ದೇವರು ಎಂಬ ವಿಚಾರಪೂರ್ಣ ಕೃತಿಯನ್ನು ರಚಿಸಿದ್ದಾರೆ[span_23](start_span)[span_23](end_span)."
   },
   {
     "q": "ಹತ್ತು ಮೂಟೆ ಬಂತು, ಇನ್ನೂ ಐದು ಮೂಟೆ ಬರಬೇಕು – ಈ ವಾಕ್ಯದಲ್ಲಿರುವ ಅವ್ಯಯ ಪದ ಯಾವುದು?",
     "o": ["ಬರಬೇಕು", "ಮೂಟೆ", "ಇನ್ನೂ", "ಹತ್ತು"],
     "a": 2,
-    "e": "ಲಿಂಗ, ವಚನ, ವಿಭಕ್ತಿಗಳಿಂದ ವ್ಯತ್ಯಾಸಗೊಳ್ಳದೆ ವಾಕ್ಯದಲ್ಲಿ ಕಾಲ ಅಥವಾ ಪ್ರಮಾಣವನ್ನು ಸೂಚಿಸುವ 'ಇನ್ನೂ' ಎಂಬುದು ಅವ್ಯಯ ಪದವಾಗಿದೆ."
+    "e": "ಲಿಂಗ, ವಚನ, ವಿಭಕ್ತಿಗಳಿಂದ ವ್ಯತ್ಯಾಸಗೊಳ್ಳದೆ ವಾಕ್ಯದಲ್ಲಿ ಕಾಲ ಅಥವಾ ಪ್ರಮಾಣವನ್ನು ಸೂಚಿಸುವ ಇನ್ನೂ ಎಂಬುದು ಅವ್ಯಯ ಪದವಾಗಿದೆ[span_24](start_span)[span_24](end_span)."
   },
   {
     "q": "ಅರ್ಕ ಪದದ ಸರಿಯಾದ ಅರ್ಥವೇನು?",
     "o": ["ಸೇವಕ", "ಭೂಮಿ", "ಭಾಸ್ಕರ", "ಕಲ್ಲು"],
     "a": 2,
-    "e": "ಸಂಸ್ಕೃತದಲ್ಲಿ ಅರ್ಕ ಎಂದರೆ ಸೂರ್ಯ ಅಥವಾ ಭಾಸ್ಕರ ಎಂದರ್ಥ."
+    "e": "ಸಂಸ್ಕೃತದಲ್ಲಿ ಅರ್ಕ ಎಂದರೆ ಸೂರ್ಯ ಅಥವಾ ಭಾಸ್ಕರ ಎಂದರ್ಥ[span_25](start_span)[span_25](end_span)."
   },
   {
-    "q": "“ಬೆಲ್ಲದಂತೆ ಮಾತನಾಡಿ ಎಲ್ಲರನು ಮರುಳು ಮಾಡಿ" ಈ ಕೀರ್ತನೆಯ ಸಾಲು ಯಾವ ದಾಸರದು?",
+    "q": "ಬೆಲ್ಲದಂತೆ ಮಾತನಾಡಿ ಎಲ್ಲರನು ಮರುಳು ಮಾಡಿ ಈ ಕೀರ್ತನೆಯ ಸಾಲು ಯಾವ ದಾಸರದು?",
     "o": ["ಪುರಂದರ ದಾಸರು", "ರಾಮದಾಸರು", "ಕನಕದಾಸರು", "ರಾಘವೇಂದ್ರ ತೀರ್ಥರು"],
     "a": 2,
-    "e": "ಈ ಪ್ರಸಿದ್ಧ ನೀತಿಬೋಧಕ ಕೀರ್ತನೆಯನ್ನು ಕನಕದಾಸರು ರಚಿಸಿದ್ದಾರೆ."
+    "e": "ಈ ಪ್ರಸಿದ್ಧ ನೀತಿಬೋಧಕ ಕೀರ್ತನೆಯನ್ನು ಕನಕದಾಸರು ರಚಿಸಿದ್ದಾರೆ[span_26](start_span)[span_26](end_span)."
   },
   {
     "q": "ಪ್ರಬಂಧ ಮತ್ತು ಪ್ರಬಂಧಕಾರರಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಸರಿಯಾಗಿ ಹೊಂದಿಕೆಯಾಗುವ ಜೋಡಿಯನ್ನು ಗುರುತಿಸಿ.",
     "o": ["ನಾನೇಕೆ ಬರೆಯುತ್ತೇನೆ - ಅ.ರಾ. ಮಿತ್ರ", "ಜ್ಞಾಪಕ ಚಿತ್ರಶಾಲೆ - ಜಿ.ಎಸ್. ಶಿವರುದ್ರಪ್ಪ", "ನಮ್ಮ ಮನೆಯ ದೀಪ - ಹಾ.ಮಾ. ನಾಯಕ", "ಗರುಡಗಂಬದ ದಾಸಯ್ಯ - ಗೊರೂರು ರಾಮಸ್ವಾಮಿ ಅಯ್ಯಂಗಾರ್"],
     "a": 2,
-    "e": "ಹಾ.ಮಾ. ನಾಯಕ ಅವರು 'ನಮ್ಮ ಮನೆಯ ದೀಪ' ಎಂಬ ಸುಂದರ ಪ್ರಬಂಧವನ್ನು ರಚಿಸಿದ್ದಾರೆ."
+    "e": "ಹಾ.ಮಾ. ನಾಯಕ ಅವರು ನಮ್ಮ ಮನೆಯ ದೀಪ ಎಂಬ ಸುಂದರ ಪ್ರಬಂಧವನ್ನು ರಚಿಸಿದ್ದಾರೆ[span_27](start_span)[span_27](end_span)."
   },
   {
     "q": "ಶೈಲಿ ವಿಮರ್ಶಾ ಕೃತಿಯ ಕೃತಿಕರ್ತೃಗಳು ಯಾರು?",
     "o": ["ಜಿ.ಎಸ್. ಶಿವರುದ್ರಪ್ಪ", "ಎಸ್.ವಿ. ರಂಗಣ್ಣ", "ಕುವೆಂಪು", "ಜಿ.ಎಚ್. ನಾಯಕ"],
     "a": 1,
-    "e": "ಪ್ರಸಿದ್ಧ ವಿಮರ್ಶಾ ಕೃತಿಯಾದ 'ಶೈಲಿ'ಯನ್ನು ಎಸ್.ವಿ. ರಂಗಣ್ಣ ಅವರು ರಚಿಸಿದ್ದಾರೆ."
+    "e": "ಪ್ರಸಿದ್ಧ ವಿಮರ್ಶಾ ಕೃತಿಯಾದ ಶೈಲಿಯನ್ನು ಎಸ್.ವಿ. ರಂಗಣ್ಣ ಅವರು ರಚಿಸಿದ್ದಾರೆ[span_28](start_span)[span_28](end_span)."
   },
   {
     "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ರಾಘವಾಂಕನ ಕೃತಿಗಳನ್ನು ಗುರುತಿಸಿ.",
     "o": ["ಅನುಭವ ಮುಕುರ ಮತ್ತು ಸೋಮನಾಥ ಚಾರಿತ್ರ", "ಗಿರಿಜಾ ಕಲ್ಯಾಣ ಮತ್ತು ಸಿದ್ಧರಾಮ ಚಾರಿತ್ರ", "ಸಿದ್ದರಾಮ ಚಾರಿತ್ರ ಮತ್ತು ಸೋಮನಾಥ ಚಾರಿತ್ರ", "ಗಿರಿಜಾ ಕಲ್ಯಾಣ ಮತ್ತು ಅನುಭವ ಮುಕುರ"],
     "a": 2,
-    "e": "ಸಿದ್ದರಾಮ ಚಾರಿತ್ರ ಹಾಗೂ ಸೋಮನಾಥ ಚಾರಿತ್ರ ಕೃತಿಗಳನ್ನು ಮಹಾಕವಿ ರಾಘವಾಂಕನು ರಚಿಸಿದ್ದಾನೆ."
+    "e": "ಸಿದ್ದರಾಮ ಚಾರಿತ್ರ ಹಾಗೂ ಸೋಮನಾಥ ಚಾರಿತ್ರ ಕೃತಿಗಳನ್ನು ಮಹಾಕವಿ ರಾಘವಾಂಕನು ರಚಿಸಿದ್ದಾನೆ[span_29](start_span)[span_29](end_span)."
   },
   {
     "q": "ಕೆಳಗಿನ ಜೋಡಿಗಳಲ್ಲಿ ಸರಿಯಾಗಿ ಹೊಂದಾಣಿಕೆಯಾಗಿರುವ ಜೋಡಿ ಯಾವುದು?",
     "o": ["ಗಹ್ವರ - ಅಂಧಕಾರ", "ವೀಚಿ - ವರ್ಣ", "ಪಾವಕ - ದಾರಿಹೋಕ", "ಜ್ಯೋತಿ - ಕತ್ತಲು"],
     "a": 0,
-    "e": "ಗಹ್ವರ ಎಂದರೆ ಕತ್ತಲು ಅಥವಾ ಅಂಧಕಾರ ಎಂಬ ಸರಿಯಾದ ಅರ್ಥವನ್ನು ಹೊಂದಿದೆ."
+    "e": "ಗಹ್ವರ ಎಂದರೆ ಕತ್ತಲು ಅಥವಾ ಅಂಧಕಾರ ಎಂಬ ಸರಿಯಾದ ಅರ್ಥವನ್ನು ಹೊಂದಿದೆ[span_30](start_span)[span_30](end_span)."
   },
   {
     "q": "ನಕ್ತ ಪದದ ಸರಿಯಾದ ಅರ್ಥವೇನು?",
     "o": ["ಚಿಕಿತ್ಸೆ", "ನಾಶ", "ಹಗಲು", "ರಾತ್ರಿ"],
     "a": 3,
-    "e": "ಸಂಸ್ಕೃತದಲ್ಲಿ ನಕ್ತ ಶಬ್ದವು ರಾತ್ರಿ ಎಂಬ ಅರ್ಥವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+    "e": "ಸಂಸ್ಕೃತದಲ್ಲಿ ನಕ್ತ ಶಬ್ದವು ರಾತ್ರಿ ಎಂಬ ಅರ್ಥವನ್ನು ಸೂಚಿಸುತ್ತದೆ[span_31](start_span)[span_31](end_span)."
   },
   {
     "q": "ಗುಂಪಿಗೆ ಸೇರದ ಸಂಧಿಪದವನ್ನು ಗುರುತಿಸಿ.",
     "o": ["ನೆಲವನ್ನು", "ಎಳವರೆ", "ನೆಲೆವನೆ", "ಮೆಲ್ವಾತು"],
     "a": 3,
-    "e": "ಮೆಲ್ವಾತು ಎಂಬುದು ಆಗಮ ಅಥವಾ ಬೇರೆ ಸಂಧಿ ನಿಯಮಕ್ಕೆ ಒಳಪಟ್ಟಿದ್ದು, ಉಳಿದವು ಲೋಪಸಂಧಿಗೆ ಸಂಬಂಧಿಸಿವೆ."
+    "e": "ಮೆಲ್ವಾತು ಎಂಬುದು ಆಗಮ ಅಥವಾ ಬೇರೆ ಸಂಧಿ ನಿಯಮಕ್ಕೆ ಒಳಪಟ್ಟಿದ್ದು, ಉಳಿದವು ಲೋಪಸಂಧಿಗೆ ಸಂಬಂಧಿಸಿವೆ[span_32](start_span)[span_32](end_span)."
   },
   {
     "q": "ಬೆಂಬತ್ತು ಸಂಧಿಪದವನ್ನು ಬಿಡಿಸುವ ಸರಿಯಾದ ಕ್ರಮ ಯಾವುದು?",
     "o": ["ಬೆನ್ನು + ಹತ್ತು", "ಬೆನ್ + ಹತ್ತು", "ಬೆನ್ನು + ಪತ್ತು", "ಬೆನ್ + ಪತ್ತು"],
     "a": 0,
-    "e": "ಬೆಂಬತ್ತು ಪದವು ಬೆನ್ನು + ಹತ್ತು ಎಂಬ ಪದಗಳಿಂದ ಆದೇಶ ಸಂಧಿಯ ನಿಯಮದಂತೆ ರೂಪುಗೊಂಡಿದೆ."
+    "e": "ಬೆಂಬತ್ತು ಪದವು ಬೆನ್ನು + ಹತ್ತು ಎಂಬ ಪದಗಳಿಂದ ಆದೇಶ ಸಂಧಿಯ ನಿಯಮದಂತೆ ರೂಪುಗೊಂಡಿದೆ[span_33](start_span)[span_33](end_span)."
   },
   {
     "q": "ಪಾಶ್ಚಾತ್ಯ ಪದದ ವಿರುದ್ಧಾರ್ಥಕ ಪದ ಯಾವುದು?",
     "o": ["ಅಪಾಶ್ಚಾತ್ಯ", "ಪೌರಾತ್ಯ", "ಪಾರುಪತ್ಯ", "ಪ್ರಾಮುಖ್ಯ"],
     "a": 1,
-    "e": "ಪಾಶ್ಚಾತ್ಯ (ಪಶ್ಚಿಮದ) ಪದದ ಸರಿಯಾದ ವಿರುದ್ಧಾರ್ಥಕ ಪದ ಪೌರಾತ್ಯ (ಪೂರ್ವದ) ಎಂದಾಗುತ್ತದೆ."
+    "e": "ಪಾಶ್ಚಾತ್ಯ (ಪಶ್ಚಿಮದ) ಪದದ ಸರಿಯಾದ ವಿರುದ್ಧಾರ್ಥಕ ಪದ ಪೌರಾತ್ಯ (ಪೂರ್ವದ) ಎಂದಾಗುತ್ತದೆ[span_34](start_span)[span_34](end_span)."
   },
   {
     "q": "ಹದಿನಾರಾಣೆ ಸತ್ಯ ಎಂಬ ನುಡಿಗಟ್ಟಿನ ಸರಿಯಾದ ಅರ್ಥವನ್ನು ಗುರುತಿಸಿ.",
     "o": ["ದೇವರ ಮೇಲೆ ಆಣೆ", "ಲಕ್ಷ್ಮೀ ಮೇಲೆ ಸತ್ಯ", "ಸಂಪೂರ್ಣ ಸತ್ಯ", "ಅರ್ಧಸತ್ಯ"],
     "a": 2,
-    "e": "ಹದಿನಾರಾಣೆ ಸತ್ಯ ಎಂದರೆ ಯಾವುದೇ ಸಂಶಯವಿಲ್ಲದ ಸಂಪೂರ್ಣ ಅಥವಾ ನಿಖರವಾದ ಸತ್ಯ ಎಂದರ್ಥ."
+    "e": "ಹದಿನಾರಾಣೆ ಸತ್ಯ ಎಂದರೆ ಯಾವುದೇ ಸಂಶಯವಿಲ್ಲದ ಸಂಪೂರ್ಣ ಅಥವಾ ನಿಖರವಾದ ಸತ್ಯ ಎಂದರ್ಥ[span_35](start_span)[span_35](end_span)."
   },
   {
     "q": "Choose the appropriate synonym for the word 'Rigmarole'.",
     "o": ["Important", "Examples", "Nonsense", "Describable"],
     "a": 2,
-    "e": "Rigmarole refers to a lengthy and complicated procedure or foolish, confusing language (nonsense)."
+    "e": "Rigmarole refers to a lengthy and complicated procedure or foolish, confusing language (nonsense)[span_36](start_span)[span_36](end_span)."
   },
   {
     "q": "Fill in the blanks with suitable prepositions: A drug runner was stopped ___ a Police Officer ___ Mysore Bank Circle in Bengaluru.",
     "o": ["from, in", "by, at", "around, across", "with, beyond"],
     "a": 1,
-    "e": "Preposition 'by' is used for the agent performing the action, and 'at' is used for specific locations like circle intersections."
+    "e": "Preposition 'by' is used for the agent performing the action, and 'at' is used for specific locations like circle intersections[span_37](start_span)[span_37](end_span)."
   },
   {
     "q": "Choose the meaning for the word 'introspection'.",
     "o": ["The process of giving suggestions", "The process of observing others", "The process of thinking deeply about one's own thoughts", "The process of rejecting oneself"],
     "a": 2,
-    "e": "Introspection is the examination or observation of one's own mental and emotional processes."
+    "e": "Introspection is the examination or observation of one's own mental and emotional processes[span_38](start_span)[span_38](end_span)."
   },
   {
     "q": "Based on post-colonial literature passages, writers expose how domination persists through armies and making language an instrument of cultural... what?",
     "o": ["pedagogy", "bureaucracy", "surveillance", "rhetoric"],
     "a": 3,
-    "e": "Post-colonial contexts often discuss language as an instrument of rhetorical or cultural regulation."
+    "e": "Post-colonial contexts often discuss language as an instrument of rhetorical or cultural regulation[span_39](start_span)[span_39](end_span)."
   },
   {
     "q": "Characters inhabit identities shaped by both memory and erasure, navigating the what tension between belonging and alienation?",
     "o": ["simplistic", "perpetual", "generational", "stable"],
     "a": 1,
-    "e": "In post-colonial literature, the tension between belonging and alienation is often described as perpetual."
+    "e": "In post-colonial literature, the tension between belonging and alienation is often described as perpetual[span_40](start_span)[span_40](end_span)."
   },
   {
     "q": "By re-imagining history, texts attempt to recover emotional what, enabling communities to speak beyond limits?",
     "o": ["efficiency", "validity", "complacency", "resonance"],
     "a": 3,
-    "e": "Emotional resonance enables communities to express their experiences beyond imposed limits."
+    "e": "Emotional resonance enables communities to express their experiences beyond imposed limits[span_41](start_span)[span_41](end_span)."
   },
   {
     "q": "What is 'nomophobia'?",
     "o": ["Fear of dead bodies", "Fear of closed spaces", "Fear of names", "Fear of being without access to a mobile phone"],
     "a": 3,
-    "e": "Nomophobia is psychological distress caused by being unable to use a mobile phone or mobile communication."
+    "e": "Nomophobia is psychological distress caused by being unable to use a mobile phone or mobile communication[span_42](start_span)[span_42](end_span)."
   },
   {
     "q": "Choose the correct option to make the sentence logical: She likes ___ books each day.",
     "o": ["reads", "to read", "to reading", "read"],
     "a": 1,
-    "e": "Verbs like 'like' are typically followed by an infinitive ('to read') or gerund to express preferences."
+    "e": "Verbs like 'like' are typically followed by an infinitive ('to read') or gerund to express preferences[span_43](start_span)[span_43](end_span)."
   },
   {
     "q": "Add a prefix so that the word conveys the meaning given in the bracket: The company had a rule that ___modest behaviour would not be tolerated at work place. (not decent)",
     "o": ["un-", "dis-", "im-", "mis-"],
     "a": 2,
-    "e": "The prefix 'im-' is added to 'modest' or 'decent' to form the antonym 'immodest' or 'indecent'."
+    "e": "The prefix 'im-' is added to 'modest' or 'decent' to form the antonym 'immodest' or 'indecent[span_44](start_span)'[span_44](end_span)."
   },
   {
     "q": "Identify the misspelt word among the following options.",
     "o": ["anonymous", "monotonous", "vicarius", "autonomous"],
     "a": 2,
-    "e": "The correct spelling is 'vicarious', whereas 'vicarius' is misspelled."
+    "e": "The correct spelling is 'vicarious', whereas 'vicarius' is misspelled[span_45](start_span)[span_45](end_span)."
   },
   {
     "q": "Pick out the correct meaning of the idiom: 'To beat about the bush'.",
     "o": ["Working hard to achieve the goal", "To avoid coming to the point", "Vigorous search for the culprit", "Easily achieved success without much effort"],
     "a": 1,
-    "e": "Beating about the bush means discussing a matter without coming straight to the main point."
+    "e": "Beating about the bush means discussing a matter without coming straight to the main point[span_46](start_span)[span_46](end_span)."
   },
   {
     "q": "Select the word similar in meaning to the word 'Bashful'.",
     "o": ["Brazen", "Extol", "Diffident", "Wild"],
     "a": 2,
-    "e": "Bashful means reluctant to draw attention, similar in meaning to diffident or shy."
+    "e": "Bashful means reluctant to draw attention, similar in meaning to diffident or shy[span_47](start_span)[span_47](end_span)."
   },
   {
     "q": "Choose the appropriate question tag for the sentence: 'Hardly had he entered the room, ___'",
     "o": ["did he?", "didn't he?", "hadn't he", "had he?"],
     "a": 3,
-    "e": "Negative introductory words like 'Hardly' trigger an inversion and a positive auxiliary verb tag 'had he'."
+    "e": "Negative introductory words like 'Hardly' trigger an inversion and a positive auxiliary verb tag 'had he[span_48](start_span)'[span_48](end_span)."
   },
   {
     "q": "Choose the correct pair of tenses: Shalini ___ chess with her friends.",
     "o": ["hasn't study; plays", "doesn't study; plays", "don't study; play", "wasn't study; playing"],
     "a": 1,
-    "e": "Third-person singular subjects take 'doesn't study' for negation and 'plays' for present habitual actions."
+    "e": "Third-person singular subjects take 'doesn't study' for negation and 'plays' for present habitual actions[span_49](start_span)[span_49](end_span)."
   },
   {
     "q": "What is the meaning of the phrasal verb 'Look out'?",
     "o": ["Be careful", "Complete", "Lose balance", "Manage"],
     "a": 0,
-    "e": "The phrasal verb 'look out' is an idiom meaning to be vigilant or be careful."
+    "e": "The phrasal verb 'look out' is an idiom meaning to be vigilant or be careful[span_50](start_span)[span_50](end_span)."
   },
   {
     "q": "Choose the word which can be substituted for: 'Ajay's father was very particular about his studies and discipline. He can be called a/an ___'",
     "o": ["indulgent", "tyrant", "forbearing", "martinet"],
     "a": 3,
-    "e": "A martinet is a strict disciplinarian who demands absolute adherence to rules."
+    "e": "A martinet is a strict disciplinarian who demands absolute adherence to rules[span_51](start_span)[span_51](end_span)."
   },
   {
     "q": "Complete the sentence by using the correct tense form: 'We ___ to watch a movie yesterday.'",
     "o": ["gone", "go", "going", "went"],
     "a": 3,
-    "e": "The presence of 'yesterday' indicates the simple past tense, requiring the verb form 'went'."
+    "e": "The presence of 'yesterday' indicates the simple past tense, requiring the verb form 'went[span_52](start_span)'[span_52](end_span)."
   },
   {
     "q": "What is the definition or meaning of 'Immortal' based on one-word substitutions?",
     "o": ["One who cannot die", "One who compiles dictionary", "One who deserts his religion", "A pioneer of a reform movement"],
     "a": 0,
-    "e": "An immortal is an entity or being that lives forever and cannot die."
+    "e": "An immortal is an entity or being that lives forever and cannot die[span_53](start_span)[span_53](end_span)."
   },
   {
     "q": "Choose the correctly spelt word used for memory aids: 'While learning anything, we remember better if we use ___ devices.'",
     "o": ["numonic", "mnumonic", "numounic", "mnemonic"],
     "a": 3,
-    "e": "The correct spelling for memory assistance techniques is 'mnemonic' with a silent m."
+    "e": "The correct spelling for memory assistance techniques is 'mnemonic' with a silent m[span_54](start_span)[span_54](end_span)."
   },
   {
     "q": "Punctuate the following sentence correctly: 'Gandhiji the Father of the Nation led a simple life.'",
     "o": ["Gandhiji, \"the Father of the Nation\", led a simple life.", "Gandhiji \"the Father, of the Nation\", led a simple life.", "Gandhiji \"the Father of the Nation\" led a simple life.", "Gandhiji \"the Father of the Nation\", led a simple life."],
     "a": 0,
-    "e": "Appositives providing extra descriptive information should be enclosed within commas and quotation marks appropriately."
+    "e": "Appositives providing extra descriptive information should be enclosed within commas and quotation marks appropriately[span_55](start_span)[span_55](end_span)."
   },
   {
     "q": "Fill in the correct sentence that agrees with the first: 'It was so dark that ___'",
     "o": ["he cannot see anything", "he does not see anything", "he will not see anything", "he could not see anything"],
     "a": 3,
-    "e": "Past tense in the main clause ('was') requires the past modal 'could not' in the result clause."
+    "e": "Past tense in the main clause ('was') requires the past modal 'could not' in the result clause[span_56](start_span)[span_56](end_span)."
   },
   {
     "q": "In the following sentence, find out which part has an error: 'The Prime Minister / offered me coffee / but, I declined it.'",
     "o": ["The Prime Minister", "offered me coffee", "but, I declined it.", "No error"],
     "a": 2,
-    "e": "The comma after 'but' is unnecessary and incorrect in standard punctuation when connecting short clauses."
+    "e": "The comma after 'but' is unnecessary and incorrect in standard punctuation when connecting short clauses[span_57](start_span)[span_57](end_span)."
   },
   {
     "q": "Choose the appropriate option expressing the meaning of the idiom: 'I readily closed with his offer.'",
     "o": ["rejected", "demanded", "accepted", "keep on hold"],
     "a": 2,
-    "e": "To 'close with' an offer means to accept it readily."
+    "e": "To 'close with' an offer means to accept it readily[span_58](start_span)[span_58](end_span)."
   },
   {
     "q": "Choose the correct sequence of sentences for sentence rearrangement (P, Q, R, S between I and VI about the cinema hall incident).",
     "o": ["SRQP", "PQRS", "QPSR", "SRPQ"],
     "a": 3,
-    "e": "Logical chronological ordering of the narrative about the smoking incident in the cinema lift yields the sequence SRPQ."
+    "e": "Logical chronological ordering of the narrative about the smoking incident in the cinema lift yields the sequence SRPQ[span_59](start_span)[span_59](end_span)."
   },
   {
     "q": "Fill the correct articles: 'All human beings have ___ right to ___ basic material requirements for a life of dignity.'",
     "o": ["the, a", "a, the", "the, the", "a, a"],
     "a": 1,
-    "e": "Specific rights take the definite article 'the', while general requirements take 'a' or specific forms based on context."
+    "e": "Specific rights take the definite article 'the', while general requirements take 'a' or specific forms based on context[span_60](start_span)[span_60](end_span)."
   },
   {
     "q": "Fill in the blanks with suitable articles: '___ horse is ___ noble animal.'",
     "o": ["A, a", "The, the", "The, a", "A, the"],
     "a": 2,
-    "e": "A class of animals can be represented with the definite article 'the', and singular countable nouns take 'a'."
+    "e": "A class of animals can be represented with the definite article 'the', and singular countable nouns take 'a[span_61](start_span)'[span_61](end_span)."
   },
   {
     "q": "Choose the appropriate question tag: 'We must complete the work now, ___'",
     "o": ["mustn't you?", "mustn't they", "mustn't us ?", "mustn't we?"],
     "a": 3,
-    "e": "Sentences with modal 'must' and subject 'we' take the tag 'mustn't we?'."
+    "e": "Sentences with modal 'must' and subject 'we' take the tag 'mustn't we?[span_62](start_span)'[span_62](end_span)."
   },
   {
     "q": "What is the definition of 'A Philologist'?",
     "o": ["Studies languages from a historical and comparative perspective", "Studies the meanings and physiological effects of words", "Studies human beings", "Is a person who engages in charitable work"],
     "a": 0,
-    "e": "A philologist studies languages in written historical sources and their comparative evolution."
+    "e": "A philologist studies languages in written historical sources and their comparative evolution[span_63](start_span)[span_63](end_span)."
   },
   {
     "q": "Choose the correct option to fill in the blanks: 'Her Government failed to ___ in inflation during its ___.'",
     "o": ["rein, reign", "reign, rein", "rein, rein", "reign, reign"],
     "a": 0,
-    "e": "'Rein in' means to control or curb, while 'reign' refers to the period of rule."
+    "e": "'Rein in' means to control or curb, while 'reign' refers to the period of rule[span_64](start_span)[span_64](end_span)."
   },
   {
     "q": "Identify the sentences below that are not in any past tense: a. Many soldiers were killed in the war. b. Well, it's a lovely day and I'm just walking down the street when I see this fun guy walking towards me. c. The Researchers have been conducting experiments for years. d. I was exhausted because I had been running for an hour.",
     "o": ["a and b", "c and d", "a and d", "b and c"],
     "a": 1,
-    "e": "Sentence b uses historic present tense ('is', 'am walking', 'see'), whereas the others involve past tense structures."
+    "e": "Sentence b uses historic present tense ('is', 'am walking', 'see'), whereas the others involve past tense structures[span_65](start_span)[span_65](end_span)."
   },
   {
     "q": "Name the Degree of comparison in the underlined word: 'Sachin Tendulkar is a better batsman than Ajith Agarkar.'",
     "o": ["Superlative Degree", "Distributive Degree", "Positive Degree", "Comparative Degree"],
     "a": 3,
-    "e": "The word 'better' is the comparative form of the adjective 'good', indicating a comparative degree."
+    "e": "The word 'better' is the comparative form of the adjective 'good', indicating a comparative degree[span_66](start_span)[span_66](end_span)."
   },
   {
     "q": "What is an adverb?",
     "o": ["It is a word that shows action or condition of something.", "It is a word that modifies a verb, an adjective or another adverb.", "It is a word that is used instead of a noun.", "It is a word that expresses sudden feeling."],
     "a": 1,
-    "e": "An adverb is a part of speech that modifies verbs, adjectives, or other adverbs."
+    "e": "An adverb is a part of speech that modifies verbs, adjectives, or other adverbs[span_67](start_span)[span_67](end_span)."
   },
   {
     "q": "Convert the Negative sentence into Affirmative: 'King Duncan was not without love for Macbeth.'",
     "o": ["Macbeth is loved by King Duncan", "King Duncan loved Macbeth.", "King Duncan was full of love for Macbeth.", "King Duncan loves Macbeth."],
     "a": 2,
-    "e": "Changing double negatives ('not without') to a direct affirmative yields 'was full of love'."
+    "e": "Changing double negatives ('not without') to a direct affirmative yields 'was full of love[span_68](start_span)'[span_68](end_span)."
   },
   {
     "q": "Identify the incorrect passive voice form among the following options.",
     "o": ["The criminals have been caught by the police.", "By whom will the lecture be delivered tomorrow?", "All the documents had been stolen before the audit.", "He has been said to win the competition."],
     "a": 3,
-    "e": "Certain intransitive or reporting structures do not correctly transform into this specific passive template."
+    "e": "Certain intransitive or reporting structures do not correctly transform into this specific passive template[span_69](start_span)[span_69](end_span)."
   },
   {
     "q": "Find out which part of the sentence has an error: 'There is a very little time / for me to prepare / for the exam.'",
     "o": ["for me to prepare", "for the exam.", "There is a very little time", "No error"],
     "a": 2,
-    "e": "Using 'a very little time' with indefinite article 'a' is ungrammatical; it should be 'very little time'."
+    "e": "Using 'a very little time' with indefinite article 'a' is ungrammatical; it should be 'very little time[span_70](start_span)'[span_70](end_span)."
   },
   {
     "q": "What is the primary function of the FTP protocol?",
     "o": ["To send/receive mail via mail server", "To upload and download files", "To communicate error messages", "To transfer files between browser and server"],
     "a": 1,
-    "e": "FTP (File Transfer Protocol) is designed specifically for uploading and downloading files across networks."
+    "e": "FTP (File Transfer Protocol) is designed specifically for uploading and downloading files across networks[span_71](start_span)[span_71](end_span)."
   },
   {
     "q": "What is the primary function of a DBMS?",
     "o": ["Data processing", "Data knowledge", "Data structure", "Data storage and retrieval"],
     "a": 3,
-    "e": "A Database Management System (DBMS) primarily manages data storage, organization, and efficient retrieval."
+    "e": "A Database Management System (DBMS) primarily manages data storage, organization, and efficient retrieval[span_72](start_span)[span_72](end_span)."
   },
   {
     "q": "What is AnyDesk?",
     "o": ["A music player", "A video editing tool", "A secure remote desktop tool for accessing and controlling", "A gaming software"],
     "a": 2,
-    "e": "AnyDesk is a proprietary software providing secure remote desktop access to computers and devices."
+    "e": "AnyDesk is a proprietary software providing secure remote desktop access to computers and devices[span_73](start_span)[span_73](end_span)."
   },
   {
     "q": "Which type of signal transmits data in the form of radio waves like in telephone lines?",
     "o": ["Digital signal", "Optical signal", "Hybrid signal", "Analog signal"],
     "a": 3,
-    "e": "Analog signals transmit continuous wave data, commonly used in traditional telephone and radio transmissions."
+    "e": "Analog signals transmit continuous wave data, commonly used in traditional telephone and radio transmissions[span_74](start_span)[span_74](end_span)."
   },
   {
     "q": "Which of the following is considered a task management and time management productivity tool?",
     "o": ["Zoom", "Microsoft Word", "Todoist", "Saleforce"],
     "a": 2,
-    "e": "Todoist is a dedicated digital task manager and productivity application."
+    "e": "Todoist is a dedicated digital task manager and productivity application[span_75](start_span)[span_75](end_span)."
   },
   {
     "q": "Which keyboard shortcut permanently deletes a file or folder in Windows without moving it to the Recycle Bin?",
     "o": ["Ctrl + Delete", "Windows key + Delete", "Alt + Delete", "Shift + Delete"],
     "a": 3,
-    "e": "Pressing Shift + Delete bypasses the Recycle Bin and permanently removes files in Windows."
+    "e": "Pressing Shift + Delete bypasses the Recycle Bin and permanently removes files in Windows[span_76](start_span)[span_76](end_span)."
   },
   {
     "q": "Identify the options for the creation of a new presentation in MS PowerPoint:",
     "o": ["Blank presentation, From design template, Existing presentation", "Blank presentation, Slide sorter view, Notes page", "From design template, Slide sorter, Notes page", "Blank presentation, Existing presentation, Slide sorter"],
     "a": 0,
-    "e": "New presentations can be started from scratch (blank), templates, or existing presentations."
+    "e": "New presentations can be started from scratch (blank), templates, or existing presentations[span_77](start_span)[span_77](end_span)."
   },
   {
     "q": "What is the function of a network Hub in computer networking?",
     "o": ["Modulator/Demodulator", "Connects several computers", "Amplifies weak signal", "Connects different networks"],
     "a": 1,
-    "e": "A hub acts as a central connection point that links multiple computers in a local network segment."
+    "e": "A hub acts as a central connection point that links multiple computers in a local network segment[span_78](start_span)[span_78](end_span)."
   },
   {
     "q": "Which keyboard layout is predominantly used in Nudi 4.0/5.0 for phonetic typing in Kannada?",
     "o": ["ISM layout", "Inscript layout", "Baraha layout", "K.P. Rao layout"],
     "a": 2,
-    "e": "Baraha layout is widely used for phonetic keyboard mapping in Kannada typing tools like Nudi."
+    "e": "Baraha layout is widely used for phonetic keyboard mapping in Kannada typing tools like Nudi[span_79](start_span)[span_79](end_span)."
   },
   {
     "q": "What is the primary application of a Barcode Reader?",
     "o": ["Scans the codes", "Converts physical document to digital files", "Used for drawing or handwriting", "Controls movement in games"],
     "a": 0,
-    "e": "Barcode readers optically scan optical machine-readable barcodes to capture data."
+    "e": "Barcode readers optically scan optical machine-readable barcodes to capture data[span_80](start_span)[span_80](end_span)."
   },
   {
     "q": "What is the full form of 'SSD' in computer hardware?",
     "o": ["Storage State Drive", "Storage State Device", "Solid State Device", "Solid State Drive"],
     "a": 3,
-    "e": "SSD stands for Solid State Drive, a fast flash-memory-based storage device."
+    "e": "SSD stands for Solid State Drive, a fast flash-memory-based storage device[span_81](start_span)[span_81](end_span)."
   },
   {
     "q": "Which software component is essentially required to boot a computer?",
     "o": ["Compiler", "Linker", "Operating System", "Device Drivers"],
     "a": 2,
-    "e": "The Operating System manages hardware and software resources and is required to boot the system."
+    "e": "The Operating System manages hardware and software resources and is required to boot the system[span_82](start_span)[span_82](end_span)."
   },
   {
     "q": "What is a 'Worm' in computer security terms?",
     "o": ["A program that can replicate itself and send copies across a network", "A secure encryption protocol", "A hardware firewall module", "A temporary storage cache"],
     "a": 0,
-    "e": "A computer worm is malware that self-replicates to spread across network connections."
+    "e": "A computer worm is malware that self-replicates to spread across network connections[span_83](start_span)[span_83](end_span)."
   },
   {
     "q": "Which MS Office software is used to send, receive emails and manage a contact list with multiple calendars?",
     "o": ["MS-Access", "MS-Infopath", "MS-Outlook", "MS-Visio"],
     "a": 2,
-    "e": "MS Outlook is a personal information manager used primarily for email, calendar, and contact management."
+    "e": "MS Outlook is a personal information manager used primarily for email, calendar, and contact management[span_84](start_span)[span_84](end_span)."
   },
   {
     "q": "Which relational algebra operation is used to extract specified columns from a table?",
     "o": ["Extract", "Join", "Substitute", "Project"],
     "a": 3,
-    "e": "The Project operation in relational algebra selects specific columns from a relation."
+    "e": "The Project operation in relational algebra selects specific columns from a relation[span_85](start_span)[span_85](end_span)."
   },
   {
     "q": "What is a common precaution to enhance computer security?",
     "o": ["Installing antivirus software", "Using simple passwords", "Ignoring regular software updates", "Connecting to free public Wi-Fi without VPN"],
     "a": 0,
-    "e": "Installing and updating antivirus software helps protect systems against malware threats."
+    "e": "Installing and updating antivirus software helps protect systems against malware threats[span_86](start_span)[span_86](end_span)."
   },
   {
     "q": "Consider email statements: Statement I: Spam folder stores messages considered important. Statement II: Quick Reply is a predefined response user can send quickly.",
     "o": ["Both Statement I and Statement II are correct", "Statement I is incorrect but Statement II is correct", "Statement I is correct but Statement II is incorrect", "Both Statement I and Statement II are incorrect"],
     "a": 1,
-    "e": "Spam folders store junk/unwanted messages (not important ones), making Statement I incorrect while Statement II is correct."
+    "e": "Spam folders store junk/unwanted messages (not important ones), making Statement I incorrect while Statement II is correct[span_87](start_span)[span_87](end_span)."
   },
   {
     "q": "Which tool is best suited for real-time team messaging and reducing email clutter?",
     "o": ["Microsoft Excel", "Google Drive", "Slack", "Asana"],
     "a": 2,
-    "e": "Slack is a cloud-based team communication platform designed for real-time messaging and collaboration."
+    "e": "Slack is a cloud-based team communication platform designed for real-time messaging and collaboration[span_88](start_span)[span_88](end_span)."
   },
   {
     "q": "MS Word package does not support which of the following features?",
     "o": ["Editing text", "Formatting page styles", "Worksheet calculations as primary native grid", "Entering text"],
     "a": 2,
-    "e": "Worksheet spreadsheet grids and cell calculations are native to spreadsheet software like Excel, not Word."
+    "e": "Worksheet spreadsheet grids and cell calculations are native to spreadsheet software like Excel, not Word[span_89](start_span)[span_89](end_span)."
   },
   {
     "q": "What are the benefits of office automation systems?",
     "o": ["Increased productivity, Centralized data management, Improved quality", "Higher operational cost, Increased productivity, Quality", "Centralized data, Higher cost, Automation", "Higher operational cost only"],
     "a": 0,
-    "e": "Office automation increases productivity, centralizes data management, and improves operational quality."
+    "e": "Office automation increases productivity, centralizes data management, and improves operational quality[span_90](start_span)[span_90](end_span)."
   },
   {
     "q": "What is the primary function of 'Mail merge' in word processors?",
     "o": ["Attempts to correct grammar and spelling errors", "Automatically create messages, attachments for mass mailing", "Used for creating and managing data in rows and columns", "A command for automation of repetitive tasks"],
     "a": 1,
-    "e": "Mail merge allows users to automatically generate personalized letters and documents for mass mailings."
+    "e": "Mail merge allows users to automatically generate personalized letters and documents for mass mailings[span_91](start_span)[span_91](end_span)."
   },
   {
     "q": "Consider function key statements: Statement I: F12 key opens save as dialog box. Statement II: F7 key prints page.",
     "o": ["Statement I is incorrect but Statement II is correct", "Both Statement I and Statement II are correct", "Both Statement I and Statement II are incorrect", "Statement I is correct but Statement II is incorrect"],
     "a": 3,
-    "e": "F12 opens 'Save As' in many apps (Statement I correct), whereas F7 is typically used for spelling/grammar check, not printing (Statement II incorrect)."
+    "e": "F12 opens 'Save As' in many apps (Statement I correct), whereas F7 is typically used for spelling/grammar check, not printing (Statement II incorrect)[span_92](start_span)[span_92](end_span)."
   },
   {
     "q": "Which of the following is not a type of broadband internet connection?",
     "o": ["Satellite", "Fiber optic", "DSL", "Dial-up"],
     "a": 3,
-    "e": "Dial-up is a narrowband, slower connection using telephone lines, unlike broadband technologies."
+    "e": "Dial-up is a narrowband, slower connection using telephone lines, unlike broadband technologies[span_93](start_span)[span_93](end_span)."
   },
   {
     "q": "Which statements are correct about a firewall? a. Implemented as software, hardware or both. b. Monitors and controls network traffic. c. Blocks unauthorized access. d. Blocks all legitimate communication.",
     "o": ["a, b and c", "a and d", "b and d", "c and d"],
     "a": 0,
-    "e": "Firewalls monitor traffic, block unauthorized access, and can be hardware/software, but do not block all legitimate communication."
+    "e": "Firewalls monitor traffic, block unauthorized access, and can be hardware/software, but do not block all legitimate communication[span_94](start_span)[span_94](end_span)."
   },
   {
     "q": "What is the utility software essential for maintaining the physical order of files on a hard disk drive?",
     "o": ["System Restore", "Task Manager", "Disk Cleanup", "Disk Defragmenter"],
     "a": 3,
-    "e": "Disk Defragmenter reorganizes fragmented data to optimize file storage order on hard drives."
+    "e": "Disk Defragmenter reorganizes fragmented data to optimize file storage order on hard drives[span_95](start_span)[span_95](end_span)."
   },
   {
     "q": "What is the primary purpose of software updates?",
     "o": ["To increase data usage", "To change the software's interface", "To correct security vulnerabilities and improve functionality", "To advertise new products"],
     "a": 2,
-    "e": "Software updates primarily patch security vulnerabilities, fix bugs, and improve system performance."
+    "e": "Software updates primarily patch security vulnerabilities, fix bugs, and improve system performance[span_96](start_span)[span_96](end_span)."
   },
   {
     "q": "Which statements are correct about secondary storage memory? a. Faster than primary memory. b. Non-volatile memory. c. Retains data after power-loss. d. Used as temporary data storage.",
     "o": ["a, b and d", "a and b", "c and d", "b and c"],
     "a": 3,
-    "e": "Secondary storage is non-volatile, retains data after power loss, and is slower than primary memory."
+    "e": "Secondary storage is non-volatile, retains data after power loss, and is slower than primary memory[span_97](start_span)[span_97](end_span)."
   },
   {
     "q": "Consider Google Drive statements: Statement I: Google Drive is cloud-based storage allowing real-time synchronization. Statement II: Google Drive provides 100 GB free storage by default.",
     "o": ["Statement I is incorrect but Statement II is correct", "Statement I is correct but Statement II is incorrect", "Both Statement I and Statement II are correct", "Both Statement I and Statement II are incorrect"],
     "a": 1,
-    "e": "Google Drive provides cloud storage and sync (Statement I correct), but standard free storage is 15 GB, not 100 GB (Statement II incorrect)."
+    "e": "Google Drive provides cloud storage and sync (Statement I correct), but standard free storage is 15 GB, not 100 GB (Statement II incorrect)[span_98](start_span)[span_98](end_span)."
   },
   {
     "q": "Which of the following statements are correct about Cache memory? a. Faster than RAM. b. Smaller in size than RAM. c. Multiple cache levels like L1, L2, L3. d. Present in hard disk.",
     "o": ["a, b and d", "a, b and c", "c and d", "a and d"],
     "a": 1,
-    "e": "Cache memory is faster and smaller than RAM, structured in L1, L2, L3 levels close to or inside the CPU."
+    "e": "Cache memory is faster and smaller than RAM, structured in L1, L2, L3 levels close to or inside the CPU[span_99](start_span)[span_99](end_span)."
   },
   {
     "q": "Identify the primary function of the Central Processing Unit (CPU) in a computer.",
     "o": ["Performs calculations and executes program instructions", "Stores all permanent data and programs", "Displays visual output on the screen", "Manages the power supply to all components"],
     "a": 0,
-    "e": "The CPU acts as the brain of the computer, performing arithmetic, logic, and instruction execution."
+    "e": "The CPU acts as the brain of the computer, performing arithmetic, logic, and instruction execution[span_100](start_span)[span_100](end_span)."
   }
 ]
