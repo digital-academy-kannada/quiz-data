@@ -1,0 +1,1102 @@
+[
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಕೃತಿಗಳು ತೀನಂಶ್ರೀ ಅವರಿಂದ ರಚನೆಯಾಗಿವೆ?\n1.ಕಾಕನಕೋಟೆ\n2.ಧರ್ಮದುರಂತ\n3.ಭಾರತೀಯ ಕಾವ್ಯ ಮೀಮಾಂಸೆ\n4.ಒಲುಮೆ",
+    "o": [
+      "1, 2, 3",
+      "2, 3, 4",
+      "1, 3, 4",
+      "1, 2, 3, 4"
+    ],
+    "a": 2,
+    "e": "ತೀನಂಶ್ರೀ ಅವರು ಕಾಕನಕೋಟೆ, ಭಾರತೀಯ ಕಾವ್ಯ ಮೀಮಾಂಸೆ ಮತ್ತು ಒಲುಮೆ ಮುಂತಾದ ಪ್ರಮುಖ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ."
+  },
+  {
+    "q": "ದೇವುಡು ನರಸಿಂಹ ಶಾಸ್ತ್ರಿ ಅವರಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಸರಿಯಾದ ಹೇಳಿಕೆಗಳನ್ನು ಗುರುತಿಸಿ:\n1. ಇವರಿಗೆ ಮಹಾಕ್ಷತ್ರಿಯ ಕೃತಿಗೆ ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ದೊರಕಿದೆ.\n2. ಇವರು ಅಂತರಂಗ ಎಂಬ ಕಾದಂಬರಿಯನ್ನು ರಚಿಸಿದರು.\n3. ಅಂತರಂಗ ಕಾದಂಬರಿಯು ಮೊದಲ ಮನೋವೈಜ್ಞಾನಿಕ ಕಾದಂಬರಿಯಾಗಿದೆ.",
+    "o": [
+      "1 ಮತ್ತು 2 ಮಾತ್ರ",
+      "1, 2 ಮತ್ತು 3",
+      "2 ಮತ್ತು 3 ಮಾತ್ರ",
+      "1 ಮತ್ತು 3 ಮಾತ್ರ"
+    ],
+    "a": 1,
+    "e": "ದೇವುಡು ನರಸಿಂಹ ಶಾಸ್ತ್ರಿ ಅವರ ಮಹಾಕ್ಷತ್ರಿಯ ಕೃತಿಗೆ ಪ್ರಶಸ್ತಿ ಬಂದಿದ್ದು, ಅಂತರಂಗವು ಕನ್ನಡದ ಮೊದಲ ಮನೋವೈಜ್ಞಾನಿಕ ಕಾದಂಬರಿಯಾಗಿದೆ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಎ.ಎನ್ ಮೂರ್ತಿರಾವ್ ಅವರ ಆತ್ಮಕಥೆಯಾಗಿದೆ?",
+    "o": [
+      "ನನ್ನ ಬಯೋ",
+      "ಬರಹಗಾರನ ಬದುಕು",
+      "ಕಾದಂಬರಿಕಾರನ ಬದುಕು",
+      "ಸಂಜೆಗಣ್ಣಿನ ಹಿನ್ನೋಟ"
+    ],
+    "a": 3,
+    "e": "ಎ.ಎನ್ ಮೂರ್ತಿರಾವ್ ಅವರ ಪ್ರಸಿದ್ಧ ಆತ್ಮಕಥೆ 'ಸಂಜೆಗಣ್ಣಿನ ಹಿನ್ನೋಟ' ಆಗಿದೆ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಜೋಡಿಗಳಲ್ಲಿ ಸರಿಯಾಗಿ ಹೋಲಿಕೆಯಾಗಿರುವ ಜೋಡಿಗಳನ್ನು ಗುರುತಿಸಿ:\n1. ದುರ್ಗಸ್ತಮಾನ - ಬಿ.ಎಂ.ಶ್ರೀ\n2. ಸಂಧ್ಯಾರಾಗ - ಆ.ನ.ಕೃ\n3. ರಂಗ ಬಿನ್ನಪಂ - ಎಸ್.ವಿ ರಂಗಣ್ಣ\n4. ಪಟ್ಟಣದ ಹುಡುಗಿ - ಬಸವರಾಜ್ ಕಟ್ಟಿಮನಿ",
+    "o": [
+      "ಮೂರು ಜೋಡಿ",
+      "ಒಂದು ಜೋಡಿ",
+      "ನಾಲ್ಕು ಜೋಡಿ",
+      "ಎರಡು ಜೋಡಿ"
+    ],
+    "a": 0,
+    "e": "ಸಂಧ್ಯಾರಾಗ (ಆ.ನ.ಕೃ), ರಂಗ ಬಿನ್ನಪಂ (ಎಸ್.ವಿ ರಂಗಣ್ಣ) ಮತ್ತು ಪಟ್ಟಣದ ಹುಡುಗಿ (ಬಸವರಾಜ್ ಕಟ್ಟಿಮನಿ) ಸರಿಯಾಗಿ ಹೊಂದಾಣಿಕೆಯಾಗಿವೆ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳಲ್ಲಿ ಸರಿಯಾದುದನ್ನು ಗುರುತಿಸಿ:\nA. ಪ್ರವಾಸನ ಪಿತಾಮಹ ಎಂದು ಟಿಪಿ ಕೈಲಾಸಂ ಅವರನ್ನು ಕರೆಯಲಾಗುತ್ತದೆ.\nB. ಕುಂದರ ನಾಡಿನ ಕಂದ ಎಂದು ಸಿದ್ದಯ್ಯ ಪುರಾಣಿಕ ಅವರನ್ನು ಕರೆಯಲಾಗುತ್ತದೆ.",
+    "o": [
+      "A ಮತ್ತು B ಎರಡೂ ಸರಿ",
+      "B ಮಾತ್ರ ಸರಿ",
+      "A ಮತ್ತು B ಎರಡೂ ತಪ್ಪು",
+      "A ಮಾತ್ರ ಸರಿ"
+    ],
+    "a": 2,
+    "e": "ನೀಡಿರುವ ಎರಡೂ ಹೇಳಿಕೆಗಳು ತಪ್ಪಾಗಿವೆ ಏಕೆಂದರೆ ಟಿ.ಪಿ. ಕೈಲಾಸಂ ಹಾಗೂ ಸಿದ್ದಯ್ಯ ಪುರಾಣಿಕರ ಬಗ್ಗೆ ತಪ್ಪಾಗಿ ನೀಡಲಾಗಿದೆ."
+  },
+  {
+    "q": "ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತಿ ಸಮೀಕ್ಷೆ ಕೃತಿಗೆ ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ಯಾರಿಗೆ ದೊರಕಿದೆ?",
+    "o": [
+      "ನಿರಂಜನ",
+      "ಎಚ್. ತೀಪ್ಪೆರುದ್ರಸ್ವಾಮಿ",
+      "ರಂ.ಶ್ರೀ ಮುಗಳಿ",
+      "ಕೀರ್ತಿನಾಥ ಕುರ್ತು ಕೋಟಿ"
+    ],
+    "a": 1,
+    "e": "'ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತಿ ಸಮೀಕ್ಷೆ' ಎಂಬ ಮಹತ್ವದ ಕೃತಿಯನ್ನು ರಚಿಸಿದವರು ಎಚ್. ತೀಪ್ಪೆರುದ್ರಸ್ವಾಮಿ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಕೃತಿಗಳು ಎಸ್.ಎಲ್. ಭೈರಪ್ಪ ಅವರಿಂದ ರಚನೆಯಾಗಿವೆ?\n1. ಧರ್ಮ ಶ್ರೀ\n2. ಗೃಹಭಂಗ\n3. ವಂಶವೃಕ್ಷ\n4. ಭಾವ",
+    "o": [
+      "1, 2, 3 ಮತ್ತು 4",
+      "1, 2 ಮತ್ತು 3 ಮಾತ್ರ",
+      "1, 2 ಮತ್ತು 4 ಮಾತ್ರ",
+      "1, 2, 3 ಮತ್ತು 5"
+    ],
+    "a": 1,
+    "e": "ಧರ್ಮಶ್ರೀ, ಗೃಹಭಂಗ ಹಾಗೂ ವಂಶವೃಕ್ಷ ಕೃತಿಗಳು ಎಸ್.ಎಲ್. ಭೈರಪ್ಪ ಅವರ ಪ್ರಸಿದ್ಧ ಕಾದಂಬರಿಗಳಾಗಿವೆ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ದೊರೆತ ಕೃತಿಯಲ್ಲ?",
+    "o": [
+      "ಸಿರಿಸಂಪಿಗೆ",
+      "ಕಾವ್ಯಾರ್ಥ ಚಿಂತನ",
+      "ಹುಳಿ ಮಾವಿನ ಮರ",
+      "ವರ್ಧಮಾನ"
+    ],
+    "a": 2,
+    "e": "ಹುಳಿ ಮಾವಿನ ಮರ ಕೃತಿಗೆ ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ಲಭಿಸಿಲ್ಲ, ಉಳಿದವು ಪ್ರಶಸ್ತಿ ಪಡೆದ ಕೃತಿಗಳಾಗಿವೆ."
+  },
+  {
+    "q": "ಬಾಲ ಪ್ರಪಂಚ ವಿಶ್ವಕೋಶವನ್ನು ಸಂಕಲಿಸಿದವರು ಯಾರು?",
+    "o": [
+      "ಶಿವರಾಮ ಕಾರಂತರು",
+      "ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ",
+      "ಪಂಜೆ ಮಂಗೇಶರಾಯರು",
+      "ಜೆ.ಪಿ. ರಾಜರತ್ನಂ"
+    ],
+    "a": 0,
+    "e": "ಮಕ್ಕಳಿಗಾಗಿ ಬಾಲ ಪ್ರಪಂಚ ಎಂಬ ಹೆಸರಿನ ಬೃಹತ್ ವಿಶ್ವಕೋಶವನ್ನು ಶಿವರಾಮ ಕಾರಂತರು ಸಂಕಲಿಸಿದ್ದಾರೆ."
+  },
+  {
+    "q": "ಗೀತಾ ನಾಗಭೂಷಣ್ ಅವರಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಸರಿಯಾದ ಹೇಳಿಕೆಗಳನ್ನು ಗುರುತಿಸಿ:\nA. ಇವರು ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಮೊದಲ ಮಹಿಳಾ ಅಧ್ಯಕ್ಷರಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸಿದರು.\nB. ಇವರ ಕಾವ್ಯನಾಮ ಜಾನಕಿ ಅಥವಾ ವೈದೇಹಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+    "o": [
+      "A ಮತ್ತು B ಎರಡೂ ಸರಿ",
+      "A ಮಾತ್ರ ಸರಿ",
+      "A ಮತ್ತು B ಎರಡೂ ತಪ್ಪು",
+      "B ಮಾತ್ರ ಸರಿ"
+    ],
+    "a": 2,
+    "e": "ನೀಡಿರುವ ಎರಡೂ ಹೇಳಿಕೆಗಳು ತಪ್ಪಾಗಿವೆ, ಗೀತಾ ನಾಗಭೂಷಣ್ ಅವರು ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದರು."
+  },
+  {
+    "q": "'ಆಸ್ಪತ್ರೆಯಲ್ಲಿಯ ರೋಗಿಗಳಿಗೆ ಹಣ್ಣನ್ನು ನೀಡಲಾಯಿತು.' ಈ ವಾಕ್ಯದಲ್ಲಿಯ ಕರ್ತೃಪದ ಯಾವುದು?",
+    "o": [
+      "ರೋಗಿಗಳು",
+      "ಆಸ್ಪತ್ರೆ",
+      "ಯಾವುದೂ ಅಲ್ಲ",
+      "ಹಣ್ಣು"
+    ],
+    "a": 0,
+    "e": "ಕೆಲಸವನ್ನು ಮಾಡುವ ಅಥವಾ ಪ್ರಧಾನವಾಗಿ ನಿಲ್ಲುವ ಪದವೇ ಕರ್ತೃಪದವಾಗಿದ್ದು, ಇಲ್ಲಿ ರೋಗಿಗಳು ಕರ್ತೃ ಪದವಾಗಿದೆ."
+  },
+  {
+    "q": "ಅರ್ಥಕ್ಕನುಗುಣವಾಗಿ ವಾಕ್ಯವನ್ನು ನಿಲ್ಲಿಸಬೇಕಾದಾಗ ಅಥವಾ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ನಾಮಪದಗಳು ಬಂದಾಗ ಹಾಕುವ ಚಿಹ್ನೆ ಯಾವುದು?",
+    "o": [
+      "ಪೂರ್ಣ ವಿರಾಮ",
+      "ಅಲ್ಪ ವಿರಾಮ",
+      "ಅರ್ಧ ವಿರಾಮ",
+      "ಭಾವಸೂಚಕ"
+    ],
+    "a": 1,
+    "e": "ವಾಕ್ಯದಲ್ಲಿ ಸ್ವಲ್ಪ ಕಾಲ ನಿಲ್ಲಲು ಅಥವಾ ಅನೇಕ ಪದಗಳನ್ನು ಬೇರ್ಪಡಿಸಲು ಅಲ್ಪವಿರಾಮ ಚಿಹ್ನೆಯನ್ನು ಬಳಸಲಾಗುತ್ತದೆ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಅರೇಬಿಕ್ ಭಾಷೆಯಿಂದ ಬಂದಿರುವ ಪದವಲ್ಲ?",
+    "o": [
+      "ಜುಲ್ಮಾನೆ",
+      "ತಾರೀಖು",
+      "ಜಾಮೀನು",
+      "ಖುಲಾಸೆ"
+    ],
+    "a": 0,
+    "e": "ಜುಲ್ಮಾನೆ ಎಂಬುದು ಅರೇಬಿಕ್ ಮೂಲದ ಪದವಲ್ಲ, ಉಳಿದ ಅರೇಬಿಕ್ ಪದಗಳು ಆಡಳಿತ ಭಾಷೆಯಲ್ಲಿ ಬಳಕೆಯಾಗುತ್ತವೆ."
+  },
+  {
+    "q": "ಮನೆಗಿನೇ, ಸದ್ದುಗಿದ್ದು, ಹೊಲಗಿಲ ಇವೆಲ್ಲವೂ ಯಾವುದಕ್ಕೆ ಉದಾಹರಣೆಯಾಗಿವೆ?",
+    "o": [
+      "ದ್ವಿರುಕ್ತಿಗಳು",
+      "ಜೋಡಿನುಡಿಗಳು",
+      "ಪ್ರತಿಧ್ವನಿ ಶಬ್ದಗಳು",
+      "ನಾನಾರ್ಥಗಳು"
+    ],
+    "a": 1,
+    "e": "ಒಂದಕ್ಕೊಂದು ಅರ್ಥಪೂರ್ಣವಾದ ಅಥವಾ ನುಡಿಗೆ ಒಗ್ಗುವ ಜೋಡಿಯಾಗಿ ಬರುವ ಪದಗಳನ್ನು ಜೋಡಿನುಡಿಗಳೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+  },
+  {
+    "q": "ಚಿನ್ನ ಪದದ ಸಮನಾರ್ಥಕ ಪದಗಳ ಗುಂಪನ್ನು ಗುರುತಿಸಿ:\n1. ಕಸವರ\n2. ಮಿಸುನಿ\n3. ಕನಕ\n4. ಸುವರ್ಣ\n5. ಎಲರು",
+    "o": [
+      "1, 2, 3, 4",
+      "1, 2, 3",
+      "1, 2, 3, 4, 5",
+      "1, 2, 4, 5"
+    ],
+    "a": 0,
+    "e": "ಕಸವರ, ಮಿಸುನಿ, ಕನಕ ಮತ್ತು ಸುವರ್ಣ ಎಲ್ಲವೂ ಚಿನ್ನದ ಸಮನಾರ್ಥಕ ಪದಗಳಾಗಿವೆ."
+  },
+  {
+    "q": "'ಸಸ್ಯಹಾರ' ಪದದ ಶುದ್ಧ ರೂಪ ಯಾವುದು?",
+    "o": [
+      "ಸಸ್ಯಾಹಾರ",
+      "ಸಸ್ಯಹರ",
+      "ಸಸ್ಯಾಹರ",
+      "ಸಾಸ್ಯಾಹಾರ"
+    ],
+    "a": 0,
+    "e": "ಸಸ್ಯ + ಆಹಾರ ಎಂಬುದು ಸೇರಿ ದೀರ್ಘ ಸಂಧಿ ನಿಯಮದಂತೆ 'ಸಸ್ಯಾಹಾರ' ಎಂದು ಶುದ್ಧರೂಪಗೊಳ್ಳುತ್ತದೆ."
+  },
+  {
+    "q": "'ದೇಹವೇ ದೇಗುಲ' ಇಲ್ಲಿರುವ ಅಲಂಕಾರ ಯಾವುದು?",
+    "o": [
+      "ರೂಪಕ ಅಲಂಕಾರ",
+      "ಉಪಮಾ ಅಲಂಕಾರ",
+      "ಉತ್ಪ್ರೇಕ್ಷೆ ಅಲಂಕಾರ",
+      "ಶಬ್ದ ಅಲಂಕಾರ"
+    ],
+    "a": 0,
+    "e": "ಉಪಮಾನ ಮತ್ತು ಉಪಮೇಯಗಳಿಗೆ ಯಾವುದೇ ವ್ಯತ್ಯಾಸವಿಲ್ಲದೆ ಎರಡೂ ಒಂದೇ ಎಂದು ಅಭೇದ ಕಲ್ಪಿಸುವುದನ್ನು ರೂಪಕ ಅಲಂಕಾರ ಎನ್ನುವರು."
+  },
+  {
+    "q": "ಕೆಳಗೆ ಕೊಟ್ಟಿರುವ ಪದಗಳನ್ನು ಸುಧಾರಿಸಿ ಬರೆಯಿರಿ:\nಪ್ರಾಯಶ್ಚಿತ್ತ",
+    "o": [
+      "ಪ್ರಾಯಚ್ಚಿತ್ತ",
+      "ಪ್ರಾಯಶ್ಚಿತ್ತ",
+      "ಪ್ರಾಯಚ್ಚಿತ್ವ",
+      "ಸುಧಾರಣೆ ಇಲ್ಲ"
+    ],
+    "a": 1,
+    "e": "ನೀಡಿರುವ ಪದಗಳಲ್ಲಿ 'ಪ್ರಾಯಶ್ಚಿತ್ತ' ಎಂಬುದು ಸರಿಯಾದ ಕಾಗುಣಿತ ಹೊಂದಿರುವ ರೂಪವಾಗಿದೆ."
+  },
+  {
+    "q": "ಅವರು 'ಕ್ಯಾಜುವಲ್ ಲೀವ್' ಹಾಕಿದ್ದಾರೆ, ನಾಳೆ ಆಫೀಸಿಗೆ ಬರುವುದಿಲ್ಲ. ಇದಕ್ಕೆ ಸರಿಯಾದ ಕನ್ನಡ ರೂಪ ಯಾವುದು?",
+    "o": [
+      "ಸಾಂದರ್ಭಿಕ ರಜೆ",
+      "ಗಳಿಕೆ ರಜೆ",
+      "ಸಂಚಿತ ರಜೆ",
+      "ಅನ್ಯಕಾರ ನಿಮಿತ್ತ ರಜೆ"
+    ],
+    "a": 0,
+    "e": "ಆಂಗ್ಲ ಭಾಷೆಯ ಕ್ಯಾಜುವಲ್ ಲೀವ್ (Casual Leave) ಎಂಬುದನ್ನು ಕನ್ನಡದಲ್ಲಿ ಸಾಂದರ್ಭಿಕ ರಜೆ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+  },
+  {
+    "q": "“ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೊ” ಗಾದೆಯ ಸರಿಯಾದ ಅರ್ಥವೇನು?",
+    "o": [
+      "ಅವಕಾಶ ಒದಗಿದಾಗ ಕಾರ್ಯಸಾಧನೆ ಮಾಡು",
+      "ತಾನಾಗಿ ಬಂದ ಸುಖ ಸಂಪತ್ತನ್ನು ದೂರ ಮಾಡಬೇಡ",
+      "ಕಾಲ ನಮಗಾಗಿ ಕಾಯುವುದಿಲ್ಲ",
+      "ನಾವು ಸಮಯವನ್ನು ಕಾಯುವುದು ಲೇಸು"
+    ],
+    "a": 0,
+    "e": "ಅನುಕೂಲಕರವಾದ ಸಂದರ್ಭ ಅಥವಾ ಅವಕಾಶ ಸಿಕ್ಕಾಗ ಅದನ್ನು ಬಳಸಿಕೊಂಡು ನಮ್ಮ ಕೆಲಸವನ್ನು ಸಾಧಿಸಿಕೊಳ್ಳಬೇಕು ಎಂಬುದು ಇದರರ್ಥ."
+  },
+  {
+    "q": "ಕೆಳಗಿನ ನಾಲ್ಕು ಪದಗಳಲ್ಲಿ ಅಚ್ಚ ಕನ್ನಡ ಪದವನ್ನು ಗುರುತಿಸಿ:",
+    "o": [
+      "ಊರು",
+      "ಬ್ರಹ್ಮ",
+      "ಕಛೇರಿ",
+      "ಮೇಷ್ಟ್ರು"
+    ],
+    "a": 0,
+    "e": "ಉಳಿದ ಮೂರು ಪದಗಳು ಅನ್ಯಭಾಷಾ ಪದಗಳಾಗಿದ್ದು, 'ಊರು' ಎಂಬುದು ಅಚ್ಚಗನ್ನಡದ ತದ್ಭವ ಅಥವಾ ದೇಶ್ಯ ಪದವಾಗಿದೆ."
+  },
+  {
+    "q": "“ಚಿಪ್ಪಿಗ” ಎಂದರೆ ಏನು?",
+    "o": [
+      "ಬಟ್ಟೆ ಹೊಲೆಯುವವನು",
+      "ವೀಳೆಯದೆಲೆ ಮಡಚಿಕೊಡುವವನು",
+      "ಚಿಪ್ಪು ತೆಗೆಯುವವನು",
+      "ಕಲ್ಲು ಬಂಡೆ ಹೊಡೆಯುವವನು"
+    ],
+    "a": 0,
+    "e": "ಹಳೆಯ ಕಾಲದ ಗಣತಿಯಂತೆ ಬಟ್ಟೆ ಹೊಲೆಯುವ ದರ್ಜಿಯನ್ನು 'ಚಿಪ್ಪಿಗ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+  },
+  {
+    "q": "“ಬೆಕ್ಕಿಲ್ಲದಾಗ ಇಲಿ ಲಾಗ ಹೊಡೆಯಿತು” ಗಾದೆಯ ಅರ್ಥವೇನು?",
+    "o": [
+      "ಹೇಳುವವರು, ಕೇಳುವವರು ಇಲ್ಲದಿದ್ದಾಗಿನ ಅವಸ್ಥೆ",
+      "ಲಾಗ ಹೊಡೆದು ಅಭ್ಯಾಸ ಮಾಡುತ್ತಿರುವ ಇಲಿ",
+      "ಬೆಕ್ಕನ್ನು ಮೆಚ್ಚಿಸಲು ಲಾಗ ಹೊಡೆಯುವ ಇಲಿ",
+      "ಇಲಿ ಬೆಕ್ಕಿಗಿಂತ ಕಡಿಮೆ ಇಲ್ಲ"
+    ],
+    "a": 0,
+    "e": "ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡುವವರು ಅಥವಾ ದೊಡ್ಡವರು ಇಲ್ಲದ ಸ್ಥಳದಲ್ಲಿ ಕಿರಿಯರು ಅಥವಾ ಅಧೀನರು ಸ್ವೇಚ್ಛೆಯಾಗಿ ವರ್ತಿಸುವುದು ಎಂದರ್ಥ."
+  },
+  {
+    "q": "ಸಾನೆಟ್ ಎಂಬುದು ಇಂಗ್ಲಿಷ್ ಕಾವ್ಯ ಪ್ರಕಾರವಾಗಿದ್ದು, ಅದರಲ್ಲಿ ಒಟ್ಟು ಎಷ್ಟು ಸಾಲುಗಳಿರುತ್ತವೆ?",
+    "o": [
+      "14",
+      "12",
+      "16",
+      "15"
+    ],
+    "a": 0,
+    "e": "ಸಾನೆಟ್ (Sonet) ಎಂಬ ಕಾವ್ಯ ಪ್ರಕಾರವು ಕಟ್ಟುನಿಟ್ಟಾಗಿ ಹದಿನಾಲ್ಕು (14) ಸಾಲುಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಗುಂಪಿನ ಪದಗಳು ಸಂಸ್ಕೃತ ಮೂಲದಿಂದ ಬಂದಿಲ್ಲದೆ ಸಂಪೂರ್ಣ ಕನ್ನಡದವಾಗಿವೆ?",
+    "o": [
+      "ಕಡಗ, ಮಜ್ಜನ, ಬತ್ತಿ, ಏಣಿ",
+      "ಸೂಜಿ, ಚಕ್ಕುಲಿ, ದೋಣಿ, ಸಂತೆ",
+      "ಎಲೆ, ಓಲಗ, ಕತ್ತೆ, ಬದುಕು",
+      "ಕಡಗ, ಮಜ್ಜನ, ಬತ್ತಿ, ವಿಣಿ"
+    ],
+    "a": 0,
+    "e": "ಕಡಗ, ಮಜ್ಜನ, ಬತ್ತಿ ಮತ್ತು ಏಣಿ ಪದಗಳು ಅಚ್ಚಗನ್ನಡ ಅಥವಾ ದೇಶ್ಯ ಪದಗಳ ಗುಂಪಿಗೆ ಸೇರಿವೆ."
+  },
+  {
+    "q": "ಗೌರಮ್ಮಾಜಿ ಎಂಬ ಪಾತ್ರವು ಯಾವ ಕಾದಂಬರಿಯಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ?",
+    "o": [
+      "ಕರ್ವಾಲೋ",
+      "ಒಡನಾಳ",
+      "ಸಂಸ್ಕಾರ",
+      "ಚಿಕ್ಕವೀರರಾಜೇಂದ್ರ"
+    ],
+    "a": 0,
+    "e": "ತೇಜಸ್ವಿ ಅವರ ವಿಜ್ಞಾನ ಆಧಾರಿತ 'ಕರ್ವಾಲೋ' ಕಾದಂಬರಿಯಲ್ಲಿ ಗೌರಮ್ಮಾಜಿ ಎಂಬ ವಿಶಿಷ್ಟ ಪಾತ್ರ ಬರುತ್ತದೆ."
+  },
+  {
+    "q": "ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಮೊದಲ ಮಹಿಳಾ ಅಧ್ಯಕ್ಷರು ಯಾರು?",
+    "o": [
+      "ಜಯದೇವಿ ತಾಯಿ ಲಿಗಾಡೆ",
+      "ಕಮಲಾ ಹಂಪನಾ",
+      "ಅನಸೂಯಮ್ಮ",
+      "ಗೀತಾ ನಾಗಬೂಷನ್"
+    ],
+    "a": 0,
+    "e": "ಜಯದೇವಿ ತಾಯಿ ಲಿಗಾಡೆಯವರು ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಪ್ರಥಮ ಮಹಿಳಾ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದರು."
+  },
+  {
+    "q": "'ಬೆಳ್ಳಿಯೊಂದೇ ಬೆಳಗುವಂದದಿ ಗಿಡದಳೊಂದೇ ಹೂವಿದೆ' ಎಂಬುದು ಯಾವ ಅಲಂಕಾರಕ್ಕೆ ಉದಾಹರಣೆಯಾಗಿದೆ?",
+    "o": [
+      "ಚಿತ್ರ ಕವಿತ್ವ",
+      "ಉಪಮಾಲಂಕಾರ",
+      "ದೀಪಕಾಲಂಕಾರ",
+      "ರೂಪಕ ಅಲಂಕಾರ"
+    ],
+    "a": 0,
+    "e": "ಅಕ್ಷರಗಳ ವಿನ್ಯಾಸ ಹಾಗೂ ಚಿತ್ರದ ರೀತಿಯಲ್ಲಿ ರಚನೆಯಾಗುವ ಕಾವ್ಯ ಭಾಗವು ಚಿತ್ರ ಕವಿತ್ವಕ್ಕೆ ಸೇರುತ್ತದೆ."
+  },
+  {
+    "q": "'ಅಂಥ ಒಳ್ಳೆಯ ಹುಡುಗಿಗೆ ಕಷ್ಟ ಬಂದಿತೆಂದು ಕೇಳಿ ನಮ್ಮ ಕೇರಿಯಲ್ಲಿ ಕಣ್ಣೀರು ಸುರಿಸಿತು' ಇಲ್ಲಿರುವ ಶಕ್ತಿ ಯಾವುದು?",
+    "o": [
+      "ಲಕ್ಷಣಾವೃತ್ತಿ",
+      "ವಾಚ್ಯಾರ್ಥ",
+      "ವ್ಯಂಗ್ಯಾರ್ಥ",
+      "ಧ್ವನ್ಯರ್ಥ"
+    ],
+    "a": 0,
+    "e": "ಕೇರಿಯೇ ಕಣ್ಣೀರು ಸುರಿಸಿತು ಎನ್ನುವಾಗ ವಾಚ್ಯಾರ್ಥಕ್ಕಿಂತ ಲಕ್ಷಣಾರ್ಥ ಅಥವಾ ಪ್ರತ್ಯಕ್ಷ ಸಂಬಂಧದ ಅರ್ಥ ಸ್ಪುಟಗೊಳ್ಳುತ್ತದೆ."
+  },
+  {
+    "q": "'ಅಮರ್ದು' ಈ ಪದದ ತತ್ಸಮ ರೂಪ ಯಾವುದು?",
+    "o": [
+      "ಅಮದ್ದು",
+      "ಅಮದು",
+      "ಅವರದ್ದು",
+      "ಅಮೃತ"
+    ],
+    "a": 0,
+    "e": "ಅಮರ್ದು ಶಬ್ದದ ತತ್ಸಮ ರೂಪವು 'ಅಮದ್ದು' ಎಂದಾಗುತ್ತದೆ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಕೃತಿಯು ಚಂದ್ರಶೇಖರ ಕಂಬಾರ ಅವರಿಂದ ರಚಿತವಾಗಿಲ್ಲ?",
+    "o": [
+      "ಕುಸುಮ ಬಾಲೆ",
+      "ಜೋಕುಮಾರಸ್ವಾಮಿ",
+      "ಕಾಡು ಕುದುರೆ",
+      "ಸಿರಿಸಂಪಿಗೆ"
+    ],
+    "a": 0,
+    "e": "ಕುಸುಮ ಬಾಲೆ ಮಹಾಕಾವ್ಯವನ್ನು ದೇವನೂರು ಮಹಾದೇವ ಅವರು ಬರೆದಿದ್ದಾರೆ, ಉಳಿದವು ಚಂದ್ರಶೇಖರ ಕಂಬಾರರ ಕೃತಿಗಳು."
+  },
+  {
+    "q": "ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಈ ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳಲ್ಲಿ ಎಷ್ಟು ಸರಿಯಾಗಿವೆ?\n1. ಕನ್ನಡದ ಮೊದಲ ಗದ್ಯ ಕೃತಿ ವಡ್ಡಾರಾಧನೆ.\n2. ಕನ್ನಡದ ಮೊದಲ ಪತ್ತೆದಾರಿ ಕಾದಂಬರಿ ಚೋರ ಗ್ರಹಣ ತಂತ್ರ.\n3. ಕನ್ನಡದ ಮೊದಲ ದಿನಪತ್ರಿಕೆ ಸುಬುದ್ದಿ ಪ್ರಕಾಶ.\n4. ಕನ್ನಡದ ಮೊದಲ ವಚನಕಾರ ದೇವರ ದಾಸಿಮಯ್ಯ.",
+    "o": [
+      "4 ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ",
+      "1 ಹೇಳಿಕೆ ಸರಿ",
+      "2 ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ",
+      "3 ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ"
+    ],
+    "a": 0,
+    "e": "ನೀಡಿರುವ ನಾಲ್ಕು ಹೇಳಿಕೆಗಳು ಕನ್ನಡ ಸಾಹಿತ್ಯ ಚರಿತ್ರೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಸಂಪೂರ್ಣ ಸರಿಯಾಗಿವೆ."
+  },
+  {
+    "q": "ವಿರುದ್ಧಾರ್ಥಕ ಪದಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಈ ಕೆಳಗಿನ ಯಾವ ಜೋಡಿ ತಪ್ಪಾಗಿದೆ?",
+    "o": [
+      "ಆಭರಣ = ಅನಾಭರಣ",
+      "ಸಫಲ = ವಿಫಲ",
+      "ಸಂಕ್ಷೇಪ = ವಿಸ್ತ್ರತ",
+      "ಆಯ = ವ್ಯಯ"
+    ],
+    "a": 0,
+    "e": "ಆಭರಣ ಪದದ ಸರಿಯಾದ ವಿರೋಧ ಪದ ನಿರಾಭರಣ ಆಗುತ್ತದೆ ಹೊರತು ಅನಾಭರಣ ಅಲ್ಲ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಅವಧಾರಣಾರ್ಥಕ ಅವ್ಯಯಕ್ಕೆ ಉದಾಹರಣೆ ಅಲ್ಲ?",
+    "o": [
+      "ಸುಯ್ಯನೆ",
+      "ಅವರೇ",
+      "ನೀನೇ",
+      "ರಾಮನೇ"
+    ],
+    "a": 0,
+    "e": "'ಸುಯ್ಯನೆ' ಎಂಬುದು ಅನುಕರಣಾವ್ಯಯವಾಗಿದ್ದು, 'ಏ' ಕಾರದಿಂದ ಕೂಡಿದ ಉಳಿದವು ಅವಧಾರಣಾರ್ಥಕಗಳಾಗಿವೆ."
+  },
+  {
+    "q": "'ಮೀನಮೇಷ ಎಣಿಸು' ಎಂಬ ನುಡಿಗಟ್ಟಿನ ಸರಿಯಾದ ಅರ್ಥವೇನು?",
+    "o": [
+      "ಹಿಂದೆ ಮುಂದೆ ನೋಡು",
+      "ಸುತ್ತು ಬಳಸಿ ಕೆಲಸ ಮಾಡು",
+      "ಅವಸರ ಪಟ್ಟು ಕೆಲಸ ಮಾಡು",
+      "ಕಳಂಕವನ್ನುಂಟು ಮಾಡು"
+    ],
+    "a": 0,
+    "e": "ಯಾವುದೇ ಕೆಲಸ ಮಾಡುವಾಗ ಅಥವಾ ನಿರ್ಧಾರ ಕೈಗೊಳ್ಳುವಾಗ ಮೀನಮೇಷ ಎಣಿಸುವುದು ಅಂದರೆ ಯೋಚಿಸುತ್ತಾ ಹಿಂದೆ ಮುಂದೆ ನೋಡುವುದು ಎಂದರ್ಥ."
+  },
+  {
+    "q": "Choose the correct sentence:",
+    "o": [
+      "He doesn't like coffee.",
+      "He don't like coffee.",
+      "He didn't liked coffee.",
+      "He don't likes coffee"
+    ],
+    "a": 0,
+    "e": "Third-person singular subjects take 'doesn't' followed by the base verb in the present simple tense."
+  },
+  {
+    "q": "Identify the part of speech of the word 'quickly' in the sentence: 'She runs quickly.'",
+    "o": [
+      "Adverb",
+      "Adjective",
+      "Verb",
+      "Noun"
+    ],
+    "a": 0,
+    "e": "An adverb modifies a verb, an adjective, or another adverb by describing how, when, or where an action occurs."
+  },
+  {
+    "q": "Fill in the blank with the correct form of the verb: 'She ___ to the market every day.'",
+    "o": [
+      "goes",
+      "going",
+      "went",
+      "gone"
+    ],
+    "a": 0,
+    "e": "Habitual actions in the present time use the simple present tense form matching the singular subject."
+  },
+  {
+    "q": "Choose the sentence with the correct subject-verb agreement:",
+    "o": [
+      "The team is playing well.",
+      "The team are playing well.",
+      "The team were playing well.",
+      "The team plays well."
+    ],
+    "a": 0,
+    "e": "Collective nouns like 'team' are generally treated as singular when acting as a single unit in standard contexts."
+  },
+  {
+    "q": "Identify the correct preposition in the sentence: 'She is fond ___ chocolate.'",
+    "o": [
+      "of",
+      "on",
+      "in",
+      "with"
+    ],
+    "a": 0,
+    "e": "The adjective 'fond' is customarily followed by the preposition 'of' to express liking something."
+  },
+  {
+    "q": "Which sentence is in the passive voice?",
+    "o": [
+      "Cricket is played by him.",
+      "He plays cricket.",
+      "He is playing cricket.",
+      "He played cricket."
+    ],
+    "a": 0,
+    "e": "A passive voice construction places the object of the active sentence as the subject, highlighting the receiver of the action."
+  },
+  {
+    "q": "Choose the correct form of the adjective: 'This is the ___ book I have ever read.'",
+    "o": [
+      "most interesting",
+      "interesting",
+      "more interesting",
+      "interestingly"
+    ],
+    "a": 0,
+    "e": "Comparing a single item against all others in a group requires the superlative degree of the adjective."
+  },
+  {
+    "q": "Identify the error in the following sentence: 'Neither the teacher nor the students was present.'",
+    "o": [
+      "Was",
+      "The teacher",
+      "The students",
+      "Present"
+    ],
+    "a": 0,
+    "e": "When subjects are joined by 'neither... nor', the verb agrees with the closer subject, which is plural here."
+  },
+  {
+    "q": "Choose the correct passive voice form of the sentence: 'The teacher teaches English.'",
+    "o": [
+      "English is taught by the teacher.",
+      "English was taught by the teacher.",
+      "English is being taught by the teacher.",
+      "English is taught from the teacher."
+    ],
+    "a": 0,
+    "e": "Simple present active sentences convert to passive by using 'is/am/are' followed by the past participle of the main verb."
+  },
+  {
+    "q": "Identify the error in the sentence: 'If I would have known, I would have helped you.'",
+    "o": [
+      "Would have",
+      "If I",
+      "Known",
+      "Have"
+    ],
+    "a": 0,
+    "e": "In third conditional sentences, the 'if' clause uses the past perfect tense ('had known') rather than 'would have'."
+  },
+  {
+    "q": "Which of the following is an example of a compound sentence?",
+    "o": [
+      "I went to the store and I bought apples.",
+      "I went to the store but didn't buy anything.",
+      "I went to the store.",
+      "If you are free, come to the party"
+    ],
+    "a": 0,
+    "e": "A compound sentence consists of two or more independent clauses joined by a coordinating conjunction."
+  },
+  {
+    "q": "Identify the adverb in the sentence: 'She sings beautifully.'",
+    "o": [
+      "beautifully",
+      "sings",
+      "She",
+      "None of the above"
+    ],
+    "a": 0,
+    "e": "The word 'beautifully' describes the manner in which the action of singing is performed."
+  },
+  {
+    "q": "Which sentence is in the correct form of the conditional?",
+    "o": [
+      "If I study hard, I will pass the exam.",
+      "If I studied hard, I would have passed the exam.",
+      "If I had studied hard, I would pass the exam.",
+      "If I would study hard, I would pass the exam."
+    ],
+    "a": 0,
+    "e": "The first conditional correctly pairs a simple present clause with a future tense result clause."
+  },
+  {
+    "q": "Identify the subject in the sentence: 'The dog ran across the street.'",
+    "o": [
+      "The dog",
+      "ran",
+      "across the street",
+      "The"
+    ],
+    "a": 0,
+    "e": "The subject represents the doer of the action, which in this case is the noun phrase 'The dog'."
+  },
+  {
+    "q": "Which of the following is a correct question?",
+    "o": [
+      "How many people are there in the room?",
+      "How much people are there in the room?",
+      "How much persons are there in the room?",
+      "How many persons are there in the room?"
+    ],
+    "a": 0,
+    "e": "Countable nouns like 'people' require the quantifier 'how many' for inquiring about quantity."
+  },
+  {
+    "q": "Which of the following is an example of a comparative adjective?",
+    "o": [
+      "Smarter",
+      "Smartest",
+      "Smartly",
+      "Smart"
+    ],
+    "a": 0,
+    "e": "Comparative adjectives compare two things, typically formed by adding '-er' or using 'more'."
+  },
+  {
+    "q": "Choose the correct indirect speech form: He said, 'I am tired.'",
+    "o": [
+      "He said that he was tired.",
+      "He said that he is tired.",
+      "He says that he was tired.",
+      "He says that he is tired."
+    ],
+    "a": 0,
+    "e": "Direct speech in the present tense shifts back to the past tense when reported after a past reporting verb."
+  },
+  {
+    "q": "Which sentence is in the present perfect tense?",
+    "o": [
+      "I have gone to the store.",
+      "I was going to the store.",
+      "I am going to the store.",
+      "I will go to the store."
+    ],
+    "a": 0,
+    "e": "The present perfect tense is formed using 'have/has' combined with the past participle of the verb."
+  },
+  {
+    "q": "Fill in the blank: The train arrived ___ time.",
+    "o": [
+      "on",
+      "at",
+      "in",
+      "by"
+    ],
+    "a": 0,
+    "e": "The preposition 'on' is used with time expressions to indicate punctuality ('on time')."
+  },
+  {
+    "q": "Choose the antonym of Expand:",
+    "o": [
+      "Contract",
+      "Enlarge",
+      "Increase",
+      "Spread"
+    ],
+    "a": 0,
+    "e": "To 'expand' means to become larger, whereas to 'contract' means to shrink or become smaller."
+  },
+  {
+    "q": "Choose the correct spelling:",
+    "o": [
+      "Privilege",
+      "Priviledge",
+      "Privelege",
+      "Privillage"
+    ],
+    "a": 0,
+    "e": "The standard correct spelling uses alternating vowels with 'i' and ends with '-lege'."
+  },
+  {
+    "q": "A person who speaks many languages is called:",
+    "o": [
+      "Polyglot",
+      "Linguist",
+      "Bilingual",
+      "Philologist"
+    ],
+    "a": 0,
+    "e": "A polyglot is someone who knows and is able to use several different languages fluently."
+  },
+  {
+    "q": "A person who knows everything is called:",
+    "o": [
+      "Omniscient",
+      "Genius",
+      "Omnipotent",
+      "Scholar"
+    ],
+    "a": 0,
+    "e": "An omniscient entity possesses infinite awareness, understanding, and knowledge of all things."
+  },
+  {
+    "q": "A place where dead bodies are kept before burial or cremation is called:",
+    "o": [
+      "Mortuary",
+      "Cemetery",
+      "Morgue",
+      "Graveyard"
+    ],
+    "a": 0,
+    "e": "A mortuary is a building or room where dead bodies are stored prior to identification or funeral rites."
+  },
+  {
+    "q": "'Call off' means:",
+    "o": [
+      "Cancel",
+      "Start",
+      "Announce",
+      "Invite"
+    ],
+    "a": 0,
+    "e": "The phrasal verb 'call off' is commonly used to mean abandoning or cancelling an planned event."
+  },
+  {
+    "q": "Select the most appropriate meaning of the given idiom: 'Bear the palm'",
+    "o": [
+      "To be a winner",
+      "To bring joyful news",
+      "To lose a game",
+      "To advocate peace"
+    ],
+    "a": 0,
+    "e": "Bearing the palm historically symbolizes achieving victory or coming out on top in a competition."
+  },
+  {
+    "q": "He said to me, 'Where are you going?' -> He asked me where I ___ going.",
+    "o": [
+      "was",
+      "am",
+      "were",
+      "had been"
+    ],
+    "a": 0,
+    "e": "In indirect questions, the pronoun shifts to first person singular matching the listener, requiring 'was'."
+  },
+  {
+    "q": "She said to him, 'Do you like coffee?' -> She asked him ___ coffee.",
+    "o": [
+      "if he liked",
+      "if he likes",
+      "whether he like",
+      "whether did he like"
+    ],
+    "a": 0,
+    "e": "Yes/no questions in indirect speech are introduced with 'if' or 'whether' followed by backshifted verb tenses."
+  },
+  {
+    "q": "'Benevolent' meaning:",
+    "o": [
+      "Kind",
+      "Cruel",
+      "Harsh",
+      "Wicked"
+    ],
+    "a": 0,
+    "e": "A benevolent person is well-meaning, kind, and inclined to help or do good to others."
+  },
+  {
+    "q": "Diligent meaning:",
+    "o": [
+      "Hardworking",
+      "Lazy",
+      "Careless",
+      "Idle"
+    ],
+    "a": 0,
+    "e": "Diligence involves showing care, persistent effort, and a strong work ethic in tasks."
+  },
+  {
+    "q": "Arrange the sentences (P, Q, R, S) to form a meaningful paragraph:\nP. He worked day and night to achieve it.\nQ. Success did not come easily to him.\nR. Finally, his efforts were rewarded.\nS. He had a strong desire to succeed.",
+    "o": [
+      "SQPR",
+      "QSPR",
+      "PSRQ",
+      "SPQR"
+    ],
+    "a": 0,
+    "e": "The logical sequence starts with his desire, leads to working hard through obstacles, and concludes with his success."
+  },
+  {
+    "q": "Arrange the sentences (P, Q, R, S) to form a meaningful paragraph:\nP. The farmer sowed the seeds.\nQ. The crops grew well.\nR. He harvested the crops.\nS. He ploughed the field.",
+    "o": [
+      "SPQR",
+      "SPRQ",
+      "QSPR",
+      "PQRS"
+    ],
+    "a": 0,
+    "e": "Farming steps follow a chronological progression starting with ploughing, sowing, growing, and harvesting."
+  },
+  {
+    "q": "Arrange the sentences (P, Q, R, S) to form a meaningful paragraph:\nP. The train finally arrived at the station.\nQ. Passengers had been waiting for hours.\nR. They rushed to board the train.\nS. The delay caused great inconvenience.",
+    "o": [
+      "QSPR",
+      "QSRP",
+      "SQPR",
+      "PQRS"
+    ],
+    "a": 0,
+    "e": "The narrative flows from waiting passengers to the inconvenience, arrival of the train, and finally boarding."
+  },
+  {
+    "q": "Arrange the sentences (P, Q, R, S) to form a meaningful paragraph:\nP. The teacher entered the classroom.\nQ. The students stood up.\nR. The class became silent.\nS. The bell had just rung.",
+    "o": [
+      "SQPR",
+      "SPQR",
+      "PQRS",
+      "SRPQ"
+    ],
+    "a": 0,
+    "e": "Events sequence naturally from the bell ringing to the teacher entering, students standing, and silence."
+  },
+  {
+    "q": "Select the most appropriate meaning of the idiom: 'At one's elbow'",
+    "o": [
+      "Next to someone",
+      "Far away",
+      "Strong grip",
+      "Strong bond"
+    ],
+    "a": 0,
+    "e": "Being at someone's elbow means being physically close by or readily available to assist them."
+  },
+  {
+    "q": "Which of the following statements about MS Word are correct?\n1. MS Word is a word processing software\n2. It is used to create spreadsheets\n3. It allows text formatting\n4. It supports spell check",
+    "o": [
+      "1, 3 & 4",
+      "1, 2 & 4",
+      "2, 3 & 4",
+      "All of the above"
+    ],
+    "a": 0,
+    "e": "MS Word handles text processing, formatting, and spell checks, whereas spreadsheets are managed by Excel."
+  },
+  {
+    "q": "Which statements about shortcut keys in MS Office are correct?\n1. Ctrl+C is used to copy\n2. Ctrl+V is used to paste\n3. Ctrl+X is used to print\n4. Ctrl+Z is used to undo",
+    "o": [
+      "1, 2 and 4",
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "All of the above"
+    ],
+    "a": 0,
+    "e": "Ctrl+C copies, Ctrl+V pastes, and Ctrl+Z undoes actions, while Ctrl+X is used for cutting rather than printing."
+  },
+  {
+    "q": "Which of the following is the default file manager in Windows / ವಿಂಡೋಸ್‌ನಲ್ಲಿ ಡೀಫಾಲ್ಟ್ ಫೈಲ್ ಮ್ಯಾನೇಜರ್ ಯಾವುದು?",
+    "o": [
+      "File Explorer",
+      "Notepad",
+      "MS Word",
+      "Paint"
+    ],
+    "a": 0,
+    "e": "File Explorer serves as the primary navigation and file management application built into Windows."
+  },
+  {
+    "q": "Which key combination is used to open Task Manager in Windows / ವಿಂಡೋಸ್‌ನಲ್ಲಿ ಟಾಸ್ಕ್ ಮ್ಯಾನೇಜರ್ ತೆರೆಯಲು ಯಾವ ಕೀ ಸಂಯೋಜನೆ ಬಳಸಲಾಗುತ್ತದೆ?",
+    "o": [
+      "Ctrl + Shift + Esc",
+      "Alt + F4",
+      "Ctrl + Alt + Del",
+      "Both A and C"
+    ],
+    "a": 0,
+    "e": "Ctrl + Shift + Esc provides a direct shortcut to launch the Task Manager interface directly in Windows."
+  },
+  {
+    "q": "What is the function of Recycle Bin in Windows?",
+    "o": [
+      "Temporarily store deleted files",
+      "Store all installed programs",
+      "Store downloaded files",
+      "Backup system files"
+    ],
+    "a": 0,
+    "e": "The Recycle Bin holds deleted files temporarily to allow users an option to restore them if needed."
+  },
+  {
+    "q": "Which of the following is used to install or uninstall programs in Windows / ವಿಂಡೋಸ್‌ನಲ್ಲಿ ಪ್ರೋಗ್ರಾಂಗಳನ್ನು ಸ್ಥಾಪಿಸಲು ಅಥವಾ ತೆಗೆದುಹಾಕಲು ಬಳಸುವುದೇನು?",
+    "o": [
+      "Control Panel",
+      "Task Manager",
+      "File Explorer",
+      "Recycle Bin"
+    ],
+    "a": 0,
+    "e": "Control Panel (or Settings) provides dedicated tools for managing system software installations and removals."
+  },
+  {
+    "q": "In Microsoft Excel, which of the following is a valid formula for calculating the sum of cells A1 to A5?",
+    "o": [
+      "=SUM(A1:A5)",
+      "=SUM(A1+A5)",
+      "=A1:A5+SUM",
+      "=A1+A2+A3+A4+A5"
+    ],
+    "a": 0,
+    "e": "Spreadsheet formulas use the SUM function combined with a colon-separated cell range reference."
+  },
+  {
+    "q": "In Microsoft PowerPoint, which view allows you to see a full-screen slide show / ಪವರ್‌ಪಾಯಿಂಟ್‌ನಲ್ಲಿ ಪೂರ್ಣ-ಪರದೆಯ ಸೈಡ್ ಶೋ ನೋಡಲು ಯಾವ ನೋಟ ಬಳಸಲಾಗುತ್ತದೆ?",
+    "o": [
+      "Slide Show View",
+      "Normal View",
+      "Slide Sorter View",
+      "Reading View"
+    ],
+    "a": 0,
+    "e": "Slide Show view displays the presentation across the entire screen for audience viewing."
+  },
+  {
+    "q": "Which feature in Microsoft Word helps to check spelling and grammar automatically while typing / ವರ್ಡ್‌ನಲ್ಲಿ ಕಾಗುಣಿತ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪರಿಶೀಲಿಸುವ ವೈಶಿಷ್ಟ್ಯವೇನು?",
+    "o": [
+      "Spell Check",
+      "AutoCorrect",
+      "Word Count",
+      "Track Changes"
+    ],
+    "a": 0,
+    "e": "Spell Check scans text inputs in real-time to highlight and correct spelling or grammatical mistakes."
+  },
+  {
+    "q": "What is the function of the 'Merge & Center' button in Microsoft Excel?",
+    "o": [
+      "It merges multiple cells into one and centers the text within the merged cells",
+      "It merges data from multiple cells into one",
+      "It centers the text in the selected cell",
+      "It merges multiple worksheets into one sheet"
+    ],
+    "a": 0,
+    "e": "This feature combines selected adjacent cells into a single larger cell and centers any contained text."
+  },
+  {
+    "q": "Which of the following is a feature of Microsoft Outlook / ಮೈಕ್ರೋಸಾಫ್ಟ್ ಔಟ್ಲುಕ್ ನ ವೈಶಿಷ್ಟ್ಯವೇನು?",
+    "o": [
+      "Email management",
+      "Word processing",
+      "Spreadsheet calculation",
+      "Presentation creation"
+    ],
+    "a": 0,
+    "e": "Microsoft Outlook is primarily designed as an email client and personal information manager."
+  },
+  {
+    "q": "What is the default orientation of pages in a new Microsoft Word document / ಹೊಸ ವರ್ಡ್ ಡಾಕ್ಯುಮೆಂಟ್‌ನ ಡೀಫಾಲ್ಟ್ ಓರಿಯಂಟೇಶನ್ ಏನು?",
+    "o": [
+      "Portrait",
+      "Landscape",
+      "Square",
+      "Custom"
+    ],
+    "a": 0,
+    "e": "New text documents typically open in a vertical layout orientation known as Portrait."
+  },
+  {
+    "q": "Which of the following Microsoft Office programs can be used to create and manage databases / ಡೇಟಾಬೇಸ್‌ಗಳನ್ನು ರಚಿಸಲು ಬಳಸುವ ಪ್ರೋಗ್ರಾಂ ಯಾವುದು?",
+    "o": [
+      "Microsoft Access",
+      "Microsoft Word",
+      "Microsoft PowerPoint",
+      "Microsoft Excel"
+    ],
+    "a": 0,
+    "e": "Microsoft Access is a relational database management system included in the Office suite."
+  },
+  {
+    "q": "What is the primary purpose of the 'Slide Master' in PowerPoint?",
+    "o": [
+      "To customize slide layouts and apply design changes universally",
+      "To add background music to the presentation",
+      "To add transitions between slides",
+      "To add animations to text and objects"
+    ],
+    "a": 0,
+    "e": "Slide Master controls the global formatting, fonts, and layout templates across all presentation slides."
+  },
+  {
+    "q": "In PowerPoint, which of the following is used to apply visual effects to text and objects on a slide?",
+    "o": [
+      "Animations",
+      "Slide Layout",
+      "Slide Show",
+      "Transitions"
+    ],
+    "a": 0,
+    "e": "Animations are applied to individual elements on a slide, whereas transitions affect movement between slides."
+  },
+  {
+    "q": "Which of the following PowerPoint options helps you add a caption or title to a slide?",
+    "o": [
+      "Text Box",
+      "Title Bar",
+      "Slide Layout",
+      "Header/Footer"
+    ],
+    "a": 0,
+    "e": "Text boxes allow users to freely place custom titles, captions, or descriptive text anywhere on a slide."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಎಷ್ಟು ಜೋಡಿಗಳು ಸರಿಯಾಗಿ ಹೋಲಿಕೆಯಾಗಿವೆ?\n1. CCTV = Closed-Circuit Television\n2. DMA = Direct Memory Access\n3. ARP = Address Resolution Protocol\n4. CPU = Control Processing Unit",
+    "o": [
+      "ನಾಲ್ಕು ಜೋಡಿ",
+      "ಒಂದು ಜೋಡಿ",
+      "ಎರಡು ಜೋಡಿ",
+      "ಮೂರು ಜೋಡಿ"
+    ],
+    "a": 0,
+    "e": "ನೀಡಿರುವ ಎಲ್ಲಾ ಕಂಪ್ಯೂಟರ್ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ ಸಂಬಂಧಿತ ಸಂಕ್ಷಿಪ್ತ ರೂಪಗಳ ವಿಸ್ತರಣೆಗಳು ಸರಿಯಾಗಿವೆ."
+  },
+  {
+    "q": "What is the full form of 'HTTPs'?",
+    "o": [
+      "HyperText Transfer Protocol Secure",
+      "HyperText Transmission Protocol Secure",
+      "Hyper Transfer Protocol Secure",
+      "High-Tech Transfer Protocol Secure"
+    ],
+    "a": 0,
+    "e": "HTTPS is the secure extension of the standard web transfer protocol utilizing encryption."
+  },
+  {
+    "q": "What is the full form of 'ICMP'?",
+    "o": [
+      "Internet Control Message Protocol",
+      "Internal Control Message Protocol",
+      "Integrated Control Message Protocol",
+      "Internet Communication Message Protocol"
+    ],
+    "a": 0,
+    "e": "ICMP is a network layer protocol used for diagnostic and error-reporting purposes in IP networks."
+  },
+  {
+    "q": "What does 'MIPS' stand for?",
+    "o": [
+      "Million Instructions Per Second",
+      "Memory Instructions Per Second",
+      "Mega Instructions Per Second",
+      "Mega Internet Protocol Standard"
+    ],
+    "a": 0,
+    "e": "MIPS measures computer processing speed based on how many millions of instructions it executes per second."
+  },
+  {
+    "q": "What is the shortcut to insert a new worksheet in Excel?",
+    "o": [
+      "Shift + F11",
+      "Ctrl + N",
+      "Ctrl + Shift + N",
+      "Alt + Shift + N"
+    ],
+    "a": 0,
+    "e": "Pressing Shift + F11 creates and inserts a brand new worksheet into the active Excel workbook."
+  },
+  {
+    "q": "What is the default number of worksheets in a new Excel workbook / ಎಕ್ಸೆಲ್ ವರ್ಕ್‌ ಬುಕ್‌ನಲ್ಲಿ ಡೀಫಾಲ್ಟ್ ವರ್ಕ್‌ಶೀಟ್‌ಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
+    "o": [
+      "1",
+      "3",
+      "5",
+      "8"
+    ],
+    "a": 0,
+    "e": "Modern versions of Microsoft Excel open new workbooks with a single default worksheet tab."
+  },
+  {
+    "q": "What does the CONCATENATE function do in Excel?",
+    "o": [
+      "Joins two or more text strings into one",
+      "Adds the values of two cells together",
+      "Finds the average of a range of numbers",
+      "Adds text and numbers in separate cells"
+    ],
+    "a": 0,
+    "e": "The CONCATENATE function (or CONCAT) links multiple separate text strings into a single combined string."
+  },
+  {
+    "q": "Which of the following is a method of authentication used in cybersecurity / ಭದ್ರತೆಯಲ್ಲಿ ಬಳಸಲಾಗುವ ದೃಢೀಕರಣ ವಿಧಾನಗಳು ಯಾವುವು?\n1. Password\n2. Fingerprint recognition\n3. Security token",
+    "o": [
+      "1, 2, 3",
+      "1 & 2",
+      "1 & 3",
+      "2 & 3"
+    ],
+    "a": 0,
+    "e": "Passwords, biometric fingerprints, and security tokens are all valid multi-factor authentication methods."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆ ಸರಿಯಾಗಿದೆ?\nI. CPU ಕಂಪ್ಯೂಟರ್‌ನ ಮೆದುಳು ಎನ್ನುವರು.\nII. RAM ಒಂದು ಶಾಶ್ವತ ಸ್ಮರಣೆ.",
+    "o": [
+      "I ಮಾತ್ರ ಸರಿ",
+      "II ಮಾತ್ರ ಸರಿ",
+      "I ಮತ್ತು II ಎರಡೂ ಸರಿ",
+      "I ಮತ್ತು II ಎರಡೂ ತಪ್ಪಾಗಿವೆ"
+    ],
+    "a": 0,
+    "e": "CPU is indeed the brain of the computer, but RAM is volatile (temporary) memory, making statement II false."
+  },
+  {
+    "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ವಿಂಡೋಸ್ ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಂನ ಪ್ರಾಥಮಿಕ ಉದ್ದೇಶವಾಗಿದೆ?",
+    "o": [
+      "To manage hardware resources and provide user interface",
+      "To compile and execute programs",
+      "To manage networking protocols",
+      "To store and manage files"
+    ],
+    "a": 0,
+    "e": "An operating system acts as an intermediary managing hardware resources and offering user interfaces."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆ ಸರಿಯಾಗಿದೆ?\nI. ಹಾರ್ಡ್ ಡಿಸ್ಕ್ ಡೇಟಾವನ್ನು ಶಾಶ್ವತವಾಗಿ ಸಂಗ್ರಹಿಸುತ್ತದೆ.\nII. ವಿದ್ಯುತ್ ಆಫ್ ಆದಾಗ RAM ನಲ್ಲಿ ಸಂಗ್ರಹವಾಗಿರುವ ಡೇಟಾ ಕಳೆದುಹೋಗುತ್ತದೆ.",
+    "o": [
+      "I ಮತ್ತು II ಸರಿ",
+      "ಕೇವಲ I ಮಾತ್ರ ಸರಿ",
+      "ಕೇವಲ II ಮಾತ್ರ ಸರಿ",
+      "I ಅಥವಾ II ತಪ್ಪು"
+    ],
+    "a": 0,
+    "e": "Hard disks provide non-volatile permanent storage, whereas RAM is volatile and loses data when power cuts off."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆ ಸರಿಯಾಗಿದೆ?\nI. ಡಾಕ್ಯುಮೆಂಟ್‌ನಲ್ಲಿ ಪಠ್ಯವನ್ನು ಹುಡುಕಲು Ctrl + F ಬಳಸಲಾಗುತ್ತದೆ.\nII. ಪಠ್ಯವನ್ನು ಬದಲಾಯಿಸಲು Ctrl + H ಅನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.",
+    "o": [
+      "I ಮತ್ತು II ಎರಡೂ ಸರಿ",
+      "I ಮಾತ್ರ ಸರಿ",
+      "II ಮಾತ್ರ ಸರಿ",
+      "I ಮತ್ತು II ಎರಡೂ ತಪ್ಪಾಗಿವೆ"
+    ],
+    "a": 0,
+    "e": "Ctrl + F opens the Find dialog box, and Ctrl + H opens the Replace dialog box in text editors."
+  },
+  {
+    "q": "DDR RAM stands for:",
+    "o": [
+      "Dual Data Rate Random Access Memory",
+      "Direct Data Read Random Access Memory",
+      "Double Data Read Access Memory",
+      "Dynamic Data Rate RAM"
+    ],
+    "a": 0,
+    "e": "DDR RAM transfers data twice per clock cycle, standing for Dual Data Rate Random Access Memory."
+  },
+  {
+    "q": "The full form of RAID is:",
+    "o": [
+      "Redundant Array of Independent Disks",
+      "Random Access Integrated Drive",
+      "Rapid Access Integrated Disk",
+      "Read And Install Drive"
+    ],
+    "a": 0,
+    "e": "RAID virtualizes multiple physical disk drives into a single logical unit for redundancy or performance."
+  }
+]
