@@ -1,0 +1,442 @@
+[
+  {
+    "q": "Identify the chronological steps involved in food digestion in human beings:\na. Absorption\nb. Digestion\nc. Assimilation\nd. Egestion\ne. Ingestion",
+    "o": [
+      "Absorption, Assimilation, Egestion, Digestion, Ingestion",
+      "Ingestion, Digestion, Absorption, Assimilation, Egestion",
+      "Egestion, Absorption, Digestion, Assimilation, Ingestion",
+      "Digestion, Absorption, Assimilation, Ingestion, Egestion"
+    ],
+    "a": 1,
+    "e": "The proper sequence of human digestion starts with ingestion, followed by digestion, absorption, assimilation, and finally egestion."
+  },
+  {
+    "q": "When a body is immersed fully or partially in a fluid, it experiences an upward force that is equal to the weight of the fluid displaced by it. This statement is associated with:",
+    "o": [
+      "Newton's Gravitational Law",
+      "Archimedes Principle",
+      "Einstein's General Theory of Relativity",
+      "Bernoulli's Principle"
+    ],
+    "a": 1,
+    "e": "Archimedes principle states that the upward buoyant force exerted on a body immersed in a fluid is equal to the weight of the fluid the body displaces."
+  },
+  {
+    "q": "Consider the following statements:\nStatement I: Longer conducting wires have greater resistance than smaller conducting wires.\nStatement II: Resistance of a conducting wire is inversely proportional to its length.",
+    "o": [
+      "Statement I is correct, but Statement II is incorrect.",
+      "Statement I is incorrect, but Statement II is correct.",
+      "Both Statement I and Statement II are correct and Statement II is the correct explanation of Statement I.",
+      "Both Statement I and Statement II are correct, but Statement II is not the correct explanation of Statement I."
+    ],
+    "a": 0,
+    "e": "Resistance is directly proportional to the length of the wire, making Statement I correct and Statement II incorrect since resistance increases with length."
+  },
+  {
+    "q": "A seasoned cricketer lowers his hands while catching a ball. The scientific reason behind this is:",
+    "o": [
+      "to decrease the time of application of retarding force.",
+      "to not drop a catch.",
+      "to attract an audience.",
+      "to increase the time of application of retarding force."
+    ],
+    "a": 3,
+    "e": "Lowering hands increases the time over which the ball's momentum changes, thereby reducing the impact force on the hands."
+  },
+  {
+    "q": "Reason for water to be used as a coolant in automobiles is:",
+    "o": [
+      "its thermal conductivity is high.",
+      "its specific heat capacity is high.",
+      "its specific heat capacity is low.",
+      "its thermal conductivity is low."
+    ],
+    "a": 1,
+    "e": "Water has a very high specific heat capacity, allowing it to absorb large amounts of heat with minimal temperature change."
+  },
+  {
+    "q": "As per the criteria of rivers joining their main rivers, which of the following sequence is correct?",
+    "o": [
+      "Jhelum - Sutlej - Chenab - Indus",
+      "Chenab - Jhelum - Sutlej - Indus",
+      "Chenab - Sutlej - Jhelum - Indus",
+      "Jhelum - Chenab - Sutlej - Indus"
+    ],
+    "a": 3,
+    "e": "Jhelum joins Chenab, Chenab joins Sutlej (via Panjnad), and ultimately they join the Indus River."
+  },
+  {
+    "q": "The amount of biodegradable organic matter in sewage water can be estimated by measuring:",
+    "o": [
+      "Density of organic matter",
+      "Biochemical oxygen demand",
+      "Solubility of organic matter",
+      "Density of floating debris"
+    ],
+    "a": 1,
+    "e": "Biochemical Oxygen Demand (BOD) measures the amount of dissolved oxygen required by aerobic microorganisms to decompose organic matter in water."
+  },
+  {
+    "q": "The thickness of the Ozone in a column of air from the ground to the top of atmosphere is measured in terms of:",
+    "o": [
+      "Dalton units",
+      "Dobmon units",
+      "Dobson units",
+      "Dialation units"
+    ],
+    "a": 2,
+    "e": "Dobson unit is the standard unit used to measure ozone layer thickness in the atmosphere."
+  },
+  {
+    "q": "Who is known as \"Encyclopedia of the Forest\" in Karnataka?",
+    "o": [
+      "Tulsi Gowda",
+      "Dr. Shanti Tummala",
+      "Salumarad Timmakka",
+      "Bhagyamma"
+    ],
+    "a": 0,
+    "e": "Tulsi Gowda, an Indian environmentalist from Karnataka, is widely known as the Encyclopedia of the Forest for her vast knowledge of herbs and forest flora."
+  },
+  {
+    "q": "In a family of six members, Raju is the father of Rohit and is married to Asha. Raju has a sister Rekha, whose daughter is Shwetha. Rohit has a sister Ritu. How is Raju related to Ritu?",
+    "o": [
+      "Grandfather",
+      "Father",
+      "Son",
+      "Brother"
+    ],
+    "a": 1,
+    "e": "Since Raju is the father of Rohit, and Ritu is Rohit's sister, Raju is also the father of Ritu."
+  },
+  {
+    "q": "If LUCKY is coded as NSEIA in a certain language, then how will HAPPY be coded in that language?",
+    "o": [
+      "JARNY",
+      "JYRNA",
+      "JRAYN",
+      "JYANR"
+    ],
+    "a": 0,
+    "e": "The letters are shifted forward and backward following a specific pattern; applying the same transformation to HAPPY yields JARNY."
+  },
+  {
+    "q": "If the angles of a triangle are in the ratio 3:2:7, then the angles are:",
+    "o": [
+      "45 degrees, 30 degrees, 105 degrees",
+      "42 degrees, 28 degrees, 98 degrees",
+      "48 degrees, 32 degrees, 112 degrees",
+      "60 degrees, 40 degrees, 80 degrees"
+    ],
+    "a": 1,
+    "e": "The sum of angles is 180 degrees. Dividing 180 in the ratio 3:2:7 gives 42, 28, and 98 degrees respectively."
+  },
+  {
+    "q": "A fitness app shows that a user walked, on average of 10,000 steps per day over a week. If on the last 3 days, the step counts were 9000, 12,000 and 10,400 respectively, what is the average number of steps for the first 4 days of the week?",
+    "o": [
+      "9500",
+      "9600",
+      "9560",
+      "9650"
+    ],
+    "a": 3,
+    "e": "Total steps for 7 days = 70,000. Total for last 3 days = 31,400. First 4 days total = 38,600, giving an average of 9,650."
+  },
+  {
+    "q": "A paint company mixes red, blue and green paints in the ratio 1:2:3 to make a wall coating. If 60 litres of the mixture is prepared, how much red and blue paint is used together?",
+    "o": [
+      "30 litres",
+      "20 litres",
+      "15 litres",
+      "10 litres"
+    ],
+    "a": 0,
+    "e": "Total parts = 1+2+3 = 6. Red and blue comprise 3 parts out of 6, which is half of 60 litres, equaling 30 litres."
+  },
+  {
+    "q": "In a row of 6 people, A is sitting third to the right of B and fourth to the right of C. D is sitting on the immediate left of A and immediate right of E. F is sitting on the immediate right of A. Who is sitting at the extreme left end?",
+    "o": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "a": 3,
+    "e": "By mapping out the relative positions in the row of six, C occupies the extreme left position."
+  },
+  {
+    "q": "Choose the correctly matched option of agricultural crop seasons:",
+    "o": [
+      "Kharif- Barli, Rabi - Maize, Zaid - Vegetable",
+      "Kharif-Paddy, Rabi - Wheat, Zaid - Vegetable",
+      "Kharif-Paddy, Rabi - Vegetable, Zaid - Groundnut",
+      "Kharif-Groundnut, Rabi - Barli, Zaid - Vegetable"
+    ],
+    "a": 1,
+    "e": "Paddy is a typical Kharif crop, Wheat is a Rabi crop, and Vegetables are often grown during the Zaid season."
+  },
+  {
+    "q": "Expand the acronym NWDPRA:",
+    "o": [
+      "National Watershed Development Programme for Rainfed Areas",
+      "National Watershed Development Procedure for Rainfed Areas",
+      "National Watershed Development Project for Rainfed Areas",
+      "Natural Watershed Development Project for Rainfed Areas"
+    ],
+    "a": 2,
+    "e": "NWDPRA stands for National Watershed Development Project for Rainfed Areas, an important developmental initiative."
+  },
+  {
+    "q": "Consider the following statements:\na. Mullayyanagiri was earlier known as Chandra Drona Parvata.\nb. Mullayyanagiri is the second highest hill in Karnataka.\nc. Except coastal plains, Bheemeshwara valley in Shivamogga district is the lowest region in height in Karnataka.\nWhich of the above statements are correct?",
+    "o": [
+      "Only b and c",
+      "Only a and b",
+      "Only a and c",
+      "a, b and c"
+    ],
+    "a": 2,
+    "e": "Mullayyanagiri is known as Chandra Drona Parvata and is the highest peak in Karnataka, while Bheemeshwara valley is the lowest region outside coastal plains."
+  },
+  {
+    "q": "An instrument used to measure Humidity is:",
+    "o": [
+      "Barometer",
+      "Hygrometer",
+      "Anemometer",
+      "Ceilometer"
+    ],
+    "a": 1,
+    "e": "A hygrometer is an instrument used for measuring the moisture content or humidity in the atmosphere."
+  },
+  {
+    "q": "Which of the following tribes is the most widely dispersed in India?",
+    "o": [
+      "Santhal",
+      "Bhil",
+      "Gond",
+      "Oraon"
+    ],
+    "a": 2,
+    "e": "The Gond tribe is recognized as one of the largest and most widely dispersed tribal groups across central and southern India."
+  },
+  {
+    "q": "Name the scheme launched by Indian Railways with an objective to provide safety and security to women, travelling by trains for their entire journey, from starting station to destination station.",
+    "o": [
+      "Nirbhaya Fund",
+      "Mission Shakti",
+      "One Stop Centre Scheme",
+      "Meri Saheli"
+    ],
+    "a": 3,
+    "e": "Meri Saheli is an initiative focused on providing focused safety and security to women passengers during their entire train journey."
+  },
+  {
+    "q": "Name the mission which has the objective to achieve distributed growth of Karnataka's digital economy outside Bengaluru and this mission is led by KDEM:",
+    "o": [
+      "Besides Bengaluru",
+      "Outside Bengaluru",
+      "Beyond Bengaluru",
+      "Along with Bengaluru"
+    ],
+    "a": 2,
+    "e": "The 'Beyond Bengaluru' mission aims to expand the tech and digital economy footprint to other cities across Karnataka."
+  },
+  {
+    "q": "The South Canara District Central Co-operative Bank was formally started in 1914 with its head office at:",
+    "o": [
+      "Puttur",
+      "Mangaluru",
+      "Udupi",
+      "Malpe"
+    ],
+    "a": 1,
+    "e": "The South Canara District Central Co-operative Bank was established with its head office located in Mangaluru."
+  },
+  {
+    "q": "The provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA) are based on recommendations of the ________ Committee.",
+    "o": [
+      "Ashok Mehta",
+      "Balwant Rai Mehta",
+      "Bhuria",
+      "L.M. Singhvi"
+    ],
+    "a": 2,
+    "e": "The PESA Act of 1996 was enacted based on the recommendations of the Bhuria Committee."
+  },
+  {
+    "q": "'Abdul Nazir Sab State Institute for Rural Development and Panchayat Raj' is located in:",
+    "o": [
+      "Mysuru",
+      "Bidar",
+      "Gadag",
+      "Bengaluru"
+    ],
+    "a": 0,
+    "e": "The Abdul Nazir Sab State Institute for Rural Development and Panchayat Raj is situated in Mysuru, Karnataka."
+  },
+  {
+    "q": "India's first Cooperative Society was established in which year and in which state?",
+    "o": [
+      "1905, Karnataka",
+      "1904, Maharashtra",
+      "1901, Madhya Pradesh",
+      "1902, Rajasthan"
+    ],
+    "a": 1,
+    "e": "India's first cooperative society was established in 1904 in the province of erstwhile Madras / Maharashtra region under the Cooperative Societies Act."
+  },
+  {
+    "q": "In Karnataka who is the Chief Patron of \"Yeshasvini Co-operative Members Health Care Trust\"?",
+    "o": [
+      "Minister for Co-operation",
+      "Chief Minister",
+      "Minister for Family and Health Care",
+      "Minister for Rural Development and Panchayat Raj"
+    ],
+    "a": 1,
+    "e": "The Chief Minister of Karnataka serves as the Chief Patron of the Yeshasvini Co-operative Members Health Care Trust."
+  },
+  {
+    "q": "The Economic Survey of India is prepared by which Department of Ministry of Finance?",
+    "o": [
+      "Department of Revenue",
+      "Department of Expenditure",
+      "Department of Financial Services",
+      "Department of Economic Affairs"
+    ],
+    "a": 3,
+    "e": "The Department of Economic Affairs within the Ministry of Finance prepares and presents the annual Economic Survey of India."
+  },
+  {
+    "q": "Which among the following Tribunal/Commission settles disputes related to recruitment and all service matters of Central Government employees?",
+    "o": [
+      "Union Public Service Commission",
+      "Central Administrative Tribunal",
+      "State Administrative Tribunal",
+      "Securities Appellate Tribunal"
+    ],
+    "a": 1,
+    "e": "The Central Administrative Tribunal (CAT) adjudicates disputes and complaints with respect to recruitment and conditions of service of central government employees."
+  },
+  {
+    "q": "Who has the power to prescribe qualifications to acquire Indian citizenship?",
+    "o": [
+      "The Governor",
+      "The Parliament",
+      "The President",
+      "The State Legislature"
+    ],
+    "a": 1,
+    "e": "Under Article 11 of the Constitution, the Parliament has the power to make provisions regarding the acquisition and termination of citizenship."
+  },
+  {
+    "q": "The minimum age limit to contest elections in the Local Self-Government is:",
+    "o": [
+      "25 years",
+      "21 years",
+      "30 years",
+      "35 years"
+    ],
+    "a": 1,
+    "e": "A person must have attained the age of 21 years to contest elections for local self-government bodies like Panchayats and Municipalities."
+  },
+  {
+    "q": "Identify the Article and Part of the Constitution with reference to Amendment of the Constitution:",
+    "o": [
+      "Article 368 and Part XX",
+      "Article 367 and Part XI",
+      "Article 366 and Part XI",
+      "Article 368 and Part XXI"
+    ],
+    "a": 0,
+    "e": "Part XX of the Constitution of India contains Article 368, which deals with the power of Parliament to amend the Constitution."
+  },
+  {
+    "q": "A new All-India Service can be created by:",
+    "o": [
+      "An act of Parliament",
+      "A resolution of the Rajya Sabha",
+      "An order of the President",
+      "A resolution of the UPSC"
+    ],
+    "a": 1,
+    "e": "Though Rajya Sabha passes an enabling resolution under Article 312, a new All-India Service is formally created by an act of Parliament."
+  },
+  {
+    "q": "Who appoints the Municipal Commissioner of the Municipal Corporation?",
+    "o": [
+      "The Mayor",
+      "The President of India",
+      "The State Government",
+      "The Governor"
+    ],
+    "a": 2,
+    "e": "The Municipal Commissioner, who is an administrative head of a Municipal Corporation, is appointed by the State Government."
+  },
+  {
+    "q": "In 1672, Shivaji's army defeated the Mughals in which battle?",
+    "o": [
+      "Battle of Pratapgad",
+      "Battle of Torna",
+      "Battle of Purandar",
+      "Battle of Salher"
+    ],
+    "a": 3,
+    "e": "The Battle of Salher in 1672 was a major military engagement where Maratha forces under Shivaji defeated the Mughal army."
+  },
+  {
+    "q": "In which of the following places Stupa was not built?",
+    "o": [
+      "Sanchi",
+      "Karle",
+      "Sarnath",
+      "Bharhut"
+    ],
+    "a": 1,
+    "e": "Karle is famous for its large rock-cut Buddhist chaitya hall or cave temple rather than a structural stupa like Sanchi, Sarnath, or Bharhut."
+  },
+  {
+    "q": "The book \"An Era of Darkness: The British Empire in India\" was written by:",
+    "o": [
+      "Bipin Chandra",
+      "Urvashi Butalia",
+      "Shashi Tharoor",
+      "V.D. Mahajan"
+    ],
+    "a": 2,
+    "e": "An Era of Darkness is a critically acclaimed historical book authored by Shashi Tharoor examining the impact of British rule in India."
+  },
+  {
+    "q": "Sustainable Development Goals comprise:",
+    "o": [
+      "17 Goals, 169 Targets and 232 Indicators",
+      "17 Targets, 169 Goals and 232 Indicators",
+      "17 Goals, 169 Indicators and 232 Targets",
+      "17 Indicators, 169 Goals 232 Targets"
+    ],
+    "a": 0,
+    "e": "The UN Sustainable Development Goals framework consists of 17 goals backed by 169 targets and monitored via 232 unique indicators."
+  },
+  {
+    "q": "The poisonous gas liberated when Chloroform is oxidized by air in the presence of light is:",
+    "o": [
+      "Methyl Isocyanide",
+      "Methyl Cyanide",
+      "Phosgene",
+      "Hydrochloric acid"
+    ],
+    "a": 2,
+    "e": "Exposure of chloroform to air and light produces phosgene gas (carbonyl chloride), which is extremely toxic."
+  },
+  {
+    "q": "In plants, food is transported from the source to sink organs mainly in the form of:",
+    "o": [
+      "Proteins",
+      "Lipids",
+      "Starch",
+      "Sucrose"
+    ],
+    "a": 3,
+    "e": "Carbohydrates synthesized during photosynthesis are converted and transported through the phloem mainly as sucrose."
+  }
+]

@@ -1,0 +1,673 @@
+[
+  {
+    "q": "There are four prime numbers written in ascending order. The product of the first three is 385 and that of the last three is 1001. What is the last number?[span_0](start_span)[span_0](end_span)",
+    "o": [
+      "11",
+      "13",
+      "17",
+      "19"
+    ],
+    "a": 1,
+    "e": "Factorizing 385 yields 5 x 7 x 11, and 1001 yields 7 x 11 x 13, giving the sequence of primes as 5, 7, 11, and 13, making the final number 13[span_1](start_span)[span_1](end_span)."
+  },
+  {
+    "q": "There are two married couples in a family of six members P, Q, R, S, T, and U. P is a teacher and father of R. U is R's grandfather and a lawyer. Q is the mother of R. S is the grandmother of R. T is the brother of R. How is T related to U?[span_2](start_span)[span_2](end_span)",
+    "o": [
+      "Son",
+      "Daughter",
+      "Son-in-law",
+      "Grandson"
+    ],
+    "a": 3,
+    "e": "Since U is the paternal grandfather of R and T is R's brother, T is also a grandson of U[span_3](start_span)[span_3](end_span)."
+  },
+  {
+    "q": "A clock is set right at noon. It loses 10 minutes in 24 hours. When the clock indicates 3 PM on the 4th day, what will be the correct time?[span_4](start_span)[span_4](end_span)",
+    "o": [
+      "2:20 PM",
+      "12 PM",
+      "4 PM",
+      "1 PM"
+    ],
+    "a": 2,
+    "e": "Accounting for the cumulative time lag over the elapsed duration shows a true time of 4 PM when the slow clock reads 3 PM[span_5](start_span)[span_5](end_span)."
+  },
+  {
+    "q": "Find the missing number in the series: 4, 18, ?, 100, 180, 294, 448[span_6](start_span)[span_6](end_span)",
+    "o": [
+      "48",
+      "50",
+      "58",
+      "60"
+    ],
+    "a": 1,
+    "e": "The series follows a specific progression of quadratic differences, which successfully derives 50 as the missing term[span_7](start_span)[span_7](end_span)."
+  },
+  {
+    "q": "Natural Justice is an integral part of the rule of law. Which of the following is correct?[span_8](start_span)[span_8](end_span)",
+    "o": [
+      "Natural Justice arises from moral and humanitarian sources",
+      "Justice rewards consensus and equality",
+      "Advocating hearing and allowing the other party statements",
+      "All of the above"
+    ],
+    "a": 3,
+    "e": "The concept incorporates moral origins, fairness, and the right to a fair hearing for all involved parties[span_9](start_span)[span_9](end_span)."
+  },
+  {
+    "q": "Digit 1 occurs 136 times when writing all of the page numbers of a book. What will be the number of pages in the book?[span_10](start_span)[span_10](end_span)",
+    "o": [
+      "194",
+      "195",
+      "200",
+      "295"
+    ],
+    "a": 1,
+    "e": "Systematic calculation of the frequency of the digit 1 across page number intervals up to 195 gives a total count of 136[span_11](start_span)[span_11](end_span)."
+  },
+  {
+    "q": "If 18 men can do a piece of work in 50 hours, in how many hours will 15 men do it?[span_12](start_span)[span_12](end_span)",
+    "o": [
+      "45",
+      "60",
+      "75",
+      "65"
+    ],
+    "a": 1,
+    "e": "Using the inverse proportionality of men and hours, total man-hours divided by 15 gives 60 hours[span_13](start_span)[span_13](end_span)."
+  },
+  {
+    "q": "A sells an article which costs him 400 to B at a profit of 25%. B then sells it to C, making a profit of 15% on the price he paid to A. How much does C pay B?[span_14](start_span)[span_14](end_span)",
+    "o": [
+      "525",
+      "500",
+      "590",
+      "575"
+    ],
+    "a": 3,
+    "e": "B buys it for 500 (400 plus 25%), and C pays B 575 after B adds a 15% markup on 500[span_15](start_span)[span_15](end_span)."
+  },
+  {
+    "q": "If 01/01/2013 is a Tuesday, what day of the week is 01/01/2023?[span_16](start_span)[span_16](end_span)",
+    "o": [
+      "Monday",
+      "Tuesday",
+      "Saturday",
+      "Sunday"
+    ],
+    "a": 3,
+    "e": "Calculating the total number of ordinary years and leap years between 2013 and 2023 yields a shift of multiple odd days ending on a Sunday[span_17](start_span)[span_17](end_span)."
+  },
+  {
+    "q": "Find the missing number in the following: 25, 225, 625, 1225, 2025, ?[span_18](start_span)[span_18](end_span)",
+    "o": [
+      "3250",
+      "3025",
+      "4025",
+      "3075"
+    ],
+    "a": 1,
+    "e": "The sequence consists of squares of numbers ending in 5 (5, 15, 25...), making the next square 55 squared or 3025[span_19](start_span)[span_19](end_span)."
+  },
+  {
+    "q": "Which of the following newspapers played a major role in the growth of Nationalism in Karnataka?[span_20](start_span)[span_20](end_span)",
+    "o": [
+      "Rajahamsa and Karnataka Vrutta only",
+      "Swadeshabhimani only",
+      "Vruttantha Chinthamani only",
+      "All of the above"
+    ],
+    "a": 3,
+    "e": "Regional publications like Rajahamsa, Karnataka Vrutta, and Swadeshabhimani were vital instruments in nurturing nationalist sentiment[span_21](start_span)[span_21](end_span)."
+  },
+  {
+    "q": "Harshavardhana was defeated in the seventh century by a:[span_22](start_span)[span_22](end_span)",
+    "o": [
+      "Rashtrakuta king",
+      "Chalukya king",
+      "Pala king",
+      "Gurjara Pratihara king"
+    ],
+    "a": 1,
+    "e": "Pulakeshin II, a prominent Chalukya ruler, defeated Harshavardhana on the banks of the Narmada River[span_23](start_span)[span_23](end_span)."
+  },
+  {
+    "q": "Which of the following sites does not have a mature and flourishing Harappan Culture?[span_24](start_span)[span_24](end_span)",
+    "o": [
+      "Harappa",
+      "Chanhu-daro",
+      "Lothal",
+      "Rangpur"
+    ],
+    "a": 3,
+    "e": "Rangpur represents a late Harappan or transitional regional culture rather than a primary mature urban center[span_25](start_span)[span_25](end_span)."
+  },
+  {
+    "q": "The Supreme Court of British India was established under which of the following Acts?[span_26](start_span)[span_26](end_span)",
+    "o": [
+      "Charter Act of 1813",
+      "Pit's India Act of 1784",
+      "Charter Act of 1833",
+      "Regulating Act of 1773"
+    ],
+    "a": 3,
+    "e": "The Regulating Act of 1773 provided for the foundation of the Supreme Court at Calcutta[span_27](start_span)[span_27](end_span)."
+  },
+  {
+    "q": "By which constitutional amendment was the voting age of citizens changed from 21 to 18 years?[span_28](start_span)[span_28](end_span)",
+    "o": [
+      "42nd Constitution Amendment Act",
+      "55th Constitution Amendment Act",
+      "61st Constitution Amendment Act",
+      "7th Constitution Amendment Act"
+    ],
+    "a": 2,
+    "e": "The 61st Amendment enacted in 1988 reduced the minimum voting age for national and state elections to 18 years[span_29](start_span)[span_29](end_span)."
+  },
+  {
+    "q": "The principle of collective responsibility of the Ministry means:[span_30](start_span)[span_30](end_span)",
+    "o": [
+      "All Ministers appointed together and resigning together",
+      "The resignation of Prime Minister means the resignation of the Cabinet",
+      "Collective responsibility means everyone is responsible",
+      "All of the above"
+    ],
+    "a": 1,
+    "e": "Cabinet solidarity implies that the government acts as a single unit, and the downfall or resignation of the Prime Minister dissolves the cabinet[span_31](start_span)[span_31](end_span)."
+  },
+  {
+    "q": "The power to prorogue the sessions of the Parliament is vested in the President under which Article?[span_32](start_span)[span_32](end_span)",
+    "o": [
+      "Prime Minister under Article 82(2)(b)",
+      "President under Article 85(2)(a)",
+      "President and Prime Minister under Article 85(2)(a) and 82(2)(b)",
+      "None of the above"
+    ],
+    "a": 1,
+    "e": "Article 85(2)(a) specifically grants the executive head the authority to prorogue parliamentary sessions[span_33](start_span)[span_33](end_span)."
+  },
+  {
+    "q": "During the late 19th century, who among the following started the newspaper titled 'Sudharak'?[span_34](start_span)[span_34](end_span)",
+    "o": [
+      "Bal Gangadhar Tilak",
+      "Gopal Ganesh Agarkar",
+      "Aurobindo Ghosh",
+      "S.N. Sen"
+    ],
+    "a": 1,
+    "e": "Social reformer Gopal Ganesh Agarkar founded 'Sudharak' to champion rationalism and social reform[span_35](start_span)[span_35](end_span)."
+  },
+  {
+    "q": "Which of the following Charter Acts abolished the monopoly of the East India Company to trade with China?[span_36](start_span)[span_36](end_span)",
+    "o": [
+      "Charter Act of 1793",
+      "Charter Act of 1813",
+      "Charter Act of 1833",
+      "Charter Act of 1853"
+    ],
+    "a": 2,
+    "e": "The 1833 Charter Act ended all remaining commercial trade privileges of the East India Company, including its monopoly with China[span_37](start_span)[span_37](end_span)."
+  },
+  {
+    "q": "In which of the following relief sculpture inscriptions is 'Ranyo Ashoka' (King Ashoka) mentioned along with his stone portrait?[span_38](start_span)[span_38](end_span)",
+    "o": [
+      "Sanchi",
+      "Shahbazgarhi",
+      "Kanganahalli",
+      "Sohgaura"
+    ],
+    "a": 2,
+    "e": "The unique sculptural relief discovered at Kanganahalli explicitly labels the portrait of the monarch as 'Ranyo Ashoka[span_39](start_span)'[span_39](end_span)."
+  },
+  {
+    "q": "The famous travelogue 'Si-Yu-Ki' is linked with:[span_40](start_span)[span_40](end_span)",
+    "o": [
+      "Fahien",
+      "Al Biruni",
+      "Hiuen Tsang",
+      "Megasthenes"
+    ],
+    "a": 2,
+    "e": "Hiuen Tsang compiled his extensive observations of India during the 7th century into the travelogue 'Si-Yu-Ki[span_41](start_span)'[span_41](end_span)."
+  },
+  {
+    "q": "Which of the following dynasties is not mentioned in Sangam Literature?[span_42](start_span)[span_42](end_span)",
+    "o": [
+      "Chola",
+      "Chera",
+      "Kadamba",
+      "Pandya"
+    ],
+    "a": 2,
+    "e": "Sangam texts exclusively chronicle the early Tamil powers (Chera, Chola, Pandya), while the Kadambas rose to prominence later[span_43](start_span)[span_43](end_span)."
+  },
+  {
+    "q": "In which of the following sessions did the Congress declare its policy towards the Indian States for the first time?[span_44](start_span)[span_44](end_span)",
+    "o": [
+      "Calcutta Session",
+      "Nagpur Session",
+      "Gaya Session",
+      "Lucknow Session"
+    ],
+    "a": 1,
+    "e": "The Indian National Congress formulated its official stance regarding princely states during the 1920 Nagpur session[span_45](start_span)[span_45](end_span)."
+  },
+  {
+    "q": "The east-west trend of the Himalayas is suddenly terminated at its western and eastern extremities by taking sharp southward bends at which respective peaks?[span_46](start_span)[span_46](end_span)",
+    "o": [
+      "Nanga Parbat and Patkai Bum",
+      "Nanga Parbat and Namcha Barwa",
+      "Banihal and Dihang",
+      "Mangshadhura and Namcha Barwa"
+    ],
+    "a": 1,
+    "e": "Syntaxial bends mark the geographical limits of the Himalayan chain at Nanga Parbat in the west and Namcha Barwa in the east[span_47](start_span)[span_47](end_span)."
+  },
+  {
+    "q": "The highest plateau of India is:[span_48](start_span)[span_48](end_span)",
+    "o": [
+      "Deccan Plateau",
+      "Ladakh Plateau",
+      "Pamir Plateau",
+      "Chhotanagpur Plateau"
+    ],
+    "a": 1,
+    "e": "Situated at high altitude within a rain shadow cold desert framework, the Ladakh Plateau is India's highest plateau[span_49](start_span)[span_49](end_span)."
+  },
+  {
+    "q": "Which part of the Himalayan Ranges is called the 'Tibetan Himalayas'?[span_50](start_span)[span_50](end_span)",
+    "o": [
+      "The Great Himalayas",
+      "The Trans-Himalayas",
+      "The Lesser Himalayas",
+      "None of the above"
+    ],
+    "a": 1,
+    "e": "The Trans-Himalayan zone located immediately north of the main ranges is frequently designated as the Tibetan Himalayas[span_51](start_span)[span_51](end_span)."
+  },
+  {
+    "q": "Which of the following rivers of India flow through a rift valley?[span_52](start_span)[span_52](end_span)",
+    "o": [
+      "The Damodar and Narmada",
+      "The Narmada",
+      "The Godavari",
+      "The Barak"
+    ],
+    "a": 1,
+    "e": "The Narmada flows westward through a steep structural rift valley bound by major fault lines[span_53](start_span)[span_53](end_span)."
+  },
+  {
+    "q": "Which of the following phenomena strengthens the Indian monsoon?[span_54](start_span)[span_54](end_span)",
+    "o": [
+      "El Nino",
+      "La Nina",
+      "Monex",
+      "Norwesters"
+    ],
+    "a": 1,
+    "e": "La Nina conditions favor enhanced convection and stronger moisture-laden winds heading into the Indian subcontinent[span_55](start_span)[span_55](end_span)."
+  },
+  {
+    "q": "According to Article 25(1) of the Indian Constitution, a person has which two-fold freedoms?[span_56](start_span)[span_56](end_span)",
+    "o": [
+      "Freedom to manage religious affairs and freedom of conscience",
+      "Freedom of conscience and freedom to profess, practice, and propagate religion",
+      "Freedom from taxes and freedom to manage affairs",
+      "Freedom to profess and freedom from taxes"
+    ],
+    "a": 1,
+    "e": "Article 25(1) secures individual liberty through freedom of conscience coupled with active religious practice and propagation rights[span_57](start_span)[span_57](end_span)."
+  },
+  {
+    "q": "Netrani Island is closest to which of the following major towns?[span_58](start_span)[span_58](end_span)",
+    "o": [
+      "Bhatkal",
+      "Honnavar",
+      "Murudeshwar",
+      "Karwar"
+    ],
+    "a": 2,
+    "e": "Netrani Island lies off the Arabian Sea coastline near the prominent pilgrimage and tourist town of Murudeshwar[span_59](start_span)[span_59](end_span)."
+  },
+  {
+    "q": "Article 43-A of the Indian Constitution deals with which of the following?[span_60](start_span)[span_60](end_span)",
+    "o": [
+      "Living wage for workers",
+      "Participation of workers in the management of industries",
+      "Right to work and education",
+      "Human conditions of work"
+    ],
+    "a": 1,
+    "e": "Directive principles under Article 43-A focus specifically on worker involvement in industrial decision-making structures[span_61](start_span)[span_61](end_span)."
+  },
+  {
+    "q": "What are 'Coffee blossoms' and 'Mango showers' in Karnataka examples of?[span_62](start_span)[span_62](end_span)",
+    "o": [
+      "Monsoon rainfall",
+      "Pre-monsoon rainfall",
+      "Retreating monsoon rainfall",
+      "Winter rainfall"
+    ],
+    "a": 1,
+    "e": "These localized thunderstorm events occur ahead of the main monsoon season, aiding local crop yields[span_63](start_span)[span_63](end_span)."
+  },
+  {
+    "q": "In Karnataka, the eastern parts of the Western Ghats receive less rainfall primarily due to which of the following reasons?[span_64](start_span)[span_64](end_span)",
+    "o": [
+      "Being located far from oceans",
+      "Located in the rain shadow region",
+      "Presence of dry deciduous forests",
+      "High altitude causing cooler temperature"
+    ],
+    "a": 1,
+    "e": "Descending winds on the lee side lose moisture, creating a distinct rain shadow zone with reduced precipitation[span_65](start_span)[span_65](end_span)."
+  },
+  {
+    "q": "With reference to tobacco cultivation in Karnataka, which statements are correct? (1) Karnataka is a major producer of tobacco. (2) Known for Virginia tobacco cultivation. (3) Located in semi-Malnad.[span_66](start_span)[span_66](end_span)",
+    "o": [
+      "I, II and III only",
+      "I and II only",
+      "II and III only",
+      "I and III only"
+    ],
+    "a": 1,
+    "e": "Karnataka stands out nationally for its extensive production of high-grade Virginia tobacco across designated agro-climatic zones[span_67](start_span)[span_67](end_span)."
+  },
+  {
+    "q": "The red soil of Karnataka is formed by the weathering of which of the following rocks?[span_68](start_span)[span_68](end_span)",
+    "o": [
+      "Igneous rocks",
+      "Metamorphic rocks",
+      "Sedimentary rocks",
+      "All of the above"
+    ],
+    "a": 1,
+    "e": "The breakdown of ancient crystalline, igneous, and metamorphic formations produces the characteristic red soils[span_69](start_span)[span_69](end_span)."
+  },
+  {
+    "q": "Which of the following factors mainly determines the distribution of rainfall in Karnataka?[span_70](start_span)[span_70](end_span)",
+    "o": [
+      "Condensation",
+      "Relief",
+      "Amount of moisture",
+      "Vegetation"
+    ],
+    "a": 1,
+    "e": "Topographical relief features like the Western Ghat barrier dictate spatial rainfall variations across the state[span_71](start_span)[span_71](end_span)."
+  },
+  {
+    "q": "Which of the following factors mainly leads to the formation of laterite soil in Karnataka?[span_72](start_span)[span_72](end_span)",
+    "o": [
+      "Vegetation",
+      "Weathering of igneous rocks",
+      "Rainfall",
+      "Relief"
+    ],
+    "a": 2,
+    "e": "Intense tropical leaching driven by alternating heavy rainfall and dry periods promotes laterite soil development[span_73](start_span)[span_73](end_span)."
+  },
+  {
+    "q": "What does stagflation mean in basic economic concepts?[span_74](start_span)[span_74](end_span)",
+    "o": [
+      "High employment plus low inflation",
+      "Recession plus high inflation",
+      "Low output plus high employment",
+      "High unemployment plus high inflation"
+    ],
+    "a": 1,
+    "e": "Stagflation represents an economic anomaly characterized by stagnant market output combined with persistent inflation[span_75](start_span)[span_75](end_span)."
+  },
+  {
+    "q": "Which of the following options does not represent the Indian Government's objective of maintaining Buffer Stock for food grains?[span_76](start_span)[span_76](end_span)",
+    "o": [
+      "Meeting shortage of supply during emergencies",
+      "Exporting to poor countries when international food grain prices rise",
+      "Price stabilization to moderate open market prices",
+      "Monthly release of food grains for TPDS and welfare schemes"
+    ],
+    "a": 1,
+    "e": "Public distribution buffers are targeted toward national food security and domestic price cushioning rather than global export trading[span_77](start_span)[span_77](end_span)."
+  },
+  {
+    "q": "Ecological pyramids become inverted when the:[span_78](start_span)[span_78](end_span)",
+    "o": [
+      "Number of producers becomes lesser than successive consumers",
+      "Biomass of producers becomes lesser than successive consumers",
+      "Both (1) and (2)",
+      "None of the above"
+    ],
+    "a": 1,
+    "e": "Aquatic biomes often exhibit inversion where short-lived primary producer standing crops support larger consumer biomass temporarily[span_79](start_span)[span_79](end_span)."
+  },
+  {
+    "q": "The man-made cereal Triticale is produced by crossing which of the following?[span_80](start_span)[span_80](end_span)",
+    "o": [
+      "Wheat and Barley",
+      "Wheat and Rye",
+      "Wheat and Rice",
+      "Wheat and Oat"
+    ],
+    "a": 1,
+    "e": "Triticale is an artificial hybrid developed by crossing wheat and rye genera to combine agronomic traits[span_81](start_span)[span_81](end_span)."
+  },
+  {
+    "q": "The enzyme that catalyses carbon dioxide fixation in C4 plants is:[span_82](start_span)[span_82](end_span)",
+    "o": [
+      "RuBP carboxylase",
+      "PEP carboxylase",
+      "Carbonic anhydrase",
+      "Carboxy dismutase"
+    ],
+    "a": 1,
+    "e": "Phosphoenolpyruvate carboxylase facilitates initial carbon fixation in the mesophyll layers of C4 pathway plants[span_83](start_span)[span_83](end_span)."
+  },
+  {
+    "q": "Which physical phenomena are responsible for the formation of a rainbow when sunlight falls on raindrops?[span_84](start_span)[span_84](end_span)",
+    "o": [
+      "Diffusion only",
+      "Refraction and Internal Reflection",
+      "Refraction only",
+      "Diffusion and Internal Reflection"
+    ],
+    "a": 1,
+    "e": "Light passing through water droplets undergoes refraction, internal reflection, and dispersion to form a spectrum[span_85](start_span)[span_85](end_span)."
+  },
+  {
+    "q": "The constituents of fundamental particles like hadrons are:[span_86](start_span)[span_86](end_span)",
+    "o": [
+      "Mesons and Quarks",
+      "Leptons and Quarks",
+      "Baryons and Leptons",
+      "Mesons and Leptons"
+    ],
+    "a": 1,
+    "e": "Standard model classifications separate fundamental entities into quarks and leptons, which build composite hadrons[span_87](start_span)[span_87](end_span)."
+  },
+  {
+    "q": "Sunspots work on the principle of:[span_88](start_span)[span_88](end_span)",
+    "o": [
+      "Heat dynamo",
+      "Solar dynamo",
+      "Both (1) and (2)",
+      "None of the above"
+    ],
+    "a": 1,
+    "e": "The complex generation and suppression of magnetic flux tubes via magnetohydrodynamic solar dynamo processes drive sunspots[span_89](start_span)[span_89](end_span)."
+  },
+  {
+    "q": "In Raman's original scattering experiment, the round-bottom glass flask was filled with:[span_90](start_span)[span_90](end_span)",
+    "o": [
+      "Water",
+      "Benzene",
+      "Hydrogen gas",
+      "Mercury"
+    ],
+    "a": 1,
+    "e": "C.V. Raman utilized purified liquid chemical samples such as benzene in his classic optical scattering apparatus[span_91](start_span)[span_91](end_span)."
+  },
+  {
+    "q": "What is the name of India's first indigenous aircraft carrier?[span_92](start_span)[span_92](end_span)",
+    "o": [
+      "INS Viraat",
+      "INS Vikrant",
+      "INS Vikramaditya",
+      "INS Vikram"
+    ],
+    "a": 1,
+    "e": "INS Vikrant represents a major milestone in indigenous naval design and defense manufacturing capabilities[span_93](start_span)[span_93](end_span)."
+  },
+  {
+    "q": "The world's largest and most powerful particle accelerator, the LHC, is situated at:[span_94](start_span)[span_94](end_span)",
+    "o": [
+      "Mumbai",
+      "Geneva",
+      "Tsukuba",
+      "Cambridge"
+    ],
+    "a": 1,
+    "e": "Housing facilities for the Large Hadron Collider span subterranean rings near Geneva under CERN supervision[span_95](start_span)[span_95](end_span)."
+  },
+  {
+    "q": "Which of the following is not involved in soil formation (pedogenesis)?[span_96](start_span)[span_96](end_span)",
+    "o": [
+      "Igneous rocks",
+      "Rock phosphates",
+      "Sedimentary rocks",
+      "Metamorphic rocks"
+    ],
+    "a": 1,
+    "e": "While primary geological rock types supply parent material, isolated mineral chemical deposits like rock phosphates do not drive soil genesis[span_97](start_span)[span_97](end_span)."
+  },
+  {
+    "q": "The value of the respiratory quotient (RQ) becomes less than 1 when the respiratory substrates are:[span_98](start_span)[span_98](end_span)",
+    "o": [
+      "Hexose sugars",
+      "Fats or proteins",
+      "Organic acids",
+      "Partially oxidised carbohydrates"
+    ],
+    "a": 1,
+    "e": "Catabolism of lipid or protein substrates consumes more oxygen volume than carbon dioxide produced, lowering the RQ ratio[span_99](start_span)[span_99](end_span)."
+  },
+  {
+    "q": "When a cell is fully turgid, which of the following parameters will be zero?[span_100](start_span)[span_100](end_span)",
+    "o": [
+      "Turgor pressure",
+      "DPD",
+      "Osmotic pressure",
+      "All of the above"
+    ],
+    "a": 1,
+    "e": "As water entry stretches the wall completely, the diffusion pressure deficit drops to zero due to internal pressure equilibrium[span_101](start_span)[span_101](end_span)."
+  },
+  {
+    "q": "A person drives his car 15 km towards North, turns West and travels 5 km, then turns to his left and travels 20 km, and further travels 5 km towards left. What is the shortest distance from his original point?[span_102](start_span)[span_102](end_span)",
+    "o": [
+      "15 km",
+      "5 km",
+      "10 km",
+      "20 km"
+    ],
+    "a": 1,
+    "e": "Coordinate tracking shows the final position lies precisely 5 km south of the starting coordinate[span_103](start_span)[span_103](end_span)."
+  },
+  {
+    "q": "If April 20, 2021 fell on a Tuesday, what day of the week was April 20, 2003?[span_104](start_span)[span_104](end_span)",
+    "o": [
+      "Tuesday",
+      "Sunday",
+      "Wednesday",
+      "Monday"
+    ],
+    "a": 1,
+    "e": "Working backwards through regular years and intercalary leap days shifts the corresponding calendar day to Sunday[span_105](start_span)[span_105](end_span)."
+  },
+  {
+    "q": "Village Q is situated to the north of village P. Village R is to the east of village Q. Village S is to the left of village P. What is the position of village S with respect to village R?[span_106](start_span)[span_106](end_span)",
+    "o": [
+      "West",
+      "South-West",
+      "South",
+      "North-East"
+    ],
+    "a": 1,
+    "e": "Plotting spatial directions places S west of P while R lies northeast, positioning S south-west relative to R[span_107](start_span)[span_107](end_span)."
+  },
+  {
+    "q": "A is twice the age of B. C is twice the age of the sum of A and B's ages. After 10 years, if the sum of all their ages is 120, what is the present age of A?[span_108](start_span)[span_108](end_span)",
+    "o": [
+      "10 years",
+      "20 years",
+      "15 years",
+      "60 years"
+    ],
+    "a": 1,
+    "e": "Formulating linear equations based on the age conditions establishes A's present age at 20 years[span_109](start_span)[span_109](end_span)."
+  },
+  {
+    "q": "If P is the brother of Q, Q is the mother of R, and S is the sister of Q, how is P related to S?[span_110](start_span)[span_110](end_span)",
+    "o": [
+      "Uncle",
+      "Brother",
+      "Father",
+      "Son"
+    ],
+    "a": 1,
+    "e": "Since P and S share the same sibling relationship with Q, P is the brother of S[span_111](start_span)[span_111](end_span)."
+  },
+  {
+    "q": "BRICS Summit 2025 was conducted in which country or place?[span_112](start_span)[span_112](end_span)",
+    "o": [
+      "Manaus",
+      "Rio de Janeiro",
+      "Sao Paulo",
+      "Salvador"
+    ],
+    "a": 1,
+    "e": "Brazil hosted the international BRICS diplomatic sessions with events hosted in Rio de Janeiro[span_113](start_span)[span_113](end_span)."
+  },
+  {
+    "q": "Which Indian city was ranked as the cleanest city in the Swachh Survekshan 2024?",
+    "o": [
+      "Bangalore",
+      "Indore",
+      "Chennai",
+      "Chandigarh"
+    ],
+    "a": 1,
+    "e": "Indore secured the highest cleanliness rating under the national urban sanitation surveys."
+  },
+  {
+    "q": "'Dishank' application launched by the government is related to:",
+    "o": [
+      "Protection of child labour",
+      "Information of land documents",
+      "Information of weather",
+      "Protection of children"
+    ],
+    "a": 1,
+    "e": "The Dishank mobile application provides citizens with digital access to land survey details and property records."
+  },
+  {
+    "q": "Air India established South Asia's largest flying training school in which state?",
+    "o": [
+      "Madhya Pradesh",
+      "Karnataka",
+      "Maharashtra",
+      "Uttar Pradesh"
+    ],
+    "a": 1,
+    "e": "Karnataka was chosen as the location for setting up Air India's mega aviation training institution."
+  },
+  {
+    "q": "'Pragati Patha' Yojana is related to:",
+    "o": [
+      "Industrial Development Scheme",
+      "Rural Road Development Scheme",
+      "Development of Agriculture Sector",
+      "Development of Education Scheme"
+    ],
+    "a": 1,
+    "e": "Pragati Patha is targeted at improving rural connectivity through comprehensive road infrastructure construction."
+  }
+]

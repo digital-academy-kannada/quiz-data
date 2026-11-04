@@ -1,0 +1,1069 @@
+[
+  {
+    "q": "Dalton's name is associated with which of the following terms?",
+    "o": [
+      "Proton",
+      "Atom",
+      "Neutron",
+      "Electron"
+    ],
+    "a": 1,
+    "e": "John Dalton is famous for his atomic theory, associating his name with the concept of the atom."
+  },
+  {
+    "q": "Which among the following is a common salt in Detergents?",
+    "o": [
+      "Sulphate",
+      "Carbonate",
+      "Sulphonate",
+      "Nitrate"
+    ],
+    "a": 2,
+    "e": "Sulphonates are widely used as common surfactant salts in the composition of detergents."
+  },
+  {
+    "q": "Water Gas is a mixture of?",
+    "o": [
+      "CO2 and H2",
+      "CO and H2O",
+      "None of the Above",
+      "CO and H2"
+    ],
+    "a": 3,
+    "e": "Water gas is a synthesis gas containing a mixture of carbon monoxide and hydrogen."
+  },
+  {
+    "q": "Which of these compounds is also known as wood spirit?",
+    "o": [
+      "Ethanol",
+      "Propanol",
+      "Methanol",
+      "Octanol"
+    ],
+    "a": 2,
+    "e": "Methanol is historically known as wood spirit because it was once produced by the destructive distillation of wood."
+  },
+  {
+    "q": "Lack of which of the following substances results in Dehydration?",
+    "o": [
+      "Salts",
+      "Water",
+      "Vitamins",
+      "Hormones"
+    ],
+    "a": 1,
+    "e": "Dehydration is a physiological condition caused by the excessive loss or inadequate intake of water in the body."
+  },
+  {
+    "q": "What happens to the atomic radius when one moves from top to bottom in a group of the periodic table?",
+    "o": [
+      "Decreases",
+      "Increases",
+      "Remains same",
+      "No proper relationship"
+    ],
+    "a": 1,
+    "e": "Atomic radius increases down a group due to the addition of successive electron shells."
+  },
+  {
+    "q": "What is the chemical name of plaster of paris?",
+    "o": [
+      "Calcium chloride",
+      "Calcium carbonate",
+      "Calcium nitrate",
+      "Calcium sulphate"
+    ],
+    "a": 3,
+    "e": "Plaster of paris is chemically known as calcium sulphate hemihydrate."
+  },
+  {
+    "q": "Silicon is a:",
+    "o": [
+      "Conductor",
+      "Semiconductor",
+      "Nonconductor",
+      "Insulator"
+    ],
+    "a": 1,
+    "e": "Silicon possesses electrical conductivity between that of a conductor and an insulator, making it a semiconductor."
+  },
+  {
+    "q": "Which of the following metal is generally used for making filaments of bulb?",
+    "o": [
+      "Tungsten",
+      "Silver",
+      "Iron",
+      "Nitrogen"
+    ],
+    "a": 0,
+    "e": "Tungsten is used for bulb filaments because of its very high melting point and resistivity."
+  },
+  {
+    "q": "During Galvanization, which metal is used for coating iron and steel objects, preventing them from rusting?",
+    "o": [
+      "Copper",
+      "Bronze",
+      "Zinc",
+      "Aluminium"
+    ],
+    "a": 2,
+    "e": "Zinc is used in galvanization to form a protective layer over iron and steel to prevent corrosion."
+  },
+  {
+    "q": "In Modern Periodic Table, while moving left to right across a period, the metallic character:",
+    "o": [
+      "decreases",
+      "increases",
+      "remain same",
+      "first increases then decreases"
+    ],
+    "a": 0,
+    "e": "Metallic character decreases across a period from left to right as atoms gain a greater tendency to accept electrons."
+  },
+  {
+    "q": "What is dominant chemical present in detergent powder?",
+    "o": [
+      "Sodium alkyl sulphate",
+      "Calcium carbonate",
+      "Hydrochloric acid",
+      "Sodium carbonate"
+    ],
+    "a": 0,
+    "e": "Sodium alkyl sulphates or similar surfactants form the dominant active cleaning chemical in detergents."
+  },
+  {
+    "q": "Rust needs three components to occur, i.e.:",
+    "o": [
+      "Iron, nitrogen and moisture",
+      "Iron, oxygen and moisture",
+      "Steel, iron and oxygen",
+      "Helium, hydrogen and nitrogen"
+    ],
+    "a": 1,
+    "e": "The chemical process of rusting requires iron, oxygen, and moisture (water)."
+  },
+  {
+    "q": "ಹಾಲನ್ನು ಮೊಸರಾಗಿ ಪರಿವರ್ತಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಹೀಗೆ ಕರೆಯಲಾಗುತ್ತದೆ:",
+    "o": [
+      "Pasteurization",
+      "Vernalization",
+      "Fermentation",
+      "Retting"
+    ],
+    "a": 2,
+    "e": "Microbial action converts lactose in milk into lactic acid through the process of fermentation."
+  },
+  {
+    "q": "Which of the following are the most and the least electronegative elements in the periodic table?",
+    "o": [
+      "Hydrogen and Helium",
+      "Carbon and Oxygen",
+      "Chlorine and Fluorine",
+      "Fluorine and Caesium"
+    ],
+    "a": 3,
+    "e": "Fluorine is the most electronegative element, while caesium is among the least electronegative."
+  },
+  {
+    "q": "Which among the following qualities of iron ore is best based upon iron content?",
+    "o": [
+      "Hematite",
+      "Limonite",
+      "Magnetite",
+      "Siderite"
+    ],
+    "a": 2,
+    "e": "Magnetite contains the highest percentage of iron content among all iron ores."
+  },
+  {
+    "q": "Fatigue is caused because of formation and depositing of which among the following acids in Muscles?",
+    "o": [
+      "Acetic acid",
+      "Lactic Acid",
+      "Citric Acid",
+      "Pyruvic acid"
+    ],
+    "a": 1,
+    "e": "Strenuous physical activity leads to anaerobic respiration, causing lactic acid accumulation and muscle fatigue."
+  },
+  {
+    "q": "The Alkali metals are called good reducing agents. This implies that:",
+    "o": [
+      "They are not stable at room temperature",
+      "They don't act with dilute acids",
+      "They easily capture electrons",
+      "They easily lose electrons"
+    ],
+    "a": 3,
+    "e": "Alkali metals have a single valence electron which they easily lose, making them strong reducing agents."
+  },
+  {
+    "q": "Choose the correct statement regarding atomic discoveries:",
+    "o": [
+      "James Chadwick discovered protons",
+      "Rutherford calculated Charge to Mass ratio of electrons",
+      "John Dalton discovered Electrons",
+      "None of the above"
+    ],
+    "a": 3,
+    "e": "Thomson discovered electrons, Chadwick discovered neutrons, and J.J. Thomson measured the charge-to-mass ratio."
+  },
+  {
+    "q": "Which of the following material is used to make control rods in a nuclear reactor?",
+    "o": [
+      "Cadmium",
+      "Indium",
+      "Boron",
+      "All of the above"
+    ],
+    "a": 3,
+    "e": "Materials like boron, cadmium, and indium are effective neutron absorbers used in nuclear reactor control rods."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಸಿಮೆಂಟ್ ತಯಾರಿಸಲು ಬಳಸುವ ಮುಖ್ಯ ಅಂಶ ಯಾವುದು?",
+    "o": [
+      "ಮೇಲಿನ ಎಲ್ಲವೂ",
+      "ಸಿಲಿಕಾನ್",
+      "ಅಲ್ಯೂಮಿನಿಯಂ",
+      "ಕ್ಯಾಲ್ಸಿಯಂ"
+    ],
+    "a": 0,
+    "e": "Cement manufacturing relies on raw materials containing calcium, silicon, aluminium, and iron oxides."
+  },
+  {
+    "q": "Which acid is released when an Ant bites?",
+    "o": [
+      "Formic Acid",
+      "Acetic Acid",
+      "Phosphoric Acid",
+      "Hydrochloric Acid"
+    ],
+    "a": 0,
+    "e": "Ant stings inject methanoic acid, commonly known as formic acid, causing irritation."
+  },
+  {
+    "q": "Which of the following is an allotrope of oxygen?",
+    "o": [
+      "Hydrogen",
+      "Water",
+      "Ozone",
+      "None of the above"
+    ],
+    "a": 2,
+    "e": "Ozone is triatomic oxygen and serves as a well-known allotrope of elemental oxygen."
+  },
+  {
+    "q": "Which among the following is colourless gas?",
+    "o": [
+      "Chlorine",
+      "Oxygen",
+      "Sulphur",
+      "Phosphorous"
+    ],
+    "a": 1,
+    "e": "Oxygen is a transparent, odourless, and colourless gas essential for aerobic respiration."
+  },
+  {
+    "q": "Which of the following fuels causes minimum environmental pollution?",
+    "o": [
+      "Diesel",
+      "Coal",
+      "Hydrogen",
+      "Kerosene"
+    ],
+    "a": 2,
+    "e": "Hydrogen combustion produces only water vapour, making it a clean-burning fuel with minimal pollution."
+  },
+  {
+    "q": "The wire of flash bulb is made of?",
+    "o": [
+      "Magnesium",
+      "Copper",
+      "Silver",
+      "Barium"
+    ],
+    "a": 0,
+    "e": "Flashbulbs use thin magnesium filaments that burn rapidly in oxygen to produce a bright flash of light."
+  },
+  {
+    "q": "Which is the purest commercial form of iron?",
+    "o": [
+      "Steel",
+      "Pig iron",
+      "Wrought iron",
+      "Stainless steel"
+    ],
+    "a": 2,
+    "e": "Wrought iron contains the lowest carbon content, making it the purest commercial form of iron."
+  },
+  {
+    "q": "Bleaching action of Chlorine is due to which reaction?",
+    "o": [
+      "Oxidation",
+      "Hydrolysis",
+      "Redox",
+      "Decomposition"
+    ],
+    "a": 0,
+    "e": "Chlorine bleaches coloured substances through an oxidation reaction in the presence of moisture."
+  },
+  {
+    "q": "\"Fire-fighting clothes\" are made from?",
+    "o": [
+      "Asbestos",
+      "Mica",
+      "Talc",
+      "Steatite"
+    ],
+    "a": 0,
+    "e": "Asbestos possesses high thermal resistance, making it suitable for manufacturing protective fire-fighting suits."
+  },
+  {
+    "q": "Which of the following has minimum ignition temperature?",
+    "o": [
+      "Plastic",
+      "Wood",
+      "Petrol",
+      "Paper"
+    ],
+    "a": 2,
+    "e": "Petrol is highly volatile and has a very low ignition temperature compared to solids like wood or paper."
+  },
+  {
+    "q": "ಮಾನವನ ದೇಹ ಅಥವಾ ಅಂಗದಲ್ಲಿರುವ ಯಾವ ಅಂಶವು MRI ಯ ಕಾರ್ಯನಿರ್ವಹಣೆಯ ಮುಖ್ಯ ಆಧಾರವಾಗಿದೆ?",
+    "o": [
+      "ಸಾರಜನಕ",
+      "ಕ್ಯಾಲ್ಸಿಯಂ",
+      "ಸೋಡಿಯಂ",
+      "ಹೈಡೋಜನ್"
+    ],
+    "a": 3,
+    "e": "MRI imaging relies heavily on the magnetic properties of hydrogen atomic nuclei abundant in body water and fat."
+  },
+  {
+    "q": "An instrument that measures arterial blood pressure is called?",
+    "o": [
+      "ಸ್ಪಿಗೋಮಾನೋಮೀಟರ್",
+      "ಪೈಕೋಮೀಟರ್",
+      "ಸ್ಪಿಗೋಸ್ಕೋಪ್",
+      "ಹೈಪ್ಪೋಮೀಟರ್"
+    ],
+    "a": 0,
+    "e": "A sphygmomanometer is a medical device used to measure blood pressure in human arteries."
+  },
+  {
+    "q": "Which of the following gas is released when metal reacts with acid?",
+    "o": [
+      "ಹೈಡೋಜನ್",
+      "ಆಮ್ಲಜನಕ",
+      "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೆಡ್",
+      "ನೈಟ್ರೋಜನ್"
+    ],
+    "a": 0,
+    "e": "Active metals react with dilute acids to produce metal salts and evolve hydrogen gas."
+  },
+  {
+    "q": "ಕೆಳಗಿನವರಲ್ಲಿ ಸೈಟೋಪ್ಲಾಸಂ ಅನ್ನು ಕಂಡುಹಿಡಿದವರು ಯಾರು?",
+    "o": [
+      "ವಾಲ್ಟರ್ ಪ್ಲೆಮಿಂಗ್",
+      "ಕ್ಯಾಮಿಲ್ಲೊ ಗಾಲ್ಲಿ",
+      "ಕ್ರಿಶ್ಚಿಯನ್ ಡಿ ಡ್ಯೂವ್",
+      "ರುಡಾಲ್ಫ್ ವಾನ್ ಕೊಲ್ಲಿಕರ್"
+    ],
+    "a": 3,
+    "e": "Rudolph von Kolliker is credited with discovering or identifying cytoplasm within biological cells."
+  },
+  {
+    "q": "Which of the following cell organelles are present only in plant cells?",
+    "o": [
+      "ಲೈಸೋಸೋಮ್‌ಗಳು",
+      "ಮೈಟೊಕಾಂಡ್ರಿಯಾ",
+      "ಕೋಶ ಪೊರೆ",
+      "ಪ್ಲಾಸ್ಟಿಡ್‌ಗಳು"
+    ],
+    "a": 3,
+    "e": "Plastids, such as chloroplasts, are characteristic organelles found exclusively in plant and algal cells."
+  },
+  {
+    "q": "Seeds can best be preserved in which condition?",
+    "o": [
+      "Hot and dry conditions",
+      "Cool and wet conditions",
+      "Cool and dry conditions",
+      "Hot and wet conditions"
+    ],
+    "a": 2,
+    "e": "Cool and dry conditions reduce cellular respiration and fungal growth, preserving seed viability."
+  },
+  {
+    "q": "Interferons are synthesized in response to:",
+    "o": [
+      "Mycoplasma",
+      "Viruses",
+      "Bacteria",
+      "Fungi"
+    ],
+    "a": 1,
+    "e": "Interferons are signaling proteins released by host cells in response to the presence of viral pathogens."
+  },
+  {
+    "q": "Which of the following enzymes help in blood clotting?",
+    "o": [
+      "Amylase",
+      "Tryptase",
+      "Pepsin",
+      "Rennin"
+    ],
+    "a": 1,
+    "e": "Proteolytic enzymes like tryptase and thrombin play key regulatory roles in coagulation and clotting cascades."
+  },
+  {
+    "q": "Which is the most abundant greenhouse gas in the atmosphere?",
+    "o": [
+      "Carbon dioxide",
+      "Water vapor",
+      "Methane",
+      "Nitrous oxide"
+    ],
+    "a": 1,
+    "e": "Water vapour contributes the largest percentage to the natural greenhouse effect in Earth's atmosphere."
+  },
+  {
+    "q": "Which of these catalysts is commonly used in the hydrogenation of vegetable oils?",
+    "o": [
+      "Iron",
+      "Copper",
+      "Manganese",
+      "Nickel"
+    ],
+    "a": 3,
+    "e": "Finely divided nickel is widely used as a catalytic agent to convert liquid vegetable oils into solid fats."
+  },
+  {
+    "q": "Liquefied Petroleum Gas (LPG) is mostly a mixture of which two of the following carbon compounds?",
+    "o": [
+      "Methane and ethane",
+      "Propane and Butane",
+      "Ethane and propane",
+      "Methane and propane"
+    ],
+    "a": 1,
+    "e": "LPG consists primarily of flammable hydrocarbon gases, predominantly propane and butane."
+  },
+  {
+    "q": "Which of the following is added to natural rubber in the traditional vulcanization process?",
+    "o": [
+      "Sodium",
+      "Silver",
+      "Strontium",
+      "Sulphur"
+    ],
+    "a": 3,
+    "e": "Vulcanization involves heating natural rubber with sulphur to form cross-links, improving elasticity and strength."
+  },
+  {
+    "q": "Which metal has the highest melting point in its pure form?",
+    "o": [
+      "Gold",
+      "Copper",
+      "Tungsten",
+      "Iron"
+    ],
+    "a": 2,
+    "e": "Tungsten holds the highest melting point among all pure metallic elements."
+  },
+  {
+    "q": "Which of the following causes temporary hardness in water?",
+    "o": [
+      "Magnesium bicarbonate",
+      "Calcium bicarbonate",
+      "A and B are correct",
+      "None"
+    ],
+    "a": 2,
+    "e": "Temporary hardness is caused by the presence of dissolved bicarbonates of both calcium and magnesium."
+  },
+  {
+    "q": "Natural rubber is a polymer of:",
+    "o": [
+      "Styrene",
+      "Isoprene",
+      "Butadiene",
+      "Ethylene"
+    ],
+    "a": 1,
+    "e": "Natural rubber is an elastomer composed of repeating poly-isoprene polymer chains."
+  },
+  {
+    "q": "ಕ್ಯಾನ್ಸರ್ ಚಿಕಿತ್ಸೆಯಲ್ಲಿ ಬಳಸುವ ನೊಬೆಲ್ ಗ್ಯಾಸ್ ಯಾವುದು?",
+    "o": [
+      "ಹೀಲಿಯಂ",
+      "ಆರ್ಗಾನ್",
+      "ಕ್ರಿಪ್ಟಾನ್",
+      "ರೇಡಾನ್"
+    ],
+    "a": 3,
+    "e": "Radioactive radon gas has historical applications in radiation therapy for treating specific types of cancer."
+  },
+  {
+    "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ನೈಜ ಜಿಡಿಪಿಗೆ ಸರಿಯಾಗಿದೆ?",
+    "o": [
+      "ಪ್ರಸ್ತುತ ವರ್ಷದ ಉತ್ಪಾದನೆಯನ್ನು ಮೂಲ ವರ್ಷದಲ್ಲಿ ಮೌಲ್ವಿಕರಿಸಲಾಗಿದೆ",
+      "ಪ್ರಸ್ತುತ ವರ್ಷದ ಉತ್ಪಾದನೆಯನ್ನು ಪ್ರಸ್ತುತ ಬೆಲೆಗಳಲ್ಲಿ ಮೌಲ್ವಿಕರಿಸಲಾಗಿದೆ",
+      "ಪ್ರಸ್ತುತ ವರ್ಷದ ಉತ್ಪಾದನೆಯನ್ನು ಕಳೆದ ವರ್ಷದ ಬೆಲೆಗಳಲ್ಲಿ ಮೌಲ್ವಿಕರಿಸಲಾಗಿದೆ",
+      "ಪ್ರಸ್ತುತ ವರ್ಷದ ಉತ್ಪಾದನೆಯನ್ನು ನಿರೀಕ್ಷಿತ ಬೆಲೆಗಳಲ್ಲಿ ಮೌಲ್ವಿಕರಿಸಲಾಗಿದೆ"
+    ],
+    "a": 0,
+    "e": "Real GDP measures economic output evaluated at constant prices of a base year, eliminating inflation effects."
+  },
+  {
+    "q": "ಆರ್ಥಿಕ ವಲಯಗಳ ತಪ್ಪು ಜೋಡಿ ಯಾವುದು?",
+    "o": [
+      "ಸಾರಿಗೆ: ಮಾಧ್ಯಮಿಕ ವಲಯ",
+      "ಮೀನುಗಾರಿಕೆ: ಪ್ರಾಥಮಿಕ ವಲಯ",
+      "ಬ್ಯಾಂಕಿಂಗ್: ತೃತೀಯ ವಲಯ",
+      "ಸಾಫ್ಟ್‌ವೇರ್ ಕಂಪನಿ: ತೃತೀಯ ವಲಯ"
+    ],
+    "a": 0,
+    "e": "Transportation is a service activity, making it part of the tertiary sector rather than the secondary sector."
+  },
+  {
+    "q": "ಪ್ರತ್ಯೇಕ ಮಾರುಕಟ್ಟೆಗಳಲ್ಲಿ ಬೆಲೆಗಳನ್ನು ನಿರ್ಧರಿಸುವ ಅಧ್ಯಯನವನ್ನು ಕರೆಯಲಾಗುತ್ತದೆ?",
+    "o": [
+      "negative economics",
+      "positive economics",
+      "microeconomics",
+      "macroeconomics"
+    ],
+    "a": 2,
+    "e": "Microeconomics focuses on individual consumer and firm behavior, including price determination in specific markets."
+  },
+  {
+    "q": "ಭಾರತದ ಜಿಡಿಪಿಗೆ ಕೃಷಿಯ ಕೊಡುಗೆ ಏನು?",
+    "o": [
+      "32%",
+      "41%",
+      "29%",
+      "17%"
+    ],
+    "a": 3,
+    "e": "Agriculture contributes a vital share around 17-18 percent to India's overall gross domestic product."
+  },
+  {
+    "q": "ಭಾರತೀಯ ಸಂವಿಧಾನದ ಏಳನೇ ಶೆಡ್ಯೂಲ್ ಅಡಿಯಲ್ಲಿ, ಕೃಷಿ ಮಾರುಕಟ್ಟೆ ಯಾವ ಪಟ್ಟಿಯಲ್ಲಿದೆ?",
+    "o": [
+      "ಕೇಂದ್ರ ಪಟ್ಟಿ",
+      "ಸಮವರ್ತಿ ಪಟ್ಟಿ",
+      "ರಾಜ್ಯ ಪಟ್ಟಿ",
+      "ಮೇಲಿನ ಯಾವುದೂ ಅಲ್ಲ"
+    ],
+    "a": 2,
+    "e": "Agricultural marketing falls under the state list in the seventh schedule of the Indian Constitution."
+  },
+  {
+    "q": "ಜಂಟಿ ವಲಯದ ಪರಿಕಲ್ಪನೆಯು ಯಾರ ನಡುವಿನ ಸಹಕಾರವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+    "o": [
+      "ಸಾರ್ವಜನಿಕ ವಲಯ ಮತ್ತು ಖಾಸಗಿ ವಲಯದ ಕೈಗಾರಿಕೆಗಳು",
+      "ರಾಜ್ಯ ಸರ್ಕಾರ ಮತ್ತು ಕೇಂದ್ರ ಸರ್ಕಾರ",
+      "ದೇಶೀಯ ಮತ್ತು ವಿದೇಶಿ ಕಂಪನಿಗಳು",
+      "ಮೇಲಿನ ಯಾವುದೂ ಅಲ್ಲ"
+    ],
+    "a": 0,
+    "e": "The joint sector represents enterprises owned and managed jointly by public and private sector entities."
+  },
+  {
+    "q": "ಭಾರತದಲ್ಲಿ ರಾಷ್ಟ್ರೀಯ ಆದಾಯದ ಅಂದಾಜುಗಳನ್ನು ಯಾರು ಸಿದ್ಧಪಡಿಸುತ್ತಾರೆ?",
+    "o": [
+      "Planning Commission",
+      "Central statistical organisation",
+      "Reserve Bank of India",
+      "Indian statistical Institute"
+    ],
+    "a": 1,
+    "e": "The Central Statistical Organisation compiles and publishes official national income estimates in India."
+  },
+  {
+    "q": "ಭಾರತದಲ್ಲಿ ರಾಷ್ಟ್ರೀಯ ಆದಾಯದ ಮುಖ್ಯ ಮೂಲ?",
+    "o": [
+      "ಕೈಗಾರಿಕಾ ವಲಯ",
+      "ವ್ಯಾಪಾರ ವಲಯ",
+      "ಸೇವಾ ವಲಯ",
+      "ಕೃಷಿ ವಲಯ"
+    ],
+    "a": 2,
+    "e": "The service sector contributes the largest share to India's national income and GDP."
+  },
+  {
+    "q": "ಬ್ರಿಟಿಷರ ಅವಧಿಯಲ್ಲಿ ಭಾರತದಲ್ಲಿ ಮೊದಲ ಜನಗಣತಿಯು ಯಾರ ಅಧಿಕಾರಾವಧಿಯಲ್ಲಿ ನಡೆಯಿತು?",
+    "o": [
+      "ಲಾರ್ಡ್ ಲಿಟ್ಟನ್",
+      "ಲಾರ್ಡ್ ಮೇಯೊ",
+      "ಲಾರ್ಡ್ ಡಫರಿನ್",
+      "ಲಾರ್ಡ್ ರಿಪ್ಪನ್"
+    ],
+    "a": 1,
+    "e": "The first systematic census in British India was conducted in 1872 during the tenure of Lord Mayo."
+  },
+  {
+    "q": "ಯಾವ ಪಂಚವಾರ್ಷಿಕ ಯೋಜನೆಯು ಮೊದಲ ಬಾರಿಗೆ ಬಡತನ ನಿರ್ಮೂಲನೆಗೆ ಒತ್ತು ನೀಡಿತು?",
+    "o": [
+      "ನಾಲ್ಕನೇ",
+      "ಆರನೇ",
+      "ಐದನೇ",
+      "ಏಳನೇ"
+    ],
+    "a": 2,
+    "e": "The Fifth Five-Year Plan introduced the 'Garibi Hatao' slogan, prioritizing poverty eradication and self-reliance."
+  },
+  {
+    "q": "ಭಾರತೀಯ ಜನಸಂಖ್ಯೆಯ ಇತಿಹಾಸದಲ್ಲಿ, ಯಾವ ಅವಧಿಯನ್ನು 'ಮಹಾ ಮುನ್ನಡೆ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+    "o": [
+      "1921-1931",
+      "1941-1951",
+      "1951-1961",
+      "1971-1981"
+    ],
+    "a": 2,
+    "e": "The decade 1951-1961 is termed the period of population explosion due to a steep decline in mortality rates."
+  },
+  {
+    "q": "ಆರ್ಥಿಕತೆಯಲ್ಲಿ ಅಭಿವೃದ್ಧಿಯು ಸಂಭವಿಸಿದಾಗ, ರಾಷ್ಟ್ರೀಯ ಆದಾಯದಲ್ಲಿ ತೃತೀಯ ವಲಯದ ಪಾಲು?",
+    "o": [
+      "ಮೊದಲು ಬೀಳುತ್ತದೆ ಮತ್ತು ನಂತರ ಏರುತ್ತದೆ",
+      "ಮೊದಲು ಏರುತ್ತದೆ ಮತ್ತು ನಂತರ ಬೀಳುತ್ತದೆ",
+      "ಹೆಚ್ಚುತ್ತಲೇ ಇರುತ್ತದೆ",
+      "ಸ್ಥಿರವಾಗಿರುತ್ತದೆ"
+    ],
+    "a": 2,
+    "e": "As an economy develops, the tertiary or service sector continuously expands and increases its share of national income."
+  },
+  {
+    "q": "ಯಾವ ಯೋಜನೆಯಡಿಯಲ್ಲಿ ಸರ್ಕಾರವು ಹಸಿರು ಕ್ರಾಂತಿಗೆ ಕಾರಣವಾದ ಕೃಷಿ ಕಾರ್ಯತಂತ್ರವನ್ನು ಪರಿಚಯಿಸಿತು?",
+    "o": [
+      "ಎರಡನೇ ಪಂಚವಾರ್ಷಿಕ ಯೋಜನೆ",
+      "ಮೂರನೇ ಪಂಚವಾರ್ಷಿಕ ಯೋಜನೆ",
+      "ನಾಲ್ಕನೇ ಪಂಚವಾರ್ಷಿಕ ಯೋಜನೆ",
+      "ಆರನೇ ಪಂಚವಾರ್ಷಿಕ ಯೋಜನೆ"
+    ],
+    "a": 1,
+    "e": "High-yielding variety seeds and modern agricultural strategies were introduced during the mid-1960s under the Third Plan."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಅಭಿವೃದ್ಧಿ ಹೊಂದಿದ ದೇಶದ ಜನಸಂಖ್ಯೆಯ ಲಕ್ಷಣವಲ್ಲ?",
+    "o": [
+      "ಅಧಿಕ ಜನನ ಮತ್ತು ಹೆಚ್ಚಿನ ಮರಣ ಪ್ರಮಾಣ",
+      "ಕಡಿಮೆ ಜನನ ಪ್ರಮಾಣ ಮತ್ತು ಕಡಿಮೆ ಮರಣ ಪ್ರಮಾಣ",
+      "ನಗರ ಜನಸಂಖ್ಯೆಯ ಹೆಚ್ಚಿನ ಪ್ರಮಾಣ",
+      "ಜನಸಂಖ್ಯೆಯ ಕಡಿಮೆ ಬೆಳವಣಿಗೆ ದರ"
+    ],
+    "a": 0,
+    "e": "High birth and high death rates characterize underdeveloped or pre-industrial populations, not developed nations."
+  },
+  {
+    "q": "ಜವಾಹರ್ ರೋಜ್‌ ಗಾರ್ ಯೋಜನೆ ಯಾವಾಗ ಪ್ರಾರಂಭವಾಯಿತು?",
+    "o": [
+      "1985",
+      "1987",
+      "1989",
+      "1991"
+    ],
+    "a": 2,
+    "e": "Jawahar Rozgar Yojana was launched in 1989 to generate rural employment opportunities."
+  },
+  {
+    "q": "ಒಂದು ದೇಶದ ಜನರ ಜೀವಿತಾವಧಿ, ಸಾಕ್ಷರತೆಯ ಮಟ್ಟ, ಶಿಕ್ಷಣ ಮತ್ತು ಜೀವನ ಮಟ್ಟವನ್ನು ಅಳೆಯಲು ಯಾವ ಸೂಚ್ಯಂಕವನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಲಾಗಿದೆ?",
+    "o": [
+      "Sensex",
+      "Human Development Index",
+      "CSO & CSSO",
+      "UNDP"
+    ],
+    "a": 1,
+    "e": "The Human Development Index (HDI) measures longevity, education, and standard of living across nations."
+  },
+  {
+    "q": "ಭಾರತದಲ್ಲಿ, ಜನಸಂಖ್ಯಾ ಸಾಂದ್ರತೆಯನ್ನು ಯಾವ ಅಳತೆಯೊಂದಿಗೆ ಮಾಪನ ಮಾಡಲಾಗುತ್ತದೆ?",
+    "o": [
+      "ಪ್ರತಿ ಚದರ ಮೈಲಿಗೆ",
+      "ಪ್ರತಿ ಚದರ ಕಿಲೋಮೀಟರ್",
+      "ಪ್ರತಿ ಲಕ್ಷ ಚದರ ಮೈಲಿಗೆ",
+      "ಪ್ರತಿ ಲಕ್ಷ ಚದರ ಕಿಲೋಮೀಟರ್"
+    ],
+    "a": 1,
+    "e": "Population density in India is expressed quantitatively as the number of persons per square kilometer."
+  },
+  {
+    "q": "2011 ರ ಜನಗಣತಿಯ ಪ್ರಕಾರ, ಭಾರತದಲ್ಲಿ ಮಹಿಳೆಯರ ಸಾಕ್ಷರತೆಯ ಪ್ರಮಾಣ?",
+    "o": [
+      "64.40",
+      "65.46",
+      "66.46",
+      "67.46"
+    ],
+    "a": 0,
+    "e": "According to the 2011 census, female literacy rate in India was recorded at approximately 64.46 percent."
+  },
+  {
+    "q": "2011 ರ ಜನಗಣತಿಯ ಪ್ರಕಾರ, 2001-2011 ರ ಅವಧಿಯಲ್ಲಿ ಅತ್ಯಧಿಕ ಜನಸಂಖ್ಯೆಯ ಬೆಳವಣಿಗೆ ದರ ಕಂಡುಬಂದ ರಾಜ್ಯ?",
+    "o": [
+      "ಮಣಿಪುರ",
+      "ರಾಜಸ್ಥಾನ",
+      "ನಾಗಾಲ್ಯಾಂಡ್",
+      "ಮೇಘಾಲಯ"
+    ],
+    "a": 3,
+    "e": "Meghalaya recorded the highest decadal population growth rate among Indian states during the 2001-2011 decade."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಅದರ ಸ್ಥಾಪನೆಯ ವರ್ಷದೊಂದಿಗೆ ತಪ್ಪಾಗಿ ಹೋಲಿಕೆಯಾಗಿದೆ?",
+    "o": [
+      "ಪಂಪ ಪ್ರಶಸ್ತಿ = 1987",
+      "ನೃಪತುಂಗ ಪ್ರಶಸ್ತಿ = 2004",
+      "ಮ್ಯಾನ್ ಬೂಕರ್ ಪ್ರಶಸ್ತಿ = 1969",
+      "ಗಾಂಧಿ ಶಾಂತಿ ಪ್ರಶಸ್ತಿ = 1995"
+    ],
+    "a": 1,
+    "e": "Nrupatunga Award was instituted by Kannada Book Authority in 2001, making its 2004 pairing incorrect."
+  },
+  {
+    "q": "2011ರ ಜನಗಣತಿ ಪ್ರಕಾರ ಅತಿ ಕಡಿಮೆ ಜನಸಂಖ್ಯೆ ಹೊಂದಿರುವ ಮೊದಲ ಎರಡು ರಾಜ್ಯಗಳು?",
+    "o": [
+      "ಸಿಕ್ಕಿಂ ಮತ್ತು ಅರುಣಾಚಲ ಪ್ರದೇಶ",
+      "ಸಿಕ್ಕಿಂ ಮತ್ತು ಮೇಘಾಲಯ",
+      "ಸಿಕ್ಕಿಂ ಮತ್ತು ನಾಗಾಲ್ಯಾಂಡ್",
+      "ಸಿಕ್ಕಿಂ ಮತ್ತು ಮಿಜೋರಾಂ"
+    ],
+    "a": 0,
+    "e": "Sikkim recorded the lowest population among Indian states in 2011, followed by Mizoram/Arunachal variants in lists."
+  },
+  {
+    "q": "ಒಟ್ಟು ರಾಷ್ಟ್ರೀಯ ಉತ್ಪನ್ನದ (GNP) ಅರ್ಥವೇನು?",
+    "o": [
+      "ದೇಶದ ಎಲ್ಲಾ ವಹಿವಾಟುಗಳ ಒಟ್ಟು ಮೌಲ್ಯ",
+      "ದೇಶದಲ್ಲಿ ಉತ್ಪಾದನೆಯಾಗುವ ಸರಕು ಮತ್ತು ಸೇವೆಗಳ ಒಟ್ಟು ಮೌಲ್ಯದಲ್ಲಿನ ಸವಕಳಿ",
+      "ದೇಶದಲ್ಲಿ ಉತ್ಪತ್ತಿಯಾಗುವ ಸರಕು ಮತ್ತು ಸೇವೆಗಳ ಒಟ್ಟು ಮೌಲ್ಯ ಮತ್ತು ವಿದೇಶದಿಂದ ಬರುವ ನಿವ್ವಳ ಅಂಶ ಆದಾಯ",
+      "ದೇಶದಲ್ಲಿ ಉತ್ಪಾದನೆಯಾಗುವ ಸರಕು ಮತ್ತು ಸೇವೆಗಳ ಒಟ್ಟು ಮೌಲ್ಯ"
+    ],
+    "a": 2,
+    "e": "GNP includes total domestic output plus net factor income earned from abroad by residents."
+  },
+  {
+    "q": "'ಬಂಡವಾಳಶಾಹಿ' ಏನು ಸೂಚಿಸುತ್ತದೆ?",
+    "o": [
+      "ಮಾರುಕಟ್ಟೆಯ ಬಳಕೆ",
+      "ಬಂಡವಾಳದ ಸರ್ಕಾರಿ ಮಾಲೀಕತ್ವ",
+      "ಬಂಡವಾಳ ಸರಕುಗಳ ಖಾಸಗಿ ಮಾಲೀಕತ್ವ",
+      "ಮನೆಗಳು ಮತ್ತು ಕಾರುಗಳ ಖಾಸಗಿ ಮಾಲೀಕತ್ವ"
+    ],
+    "a": 2,
+    "e": "Capitalism is an economic system based on private ownership of the means of production and capital goods."
+  },
+  {
+    "q": "ಭಾರತೀಯ ಬಂಡವಾಳ ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ವಂಚನೆಗಳು ಮರುಕಳಿಸುವುದನ್ನು ತಡೆಯಲು ನಿಯಂತ್ರಕ ಅಧಿಕಾರ ಹೊಂದಿರುವ ಸಂಸ್ಥೆ ಯಾವುದು?",
+    "o": [
+      "RBI",
+      "SEBI",
+      "SIDBI",
+      "EXIM"
+    ],
+    "a": 1,
+    "e": "SEBI (Securities and Exchange Board of India) regulates the securities market and prevents fraudulent practices."
+  },
+  {
+    "q": "ನೀರಿನಾವರಿ ಮೂಲಗಳನ್ನು ಅವುಗಳ ನೀರಾವರಿ ಪ್ರದೇಶದ ಅವರೋಹಣ ಕ್ರಮದ ಪ್ರಕಾರ ವ್ಯವಸ್ಥೆಗೊಳಿಸಿ: 1. ಕಾಲುವೆಗಳು 2. ಬಾವಿಗಳು ಮತ್ತು ಕೊಳವೆಬಾವಿಗಳು 3. ಟ್ಯಾಂಕ್‌ಗಳು",
+    "o": [
+      "1, 2, 3",
+      "2, 1, 3",
+      "2, 3, 1",
+      "1, 3, 2"
+    ],
+    "a": 1,
+    "e": "Tube wells and wells cover the largest irrigation area in India, followed by canals and tanks."
+  },
+  {
+    "q": "ದೇಶೀಯ ಕರೆನ್ಸಿಯ ವಿನಿಮಯ ದರದಲ್ಲಿ ಅಧಿಕೃತ ಬದಲಾವಣೆಯಾದಾಗ, ಅದನ್ನು ಕರೆಯಲಾಗುತ್ತದೆ?",
+    "o": [
+      "Depreciation",
+      "Revaluation",
+      "Appreciation",
+      "Deflation"
+    ],
+    "a": 1,
+    "e": "Revaluation is an official upward adjustment of a country's exchange rate relative to other currencies."
+  },
+  {
+    "q": "1991ರಲ್ಲಿ ಯಾವ ಸಂಸ್ಥೆಗಳ ಸಲಹೆಯೊಂದಿಗೆ ಹೊಸ ಆರ್ಥಿಕ ಸುಧಾರಣೆಯನ್ನು ಘೋಷಿಸಲಾಯಿತು?",
+    "o": [
+      "IMF & WEF",
+      "IBRD & IMF",
+      "IBRD & WTO",
+      "UN & WTO"
+    ],
+    "a": 1,
+    "e": "India introduced structural economic reforms in 1991 under guidance and structural adjustment loans from the IMF and World Bank (IBRD)."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ತಪ್ಪಾಗಿ ಹೋಲಿಕೆಯಾಗಿದೆ?",
+    "o": [
+      "ಕುಟುಂಬ ಯೋಜನೆ = 1952",
+      "CSO = 1951",
+      "NSSO = 1950",
+      "ರಾಷ್ಟ್ರೀಯ ಜನಸಂಖ್ಯಾ ನೀತಿ = 2002"
+    ],
+    "a": 3,
+    "e": "The National Population Policy in India was formally adopted in the year 2000, making the 2002 date incorrect."
+  },
+  {
+    "q": "ಕಾರ್ಮಿಕರ ಬೇಡಿಕೆ ಮತ್ತು ಪೂರೈಕೆ ಬದಲಾವಣೆಯ ಕಾರಣದಿಂದ ಉಂಟಾಗುವ ನಿರುದ್ಯೋಗವನ್ನು ಏನಂತ ಕರೆಯುತ್ತೇವೆ?",
+    "o": [
+      "Structural",
+      "Open",
+      "Disguised",
+      "Frictional"
+    ],
+    "a": 0,
+    "e": "Structural unemployment arises from a mismatch between worker skills and the structural demands of industries."
+  },
+  {
+    "q": "ಲೋರೆಂಜ್ ರೇಖೆ ಈ ಕೆಳಗಿನ ಯಾವುದಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ?",
+    "o": [
+      "ಬಡತನ ಪರಿಹಾರ",
+      "ತೆರಿಗೆಗಳ ಸುಧಾರಣೆ",
+      "ಆದಾಯದ ಅಸಮಾನತೆ",
+      "ಉದ್ಯೋಗದ ಅಸಮಾನತೆ"
+    ],
+    "a": 2,
+    "e": "The Lorenz curve is a graphical representation of income or wealth distribution and inequality."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ತಪ್ಪಾಗಿ ಹೋಲಿಕೆ?",
+    "o": [
+      "IRDP ಕಾರ್ಯಕ್ರಮ = 1988",
+      "NRLM = 2011",
+      "NAREGA = 2005",
+      "PM ಗ್ರಾಮ್ ಸಡಕ್ ಯೋಜನೆ = 2000"
+    ],
+    "a": 0,
+    "e": "Integrated Rural Development Programme (IRDP) was launched nationwide in 1978-1980, making 1988 incorrect."
+  },
+  {
+    "q": "ಅತಿ ಹೆಚ್ಚು ಪ್ರಾದೇಶಿಕ ಗ್ರಾಮೀಣ ಬ್ಯಾಂಕುಗಳನ್ನು (RRB) ಒಳಗೊಂಡಿರುವ ರಾಜ್ಯ ಯಾವುದು?",
+    "o": [
+      "ಮಹಾರಾಷ್ಟ್ರ",
+      "ಉತ್ತರಪ್ರದೇಶ",
+      "ಮಧ್ಯಪ್ರದೇಶ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "a": 1,
+    "e": "Uttar Pradesh has the highest number of Regional Rural Banks due to its vast rural banking network."
+  },
+  {
+    "q": "ರಸಗೊಬ್ಬರ ಉತ್ಪಾದನೆಯಲ್ಲಾಗುವ ಹೆಚ್ಚಳವನ್ನು ಯಾವ ಕ್ರಾಂತಿ ಎನ್ನುವರು?",
+    "o": [
+      "ಬೂದು",
+      "ಬೆಳ್ಳಿ",
+      "ಕೇಸರಿ",
+      "ನೀಲಿ"
+    ],
+    "a": 0,
+    "e": "Grey revolution is associated with increased fertilizer production and agricultural development."
+  },
+  {
+    "q": "ಪದ್ಮವಿಭೂಷಣ ಭಾರತದ ಎಷ್ಟನೇ ಪ್ರಮುಖ ನಾಗರಿಕ ಪ್ರಶಸ್ತಿ?",
+    "o": [
+      "ನಾಲ್ಕನೇ ಅತ್ಯಧಿಕ",
+      "ಮೂರನೇ ಅತ್ಯಧಿಕ",
+      "ಎರಡನೇ ಅತ್ಯಧಿಕ",
+      "ಅತ್ಯಧಿಕ"
+    ],
+    "a": 2,
+    "e": "Bharat Ratna is the highest, followed by Padma Vibhushan as the second-highest civilian award in India."
+  },
+  {
+    "q": "Who is the first to receive a Nobel Prize in Physics?",
+    "o": [
+      "Wilhelm Konrad Roentgen",
+      "John Henry Dunet",
+      "Wangari Mathayi",
+      "Linus Pauling"
+    ],
+    "a": 0,
+    "e": "Wilhelm Roentgen received the inaugural Nobel Prize in Physics in 1901 for discovering X-rays."
+  },
+  {
+    "q": "The Pritzker prize is an international award given to recognise contribution in the field of:",
+    "o": [
+      "literature",
+      "mathematics",
+      "architecture",
+      "medicine"
+    ],
+    "a": 2,
+    "e": "The Pritzker Architecture Prize is awarded annually to honor living architects for notable achievements."
+  },
+  {
+    "q": "ಕೆಳಗಿನ ಯಾವ ಭಾರತೀಯರಿಗೆ ನೊಬೆಲ್ ಪ್ರಶಸ್ತಿಯನ್ನು ನೀಡಲಾಗಿಲ್ಲ?",
+    "o": [
+      "Kailash Satyarthi",
+      "Mahatma Gandhi",
+      "Rabindranath Tagore",
+      "Hargobind Khurana"
+    ],
+    "a": 1,
+    "e": "Mahatma Gandhi was nominated multiple times but never received the Nobel Peace Prize."
+  },
+  {
+    "q": "ಕೆಳಗಿನವರಲ್ಲಿ ಯಾರು ಭಾರತ ರತ್ನ ಪುರಸ್ಕೃತರಲ್ಲ?",
+    "o": [
+      "Mother Teresa",
+      "Nelson Mandela",
+      "Baldev Singh",
+      "Khan Abdul Ghaffar Khan"
+    ],
+    "a": 2,
+    "e": "Baldev Singh was a prominent freedom fighter and minister, but not a recipient of the Bharat Ratna."
+  },
+  {
+    "q": "The SASTRA Ramanujan Prize is awarded in the field of:",
+    "o": [
+      "science and technology",
+      "Literature",
+      "Chemistry",
+      "Mathematics"
+    ],
+    "a": 3,
+    "e": "The SASTRA Ramanujan Prize is presented annually for outstanding contributions in mathematics."
+  },
+  {
+    "q": "ಎಂ.ಎಸ್ ಸುಬ್ಬಲಕ್ಷ್ಮಿ ಅವರಿಗೆ ಭಾರತರತ್ನ ಪ್ರಶಸ್ತಿ ದೊರೆತ ವರ್ಷ?",
+    "o": [
+      "1971",
+      "1998",
+      "1988",
+      "2004"
+    ],
+    "a": 1,
+    "e": "Renowned Carnatic vocalist M.S. Subbulakshmi was awarded the Bharat Ratna in 1998."
+  },
+  {
+    "q": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪುರಸ್ಕೃತ ಕನ್ನಡಿಗರಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ತಪ್ಪಾಗಿ ಹೋಲಿಕೆ ಆಗಿದೆ?",
+    "o": [
+      "ವಿ. ಕೃ ಗೋಕಾಕ್ = 1990",
+      "ಕೆ. ವಿ. ಪುಟ್ಟಪ್ಪ = 1967",
+      "ದ. ರಾ. ಬೇಂದ್ರೆ = 1973",
+      "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ = 1977"
+    ],
+    "a": 3,
+    "e": "Masti Venkatesha Iyengar received the Jnanpith Award in 1983, making the 1977 pairing incorrect."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾರಿಗೆ ಕರ್ನಾಟಕ ರತ್ನ ಪ್ರಶಸ್ತಿ ದೊರಕಿಲ್ಲ?",
+    "o": [
+      "ಭೀಮಸೇನ್ ಜೋಷಿ",
+      "ಡಿ. ಜವರೇಗೌಡ",
+      "ಸಾಲುಮರದ ತಿಮ್ಮಕ್ಕ",
+      "ದೇವಿ ಪ್ರಸಾದ್ ಶೆಟ್ಟಿ"
+    ],
+    "a": 3,
+    "e": "Devi Prasad Shetty has not been conferred with the Karnataka Ratna award among the options listed."
+  },
+  {
+    "q": "ರಾಮನ್ ಮ್ಯಾಗ್ನೆಸ್ಸೆ ಪ್ರಶಸ್ತಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಈ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆ ಸರಿಯಾಗಿದೆ?",
+    "o": [
+      "ಈ ಪ್ರಶಸ್ತಿಯನ್ನು 1957ರಲ್ಲಿ ಸ್ಥಾಪಿಸಲಾಯಿತು",
+      "ಈ ಪ್ರಶಸ್ತಿಯನ್ನು ಫಿಲಿಪೈನ್ಸ್ ಸರ್ಕಾರ ನೀಡುತ್ತದೆ",
+      "ಇವನ್ನು ಗಣಿತ ಶಾಸ್ತ್ರದ ನೊಬೆಲ್ ಎಂದು ಕರೆಯುತ್ತೇವೆ",
+      "ಈ ಪ್ರಶಸ್ತಿಯನ್ನು ಪಡೆದ ಮೊದಲ ಭಾರತೀಯರು ವಿನೋಬಾ ಭಾವೆ ಆಗಿದ್ದಾರೆ."
+    ],
+    "a": 3,
+    "e": "Acharya Vinoba Bhave was the first Indian citizen to be honored with the Ramon Magsaysay Award."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ತಪ್ಪಾಗಿ ಹೋಲಿಕೆಯಾಗಿದೆ?",
+    "o": [
+      "ಪರಿಸರದ ನೊಬೆಲ್ = ಟೈಲರ್ ಪ್ರಶಸ್ತಿ",
+      "ಪರ್ಯಾಯ ನೊಬೆಲ್ = ರೈಟ್ ಲೈವಿಹುಡ್ ಪ್ರಶಸ್ತಿ",
+      "ಪತ್ರಿಕೋದ್ಯಮ ನೊಬೆಲ್ = ಪ್ರಿಟ್ಟಕರ್ ಪ್ರಶಸ್ತಿ",
+      "ಮೇಲಿನ ಯಾವುದು ಅಲ್ಲ."
+    ],
+    "a": 2,
+    "e": "Pritzker is known as the Nobel of architecture, making its pairing with journalism incorrect."
+  },
+  {
+    "q": "ಪದ್ಮಭೂಷಣ ಸ್ವೀಕರಿಸಲು ನಿರಾಕರಿಸಿದ ಪತ್ರಕರ್ತ ಯಾರು?",
+    "o": [
+      "Khushwant Singh",
+      "Shekaran Nair",
+      "Ratan Thiyam",
+      "Arun Shourie"
+    ],
+    "a": 3,
+    "e": "Prominent journalist Arun Shourie declined the Padma Bhushan award conferred upon him."
+  },
+  {
+    "q": "2023 ರ ಸಾಹಿತ್ಯದಲ್ಲಿ ನೊಬೆಲ್ ಪ್ರಶಸ್ತಿಯನ್ನು ಯಾರಿಗೆ ನೀಡಲಾಗಿದೆ?",
+    "o": [
+      "Jon Fosse",
+      "Annie Ernaux",
+      "Katalin Kariko",
+      "Anne L'Huillier"
+    ],
+    "a": 0,
+    "e": "Jon Fosse was awarded the 2023 Nobel Prize in Literature for his innovative plays and prose."
+  },
+  {
+    "q": "ಇತ್ತೀಚೆಗೆ ಸುದ್ದಿಗಳಲ್ಲಿ ಕಂಡುಬರುವ ಕದರ್ ಬುಡಕಟ್ಟುಗಳು ಮುಖ್ಯವಾಗಿ ಭಾರತದ ಯಾವ ಪ್ರದೇಶಕ್ಕೆ ಸೇರಿದವರು?",
+    "o": [
+      "ದಕ್ಷಿಣ ಭಾರತ",
+      "ಈಶಾನ್ಯ ಭಾರತ",
+      "ಪಶ್ಚಿಮ ಘಟ್ಟಗಳು",
+      "ಉತ್ತರ ಭಾರತ"
+    ],
+    "a": 2,
+    "e": "The Kadar are an indigenous tribal group residing primarily in the southern rainforests of the Western Ghats."
+  },
+  {
+    "q": "ವೈಲ್ಡ್‌ಲೈಫ್‌ ಇನ್‌ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಇಂಡಿಯಾದ ವರದಿಯ ಪ್ರಕಾರ, ಭಾರತದಲ್ಲಿ ಗರಿಷ್ಠ ಸಂಖ್ಯೆಯ ಗಂಗಾ ಡಾಲ್ಫಿನ್‌ಗಳನ್ನು ಹೊಂದಿರುವ ರಾಜ್ಯ ಯಾವುದು?",
+    "o": [
+      "ಉತ್ತರ ಪ್ರದೇಶ",
+      "ಉತ್ತರಾಖಂಡ",
+      "ಬಿಹಾರ",
+      "ಮಧ್ಯ ಪ್ರದೇಶ"
+    ],
+    "a": 2,
+    "e": "Bihar hosts the highest population of endangered Ganges river dolphins according to wildlife surveys."
+  },
+  {
+    "q": "ಇತ್ತೀಚೆಗೆ ಸುದ್ದಿಯಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾದ \"Rabbit R1\" ಎಂದರೇನು?",
+    "o": [
+      "AI Device",
+      "New species of Rabbit",
+      "Galaxy",
+      "Exoplanet"
+    ],
+    "a": 0,
+    "e": "Rabbit R1 is a pocket-sized artificial intelligence hardware gadget designed to operate apps via voice commands."
+  },
+  {
+    "q": "ಗ್ಲೋಬಲ್ ಜೆಂಡರ್ ಗ್ಯಾಪ್ ಇಂಡೆಕ್ಸ್‌ನಲ್ಲಿ ಭಾರತದ ಸ್ಥಾನ ಏನು?",
+    "o": [
+      "129",
+      "125",
+      "126",
+      "134"
+    ],
+    "a": 0,
+    "e": "India was ranked 129th out of 146 countries in the Global Gender Gap Index report."
+  },
+  {
+    "q": "ಪರಿಸರ ಕಾರ್ಯಕ್ಷಮತೆ ಸೂಚ್ಯಂಕದಲ್ಲಿ ಭಾರತವು ಯಾವ ಶ್ರೇಣಿಯನ್ನು ಹೊಂದಿದೆ?",
+    "o": [
+      "176",
+      "148",
+      "165",
+      "184"
+    ],
+    "a": 3,
+    "e": "India was placed at the bottom of the rankings at 184th position in the Environmental Performance Index."
+  }
+]

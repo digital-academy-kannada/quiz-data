@@ -1,0 +1,486 @@
+[
+  {
+    "q": "Which Indian state is credited with institutionalizing the social audit process in rural development programs?",
+    "o": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Kerala",
+      "Rajasthan"
+    ],
+    "a": 3,
+    "e": "Rajasthan was the pioneering state to officially institutionalize social audits for rural development schemes like MGNREGA to ensure transparency."
+  },
+  {
+    "q": "'Vigilance Awareness Week' is observed every year in the month of",
+    "o": [
+      "October",
+      "December",
+      "January",
+      "May"
+    ],
+    "a": 0,
+    "e": "Vigilance Awareness Week is annually observed by the Central Vigilance Commission during the week matching the birthday of Sardar Vallabhbhai Patel in October."
+  },
+  {
+    "q": "Article 243D of Indian Constitution prescribes for",
+    "o": [
+      "State Finance Commission",
+      "Reservation in Panchayats",
+      "Powers and functions of Grama Sabha",
+      "State Election Commission"
+    ],
+    "a": 1,
+    "e": "Article 243D of the Constitution of India mandates the reservation of seats for Scheduled Castes, Scheduled Tribes, and women in panchayats at all levels."
+  },
+  {
+    "q": "Which of the following is NOT an objective of 'Jansunwai'?",
+    "o": [
+      "Submission of Public Grievances",
+      "Citizen Engagement",
+      "Scrutiny of Gram Panchayat Budgets",
+      "Transparency and Accountability in Governance"
+    ],
+    "a": 0,
+    "e": "Jansunwai is a public hearing platform focused on transparency, social audits, and grievance redressal rather than serving merely as a formal portal for initial submissions."
+  },
+  {
+    "q": "What has been the primary focus of India's economic policy since the 1991 economic liberalization?",
+    "o": [
+      "Achieving the objectives of the Directive Principles of State Policy",
+      "Reducing poverty and inequality through social welfare programmes",
+      "Promoting export-led growth and foreign investment",
+      "Encouraging domestic consumption of imported goods"
+    ],
+    "a": 2,
+    "e": "The 1991 reforms shifted focus toward globalization, integration with the global economy, promoting foreign direct investment, and boosting exports."
+  },
+  {
+    "q": "The parliamentary form of government in India is strengthened by the presence of",
+    "o": [
+      "An independent judiciary",
+      "A bicameral legislature",
+      "A Council of Ministers accountable to the Lok Sabha",
+      "An active President"
+    ],
+    "a": 2,
+    "e": "Collective responsibility and accountability of the executive branch to the directly elected lower house form the bedrock of a parliamentary democracy."
+  },
+  {
+    "q": "In 2023, which constitutional article was invoked by the Supreme Court to criticize undue delay by the Governor in granting assent to bills?",
+    "o": [
+      "Article 200",
+      "Article 123",
+      "Article 239",
+      "Article 111"
+    ],
+    "a": 0,
+    "e": "Article 200 governs the Governor's assent to bills passed by the State Legislature, specifying options like withholding assent or reserving bills."
+  },
+  {
+    "q": "The Inter-State Council is established under which article?",
+    "o": [
+      "Article 280",
+      "Article 356",
+      "Article 263",
+      "Article 260"
+    ],
+    "a": 2,
+    "e": "Article 263 empowers the President to establish an Inter-State Council to inquire into and advise upon disputes between states."
+  },
+  {
+    "q": "The NOTA (None of the above) option was introduced in Indian elections as a result of",
+    "o": [
+      "Law Commission Recommendations",
+      "Supreme Court Judgement, 2013",
+      "Election Commission Circular, 2012",
+      "Constitutional Amendment, 2000"
+    ],
+    "a": 1,
+    "e": "In the People's Union for Civil Liberties v. Union of India 2013 judgment, the Supreme Court directed the provision of a NOTA button on EVMs."
+  },
+  {
+    "q": "Who among the following acts as a returning officer for the election of the President of India?",
+    "o": [
+      "Chief Justice of India",
+      "Secretary General of Lok Sabha",
+      "Chief Election Commissioner",
+      "Speaker of Lok Sabha"
+    ],
+    "a": 1,
+    "e": "The Secretary-General of the Lok Sabha or Rajya Sabha is typically appointed by the Election Commission to act as the returning officer for presidential polls on a rotational basis."
+  },
+  {
+    "q": "The transition from the 'Look East' to the 'Act East' policy primarily aimed to",
+    "o": [
+      "Convert cultural links with East Asia into active economic and strategic partnerships",
+      "Reduce India's trade with the West",
+      "Shift India's focus entirely to Central Asia",
+      "Focus only on cultural diplomacy with South Asia"
+    ],
+    "a": 0,
+    "e": "The Act East policy elevated economic, strategic, and diplomatic interactions with countries in the Asia-Pacific region beyond mere cultural ties."
+  },
+  {
+    "q": "With reference to the location of state capitals of India, identify the SEQUENCE of locations from East to West.",
+    "o": [
+      "Chennai, Hyderabad, Bhubaneswar, Kolkata",
+      "Bhubaneswar, Kolkata, Hyderabad, Chennai",
+      "Kolkata, Bhubaneswar, Chennai, Hyderabad",
+      "Bhubaneswar, Kolkata, Chennai, Hyderabad"
+    ],
+    "a": 3,
+    "e": "Arranging geographically from eastmost to westmost yields Bhubaneswar, Kolkata further west/north, then Chennai down south, and Hyderabad further inland west."
+  },
+  {
+    "q": "Which of the following types of forests is the most widespread in India?",
+    "o": [
+      "Tropical evergreen forest",
+      "Tropical deciduous forest",
+      "Tropical thorn forest",
+      "Tropical dry deciduous forest"
+    ],
+    "a": 1,
+    "e": "Tropical deciduous forests, also known as monsoon forests, cover the largest area across the Indian subcontinent."
+  },
+  {
+    "q": "Bioindicator of urban air quality measure is",
+    "o": [
+      "Algae",
+      "Lichens",
+      "Fungi",
+      "Mosses"
+    ],
+    "a": 1,
+    "e": "Lichens are extremely sensitive to atmospheric pollutants like sulfur dioxide, making them reliable bioindicators of urban air pollution."
+  },
+  {
+    "q": "Arrange the following global events in the correct chronological order: Agenda-21, Brundtland Report, Sustainable Development Goals, Stockholm Conference.",
+    "o": [
+      "Stockholm Conference, Brundtland Report, Agenda-21, Sustainable Development Goals",
+      "Sustainable Development Goals, Brundtland Report, Agenda-21, Stockholm Conference",
+      "Stockholm Conference, Agenda-21, Brundtland Report, Sustainable Development Goals",
+      "Agenda-21, Stockholm Conference, Brundtland Report, Sustainable Development Goals"
+    ],
+    "a": 0,
+    "e": "The Stockholm Conference occurred in 1972, the Brundtland Report in 1987, Agenda-21 in 1992, and the SDGs were adopted in 2015."
+  },
+  {
+    "q": "The two forms of taxes imposed upon the people during Shivaji's rule are Chauth and",
+    "o": [
+      "Sardeshmukhi",
+      "Hoon",
+      "Swarajya",
+      "Deshmukhi"
+    ],
+    "a": 0,
+    "e": "Chauth and Sardeshmukhi were the two principal taxes collected by the Maratha administration under Shivaji from territories outside and within their direct domain."
+  },
+  {
+    "q": "Choose the correct option in which the names of the Dewans of Mysore are arranged in proper chronological order.",
+    "o": [
+      "V.P. Madhava Rao, N. Madhava Rao, Visvesvaraya M., Mirza Ismail",
+      "N. Madhava Rao, V.P. Madhava Rao, Mirza Ismail, Visvesvaraya M.",
+      "V.P. Madhava Rao, Visvesvaraya M., Mirza Ismail, N. Madhava Rao",
+      "N. Madhava Rao, Visvesvaraya M., Mirza Ismail, V.P. Madhava Rao"
+    ],
+    "a": 2,
+    "e": "V.P. Madhava Rao served earlier, followed by Sir M. Visvesvaraya, Sir Mirza Ismail, and later N. Madhava Rao during the mid-20th century."
+  },
+  {
+    "q": "Who among the following commissioners was responsible for the starting of coffee plantation in Mysore and Coorg provinces?",
+    "o": [
+      "John Briggs",
+      "Lewin Bowring",
+      "Mark Cubbon",
+      "Richard Meade"
+    ],
+    "a": 2,
+    "e": "Sir Mark Cubbon, during his long tenure as commissioner of Mysore, played a pivotal role in encouraging commercial agriculture, including coffee plantations."
+  },
+  {
+    "q": "The Indian Statesman who said, 'Those who do not know History will be condemned to repeat it' was",
+    "o": [
+      "Romesh Chunder Dutt",
+      "Dr. B. R. Ambedkar",
+      "Radha Kumud Mukherjee",
+      "Jawaharlal Nehru"
+    ],
+    "a": 3,
+    "e": "Jawaharlal Nehru famously expressed this viewpoint regarding the importance of historical consciousness in governance and societal progress."
+  },
+  {
+    "q": "The English East India Company by 1616 had factories in Western India at",
+    "o": [
+      "Masulipatnam, Petapoli and Broach",
+      "Ahmedabad, Surat and Malabar",
+      "Petapoli, Masulipatnam and Malabar",
+      "Surat, Ahmedabad and Broach"
+    ],
+    "a": 3,
+    "e": "Surat served as the primary early hub, with trading factories expanding to nearby commercial centres like Ahmedabad and Broach during the early 17th century."
+  },
+  {
+    "q": "Identify the cities founded by Firoz Shah Tughlaq.",
+    "o": [
+      "Topra and Meerut",
+      "Fatehabad and Hisar",
+      "Panipat and Sikandra",
+      "Delhi and Lahore"
+    ],
+    "a": 1,
+    "e": "Firoz Shah Tughlaq was a prolific builder who established several new towns, notably Fatehabad and Hisar-e-Firozza."
+  },
+  {
+    "q": "Speed of Deepak and Vinod are in the ratio of 19:12 respectively. If speed of Vinod is 84 km/hr, then what will be the speed of Deepak?",
+    "o": [
+      "117 km/hr",
+      "133 km/hr",
+      "114 km/hr",
+      "126 km/hr"
+    ],
+    "a": 3,
+    "e": "Since Vinod's speed corresponds to 12 parts equal to 84 km/hr (1 part = 7 km/hr), Deepak's speed is 19 parts multiplied by 7, which equals 126 km/hr."
+  },
+  {
+    "q": "A bag has Rs. 785 in the denomination of Rs. 2, Rs. 5 and Rs. 10 coins. The coins are in the ratio of 6:9:10. How many coins of Rs. 5 are in the bag?",
+    "o": [
+      "12",
+      "60",
+      "45",
+      "24"
+    ],
+    "a": 2,
+    "e": "Let the coin counts be 6x, 9x, 10x. Total value is 2(6x) + 5(9x) + 10(10x) = 157x = 785, so x = 5. The number of Rs. 5 coins is 9 times 5, which is 45."
+  },
+  {
+    "q": "A person purchases a notebook from a supplier at Rs. 12 each for 30 notebooks. He sells those notebooks at Rs. 15 each for 20 notebooks and remaining notebooks for Rs. 37.50 each. Find his profit percent.",
+    "o": [
+      "76.4%",
+      "87.5%",
+      "79.2%",
+      "83.3%"
+    ],
+    "a": 1,
+    "e": "Total cost price is 30 * 12 = 360. Selling price is (20 * 15) + (10 * 37.50) = 300 + 375 = 675. Profit percentage is (315 / 360) * 100 = 87.5%."
+  },
+  {
+    "q": "The average expenditure of Raju for January to June is Rs. 8400 and he spends Rs. 2400 in January and Rs. 3000 in July. What is his average expenditure for the months of February to July?",
+    "o": [
+      "Rs. 8500",
+      "Rs. 7800",
+      "Rs. 8400",
+      "Rs. 6800"
+    ],
+    "a": 2,
+    "e": "Total expenditure from January to June is 6 * 8400 = 50400. Subtracting January and adding July gives the total for February to July as 50400 - 2400 + 3000 = 51000. Dividing by 6 gives 7800."
+  },
+  {
+    "q": "A person goes 40 Km North, turns right and goes 80 Km, turns right again and goes 30 Km. In the end, he turns right again and goes 80 Km. How far is he from his starting point if he goes straight ahead another 50 Km and turns left to his last 10 Km?",
+    "o": [
+      "40 Km",
+      "30 Km",
+      "50 Km",
+      "45 Km"
+    ],
+    "a": 2,
+    "e": "Tracking the net vertical and horizontal displacement step-by-step through successive turns results in a final direct straight-line distance of 50 Km."
+  },
+  {
+    "q": "A stadium with 4 exits can evacuate 100 people every 2 minutes through each exit. If a fire alert is raised when there are 6500 people and crowd panic sets in, after 32 minutes how many people are at the risk of stampede?",
+    "o": [
+      "200",
+      "100",
+      "250",
+      "150"
+    ],
+    "a": 1,
+    "e": "Each exit evacuates 50 people per minute. Across 4 exits, total evacuation rate is 200 people/min. In 32 minutes, 6400 people escape, leaving 100 people at risk."
+  },
+  {
+    "q": "Two pipes P and Q can fill a tank in 20 minutes and 25 minutes respectively. Both the pipes are opened together, but after 5 minutes, pipe Q is turned off. What is the total time required to fill the tank?",
+    "o": [
+      "11 minutes",
+      "15 minutes",
+      "5 minutes",
+      "16 minutes"
+    ],
+    "a": 3,
+    "e": "In 5 minutes, both pipes fill 5 * (1/20 + 1/25) = 9/20 of the tank. The remaining 11/20 is filled by pipe P alone taking (11/20) * 20 = 11 minutes, giving a total of 16 minutes."
+  },
+  {
+    "q": "Find the value of the infinite radical expression involving square roots of 12.",
+    "o": [
+      "-4",
+      "4",
+      "3",
+      "-3"
+    ],
+    "a": 2,
+    "e": "Let x equal the expression. Then x = sqrt(12 + x), leading to x^2 - x - 12 = 0, which factors into (x - 4)(x + 3) = 0, yielding the positive root 3."
+  },
+  {
+    "q": "What is 'Meghraj' related to?",
+    "o": [
+      "A GSLV satellite developed by ISRO for accurate weather forecasting in order to predict cloud burst and heavy rainfall events.",
+      "An initiative to provide ICT services via Cloud to all Government Departments at the Centre and States/UTs, promoting the cloud ecosystem nationwide",
+      "A technology developed by India Meteorological Department (IMD) for making artificial rainfall (cloud seeding) during severe drought periods.",
+      "An indigenously developed Inter Continental Ballistic Missile (ICBM) that can be launched from submarines."
+    ],
+    "a": 1,
+    "e": "GICloud, branded as Meghraj, is an initiative of the Indian government designed to accelerate the delivery of e-services while optimizing ICT spending across governments."
+  },
+  {
+    "q": "Consider the following statements related to 'Project Sea Bird' and choose the correct answer.",
+    "o": [
+      "It is a welfare project for the development of fishermen community in the coastal districts of Karnataka.",
+      "It is a project for the conservation of coral reefs in the Udupi district of Karnataka.",
+      "It is a project for the conservation of white-breasted sea eagle in Dakshina Kannada district which is at the verge of extinction.",
+      "It is a Naval Infrastructures project aimed at creation of a naval base at Karwar."
+    ],
+    "a": 3,
+    "e": "Project Seabird is a major infrastructure initiative by the Indian Navy to establish a large naval base at Karwar on the western coast."
+  },
+  {
+    "q": "The concept of 'Tragedy of the Commons' was first introduced by",
+    "o": [
+      "Garrett Hardin",
+      "Rachel Carson",
+      "Elinor Ostrom",
+      "Aldo Leopold"
+    ],
+    "a": 0,
+    "e": "Garrett Hardin popularized the economic concept of the tragedy of the commons in his 1968 paper published in the journal Science."
+  },
+  {
+    "q": "Expand KSIIDC",
+    "o": [
+      "Karnataka State Industrial and Infrastructure Development Corporation",
+      "Karnataka State Industrial and Income Development Company",
+      "Karnataka State Income and Infrastructure Distribution Corporation",
+      "Karnataka State Industrial and Infrastructure Distribution Company"
+    ],
+    "a": 0,
+    "e": "KSIIDC stands for Karnataka State Industrial and Infrastructure Development Corporation, a state government undertaking promoting industrial growth."
+  },
+  {
+    "q": "Doddabasavanna temple in Bengaluru was built by",
+    "o": [
+      "Kempe Gowda I",
+      "Kempe Gowda II",
+      "Dodda Veerappa Gowda",
+      "Jaya Gowda"
+    ],
+    "a": 1,
+    "e": "The famous Bull Temple housing the monolithic Nandi in Basavanagudi, Bengaluru, was constructed under the patronage of Kempe Gowda II."
+  },
+  {
+    "q": "Indian Economic Survey Report regarding Gini coefficient measures what aspect?",
+    "o": [
+      "It is a measure of inequality in sex ratio",
+      "It is a measure of inequality in consumption expenditure",
+      "It is a measure of inequality in urban and rural unemployment",
+      "It is a measure of inequality in Rural health centres among states"
+    ],
+    "a": 1,
+    "e": "The Gini coefficient is a standard statistical dispersion measure used to represent income or consumption expenditure inequality within a population."
+  },
+  {
+    "q": "While cooking, if the bottom of the vessel is getting blackened on the outside, it means that",
+    "o": [
+      "The food is not cooked completely",
+      "The fuel is burning completely",
+      "The fuel is not burning completely",
+      "The fuel is wet"
+    ],
+    "a": 2,
+    "e": "Soot deposition on cooking vessels indicates incomplete combustion of fuel, typically caused by restricted oxygen supply in the burner."
+  },
+  {
+    "q": "Royal solvent is used to dissolve noble metals like gold and platinum. Aqua regia is a mixture of",
+    "o": [
+      "Concentrated Hydrochloric acid and concentrated Nitric acid in the ratio 3:1",
+      "Concentrated Hydrochloric acid and concentrated Nitric acid in the ratio 1:3",
+      "Concentrated Sulphuric acid and concentrated Hydrochloric acid in the ratio 1:1",
+      "Concentrated Sulphuric acid and concentrated Nitric acid in the ratio 1:1"
+    ],
+    "a": 0,
+    "e": "Aqua regia is a highly corrosive, fuming yellow or red liquid prepared by mixing concentrated hydrochloric acid and concentrated nitric acid in a 3:1 volumetric ratio."
+  },
+  {
+    "q": "Insectivorous plants grow in swampy soils, which are deficient in",
+    "o": [
+      "Sulphur",
+      "Nitrogen",
+      "Potassium",
+      "Phosphorus"
+    ],
+    "a": 1,
+    "e": "Insectivorous plants supplement their nutritional intake by trapping insects because they typically inhabit waterlogged, acidic soils deficient in available nitrogen."
+  },
+  {
+    "q": "Which of the following is/are not the example of corrosion? (i) Silver left for few hours in air turns black (ii) Copper turning blue or green when exposed to air/H2O (iii) Iron turning brown when exposed to moisture (iv) White colour of anhydrous copper sulphate turns blue on exposing to water",
+    "o": [
+      "(i) and (iv)",
+      "(iv) only",
+      "(i), (ii) and (iii)",
+      "(i), (ii), (iii) and (iv)"
+    ],
+    "a": 1,
+    "e": "Hydration of anhydrous copper sulphate is a reversible physical/chemical hydration process, not an oxidative corrosion reaction like tarnishing or rusting."
+  },
+  {
+    "q": "The device used to test the electrical charge of a body is",
+    "o": [
+      "Periscope",
+      "Electron microscope",
+      "Electroscope",
+      "Kaleidoscope"
+    ],
+    "a": 2,
+    "e": "An electroscope is a classic scientific instrument used to detect the presence and magnitude of electric charge on a body."
+  },
+  {
+    "q": "An ice cube is floating on the surface of water in a vessel. If this ice cube completely melts, how will the water level be affected?",
+    "o": [
+      "Water level will go down",
+      "Water level will remain the same",
+      "Water level will be raised",
+      "Water level will first rise up, then it will go down"
+    ],
+    "a": 1,
+    "e": "According to Archimedes' principle, floating ice displaces a volume of water equal to its entire weight, so when it melts, the water level remains unchanged."
+  },
+  {
+    "q": "A hole is drilled in a copper plate. As the copper plate is heated uniformly, what happens to the size of the hole?",
+    "o": [
+      "The size of the hole decreases",
+      "The size of the hole does not change",
+      "The size of the hole will increase only if the hole is circular",
+      "The size of the hole increases"
+    ],
+    "a": 3,
+    "e": "Thermal expansion causes all linear dimensions of an object, including empty spaces or holes within a plate, to expand outward, increasing the hole size."
+  },
+  {
+    "q": "Which of the following waves are used in Electrocardiography (ECG)?",
+    "o": [
+      "Ultrasonic waves",
+      "Infrasound waves",
+      "X-rays",
+      "Electrical signals from the heart"
+    ],
+    "a": 3,
+    "e": "An ECG records the electrical impulses generated by the heart muscle during each heartbeat rather than external acoustic or electromagnetic wave scans."
+  },
+  {
+    "q": "Expand KSTEPS",
+    "o": [
+      "Karnataka Science and Technology Papers Society",
+      "Karnataka State Technology Promotion Society",
+      "Karnataka Science and Technology Promoters Society",
+      "Karnataka Science and Technology Promotion Society"
+    ],
+    "a": 3,
+    "e": "KSTEPS stands for Karnataka Science and Technology Promotion Society, functioning under the Department of IT, BT, and S&T of the Government of Karnataka."
+  }
+]
