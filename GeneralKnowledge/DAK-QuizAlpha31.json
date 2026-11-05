@@ -1,0 +1,602 @@
+[
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಚಳುವಳಿಯು ಉಪ್ಪಿನ ಕಾನೂನನ್ನು ಮುರಿಯುವುದರೊಂದಿಗೆ ಪ್ರಾರಂಭವಾಯಿತು?",
+    "o": ["ಅಸಹಕಾರ ಚಳುವಳಿ", "ನಾಗರಿಕ ಅಸಹಕಾರ ಚಳುವಳಿ", "ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ ಚಳುವಳಿ", "ಹೋಮ್ ರೂල් ಚಳುವಳಿ"],
+    "a": 1,
+    "e": "Mahatma Gandhi launched the Salt March to Dandi, which marked the beginning of this mass civil disobedience movement against the salt tax."
+  },
+  {
+    "q": "ಕೆಳಗಿನ ಯಾವ ಒಪ್ಪಂದಗಳ ಅಡಿಯಲ್ಲಿ, ರಾಬರ್ಟ್ ಮೊಘಲ್ ಚಕ್ರವರ್ತಿ ಶಾ ಆಲಂನಿಂದ ಬಂಗಾಳ, ಬಿಹಾರ ಮತ್ತು ಒಡಿಶಾದ ದಿವಾನಿಯ ಅನುದಾನವನ್ನು ಪಡೆದುಕೊಂಡನು?",
+    "o": ["ಅಲಹಾಬಾದ್ ಒಪ್ಪಂದ", "ಬಕ್ಸರ್ ಒಪ್ಪಂದ", "ಬಸ್ಸೇನ್ ಒಪ್ಪಂದ", "ಸುಗೌಲಿ ಒಪ್ಪಂದ"],
+    "a": 0,
+    "e": "This treaty was signed in 1765 following the Battle of Buxar, granting the East India Company the right to collect taxes in Bengal, Bihar, and Orissa."
+  },
+  {
+    "q": "ಡಚ್ಚರಿಂದ ಮೊದಲ ಕಾರ್ಖಾನೆಯನ್ನು ಈ ಕೆಳಗಿನ ಯಾವ ಸ್ಥಳದಲ್ಲಿ ಸ್ಥಾಪಿಸಲಾಯಿತು?",
+    "o": ["ಸೂರತ್", "ಮಚಲಿಪಟ್ಟಣಂ", "ನೆಗಪಟ್ಟಣಂ", "ಪುಲಿಕಾಟ್"],
+    "a": 1,
+    "e": "The Dutch East India Company established their first factory in India at Masulipatnam in 1605."
+  },
+  {
+    "q": "ಫೆಬ್ರವರಿ 3, 1882 ರಂದು, ಭಾರತದ ಬ್ರಿಟಿಷ್ ಸರ್ಕಾರವು ಭಾರತೀಯ ಶಿಕ್ಷಣ ಆಯೋಗವನ್ನು ನೇಮಿಸಿತು. ಈ ಕೆಳಗಿನವರಲ್ಲಿ ಯಾರು ಈ ಆಯೋಗದ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದರು?",
+    "o": ["H.P ಜಾಕೋಬ್", "C ಪಿಯರ್ಸನ್", "G.E", "W.W"],
+    "a": 3,
+    "e": "Sir William Wilson Hunter headed the commission appointed to review the progress of education in India since the Despatch of 1854."
+  },
+  {
+    "q": "ಕಾನ್ಸುರದಲ್ಲಿ 1857 ರ ದಂಗೆಯನ್ನು ಈ ಕೆಳಗಿನ ನಾಯಕರಲ್ಲಿ ಯಾರು ಮುನ್ನಡೆಸಿದರು?",
+    "o": ["ನಾನಾ ಸಾಹಬ್", "ತಾಂತಿಯಾ ಟೋಪೆ", "ಅಜೀಮುಲ್ಲಾ ಖಾನ್", "ಮೇಲಿನ ಎಲ್ಲರೂ"],
+    "a": 3,
+    "e": "The rebellion at Kanpur was led by Nana Sahib, supported by commanders like Tantia Tope and Azimullah Khan."
+  },
+  {
+    "q": "ಸ್ವತಂತ್ರ ಭಾರತದ ಮೊದಲ ಮತ್ತು ಕೊನೆಯ ಭಾರತೀಯ ಗವರ್ನರ್ ಜನರಲ್ ಯಾರು?",
+    "o": ["ಲಾರ್ಡ್ ವೇವೆಲ್", "ಬಾಬು ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್", "ರಾಜಗೋಪಾಲಾಚಾರಿ", "ಲಾರ್ಡ್ ಮೌಂಟ್‌ ಬ್ಯಾಟನ್"],
+    "a": 2,
+    "e": "C. Rajagopalachari served as the last Governor-General of India before the office was abolished in 1950."
+  },
+  {
+    "q": "1833 ರ ಚಾರ್ಟರ್ ಆಕ್ಟ್ ಅನ್ನು ಅಂಗೀಕರಿಸಿದಾಗ ಭಾರತದ ಗವರ್ನರ್ ಜನರಲ್ ಯಾರು?",
+    "o": ["ಲಾರ್ಡ್ ವೆಲ್ಲೆಸ್ಸಿ", "ಲಾರ್ಡ್ ಹೇಸ್ಟಿಂಗ್ಸ್", "ಲಾರ್ಡ್ ಮಿಂಟೋ I", "ಲಾರ್ಡ್ ವಿಲಿಯಂ ಬೆಂಟಿಂಕ್"],
+    "a": 3,
+    "e": "Lord William Bentinck was appointed the first Governor-General of British India under the Charter Act of 1833."
+  },
+  {
+    "q": "ಕೆಳಗಿನ ಯಾವ ಒಪ್ಪಂದಗಳ ಹೊಂದಾಣಿಕೆಗಳು ಅವುಗಳ ಸಂಬಂಧಿತ ವರ್ಷಗಳೊಂದಿಗೆ ಸರಿಯಾಗಿವೆ?\n1. ಸೂರತ್ ಒಪ್ಪಂದ- 1775\n2. ಪುರಂದರ ಒಪ್ಪಂದ- 1776\n3. ವಾರ್ಗಾಂವ್ ಒಪ್ಪಂದ- 1779\n4. ಸಲ್ಪಾಯಿ ಒಪ್ಪಂದ- 1782",
+    "o": ["1 ಮಾತ್ರ", "1 & 4", "1, 3 & 4", "1, 2, 3 & 4"],
+    "a": 3,
+    "e": "All listed Anglo-Maratha treaties and conventions are correctly matched with their respective historical years."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ವೈಸರಾಯ್ ಕಾಲದಲ್ಲಿ ಐಚಿಸನ್ ಆಯೋಗವನ್ನು (ಸಾರ್ವಜನಿಕ ಸೇವಾ ಆಯೋಗ) ಸ್ಥಾಪಿಸಲಾಯಿತು?",
+    "o": ["ಲಾರ್ಡ್ ರಿಪನ್", "ಲಾರ್ಡ್ ಡಫರಿನ್", "ಲಾರ್ಡ್ ಎಲ್ವಿನ್ II", "ಲಾರ್ಡ್ ಲಾರೆನ್ಸ್"],
+    "a": 1,
+    "e": "The Public Service Commission headed by Sir Charles Aitchison was set up during the viceroyalty of Lord Dufferin."
+  },
+  {
+    "q": "INC ಯ ಈ ಕೆಳಗಿನ ಯಾವ ಅಧಿವೇಶನದಲ್ಲಿ ಜವಾಹರಲಾಲ್ ನೆಹರು ಅವರು ಗಾಂಧೀಜಿಯವರನ್ನು ಮೊದಲ ಬಾರಿಗೆ ಭೇಟಿಯಾದರು?",
+    "o": ["ಬಾಂಬೆ ಅಧಿವೇಶನ 1904", "ಪಾಟ್ನಾ ಅಧಿವೇಶನ 1914", "ಲಕ್ಷ್ಮೀ ಅಧಿವೇಶನ 1916", "ಕಾನ್ಸುರ ಅಧಿವೇಶನ 1925"],
+    "a": 2,
+    "e": "Jawaharlal Nehru first met Mahatma Gandhi during the historic Lucknow session of the Indian National Congress."
+  },
+  {
+    "q": "ಲಾರ್ಡ್ ಡಫರಿನ್ ವೈಸರಾಯ್ ಆಗಿ ಅಧಿಕಾರಾವಧಿಯಲ್ಲಿ ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಪ್ರಮುಖ ಘಟನೆಯಾಗಿದೆ?",
+    "o": ["ರಾಮಕೃಷ್ಣ ಮಿಷನ್ ಸ್ಥಾಪನೆ", "ಢಾಕಾದಲ್ಲಿ ಮುಸ್ಲಿಂ ಲೀಗ್ ಸ್ಥಾಪನೆ", "ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್ ಸ್ಥಾಪನೆ", "ಮೊದಲ ಜನಗಣತಿಯ ಪ್ರಾರಂಭ"],
+    "a": 2,
+    "e": "The Indian National Congress was founded in 1885 during the tenure of Lord Dufferin as Viceroy."
+  },
+  {
+    "q": "ವಸಾಹತುಶಾಹಿ ಭಾರತದಲ್ಲಿ ಭಾರತೀಯ ವಿಧವೆಯರಿಗಾಗಿ ಶಾರದಾ ಸದನವನ್ನು ಸ್ಥಾಪಿಸಿದವರು ಯಾರು?",
+    "o": ["ಪಂಡಿತಾ ರಮಾಬಾಯಿ", "ಸರೋಜಿನಿ ನಾಯ್ಡು", "ಮಹಾದೇವ ಗೋವಿಂದ ರಾನಡೆ", "ದಯಾನಂದ ಸರಸ್ವತಿ"],
+    "a": 0,
+    "e": "Pandita Ramabai established Sharda Sadan as a refuge and educational home for destitute upper-caste widows."
+  },
+  {
+    "q": "ಅಲಿಘರ್ ಚಳುವಳಿಯನ್ನು ಪ್ರಾರಂಭಿಸಲಾಯಿತು:",
+    "o": ["ಸೈಯದ್ ಅಹ್ಮದ್ ಖಾನ್", "ಡಾ. ಮನ್ಸೂರ್ ಅಹ್ಮದ್ ಅಜಾಜಿ", "ಮುಹಮ್ಮದ್ ಅಲಿ ಜಿನ್ನಾ", "ಮೌಲಾನಾ ಮಂಜೂರ್ ಅಕ್ಸನ್"],
+    "a": 0,
+    "e": "Sir Syed Ahmed Khan founded the Aligarh movement to promote modern education and social reform among Muslims."
+  },
+  {
+    "q": "ಕೆಳಗಿನ ಯಾವ ಪತ್ರಿಕೆಯ ಜೋಡಿಯು ತಪ್ಪಾಗಿ ಹೋಲಿಕೆಯಾಗಿದೆ?",
+    "o": ["Comrade-Mohammed Ali", "Young India-Lala Lajpat Rai", "Indian Sociologist-Lala Har Dayal", "Common Weal-Annie Besant"],
+    "a": 2,
+    "e": "The Indian Sociologist was founded by Shyamji Krishna Varma in London, not Lala Har Dayal."
+  },
+  {
+    "q": "ಆಧುನಿಕ ಭಾರತದಲ್ಲಿ ಸ್ಥಳೀಯ ಸ್ವ-ಸರ್ಕಾರದ ಪ್ರವರ್ತಕ ಎಂದು ಸಾಮಾನ್ಯವಾಗಿ ಯಾರನ್ನು ಗುರುತಿಸಲಾಗುತ್ತದೆ?",
+    "o": ["ಲಾರ್ಡ್ ಮೇಯೊ", "ಲಾರ್ಡ್ ಲಿಟ್ಟನ್", "ಲಾರ್ಡ್ ಕರ್ಜನ್", "ಲಾರ್ಡ್ ರಿಪ್ಪನ್"],
+    "a": 3,
+    "e": "Lord Ripon's resolution on local self-government in 1882 laid the foundation of local municipal governance in India."
+  },
+  {
+    "q": "ಯಾರ ವೈಸ್‌ರಾಯ್ ಕಾಲದಲ್ಲಿ ಜೂನ್ ಮೂರನೇ ಯೋಜನೆಯನ್ನು ಪರಿಚಯಿಸಲಾಯಿತು?",
+    "o": ["ಲಾರ್ಡ್ ವಿಲಿಂಗ್ಟನ್", "ಲಾರ್ಡ್ ಮೌಂಟ್ ಬ್ಯಾಟನ್", "ಲಾರ್ಡ್ ವೇವೆಲ್", "ಲಾರ್ಡ್ ಇರ್ವಿನ್"],
+    "a": 1,
+    "e": "The Mountbatten Plan, also known as the June 3rd Plan, outlined the procedure for the partition and independence of India."
+  },
+  {
+    "q": "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್ ಅವರು ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್ ಅಧ್ಯಕ್ಷರಾಗಿ ಆಯ್ಕೆಯಾದ ವರ್ಷ?",
+    "o": ["1936", "1937", "1938", "1939"],
+    "a": 2,
+    "e": "Subhas Chandra Bose was elected as the Congress president at the Haripura session held in 1938."
+  },
+  {
+    "q": "ಕೆಳಗಿನ ಕಾಂಗ್ರೆಸ್ ಅಧ್ಯಕ್ಷರನ್ನು ಅವರು ಕಾಂಗ್ರೆಸ್‌ಗೆ ಸೇವೆ ಸಲ್ಲಿಸಿದ ಕ್ರಮದಲ್ಲಿ ವ್ಯವಸ್ಥೆ ಮಾಡಿ:\n1. WC ಬ್ಯಾನರ್ಜಿ\n2. ಸೈಯದ್ ಬದ್ರುದ್ದೀನ್ ತ್ಯಾಬ್ರಿ\n3.ದಾದಾಭಾಯಿ ನವರೋಜಿ",
+    "o": ["1, 2, 3", "2, 1, 3", "3, 1, 2", "1, 3, 2"],
+    "a": 3,
+    "e": "W.C. Bonnerjee presided in 1885, Dadabhai Naoroji in 1886, and Badruddin Tyabji in 1887."
+  },
+  {
+    "q": "1857 ರ ದಂಗೆಯನ್ನು ಉಲ್ಲೇಖಿಸಿ, ಲಕ್ನೋ ನಾಯಕ ಯಾರು?",
+    "o": ["ಜನರಲ್ ಬಬ್ ಖಾನ್", "ನಾನಾ ಸಾಹೇಬ್", "ಬೇಗಂ ಹಜರತ್ ಮಹಲ್", "ಕುನ್ವ‌ರ್ ಸಿಂಗ್"],
+    "a": 2,
+    "e": "Begum Hazrat Mahal led the 1857 revolt and uprising from Lucknow on behalf of her minor son."
+  },
+  {
+    "q": "ಕಛೇರಿಯಲ್ಲಿ ಹತ್ಯೆಯಾದ ಭಾರತದ ಏಕೈಕ ವೈಸರಾಯ್?",
+    "o": ["ಲಾರ್ಡ್ ಲಿಟ್ಟನ್", "ಲಾರ್ಡ್ ಮೇಯೊ", "ಲಾರ್ಡ್ ಲ್ಯಾನ್ಸ್‌ಡೌನ್", "ಲಾರ್ಡ್ ನಾರ್ತ್‌ಬ್ರೂಕ್"],
+    "a": 1,
+    "e": "Lord Mayo was assassinated by a convict during his official visit to the Andaman and Nicobar Islands in 1872."
+  },
+  {
+    "q": "ವೆರ್ನಾಕ್ಯುಲರ್ ಪ್ರೆಸ್ ಆಕ್ಟ್, 1878 ಅನ್ನು ಯಾರು ಜಾರಿಗೆ ತಂದರು?",
+    "o": ["ಲಾರ್ಡ್ ರಿಪನ್", "ಲಾರ್ಡ್ ಕರ್ಕಾನ್", "ಲಾರ್ಡ್ ಲಿಟ್ಟನ್", "ಲಾರ್ಡ್ ಚೆಲ್ಡ್ ಫೋರ್ಡ್"],
+    "a": 2,
+    "e": "Lord Lytton enacted the Vernacular Press Act to curtail the freedom of the Indian-language press."
+  },
+  {
+    "q": "ಭಾರತೀಯ ವಿಶ್ವವಿದ್ಯಾಲಯ ಕಾಯಿದೆ, 1904 ಅನ್ನು ಅಂಗೀಕರಿಸಿದಾಗ ಭಾರತದ ವೈಸ್‌ರಾಯ್ ಯಾರು?",
+    "o": ["ಲಾರ್ಡ್ ಲ್ಯಾನ್ಸ್‌ಡೌನ್", "ಲಾರ್ಡ್ ಕರ್ಜನ್", "ಲಾರ್ಡ್ ಚೆಲ್ಸ್ ಫೋರ್ಡ್", "ಲಾರ್ಡ್ ರಿಪನ್"],
+    "a": 1,
+    "e": "Lord Curzon introduced stricter government control over universities through the Indian Universities Act of 1904."
+  },
+  {
+    "q": "ಕೆಳಗಿನವರಲ್ಲಿ ಯಾರು ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್‌ನ ಅಧ್ಯಕ್ಷರಾಗಿರಲಿಲ್ಲ?",
+    "o": ["ಸರ್ದಾರ್ ವಲ್ಲಭಭಾಯಿ ಪಟೇಲ್", "ಬಾಲಗಂಗಾಧರ ತಿಲಕ್", "ಗೋಪಾಲಕೃಷ್ಣ ಗೋಖಲೆ", "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್"],
+    "a": 1,
+    "e": "Bal Gangadhar Tilak was a prominent extremist leader but never held the office of Congress president."
+  },
+  {
+    "q": "\"ಕಾಂಗ್ರೆಸ್ ತನ್ನ ಪತನಕ್ಕೆ ತತ್ತರಿಸುತ್ತಿದೆ ಮತ್ತು ಭಾರತದಲ್ಲಿ ಶಾಂತಿಯುತವಾಗಿ ಅಂತ್ಯಗೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುವುದು ನನ್ನ ದೊಡ್ಡ ಮಹತ್ವಾಕಾಂಕ್ಷೆಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ.\" ಈ ಹೇಳಿಕೆ ನೀಡಿದವರು ಯಾರು?",
+    "o": ["ಅರಬಿಂದೋ ಘೋಷ್", "ಲಾರ್ಡ್ ಡಫರಿನ್", "ಲಾರ್ಡ್ ಲಿಟ್ಟನ್", "ಲಾರ್ಡ್ ಕರ್ಜನ್"],
+    "a": 3,
+    "e": "Lord Curzon expressed his desire to assist in the peaceful demise of the Indian National Congress."
+  },
+  {
+    "q": "ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿಯ ಸಂದರ್ಭದಲ್ಲಿ ಕೇಸರಿ ಮತ್ತು ಮರಾಠಾ ಪತ್ರಿಕೆಗಳನ್ನು ಯಾರು ಪ್ರಕಟಿಸಿದರು?",
+    "o": ["ಬಾಲಗಂಗಾಧರ ತಿಲಕ್", "ಮಹಾತ್ಮ ಗಾಂಧಿ", "ಬಿಪಿನ್ ಚಂದ್ರ ಪಾಲ್", "ಶ್ರೀ ಅರಬಿಂದೋ ಘೋಷ್"],
+    "a": 0,
+    "e": "Lokmanya Tilak used his newspapers Kesari and Mahratta to propagate nationalist ideas and mobilize public opinion."
+  },
+  {
+    "q": "ಕಾಂಗ್ರೆಸ್ ಬಗ್ಗೆ ಈ ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳಲ್ಲಿ ಯಾವುದು ಸರಿಯಾಗಿದೆ/ವೆ?\n1) INC ಯ ಮೊದಲ ಅಧಿವೇಶನವು ಬಾಂಬೆಯ ಗಕುಲದಾಸ್ ತೇಜ್ವಾಲ್ ಸಂಸ್ಕೃತ ಕಾಲೇಜಿನಲ್ಲಿ ನಡೆಯಿತು.\n2) INC ಯ ಮೊದಲ ಅಧಿವೇಶನದ ಅಧ್ಯಕ್ಷತೆಯನ್ನು ದಾದಾಭಾಯಿ ನವರೋಜಿ ವಹಿಸಿದ್ದರು.\n3) ಮೊದಲ ಅಧಿವೇಶನದಲ್ಲಿ ಪ್ರತಿನಿಧಿಗಳು ಭಾಗವಹಿಸಿದ್ದರು.",
+    "o": ["1 ಮತ್ತು 2", "ಕೇವಲ 1", "1 ಮತ್ತು 3", "1, 2 ಮತ್ತು 3"],
+    "a": 2,
+    "e": "The first session was held at Gokuldas Tejpal Sanskrit College in Bombay with W.C. Bonnerjee as president."
+  },
+  {
+    "q": "ಅಖಿಲ ಭಾರತ ಮುಸ್ಲಿಂ ಲೀಗ್ ಯಾವ ವರ್ಷದಲ್ಲಿ ಸ್ಥಾಪಿಸಲಾಯಿತು?",
+    "o": ["1902", "1906", "1915", "1920"],
+    "a": 1,
+    "e": "The All-India Muslim League was founded in Dhaka in December 1906 to safeguard Muslim political rights."
+  },
+  {
+    "q": "ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್‌ನ ಮೊದಲ ಪ್ರಧಾನ ಕಾರ್ಯದರ್ಶಿ ಯಾರು?",
+    "o": ["ಗೋಪಾಲಕೃಷ್ಣ ಗೋಖಲೆ", "ದಾದಾಭಾಯಿ ನೌರೋಜಿ", "ಅಲನ್ ಆಕ್ಟೇವಿಯನ್ ಡ್ಯೂಮ್", "ಜಾರ್ಜ್ ಯೂಲ್"],
+    "a": 2,
+    "e": "Allan Octavian Hume played a key role in founding the Congress and served as its first general secretary."
+  },
+  {
+    "q": "ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್‌ ಅಧ್ಯಕ್ಷರಾದ ಮೊದಲ ಭಾರತೀಯ ಮಹಿಳೆ ಯಾರು?",
+    "o": ["ಸರೋಜಿನಿ ನಾಯ್ಡು", "ಅನ್ನಿ ಬೀಸಂಟ್", "ಅರುಣಾ ಅಸಫ್ ಅಲಿ", "ಕಸ್ತೂರಿಬಾ ಗಾಂಧಿ"],
+    "a": 0,
+    "e": "Sarojini Naidu became the first Indian woman president of the Congress at the Kanpur session in 1925."
+  },
+  {
+    "q": "ಮುಸ್ಲಿಂ ಲೀಗ್‌ನ ಲಾಹೋರ್ ಅಧಿವೇಶನದ ಅಧ್ಯಕ್ಷತೆ ವಹಿಸಿದವರು ಯಾರು?",
+    "o": ["ಲಿಯಾಕತ್ ಅಲಿ", "ಮುಹಮ್ಮದ್ ಇಟ್ಬಾಲ್", "ಸರ್ ಸೈಯದ್ ಅಹ್ಮದ್ ಖಾನ್", "ಮುಹಮ್ಮದ್ ಅಲಿ ಜಿನ್ನಾ"],
+    "a": 3,
+    "e": "Muhammad Ali Jinnah presided over the 1940 Lahore session where the Pakistan Resolution was formally passed."
+  },
+  {
+    "q": "ಅಖಿಲ ಭಾರತ ಮುಸ್ಲಿಂ ಲೀಗ್ ಸ್ಥಾಪಕರು ಯಾರು?",
+    "o": ["ಮುಹಮ್ಮದ್ ಅಲಿ ಜಿನ್ನಾ", "ನವಾಬ್ ಸಲೀಮುಲ್ಲಾ ಹಾಗೂ ಆಗಾ ಖಾನ್", "ಮೌಲಾನಾ ಆಜಾದ್", "ಲಿಯಾಕತ್ ಅಲಿ ಖಾನ್"],
+    "a": 1,
+    "e": "Nawab Salimullah of Dhaka and Aga Khan III were among the primary founders of the Muslim League."
+  },
+  {
+    "q": "ಭಾರತದಲ್ಲಿ ತೀವ್ರಗಾಮಿ ಚಳವಳಿಯ ಪಿತಾಮಹ?",
+    "o": ["ಮೋತಿಲಾಲ್ ನೆಹರು", "ವಲ್ಲಭಭಾಯಿ ಪಟೇಲ್", "ಬಾಲಗಂಗಾಧರ ತಿಲಕ್", "ಗೋಪಾಲಕೃಷ್ಣ ಗೋಖಲೆ"],
+    "a": 2,
+    "e": "Bal Gangadhar Tilak is regarded as the father of the extremist movement in Indian nationalism."
+  },
+  {
+    "q": "'ವಂದೇ ಮಾತರಂ' ಪತ್ರಿಕೆಯನ್ನು ಯಾರು ಪ್ರಾರಂಭಿಸಿದರು?",
+    "o": ["ಬಿಪಿನ್ ಚಂದ್ರ ಪಾಲ್", "ಅರಬಿಂದೋ ಘೋಷ್", "ಲಾಲಾ ಲಜಪತ್ ರಾಯ್", "ಬಂಕಿಮ್ ಚಂದ್ರ ಚಟರ್ಜಿ"],
+    "a": 3,
+    "e": "Bankim Chandra Chatterjee authored Vande Mataram, which later became the nationalist anthem of India."
+  },
+  {
+    "q": "ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್‌ನ ಈ ಕೆಳಗಿನ ಯಾವ ಅಧಿವೇಶನದಲ್ಲಿ ಸ್ವದೇಶಿ ನಿರ್ಣಯವನ್ನು ಅಂಗೀಕರಿಸಲಾಯಿತು?",
+    "o": ["ಬನಾರಸ್‌ ಅಧಿವೇಶನ, 1905", "ಕಲ್ಕತ್ತಾ ಅಧಿವೇಶನ, 1906", "ಸೂರತ್ ಅಧಿವೇಶನ, 1907", "ಲಾಹೋರ್ ಅಧಿವೇಶನ, 1929"],
+    "a": 0,
+    "e": "The Swadeshi resolution was formally taken up during the Banaras session of the Congress in 1905."
+  },
+  {
+    "q": "1915 ರಲ್ಲಿ ಹಿಂದೂ ಮಹಾಸಭಾವನ್ನು ಸ್ಥಾಪಿಸಿದವರು ಯಾರು?",
+    "o": ["ವಿ.ಡಿ ಸಾವರ್ಕರ್", "ಬಿ ಜಿ ತಿಲಕ್", "ಮದನ್ ಮೋಹನ್ ಮಾಳವೀಯ", "ಅರಬಿಂದೋ ಘೋಷ್"],
+    "a": 2,
+    "e": "Madan Mohan Malaviya played a leading role in the foundation of the All-India Hindu Mahasabha in 1915."
+  },
+  {
+    "q": "ಸ್ವದೇಶಿ ಚಳವಳಿಯ ಪ್ರಾರಂಭಕ್ಕೆ ತಕ್ಷಣದ ಕಾರಣವೇನು?",
+    "o": ["ಲಾರ್ಡ್ ಕರ್ಜನ್ ಮಾಡಿದ ಬಂಗಾಳದ ವಿಭಜನೆ", "ಲೋಕಮಾನ್ಯ ತಿಲಕರಿಗೆ ವಿಧಿಸಲಾದ ಜೈಲು ಶಿಕ್ಷೆ", "ಲಾಲಾ ಲಜಪತ್ ರಾಯ್ ಬಂಧನ", "ಚಾಫೇಕರ್ ಸಹೋದರರಿಗೆ ಮರಣದಂಡನೆ"],
+    "a": 0,
+    "e": "The Partition of Bengal announced by Lord Curzon served as the immediate trigger for the Swadeshi movement."
+  },
+  {
+    "q": "1907 ರ ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್‌ನ ಪ್ರಸಿದ್ಧ ಸೂರತ್ ಅಧಿವೇಶನದ ಅಧ್ಯಕ್ಷತೆ ವಹಿಸಿದವರು ಯಾರು?",
+    "o": ["ಆರ್. ಸಿ ದತ್", "ಲಾಲಾ ಲಜಪತ್ ರಾಯ್", "ರಾಸ್ ಬಿಹಾರಿ ಘೋಷ್", "ಆರ್.ಡಿ ಮಜುಂದರ್"],
+    "a": 2,
+    "e": "Ras Bihari Ghosh presided over the Surat session where the Congress split into Moderates and Extremists."
+  },
+  {
+    "q": "ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ ಚಳುವಳಿಯ ಸಮಯದಲ್ಲಿ ಉರ್ದು ಭಾಷೆಯ ಪತ್ರಿಕೆ 'ಅಲ್-ಹಿಲಾಲ್' ಅನ್ನು ಯಾರು ಪ್ರಕಟಿಸಿದರು?",
+    "o": ["ಅಬುಲ್ ಕಲಾಂ ಆಜಾದ್", "ಖಾನ್ ಅಬ್ದುಲ್ ಗಫರ್ ಖಾನ್", "ಜಾಕಿರ್ ಹುಸೇನ್", "ಮುಹಮ್ಮದ್ ಇಟ್ಬಾಲ್"],
+    "a": 0,
+    "e": "Maulana Abul Kalam Azad published Al-Hilal to promote nationalist ideas among Urdu readers."
+  },
+  {
+    "q": "ಅನ್ನಿ ಬೀಸೆಂಟ್ ಯಾವ ವರ್ಷದಲ್ಲಿ ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್‌ನ ಮೊದಲ ಮಹಿಳಾ ಅಧ್ಯಕ್ಷರಾದರು?",
+    "o": ["1916", "1917", "1918", "1915"],
+    "a": 1,
+    "e": "Annie Besant was elected as the president of the Calcutta session of the Congress in 1917."
+  },
+  {
+    "q": "ಲಕ್ನೋ ಒಪ್ಪಂದವು ಯಾವ ವರ್ಷದಲ್ಲಿ ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್ ಮತ್ತು ಅಖಿಲ ಭಾರತ ಮುಸ್ಲಿಂ ಲೀಗ್ ನಡುವೆ ಒಪ್ಪಂದವಾಗಿತ್ತು?",
+    "o": ["1916", "1915", "1907", "1920"],
+    "a": 0,
+    "e": "The Lucknow Pact of 1916 brought about an agreement between the Congress and the Muslim League."
+  },
+  {
+    "q": "INC ಯ 1916 ರ ಲಕ್ನೋ ಅಧಿವೇಶನದಲ್ಲಿ ತೀವ್ರಗಾಮಿಗಳು ಮತ್ತು ಮಂದಗಾಮಿಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸುವಲ್ಲಿ ನಿರ್ಣಾಯಕ ಪಾತ್ರ ವಹಿಸಿದವರು ಯಾರು?",
+    "o": ["ಮಹಾತ್ಮ ಗಾಂಧಿ", "ಬಾಲಗಂಗಾಧರ ತಿಲಕ್", "ಗೋಪಾಲಕೃಷ್ಣ ಗೋಖಲೆ", "ಆನಿ ಬೀಸೆಂಟ್"],
+    "a": 3,
+    "e": "Annie Besant and Bal Gangadhar Tilak were instrumental in reuniting the political factions at Lucknow."
+  },
+  {
+    "q": "ಗಾಂಧಿ-ಇರ್ವಿನ್ ಒಪ್ಪಂದಕ್ಕೆ ಯಾವಾಗ ಸಹಿ ಹಾಕಲಾಯಿತು?",
+    "o": ["ಮಾರ್ಚ್ 5, 1930", "ಮಾರ್ಚ್ 12, 1930", "ಮಾರ್ಚ್ 3, 1932", "ಮಾರ್ಚ್ 5, 1931"],
+    "a": 3,
+    "e": "The Gandhi-Irwin Pact was concluded on March 5, 1931, leading to the suspension of the Civil Disobedience Movement."
+  },
+  {
+    "q": "ಗಾಂಧಿಯನ್ನು 'ಅರೆಬೆತ್ತಲೆ ಸಂತ' ಎಂದು ಕರೆದವರು ಯಾರು?",
+    "o": ["ಲಾರ್ಡ್ ಇರ್ವಿನ್", "ಲಾರ್ಡ್ ಚೆಲ್ಸ್ ಫೋರ್ಡ್", "ವಿನ್‌ಸ್ಟನ್‌ ಚರ್ಚಿಲ್", "ರಿಚರ್ಡ್ ಅಲ್ಲೇ"],
+    "a": 2,
+    "e": "Winston Churchill famously derided Mahatma Gandhi as a seditious Middle Temple lawyer now posing as a half-naked fakir."
+  },
+  {
+    "q": "1931 ರಲ್ಲಿ ಕರಾಚಿಯ ಕಾಂಗ್ರೆಸ್ ಅಧಿವೇಶನಕ್ಕಾಗಿ ಮೂಲಭೂತ ಹಕ್ಕುಗಳ ನಿರ್ಣಯವನ್ನು ಯಾರು ರಚಿಸಿದರು?",
+    "o": ["ಡಾ. ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕರ್", "ಪಂಡಿತ್ ಜವಾಹರಲಾಲ್ ನೆಹರು", "ಡಾ. ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್", "ಸರ್ದಾರ್ ವಲ್ಲಭಭಾಯಿ ಪಟೇಲ್"],
+    "a": 1,
+    "e": "Jawaharlal Nehru drafted the historic resolution on fundamental rights and national economic policy for the Karachi session."
+  },
+  {
+    "q": "ಯಾವ ಒಪ್ಪಂದವು ಖಿನ್ನತೆಗೆ ಒಳಗಾದ ವರ್ಗಗಳಿಗೆ ಪ್ರತ್ಯೇಕ ಮತದಾರರನ್ನು ಕೈಬಿಟ್ಟಿದೆ?",
+    "o": ["ಗಾಂಧಿ-ಇರ್ವಿನ್ ಒಪ್ಪಂದ", "ದೆಹಲಿ ಒಪ್ಪಂದ", "ಲಕ್ನೋ ಒಪ್ಪಂದ", "ಪೂನಾ ಒಪ್ಪಂದ"],
+    "a": 3,
+    "e": "The Poona Pact of 1932 replaced separate electorates for depressed classes with reserved seats in joint electorates."
+  },
+  {
+    "q": "ವಾಯುವ್ಯ ಫ್ರಾಂಟಿಯರ್ ಪ್ರದೇಶದಲ್ಲಿ ನಾಗರಿಕ ಅಸಹಕಾರ ಚಳುವಳಿಯನ್ನು ಯಾವ ಸಂಘವು ಮುನ್ನಡೆಸಿತು?",
+    "o": ["Anushilan Samiti", "Khudai Khidmatgars", "Naujawan Bharat Sabha", "Ghadr Party"],
+    "a": 1,
+    "e": "Khan Abdul Ghaffar Khan formed the Khudai Khidmatgars, also known as Red Shirts, to lead the movement in the northwest."
+  },
+  {
+    "q": "ಕೆಳಗಿನವುಗಳನ್ನು ಕಾಲಾನುಕ್ರಮದಲ್ಲಿ ಜೋಡಿಸಿ:\n1. ಗಾಂಧಿ ದಂಡಿ ಮಾರ್ಚ್ ಆರಂಭಿಸಿದರು.\n2. ಪೂನಾ ಒಪ್ಪಂದ.\n3. ಗಾಂಧಿ ಇರ್ವಿನ್ ಒಪ್ಪಂದ.\n4. ಗಾಂಧಿ ಆಮರಣಾಂತ ಉಪವಾಸ ಆರಂಭಿಸುತ್ತಾರೆ.",
+    "o": ["4, 2, 3, 1", "1, 3, 2, 4", "1, 3, 4, 2", "1, 2, 4, 3"],
+    "a": 1,
+    "e": "Dandi March started in 1930, Gandhi-Irwin Pact in March 1931, Poona Pact in September 1932, and fasts followed accordingly."
+  },
+  {
+    "q": "ಮಹಾತ್ಮಾ ಗಾಂಧಿಯವರ ನೇತೃತ್ವದಲ್ಲಿ ಉಪ್ಪಿನ ಸತ್ಯಾಗ್ರಹದ ಪ್ರಾಥಮಿಕ ಉದ್ದೇಶವೇನು?",
+    "o": ["ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಬೇಡಿಕೆ", "ಉಪ್ಪಿನ ತೆರಿಗೆ ವಿರೋಧಿಸಿ ಪ್ರತಿಭಟನೆ", "ವಿದೇಶಿ ವಸ್ತುಗಳ ಬಹಿಷ್ಕಾರ", "ರೈತರಿಗೆ ಹಕ್ಕುಗಳು"],
+    "a": 1,
+    "e": "The immediate goal of the Salt Satyagraha was protesting and breaking the unjust government monopoly and tax on salt."
+  },
+  {
+    "q": "ಬ್ರಿಟಿಷ್ ನೀತಿಗಳ ವಿರುದ್ಧ ಪ್ರತಿಭಟನೆಯಾಗಿ ಭಾರತೀಯರು ಸರ್ಕಾರಿ ಉದ್ಯೋಗಗಳು, ಶಾಲೆಗಳು ಮತ್ತು ಕಾಲೇಜುಗಳಿಗೆ ರಾಜೀನಾಮೆ ನೀಡಬೇಕೆಂದು ಯಾವ ಚಳುವಳಿ ಕರೆ ನೀಡಿತು?",
+    "o": ["Quit India Movement", "Swadeshi Movement", "Civil Disobedience Movement", "Non-Cooperation Movement"],
+    "a": 3,
+    "e": "The Non-Cooperation Movement called for the systematic surrender of titles, government jobs, and British educational institutions."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು \"ದಕ್ಷಿಣದಿಂದ ಉತ್ತರಕ್ಕೆ\" ಭಾರತದ ಸಮುದ್ರ ಬಂದರುಗಳ ಸರಿಯಾದ ಅನುಕ್ರಮವಾಗಿದೆ?",
+    "o": ["ತಿರುವನಂತಪುರಂ - ಕೊಚ್ಚಿನ್ - ಮಂಗಳೂರು - ಕ್ಯಾಲಿಕಟ್", "ಕೊಚ್ಚಿನ್ - ಕ್ಯಾಲಿಕಟ್ - ಮಂಗಳೂರು - ತಿರುವನಂತಪುರಂ", "ಕ್ಯಾಲಿಕಟ್ - ಕೊಚ್ಚಿನ್ - ಮಂಗಳೂರು - ತಿರುವನಂತಪುರಂ", "ಮಂಗಳೂರು - ಕ್ಯಾಲಿಕಟ್ - ಕೊಚ್ಚಿನ್ - ತಿರುವನಂತಪುರಂ"],
+    "a": 0,
+    "e": "Geographically along the southwestern coast, Thiruvananthapuram lies furthest south, followed northward by Kochi, Kozhikode, and Mangaluru."
+  },
+  {
+    "q": "ಭೂಗೋಳ ಶಾಸ್ತ್ರದ ಪಿತಾಮಹ ಯಾರು?",
+    "o": ["ಹೆರೊಡೋಟಸ್", "ಅರಿಸ್ಟಾಟಲ್", "ಎರಾಟೋಸ್ತನೀಸ್", "ಥಿಯೋಫ್ರಾಸ್ಟಸ್"],
+    "a": 2,
+    "e": "Eratosthenes of Cyrene is traditionally recognized as the father of geography for his pioneering measurements of Earth."
+  },
+  {
+    "q": "ಪರ್ಯಾಯದ್ವೀಪದ ಭಾರತದ ಅತಿ ಉದ್ದದ ನದಿ?",
+    "o": ["ಕೃಷ್ಣ", "ನರ್ಮದಾ", "ಗಂಗಾ", "ಗೋದಾವರಿ"],
+    "a": 3,
+    "e": "Godavari is the second-longest river in India after the Ganges and the longest river in peninsular India."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಭಾರತದ ಅತಿದೊಡ್ಡ ಜೈವಿಕ ಮೀಸಲು ಪ್ರದೇಶವಾಗಿದೆ?",
+    "o": ["ನಂದಾದೇವಿ", "ಮನ್ನಾರ್ ಕೊಲ್ಲಿ", "ಸುಂದ್ರಬಾನ್", "ನೀಲಗಿರಿ"],
+    "a": 1,
+    "e": "The Gulf of Mannar Marine Biosphere Reserve is one of the largest and biologically richest reserve areas in India."
+  },
+  {
+    "q": "ಹತ್ತಿ ಉತ್ಪಾದನೆಗೆ ಅತ್ಯಂತ ಸೂಕ್ತವಾದ ಮಣ್ಣು?",
+    "o": ["ಕಪ್ಪು ಮಣ್ಣು", "ಮೆಕ್ಕಲು ಮಣ್ಣು", "ಲ್ಯಾಟರೈಟ್ ಮಣ್ಣು", "ಕೆಂಪು ಮಣ್ಣು"],
+    "a": 0,
+    "e": "Black cotton soil, rich in moisture retention capacity, is ideal for the cultivation of cotton crops."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ವಿಜ್ಞಾನಿಗಳು ಸೂರ್ಯನ ಸುತ್ತ ಪ್ರತಿ ಗ್ರಹದ ಮಾರ್ಗವು ದೀರ್ಘವೃತ್ತವಾಗಿದೆ ಎಂದು ಸಾಬೀತುಪಡಿಸಿದ್ದಾರೆ?",
+    "o": ["ಗೆಲಿಲಿಯೋ", "ಕೊಪರ್ನಿಕಸ್", "ನ್ಯೂಟನ್", "ಕೆಪ್ಲರ್"],
+    "a": 3,
+    "e": "Johannes Kepler formulated his laws of planetary motion, establishing that planets move in elliptical orbits around the Sun."
+  },
+  {
+    "q": "ಸೂರ್ಯನ ನಂತರ ಭೂಮಿಗೆ ಹತ್ತಿರವಿರುವ ಎರಡನೇ ನಕ್ಷತ್ರ ಯಾವುದು?",
+    "o": ["ವೆಗಾ", "ಸಿರಿಯಸ್", "ಪ್ರಾಕ್ಸಿಮಾ ಸೆಂಟೌರಿ", "ಆಲ್ಫಾ ಸೆಂಟೌರಿ"],
+    "a": 2,
+    "e": "Proxima Centauri is the closest known star to the Sun after Alpha Centauri system components."
+  },
+  {
+    "q": "ಸಿಂಧೂ ನದಿಯು ಎಲ್ಲಿ ಹುಟ್ಟುತ್ತದೆ?",
+    "o": ["ಹಿಂದೂಕುಶ್ ಶ್ರೇಣಿ", "ಹಿಮಾಲಯ ಶ್ರೇಣಿ", "ಕಾರಕೋರಂ ಶ್ರೇಣಿ", "ಕೈಲಾಸ ಶ್ರೇಣಿ"],
+    "a": 3,
+    "e": "The Indus River originates from the northern slopes of the Kailash Range in the Tibetan Plateau."
+  },
+  {
+    "q": "ಒಟ್ಟು ವಿಸ್ತೀರ್ಣದಲ್ಲಿ ಯಾವ ಭಾರತೀಯ ರಾಜ್ಯವು ಅತಿ ದೊಡ್ಡದಾಗಿದೆ?",
+    "o": ["ಮಹಾರಾಷ್ಟ್ರ", "ಮಧ್ಯಪ್ರದೇಶ", "ರಾಜಸ್ಥಾನ", "ತಮಿಳುನಾಡು"],
+    "a": 2,
+    "e": "Rajasthan is the largest Indian state in terms of total geographical area."
+  },
+  {
+    "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಕಲ್ಲಿದ್ದಲಿನ ವಿಧವಲ್ಲ?",
+    "o": ["ಆಂಫ್ರಾಸೈಟ್", "ಬ್ರಾನ್ಸೈಟ್", "ಬಿಟುಮಿನಸ್", "ಲಿಗ್ನೈಟ್"],
+    "a": 1,
+    "e": "Anthracite, bituminous, and lignite are standard coal ranks, whereas bronsite is not a recognized coal type."
+  },
+  {
+    "q": "ಭಾರತದ ಮುಖ್ಯ ಭೂಭಾಗದ ರೇಖಾಂಶವು ನಡುವೆ ವಿಸ್ತರಿಸಿದೆ:",
+    "o": ["68°7' E - 97°25' E", "68°7' W - 97°25' W", "68°7' N - 97°25' N", "68°7' S - 97°25' S"],
+    "a": 0,
+    "e": "The mainland Indian territory extends latitudinally and longitudinally between 68°7' E and 97°25' E longitudes."
+  },
+  {
+    "q": "ನಕ್ಷೆಯಲ್ಲಿ ಕೆಳಗಿನ ಯಾವ ಕಾಲ್ಪನಿಕ ರೇಖೆಗಳು ಒಂದೇ ಮಟ್ಟದ ಮಳೆಯಿರುವ ಸ್ಥಳಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ?",
+    "o": ["Isotherm lines", "Isobaths lines", "Isohyets lines", "Isobar lines"],
+    "a": 2,
+    "e": "Isohyets are contour lines on maps connecting points that receive equal amounts of precipitation."
+  },
+  {
+    "q": "ಭಾರತದ ಮುಖ್ಯ ಭೂಭಾಗದ ದಕ್ಷಿಣದ ಬಿಂದು:",
+    "o": ["ಇಂದಿರಾ ಪಾಯಿಂಟ್", "ಕನ್ಯಾಕುಮಾರಿ", "ಕೂಡಂಕುಳಂ", "ನಿಕೋಬಾರ್ ದ್ವೀಪ"],
+    "a": 1,
+    "e": "Kanyakumari marks the southernmost tip of the Indian mainland, whereas Indira Point is the absolute southernmost point."
+  },
+  {
+    "q": "ರಾಬಿ ಬೆಳೆಗಳನ್ನು ಚಳಿಗಾಲದಲ್ಲಿ ಅಕ್ಟೋಬರ್‌ನಿಂದ ಡಿಸೆಂಬರ್‌ವರೆಗೆ ಬಿತ್ತಲಾಗುತ್ತದೆ ಮತ್ತು ಬೇಸಿಗೆಯಲ್ಲಿ ಯಾವ ತಿಂಗಳಲ್ಲಿ ಕೊಯ್ಲು ಮಾಡಲಾಗುತ್ತದೆ?",
+    "o": ["ಆಗಸ್ಟ್", "ಜೂನ್", "ಮೇ", "ಫೆಬ್ರವರಿ"],
+    "a": 2,
+    "e": "Rabi crops sown in winter are typically harvested around March to May before the onset of the monsoon."
+  },
+  {
+    "q": "ಗೋಧಿಗೆ ಬೆಳವಣಿಗೆಯ ಋತುವಿನಲ್ಲಿ ಸಮವಾಗಿ ವಿತರಿಸಲಾದ ವಾರ್ಷಿಕ ಮಳೆಯ ಅಗತ್ಯವಿರುತ್ತದೆ:",
+    "o": ["25 to 50 cm", "75 to 100 cm", "50 to 75 cm", "85 to 130 cm"],
+    "a": 2,
+    "e": "Wheat typically thrives in temperate regions receiving moderate annual rainfall ranging between 50 to 75 cm."
+  },
+  {
+    "q": "ಅರೇಬಿಕಾ ವಿಧದ ಕಾಫಿಯನ್ನು ಭಾರತದಲ್ಲಿ ಬೆಳೆಯಲಾಗುತ್ತದೆ; ಇದನ್ನು ಆರಂಭದಲ್ಲಿ ಯಾವ ದೇಶದಿಂದ ತರಲಾಯಿತು?",
+    "o": ["ಇರಾನ್", "ಇರಾಕ್", "ಸಿರಿಯಾ", "ಯೆಮೆನ್"],
+    "a": 3,
+    "e": "Coffee cultivation in India began when Baba Budan brought coffee beans from Yemen to the Chikmagalur hills."
+  },
+  {
+    "q": "ರಾಷ್ಟ್ರೀಯ ಹೆದ್ದಾರಿ ವ್ಯವಸ್ಥೆ ಈ ಕೆಳಗಿನ ಯಾರ ಜವಾಬ್ದಾರಿಯಾಗಿರುತ್ತದೆ?",
+    "o": ["ರಾಜ್ಯ ಸರ್ಕಾರಗಳು", "ಕೇಂದ್ರ ಸರ್ಕಾರ", "ವಿಶೇಷ ರಸ್ತೆಗಳ ಪ್ರಾಧಿಕಾರ", "ರಾಜ್ಯ ಮತ್ತು ಕೇಂದ್ರ ಸರ್ಕಾರ"],
+    "a": 1,
+    "e": "The construction, maintenance, and administration of national highways are the primary responsibility of the central government."
+  },
+  {
+    "q": "ಭಾರತದ ಅತಿ ಉದ್ದದ ರಾಷ್ಟ್ರೀಯ ಹೆದ್ದಾರಿ ಯಾವುದು?",
+    "o": ["NH-47a", "NH-44", "NH-38", "NH-13"],
+    "a": 1,
+    "e": "NH-44 is the longest national highway in India, running from Srinagar in the north to Kanyakumari in the south."
+  },
+  {
+    "q": "ಭಾರತದ ಪೂರ್ವ ಕರಾವಳಿಯಲ್ಲಿ ಯಾವ ಬಂದರುಗಳಿವೆ?",
+    "o": ["ಕಾಂಡ್ಲಾ ಮತ್ತು ಹಲ್ಡಿಯಾ", "ಹಲ್ಡಿಯಾ ಮತ್ತು ಕೊಚ್ಚಿನ್", "ಪರದೀಪ್ ಮತ್ತು ಕಾಂಡ್ಲಾ", "ಪರದೀಪ್ ಮತ್ತು ಹಲ್ಡಿಯಾ"],
+    "a": 3,
+    "e": "Paradip and Haldia are major seaports situated along the eastern coast of India on the Bay of Bengal."
+  },
+  {
+    "q": "ಜವಾಹರಲಾಲ್ ನೆಹರು ಬಂದರು ಎಲ್ಲಿದೆ?",
+    "o": ["ಪರದೀಪ್", "ಕೊಚ್ಚಿನ್", "ಮುಂಬೈ", "ಕೋಲ್ಕತ್ತಾ"],
+    "a": 2,
+    "e": "Jawaharlal Nehru Port, also known as Nhava Sheva, is located across the harbor from Mumbai in Maharashtra."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಪಾರದೀಪ್ ಬಂದರಿನಿಂದ ರಫ್ತು ಮಾಡುವ ಪ್ರಮುಖ ವಸ್ತು ಯಾವುದು?",
+    "o": ["ಅಕ್ಕಿ", "ಚಹಾ", "ಮೀನು", "ಕಬ್ಬಿಣದ ಅದಿರು"],
+    "a": 3,
+    "e": "Paradip Port handles massive exports of iron ore and coal mined from the eastern mineral-rich regions."
+  },
+  {
+    "q": "ಭಾರತೀಯ ರೈಲ್ವೆಯನ್ನು ಎಷ್ಟು ವಲಯಗಳಲ್ಲಿ ವಿಂಗಡಿಸಲಾಗಿದೆ?",
+    "o": ["14", "16", "18", "20"],
+    "a": 2,
+    "e": "Indian Railways is administratively divided into 18 operating zones across the country."
+  },
+  {
+    "q": "ಬಾಬಾ ಬುಡನ್ ಬೆಟ್ಟಗಳು ಈ ಕೆಳಗಿನ ಯಾವ ಖನಿಜಗಳ ಗಣಿಗಾರಿಕೆಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ?",
+    "o": ["ಕಬ್ಬಿಣ", "ಬಾಕ್ಸೆಟ್", "ತಾಮ್ರ", "ವಜ್ರ"],
+    "a": 0,
+    "e": "The Baba Budan hills in Karnataka are historically and economically renowned for rich iron ore deposits."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವುದರಲ್ಲಿ ಭಾರತವು ವಿಶ್ವದ ಅತಿದೊಡ್ಡ ಉತ್ಪಾದಕವಾಗಿದೆ?",
+    "o": ["ಅಕ್ಕಿ", "ಹತ್ತಿ", "ಹಾಲು", "ಗೋಧಿ"],
+    "a": 2,
+    "e": "India ranks as the world's largest milk producer, driven by cooperative dairy farming initiatives."
+  },
+  {
+    "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಸರಿಯಾಗಿ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ?",
+    "o": ["ಭಿಲಾಯ್ ಸ್ಟೀಲ್ ಪ್ಲಾಂಟ್-ಮಧ್ಯಪ್ರದೇಶ", "ಬೊಕಾರೊ ಸ್ಟೀಲ್ ಪ್ಲಾಂಟ್-ಜಾರ್ಖಂಡ್", "ರೂರ್ಕೆಲಾ ಸ್ಟೀಲ್ ಪ್ಲಾಂಟ್-ಒಡಿಶಾ", "ದುರ್ಗಾಪುರ್ ಸ್ಟೀಲ್ ಪ್ಲಾಂಟ್-ಪಶ್ಚಿಮ ಬಂಗಾಳ"],
+    "a": 0,
+    "e": "Bhilai Steel Plant is located in the state of Chhattisgarh, not in Madhya Pradesh."
+  },
+  {
+    "q": "ಕರ್ನಾಟಕ ತನ್ನ ಗಡಿಯನ್ನು ಎಷ್ಟು ರಾಜ್ಯಗಳೊಂದಿಗೆ ಹಂಚಿಕೊಂಡಿದೆ?",
+    "o": ["5", "6", "4", "7"],
+    "a": 1,
+    "e": "Karnataka shares its land borders with six neighboring Indian states: Goa, Maharashtra, Telangana, Andhra Pradesh, Tamil Nadu, and Kerala."
+  },
+  {
+    "q": "ತುಂಗಭದ್ರಾ ವಿವಿಧೋದ್ದೇಶ ಯೋಜನೆಯು ಈ ಕೆಳಗಿನ ಯಾವ ರಾಜ್ಯಗಳ ನಡುವಿನ ಅಂತರರಾಜ್ಯ ಯೋಜನೆಯಾಗಿದೆ?",
+    "o": ["ಕರ್ನಾಟಕ ಮತ್ತು ಆಂಧ್ರ ಪ್ರದೇಶ", "ಕರ್ನಾಟಕ ಮತ್ತು ಮಹಾರಾಷ್ಟ್ರ", "ಕರ್ನಾಟಕ, ಮಹಾರಾಷ್ಟ್ರ ಮತ್ತು ಆಂಧ್ರ ಪ್ರದೇಶ", "ಕರ್ನಾಟಕ ಮತ್ತು ಗೋವಾ"],
+    "a": 0,
+    "e": "The Tungabhadra Dam project is a joint inter-state undertaking between Karnataka and Andhra Pradesh."
+  },
+  {
+    "q": "ಕೆಳಗಿನ ಯಾವ ವಿದೇಶಿ ದೇಶವು ಅಂಡಮಾನ್ ದ್ವೀಪ ಸಮೂಹಕ್ಕೆ ಹತ್ತಿರದಲ್ಲಿದೆ?",
+    "o": ["ಮಯನ್ಮಾರ್", "ಇಂಡೋನೇಷ್ಯಾ", "ಥೈಲ್ಯಾಂಡ್", "ವಿಯೆಟ್ನಾಂ"],
+    "a": 0,
+    "e": "Myanmar's Coco Islands lie very close to the northernmost islands of the Andaman and Nicobar chain."
+  },
+  {
+    "q": "ಬದರಿನಾಥವು ಈ ಕೆಳಗಿನ ಯಾವ ನದಿಯ ದಡದಲ್ಲಿದೆ?",
+    "o": ["ಅಲಕಾನಂದ", "ಭಾಗೀರಥಿ", "ಯಮುನಾ", "ಕೋಸಿ"],
+    "a": 0,
+    "e": "The holy town of Badrinath is situated along the banks of the Alaknanda River in Uttarakhand."
+  },
+  {
+    "q": "G-arboreum, G-herbaceum, G-hirsutum, G-barbadense ಈ ಕೆಳಗಿನ ಯಾವ ಬೆಳೆಗಳ ಜಾತಿಗಳಾಗಿವೆ?",
+    "o": ["ಸೆಣಬಿನ ಜಾತಿಗಳು", "ರೇಷ್ಮೆ ಜಾತಿಗಳು", "ಹತ್ತಿಯ ಜಾತಿಗಳು", "ಉಣ್ಣೆಯ ಜಾತಿಗಳು"],
+    "a": 2,
+    "e": "These are the recognized botanical species belonging to the genus Gossypium, which produces cotton."
+  },
+  {
+    "q": "ಕೆಳಗಿನ ಯಾವ ಕೃಷಿ ಪದ್ಧತಿಯನ್ನು ಪರಿಸರ ಸ್ನೇಹಿ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ?",
+    "o": ["ಸಾವಯವ ಕೃಷಿ", "ಹೆಚ್ಚಿನ ಇಳುವರಿ ತಳಿಗಳ ಕೃಷಿ", "ಗಾಜಿನ ಮನೆಗಳಲ್ಲಿ ಸಸ್ಯಗಳನ್ನು ಬೆಳೆಸುವುದು", "ಶಿಫ್ಟಿಂಗ್ ಕೃಷಿ"],
+    "a": 0,
+    "e": "Organic farming avoids synthetic fertilizers and pesticides, making it sustainable and environmentally friendly."
+  },
+  {
+    "q": "ಛತ್ತೀಸ್‌ಗಢ ತನ್ನ ಗಡಿಯನ್ನು ಯಾವ ರಾಜ್ಯದೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುವುದಿಲ್ಲ?",
+    "o": ["ತೆಲಂಗಾಣ", "ಮಧ್ಯ ಪ್ರದೇಶ", "ಪಶ್ಚಿಮ ಬಂಗಾಳ", "ಉತ್ತರ ಪ್ರದೇಶ"],
+    "a": 2,
+    "e": "Chhattisgarh does not share a border with West Bengal, as Jharkhand and Odisha lie between them."
+  },
+  {
+    "q": "ಯಾವ ವರ್ಷದಲ್ಲಿ ಬಂಡೀಪುರ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನವನ್ನು ಹುಲಿ ಸಂರಕ್ಷಿತ ಅರಣ್ಯವಾಗಿ ಸ್ಥಾಪಿಸಲಾಯಿತು?",
+    "o": ["1972", "1974", "1976", "1978"],
+    "a": 1,
+    "e": "Bandipur National Park was brought under Project Tiger as a tiger reserve in 1974."
+  },
+  {
+    "q": "ಮ್ಯಾಗ್ನೆಟೈಟ್ ಕಬ್ಬಿಣದ ಹೆಚ್ಚಿನ ಅಂಶವನ್ನು ಹೊಂದಿರುವ ಅತ್ಯುತ್ತಮ ಕಬ್ಬಿಣದ ಅದಿರು.",
+    "o": ["70%", "50%", "40%", "30%"],
+    "a": 0,
+    "e": "Magnetite is the finest quality iron ore, containing up to 70 percent metallic iron content."
+  },
+  {
+    "q": "ಭಾರತದ ಪೆಟ್ರೋಲಿಯಂ ಉತ್ಪಾದನೆಯ ಬಹುಪಾಲು ಯಾವ ಪ್ರದೇಶದಿಂದ ಬರುತ್ತದೆ?",
+    "o": ["ಮುಂಬೈ ಹೈ", "ಅಸ್ಸಾಂ", "ಗುಜರಾತ್", "ಮೇಲಿನ ಯಾವುದೂ ಅಲ್ಲ"],
+    "a": 0,
+    "e": "Mumbai High, an offshore oilfield in the Arabian Sea, accounts for the majority of India's domestic petroleum production."
+  },
+  {
+    "q": "ಅಲ್ಯೂಮಿನಿಯಂನ ಮುಖ್ಯ ಅದಿರು ಯಾವುದು?",
+    "o": ["ಬಾಕ್ಸೈಟ್", "ಕಬ್ಬಿಣ", "ಕ್ರಿನೋಲಿನ್", "ಹೆಮಟೈಟ್"],
+    "a": 0,
+    "e": "Bauxite is the primary sedimentary rock ore used globally for extracting aluminum metal."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಚಳುವಳಿಯು ಉಪ್ಪಿನ ಕಾನೂನನ್ನು ಮುರಿಯುವುದರೊಂದಿಗೆ ಪ್ರಾರಂಭವಾಯಿತು?",
+    "o": ["ಅಸಹಕಾರ ಚಳುವಳಿ", "ನಾಗರಿಕ ಅಸಹಕಾರ ಚಳುವಳಿ", "ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ ಚಳುವಳಿ", "ಹೋಮ್ ರೂಲ್ ಚಳುವಳಿ"],
+    "a": 1,
+    "e": "Civil Disobedience Movement began with the historic defiance of salt laws during the Dandi March."
+  },
+  {
+    "q": "ಕೆಳಗಿನ ಯಾವ ಒಪ್ಪಂದಗಳ ಅಡಿಯಲ್ಲಿ, ರಾಬರ್ಟ್ ಮೊಘಲ್ ಚಕ್ರವರ್ತಿ ಶಾ ಆಲಂನಿಂದ ಬಂಗಾಳ, ಬಿಹಾರ ಮತ್ತು ಒಡಿಶಾದ ದಿವಾನಿಯ ಅನುದಾನವನ್ನು ಪಡೆದುಕೊಂಡನು?",
+    "o": ["ಅಲಹಾಬಾದ್ ಒಪ್ಪಂದ", "ಬಕ್ಸರ್ ಒಪ್ಪಂದ", "ಬಸ್ಸೇನ್ ಒಪ್ಪಂದ", "ಸುಗೌಲಿ ಒಪ್ಪಂದ"],
+    "a": 0,
+    "e": "The Treaty of Allahabad granted revenue rights to the British East India Company."
+  },
+  {
+    "q": "ಡಚ್ಚರಿಂದ ಮೊದಲ ಕಾರ್ಖಾನೆಯನ್ನು ಈ ಕೆಳಗಿನ ಯಾವ ಸ್ಥಳದಲ್ಲಿ ಸ್ಥಾಪಿಸಲಾಯಿತು?",
+    "o": ["ಸೂರತ್", "ಮಚಲಿಪಟ್ಟಣಂ", "ನೆಗಪಟ್ಟಣಂ", "ಪುಲಿಕಾಟ್"],
+    "a": 1,
+    "e": "Masulipatnam hosted the first Dutch trading post established in India."
+  },
+  {
+    "q": "ಫೆಬ್ರವರಿ 3, 1882 ರಂದು, ಭಾರತದ ಬ್ರಿಟಿಷ್ ಸರ್ಕಾರವು ಭಾರತೀಯ ಶಿಕ್ಷಣ ಆಯೋಗವನ್ನು ನೇಮಿಸಿತು. ಈ ಕೆಳಗಿನವರಲ್ಲಿ ಯಾರು ಈ ಆಯೋಗದ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದರು?",
+    "o": ["H.P ಜಾಕೋಬ್", "C ಪಿಯರ್ಸನ್", "G.E", "W.W"],
+    "a": 3,
+    "e": "Hunter Commission was chaired by William Wilson Hunter to assess educational development."
+  },
+  {
+    "q": "ಕಾನ್ಸುರದಲ್ಲಿ 1857 ರ ದಂಗೆಯನ್ನು ಈ ಕೆಳಗಿನ ನಾಯಕರಲ್ಲಿ ಯಾರು ಮುನ್ನಡೆಸಿದರು?",
+    "o": ["ನಾನಾ ಸಾಹಬ್", "ತಾಂತಿಯಾ ಟೋಪೆ", "ಅಜೀಮುಲ್ಲಾ ಖಾನ್", "ಮೇಲಿನ ಎಲ್ಲರೂ"],
+    "a": 3,
+    "e": "Nana Sahib and his generals led the 1857 uprising in Kanpur."
+  },
+  {
+    "q": "ಸ್ವತಂತ್ರ ಭಾರತದ ಮೊದಲ ಮತ್ತು ಕೊನೆಯ ಭಾರತೀಯ ಗವರ್ನರ್ ಜನರಲ್ ಯಾರು?",
+    "o": ["ಲಾರ್ಡ್ ವೇವೆಲ್", "ಬಾಬು ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್", "ರಾಜಗೋಪಾಲಾಚಾರಿ", "ಲಾರ್ಡ್ ಮೌಂಟ್‌ ಬ್ಯಾಟನ್"],
+    "a": 2,
+    "e": "C. Rajagopalachari was the sole Indian Governor-General of independent India."
+  },
+  {
+    "q": "1833 ರ ಚಾರ್ಟರ್ ಆಕ್ಟ್ ಅನ್ನು ಅಂಗೀಕರಿಸಿದಾಗ ಭಾರತದ ಗವರ್ನರ್ ಜನರಲ್ ಯಾರು?",
+    "o": ["ಲಾರ್ಡ್ ವೆಲ್ಲೆಸ್ಸಿ", "ಲಾರ್ಡ್ ಹೇಸ್ಟಿಂಗ್ಸ್", "ಲಾರ್ಡ್ ಮಿಂಟೋ I", "ಲಾರ್ಡ್ ವಿಲಿಯಂ ಬೆಂಟಿಂಕ್"],
+    "a": 3,
+    "e": "Lord William Bentinck held office when the 1833 Charter Act centralized British administration."
+  },
+  {
+    "q": "ದಚಿಗಮ್ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನವು ಯಾವ ರಾಜ್ಯ/ಕೇಂದ್ರಡಾಳಿತ ಪ್ರದೇಶದಲ್ಲಿದೆ?",
+    "o": ["ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರ", "ಮಧ್ಯ ಪ್ರದೇಶ", "ಅಂಡಮಾನ್ ನಿಕೋಬಾರ್", "ಹಿಮಾಚಲ್ ಪ್ರದೇಶ"],
+    "a": 0,
+    "e": "Dachigam National Park is located in the Zabarwan Range of Jammu and Kashmir, famous for hangul deer."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ದಿನವನ್ನು ಮಾರ್ಚ್ ತಿಂಗಳಲ್ಲಿ ಆಚರಿಸಲಾಗುವುದಿಲ್ಲ?",
+    "o": ["International Day of Happiness", "World Consumer Rights Day", "World Tuberculosis (TB) Day", "World Heritage Day"],
+    "a": 3,
+    "e": "World Heritage Day is observed globally in April, whereas the other three occur in March."
+  },
+  {
+    "q": "ಒಬ್ಬ ಬಾಲಕನು ಗಂಟೆಗೆ 4 ಕಿ.ಮೀ ವೇಗದಲ್ಲಿ ತನ್ನ ಶಾಲೆಗೆ ನಡೆದುಕೊಂಡು ಬರುತ್ತಾನೆ. ಆತ ಶಾಲೆಯಿಂದ ಸೈಕಲ್ ಮೂಲಕ ಗಂಟೆಗೆ 12 ಕಿ.ಮೀ ವೇಗದಲ್ಲಿ ಮನೆಗೆ ವಾಪಸ್ ಬರುತ್ತಾನೆ. ಹಾಗಾದರೆ ಅವನ ಪ್ರಯಾಣದ ಸರಾಸರಿ ವೇಗ?",
+    "o": ["6km/h", "8km/h", "9km/h", "5km/h"],
+    "a": 0,
+    "e": "Harmonic mean formula for equal distances gives average speed as two times product over sum."
+  },
+  {
+    "q": "ಒಬ್ಬ ವ್ಯಕ್ತಿಯು ಕಾರಿನ ಮೂಲಕ ತನ್ನ ಮನೆಯಿಂದ ಕಛೇರಿಗೆ ಹೋಗುತ್ತಾನೆ. ಪ್ರತಿ ಗಂಟೆಗೆ 20 ಕಿ.ಮೀ ವೇಗದಲ್ಲಿ ಚಲಿಸಿದರೆ 15 ನಿಮಿಷ ಬೇಗ ಹೋಗುತ್ತಾನೆ. ಮತ್ತು ಪ್ರತಿ ಗಂಟೆಗೆ 10 ಕಿ.ಮೀ ವೇಗದಲ್ಲಿ ಚಲಿಸಿದರೆ 10 ನಿಮಿಷ ತಡವಾಗಿ ಹೋಗುತ್ತಾನೆ. ಹಾಗಾದರೆ ಅವನ ಮನೆಯಿಂದ ಕಛೇರಿಗಿರುವ ದೂರ ವೆಷ್ಟು?",
+    "o": ["4km", "1.66km", "2.24km", "3km"],
+    "a": 1,
+    "e": "Using relative speed and time difference equations yields the exact distance between home and office."
+  },
+  {
+    "q": "120 ಮೀಟರ್ ಉದ್ದ ರೈಲು ಒಂದು ಸೇತುವೆಯನ್ನು 18 ಸೆಕೆಂಡ್ ನಲ್ಲಿ ಗಂಟೆಗೆ 108 ಕಿ.ಮೀ ವೇಗದಲ್ಲಿ ದಾಟುತ್ತದೆ. ಹಾಗಾದರೆ ಸೇತುವೆ ಉದ್ದ ಎಷ್ಟು?",
+    "o": ["260M", "320M", "380M", "420M"],
+    "a": 1,
+    "e": "Total distance covered equals train length plus bridge length, calculated using speed multiplied by time."
+  },
+  {
+    "q": "65 ಮೀಟರ್ ಉದ್ದದ ರೈಲೊಂದು ಟೆಲಿಗ್ರಾಫ್ ಕಂಬ ವೊಂದನ್ನು ದಾಟಲು 5 ಸೆಕೆಂಡುಗಳನ್ನು ತೆಗೆದುಕೊಂಡರೆ, 117 ಮೀಟರ್ ಉದ್ದದ ಪ್ಲಾಟ್ ಫಾರಂನ್ನು ದಾಟಲು ಎಷ್ಟು ಕಾಲ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ?",
+    "o": ["8 ಸೆಕೆಂಡ್ ಗಳು", "10 ಸೆಕೆಂಡ್ ಗಳು", "12 ಸೆಕೆಂಡ್ ಗಳು", "14 ಸೆಕೆಂಡ್ ಗಳು"],
+    "a": 2,
+    "e": "Speed is determined by dividing train length by pole crossing time, then applied to total distance."
+  },
+  {
+    "q": "A ಮತ್ತು B ಸಹೋದರರು, Cಯು A ಯ ಸಹೋದರಿ, Dಯು E ಯ ಸಹೋದರ, E ಯು B ಯ ಮಗಳು, F, A ಯ ತಂದೆಯಾದರೆ D ಯ ಚಿಕ್ಕಪ್ಪನು ಯಾರು?",
+    "o": ["A", "B", "E", "F"],
+    "a": 1,
+    "e": "Tracing family relationships and paternal uncles through sibling connections reveals the correct relative."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಅನುಕ್ರಮವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ: 1, 1, 2, 3, 5, 8, 13, _, _",
+    "o": ["19, 24", "21, 34", "17, 44", "15, 19"],
+    "a": 1,
+    "e": "This is the classic Fibonacci sequence where each number is the sum of the two preceding ones."
+  }
+]

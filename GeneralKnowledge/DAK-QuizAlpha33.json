@@ -1,0 +1,1135 @@
+[
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಬೆಳೆಗಳು ಸಿಂಧೂ ನಾಗರಿಕತೆಯ ಮುಖ್ಯ ಬೆಳೆಯಾಗಿದ್ದವು?\n1. ಗೋಧಿ\n2. ಅಕ್ಕಿ\n3. ಜೋಳ\n4. ಬಾರ್ಲಿ",
+    "o": [
+      "1 ಮತ್ತು 4",
+      "1, 2, 3",
+      "2 ಮತ್ತು 3",
+      "1, 2, 3 ಮತ್ತು 4"
+    ],
+    "a": 0,
+    "e": "wheat and barley were the primary staple crops cultivated during the Indus Valley Civilization."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ತಪ್ಪಾಗಿ ಹೋಲಿಕೆಯಾಗಿದೆ?",
+    "o": [
+      "ಋಗ್ವದ = ಹೋತ್ರಿ",
+      "ಯಜುರ್ವೇದ = ಅದ್ವರ್ಯ",
+      "ಅಥರ್ವಣ ವೇದ = ಗೋತ್ರ",
+      "ಸಾಮವೇದ = ಉದ್ಧಾತ್ರಿ"
+    ],
+    "a": 2,
+    "e": "the mismatch lies in Atharvaveda; each Veda was associated with specific ritual priests."
+  },
+  {
+    "q": "ಭಾರತದ ಪ್ರಾಗೈತಿಹಾಸದ ಪಿತಾಮಹ ಯಾರು?",
+    "o": [
+      "ಅಲೆಕ್ಸಾಂಡರ್ ಕನ್ನಿಂಗ್ಹ್ಯಾಮ್",
+      "ರಾಬರ್ಟ್ ಬ್ರೂಸ್ ಫೂಟ್",
+      "ಹೇರೋಡೋಟಸ್",
+      "ಹೆರಟಸ್ಥಾನೀಸ್"
+    ],
+    "a": 1,
+    "e": "robert bruce foote discovered the first paleolithic tool in India, earning him this title."
+  },
+  {
+    "q": "ಶಿಲಾಯುಗಗಳ ನೆಲೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ತಪ್ಪಾಗಿ ಹೋಲಿಕೆಯಾಗಿದೆ?",
+    "o": [
+      "ಸಂಗನಕಲ್ಲು = ಬಿಜಾಪುರ",
+      "ದೈಮಬಾದ್ = ಮಹಾರಾಷ್ಟ್ರ",
+      "ಬ್ರಹ್ಮಗಿರಿ = ಚಿತ್ರದುರ್ಗ",
+      "ತೇರದಾಳ = ಬಾಗಲಕೋಟೆ"
+    ],
+    "a": 0,
+    "e": "sanganakallu is a neolithic site located in the bellary district, not bijapur."
+  },
+  {
+    "q": "ಸಿಂಧೂ ನಾಗರಿಕತೆ ಈ ಕೆಳಗಿನ ಯಾವ ಯುಗದಲ್ಲಿ ಪ್ರಾರಂಭವಾಯಿತು?",
+    "o": [
+      "ಹಳೆ ಶಿಲಾಯುಗ",
+      "ನವ ಶಿಲಾಯುಗ",
+      "ಕಂಚಿನ ಯುಗ",
+      "ಲೋಹ ಯುಗ"
+    ],
+    "a": 2,
+    "e": "the indus valley civilization is classified primarily as a bronze age civilization."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಅವುಗಳ ಸ್ಥಾಪನೆಯಾದ ವರ್ಷದೊಂದಿಗೆ ತಪ್ಪಾಗಿ ಹೋಲಿಕೆಯಾಗಿದೆ?",
+    "o": [
+      "ಭಾರತದ ಪುರಾತತ್ವ ಇಲಾಖೆ = 1861",
+      "ಪ್ರಾಚೀನ ವಸ್ತುಗಳ ಸಂರಕ್ಷಣ ಕಾಯಿದೆ = 1904",
+      "ಮೇಲಿನ ಯಾವುದೂ ಅಲ್ಲ",
+      "ದ ರಾಯಲ್ ಏಷ್ಯಾಟಿಕ್ ಸೊಸೈಟಿ ಆಫ್ ಬೆಂಗಾಲ್ = 1884"
+    ],
+    "a": 3,
+    "e": "the asiatic society of bengal was founded in 1784 by sir william jones, not 1884."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆ ಸರಿಯಾಗಿದೆ?\nA) ಹರಪ್ಪ ನೆಲೆಯು ಪಾಕಿಸ್ತಾನದ ಮೌಂಟೇಗೌರಿ ಜಿಲ್ಲೆಯಲ್ಲಿದೆ.\nB) ಹರಪ್ಪ ನದಿಯು ಸಿಂಧೂ ನದಿಯ ಬಲದಂಡೆಯಲ್ಲಿ ನೆಲೆಸಿದೆ",
+    "o": [
+      "A ಮತ್ತು B ಸರಿ",
+      "A ಮತ್ತು B ತಪ್ಪು",
+      "A ಮಾತ್ರ ಸರಿ",
+      "B ಮಾತ್ರ ಸರಿ"
+    ],
+    "a": 2,
+    "e": "harappa is located on the left bank of the ravi river in Pakistan's montgomery district."
+  },
+  {
+    "q": "ಸಿಂಧೂ ನಾಗರಿಕತೆಯ ಪೂರ್ವದ ಕಡೆಯ ನೆಲೆ ಯಾವುದು?",
+    "o": [
+      "ಸೂಕ್ತ ಜೆಂಡರ್",
+      "ಅಲಂಗೀರ್ ಪುರ್",
+      "ದೈಮಾಬಾದ್",
+      "ಮಾಂಡು"
+    ],
+    "a": 1,
+    "e": "alamgirpur on the banks of the hindon river in uttar pradesh is the easternmost site."
+  },
+  {
+    "q": "ಸಿಂಧೂ ನಾಗರಿಕತೆಯ ಪ್ರಮುಖ ನೆಲೆ ಸಂಶೋಧಕರಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ತಪ್ಪಾಗಿ ಹೋಲಿಕೆಯಾಗಿದೆ?",
+    "o": [
+      "ಚುನೋದರ = ಎನ್.ಜಿ ಮಜುಂದರ್",
+      "ಕಾಲಿ ಬಂಗನ್ = ಜೆ. ಪಿ ಜೋಷ್",
+      "ರೋಪರ್ = ವೈ.ಡಿ ಶರ್ಮಾ",
+      "ಬನವಾಲಿ = ಆರ್.ಎಸ್ ಬಿಸ್ತ್"
+    ],
+    "a": 1,
+    "e": "kalibangan was excavated by amalananda ghosh, b.b. lal, and b.k. thapar."
+  },
+  {
+    "q": "ಸಿಂಧೂ ನಾಗರಿಕತೆಯ ದೋಲವೀರ ನೆಲೆಯೂ ಯಾವ ನದಿಯ ದಡದ ಮೇಲೆ ನೆಲೆಸಿದೆ?",
+    "o": [
+      "ಮನ್ಹೋರ್",
+      "ಸಟ್ಲೆಜ್",
+      "ರಾವಿ",
+      "ಪ್ರವರ್"
+    ],
+    "a": 0,
+    "e": "dholavira is situated between manhar and mansar streams in the kutch district."
+  },
+  {
+    "q": "ಸಿಂಧೂ ನಾಗರಿಕತೆ ಅತ್ಯಂತ ದೊಡ್ಡ ನೆಲೆ ಯಾವುದು?",
+    "o": [
+      "ದೋಲವೀರ",
+      "ರಾಖಿಗರಿ",
+      "ಮೆಹೆಂಜೋದರೊ",
+      "ಹರಪ್ಪಾ"
+    ],
+    "a": 1,
+    "e": "rakhiggarhi in haryana is recognized as the largest indus valley civilization site."
+  },
+  {
+    "q": "ಸತಿ ಪದ್ಧತಿಯನ್ನು ನೆನಪಿಸುವ ದಂಪತಿಗಳನ್ನು ಒಟ್ಟಾಗಿ ಹೂತಿರುವ ನಿರ್ದೇಶನವು ಯಾವ ಸ್ಥಳದಲ್ಲಿ ಕಂಡುಬಂದಿದೆ?",
+    "o": [
+      "ರಂಗಪುರ",
+      "ಲೋಥಾಲ್",
+      "ಕಾಲಿಬಂಗಾನ್",
+      "ರೊಪಾರ್"
+    ],
+    "a": 1,
+    "e": "lothal excavation revealed double burials containing a male and female skeleton together."
+  },
+  {
+    "q": "ಪ್ರಾಚೀನ ಕಾಲದ ನದಿಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಪ್ರಸ್ತುತ ಇರುವ ಹೆಸರುಗಳೊಂದಿಗೆ ಈ ಕೆಳಗಿನ ಯಾವುದು ತಪ್ಪಾಗಿ ಹೋಲಿಕೆಯಾಗಿದೆ?",
+    "o": [
+      "ವಿಪಸ = ಜೀಲಂ",
+      "ಪುರುಷ್ಟಿ = ರಾವಿ",
+      "ಆಸ್ಕಿನ = ಚೀನಾಬ್",
+      "ಶತುದ್ರಿ = ಸಟ್ಲೆಜ್"
+    ],
+    "a": 0,
+    "e": "ancient vipasa corresponds to the modern beas river, while jhelum was known as vitasta."
+  },
+  {
+    "q": "ಕನ್ಯಯು ನಿದ್ರಿಸುತ್ತಿದ್ದಾಗ ಅವಳನ್ನು ಅಪಹರಿಸಿಕೊಂಡು ಹೋಗಿ ಮದುವೆ ಆಗುವ ಪ್ರಾಚೀನ ವಿವಾಹವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತೇವೆ?",
+    "o": [
+      "ಅರ್ಸ ವಿವಾಹ",
+      "ಪೈಶಾಚಿಕ ವಿವಾಹ",
+      "ಅಸುರ ವಿವಾಹ",
+      "ಗಾಂಧರ್ವ ವಿವಾಹ"
+    ],
+    "a": 1,
+    "e": "paishacha vivaha involved abducting or seducing a woman while she was asleep or mentally incapacitated."
+  },
+  {
+    "q": "ವೇದಗಳ ಕಾಲದಲ್ಲಿ ಈ ಕೆಳಗಿನ ಯಾವುದು ಪ್ರಜಾ ಪ್ರತಿನಿಧಿ ಸಭೆ ಆಗಿರಲಿಲ್ಲ?",
+    "o": [
+      "ಸಮಿತಿ",
+      "ಸಭಾ",
+      "ಪರಿಷತ್",
+      "ವಿಧಾತ"
+    ],
+    "a": 2,
+    "e": "parishat was a smaller advisory council of elders or royals, whereas sabha, samiti, and vidatha were general assemblies."
+  },
+  {
+    "q": "ಪ್ರಮುಖ ಜೈನ ತೀರ್ಥಂಕರಗಳ ಚಿಹ್ನೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ತಪ್ಪಾಗಿ ಹೋಲಿಕೆ ಆಗಿದೆ?",
+    "o": [
+      "ಪಾಶ್ವನಾಥ = ಜಿಂಕೆ",
+      "ಆದಿನಾಥ = ಎತ್ತು",
+      "ಅಜಿತನಾಥ = ಆನೆ",
+      "ವರ್ಧಮಾನ ಮಹಾವೀರ = ಸಿಂಹ"
+    ],
+    "a": 0,
+    "e": "parshvanatha's symbol is the serpent or snake, while the deer is associated with other figures."
+  },
+  {
+    "q": "ಮಹಾ ವಂಶ ಮತ್ತು ದೀಪ ವಂಶ ಇವು?",
+    "o": [
+      "ಬೌದ್ಧ ಜಾತಕಗಳು",
+      "ಹಿಂದೂ ಪುರಾಣಗಳು",
+      "ಶ್ರೀಲಂಕಾದ ಬೌದ್ಧರ ವೃತ್ತಾಂತಗಳು",
+      "ಜೈನ ಜಾತಕಗಳು"
+    ],
+    "a": 2,
+    "e": "mahavamsa and dipavamsa are historical chronicles written in pali concerning the history of sri lanka and buddhism."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಬೌದ್ಧ ಧರ್ಮಕ್ಕೆ ಸಂಬಂಧಿಸಿಲ್ಲ?",
+    "o": [
+      "ಅಷ್ಟಾಂಗ ಮಾರ್ಗಗಳು",
+      "ದ್ವಾದಶಾಂಗಗಳು",
+      "ತ್ರಿಪೀಠಕಗಳು",
+      "ಆರ್ಯ ಸತ್ಯಗಳು"
+    ],
+    "a": 1,
+    "e": "dwadashangas are sacred canonical texts belonging to jainism, whereas the others belong to buddhism."
+  },
+  {
+    "q": "ಬೌದ್ಧ ಸಮ್ಮೇಳನಗಳು ಜರುಗಿದ ಸ್ಥಳಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ತಪ್ಪಾಗಿ ಹೋಲಿಕೆಯಾಗಿದೆ?",
+    "o": [
+      "ದ್ವಿತೀಯ ಬೌದ್ಧ ಸಮ್ಮೇಳನ = ವಲ್ಲಬಿ",
+      "ಪ್ರಥಮ ಬೌದ್ಧ ಸಮ್ಮೇಳನ = ರಾಜಗೃಹ",
+      "ತೃತೀಯ ಬೌದ್ಧ ಸಮ್ಮೇಳನ = ಪಾಟಲಿಪುತ್ರ",
+      "ನಾಲ್ಕನೇ ಬೌದ್ಧ ಸಮ್ಮೇಳನ = ಕುಂಡಲಿವನ"
+    ],
+    "a": 0,
+    "e": "the second buddhist council was held at vaishali, not vallabhi."
+  },
+  {
+    "q": "ಅವಂತಿ ಮಹಾಜನಪದದ ರಾಜಧಾನಿ ಯಾವುದು?",
+    "o": [
+      "ತಕ್ಷಶಿಲಾ",
+      "ಉಜ್ಜಯಿನಿ",
+      "ಇಂದ್ರ ಪ್ರಸ್ಥ",
+      "ವಿರಾಟ್ ನಗರ"
+    ],
+    "a": 1,
+    "e": "ujjain or mahishmati served as the capitals of the avanti mahajanapada."
+  },
+  {
+    "q": "ಚಾಲ್ಗೊಲಿಥಿಕ್ ಪುರಾತತ್ತ್ವ ಶಾಸ್ತ್ರದ ಸ್ಥಳವಾದ ಜೋರ್ವೆ ಸಂಸ್ಕೃತಿಯು ಪ್ರಸ್ತುತ ಯಾವ ರಾಜ್ಯದಲ್ಲಿದೆ?",
+    "o": [
+      "ಗುಜರಾತ್",
+      "ಬಿಹಾರ",
+      "ಮಹಾರಾಷ್ಟ್ರ",
+      "ಅಸ್ಸಾಂ"
+    ],
+    "a": 2,
+    "e": "jorwe culture is a chalcolithic archaeological culture primarily located in modern-day maharashtra."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಹರಪ್ಪಾ ತಾಣ ಅಫ್ಘಾನಿಸ್ತಾನದಲ್ಲಿದೆ?",
+    "o": [
+      "Shortughai",
+      "Balakot",
+      "Kalibangan",
+      "Nageswar"
+    ],
+    "a": 0,
+    "e": "shortughai is an indus valley trading post established near oxus river in northern afghanistan."
+  },
+  {
+    "q": "ಯಾವ ಹರಪ್ಪಾ ಸ್ಥಳದಲ್ಲಿ 'ಕುದುರೆ'ಯ ಕುರುಹುಗಳು ಕಂಡುಬಂದಿವೆ?",
+    "o": [
+      "ಸುರ್ಕೋಟ್ಟಾ",
+      "ಲೋಥಾಲ್",
+      "ಕಾಲಿಬಂಗನ್",
+      "ರೋಪರ್"
+    ],
+    "a": 0,
+    "e": "surkotada is well-known among archaeologists for yielding horse remains at an indus site."
+  },
+  {
+    "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಹರಪ್ಪಾ ನಾಗರಿಕತೆಯ ಅತ್ಯಂತ ವಿಶಿಷ್ಟ ಲಕ್ಷಣವಾಗಿದೆ?",
+    "o": [
+      "ಸಮುದಾಯ ಮಾರುಕಟ್ಟೆಗಳು",
+      "ನಗರ ಯೋಜನೆ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಫೆಡರಲ್ ಸರ್ಕಾರ"
+    ],
+    "a": 1,
+    "e": "grid-based town planning and advanced drainage systems are hallmarks of the harappan civilization."
+  },
+  {
+    "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಹರಪ್ಪನ್ ನಾಗರಿಕತೆಗೆ ಸಮಕಾಲೀನವಾಗಿದೆ?",
+    "o": [
+      "ಗ್ರೀಕ್ ನಾಗರಿಕತೆ",
+      "ಈಜಿಪ್ಟಿನ ನಾಗರಿಕತೆ",
+      "ರೋಮನ್ ನಾಗರಿಕತೆ",
+      "ಕ್ರೀಟ್ ನಾಗರಿಕತೆ"
+    ],
+    "a": 1,
+    "e": "ancient egyptian and mesopotamian civilizations flourished concurrently with the indus valley civilization."
+  },
+  {
+    "q": "ಡಾಕ್‌ಯಾರ್ಡ್ ಅನ್ನು ಯಾವ ಪುರಾತತ್ವ ಸ್ಥಳದಿಂದ ಕಂಡುಹಿಡಿಯಲಾಗಿದೆ?",
+    "o": [
+      "ಮೊಹೆಂಜೊದಾರೊ",
+      "ಲೋಥಾಲ್",
+      "ಹರಪ್ಪಾ",
+      "ದೈಮಾಬಾದ್"
+    ],
+    "a": 1,
+    "e": "lothal features a massive tidal dockyard, indicating extensive maritime trade."
+  },
+  {
+    "q": "ಅತ್ಯಂತ ಪ್ರಾಚೀನ ವೈದಿಕ ಯುಗದ ಸಂಸ್ಕೃತಿಯ ಮಾಹಿತಿಯನ್ನು ಯಾವ ವೇದವು ಚಿತ್ರಿಸುತ್ತದೆ?",
+    "o": [
+      "ಯಜುರ್ವೇದ",
+      "ಋಗ್ವದ",
+      "ಸಾಮವೇದ",
+      "ಅಥರ್ವವೇದ"
+    ],
+    "a": 1,
+    "e": "rigveda is the oldest of the four vedas and provides extensive details on early vedic society."
+  },
+  {
+    "q": "ವೈಶಾಲಿ ಈ ಕೆಳಗಿನ ಯಾವ ಮಹಾಜನಪದಗಳ ರಾಜಧಾನಿಯಾಗಿತ್ತು?",
+    "o": [
+      "ಕೋಸಲ",
+      "ಕಾಶಿ",
+      "ವಜ್ಜಿ",
+      "ಮಗಧ"
+    ],
+    "a": 2,
+    "e": "vaishali served as the capital of the powerful vjjika league or vajjian mahajanapada."
+  },
+  {
+    "q": "ಮಧುರೈಯನ್ನು ವಶಪಡಿಸಿಕೊಂಡು ಮಧುರಾಂತಕ ಮತ್ತು ಮಧುರೈಕೊಂಡ ಎಂಬ ಬಿರುದನ್ನು ಪಡೆದವರು ಯಾರು?",
+    "o": [
+      "ಆದಿತ್ಯ I",
+      "ಪರಾಂತಕ I",
+      "ಪರಾಂತಕ II",
+      "ವಿಜಯಾಲಯ"
+    ],
+    "a": 1,
+    "e": "parantaka i captured madurai from the pandyas, earning titles like maduraikonda."
+  },
+  {
+    "q": "ಚಂದ್ರಗುಪ್ತ ಮೌರ್ಯನ ಆಸ್ಥಾನಕ್ಕೆ ಮೆಗಾಸ್ತನೀಸ್ ನನ್ನು ಯಾರು ಕಳುಹಿಸಿದರು?",
+    "o": [
+      "ಆಂಟಿಯೋಕಸ್",
+      "ಪಾಟ್ಲಮಿ",
+      "ಸೆಲ್ಯೂಕಸ್ ನಿಕೇಟರ್",
+      "ಡೈಮಾಕಸ್"
+    ],
+    "a": 2,
+    "e": "seleucus nicator dispatched megasthenes as an ambassador to chandragupta maurya's court."
+  },
+  {
+    "q": "ಕಾಳಿದಾಸನ 'ಮಾಳವಿಕಾಗ್ನಿಮಿತ್ರಂ' ನಾಟಕದ ನಾಯಕನಾದ ಅಗ್ನಿಮಿತ್ರನು ಈ ಕೆಳಗಿನ ಯಾವ ರಾಜವಂಶದ ರಾಜನಾಗಿದ್ದನು?",
+    "o": [
+      "ಶುಂಗ",
+      "ಕಣ್ವ",
+      "ಮೌರ್ಯ",
+      "ಶಾತವಾಹನ"
+    ],
+    "a": 0,
+    "e": "agnimitra was a ruler of the sunga dynasty, founded by his father pushyamitra sunga."
+  },
+  {
+    "q": "ಬುದ್ಧನಿಗೆ ಈ ಕೆಳಗಿನ ಯಾವ ಮರದ ಕೆಳಗೆ ಜ್ಞಾನೋದಯವಾಯಿತು?",
+    "o": [
+      "Ficus benghalensis",
+      "Ficus religiosa",
+      "Ficus microcarpa",
+      "Ficus elastica"
+    ],
+    "a": 1,
+    "e": "gautama buddha attained enlightenment under a sacred fig tree, scientifically termed ficus religiosa."
+  },
+  {
+    "q": "ಸರಿಸುಮಾರು ಭೂಮಿಯ ವಯಸ್ಸು ಎಷ್ಟು?",
+    "o": [
+      "3.5 ಶತಕೋಟಿ ವರ್ಷಗಳು",
+      "4.5 ಶತಕೋಟಿ ವರ್ಷಗಳು",
+      "4 ಶತಕೋಟಿ ವರ್ಷಗಳು",
+      "2.5 ಶತಕೋಟಿ ವರ್ಷಗಳು"
+    ],
+    "a": 1,
+    "e": "radiometric dating of meteorite and earth materials estimates the earth's age at roughly 4.5 billion years."
+  },
+  {
+    "q": "ಬಿಗ್ ಬ್ಯಾಂಗ್ ಸಿದ್ಧಾಂತವನ್ನು ಪ್ರತಿಪಾದಿಸಿದವರು ಯಾರು?",
+    "o": [
+      "ಡಾ. ಅಲೆನ್ ಸುಂಡೆಸ್",
+      "ಅಬ್ಬೆ ಜಾರ್ಜಸ್ ಲೆಮೈತ್ರಿ",
+      "ಥಾಮಸ್ ಗೋಲ್ಡ್",
+      "ಹರ್ಮನ್ ಬಾಂಡಿ"
+    ],
+    "a": 1,
+    "e": "georges lemaitre first proposed the expanding universe theory known as the big bang theory."
+  },
+  {
+    "q": "ಅವುಗಳ ಗಾತ್ರಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಗ್ರಹದ ಸರಿಯಾದ ಕಾಲಗಣನೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ?\nI. ಬುಧ\nII. ಮಂಗಳ\nIII. ಭೂಮಿ\nIV.",
+    "o": [
+      "IV, III, II, I",
+      "I, III, II, IV",
+      "IV, I, III, II",
+      "I, II, III, IV"
+    ],
+    "a": 0,
+    "e": "ranking planets by physical size in descending order places the largest first."
+  },
+  {
+    "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಜೋವಿಯನ್ ಗ್ರಹಕ್ಕೆ ಉದಾಹರಣೆ ಯಾವುದು?",
+    "o": [
+      "ಯುರೇನಸ್",
+      "ಮಂಗಳ",
+      "ಭೂಮಿ",
+      "ಶುಕ್ರ"
+    ],
+    "a": 0,
+    "e": "uranus is classified as a gas giant or jovian planet, unlike the inner terrestrial planets."
+  },
+  {
+    "q": "ಸೌರವ್ಯೂಹದ ಯಾವ ಗ್ರಹವು ಅತಿ ಹೆಚ್ಚು ಸಾಂದ್ರತೆಯನ್ನು ಹೊಂದಿದೆ?",
+    "o": [
+      "ಭೂಮಿ",
+      "ಯುರೇನಸ್",
+      "ನೆಪ್ಟನ್",
+      "ಗುರು"
+    ],
+    "a": 0,
+    "e": "earth possesses the highest mean density among all planets in our solar system."
+  },
+  {
+    "q": "ಯಾವ ಆಕಾಶಕಾಯವನ್ನು ಕುಬ್ಬ ಗ್ರಹ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ?",
+    "o": [
+      "ಪ್ಲುಟೊ",
+      "ಬುಧ",
+      "ಮಂಗಳ",
+      "ಶುಕ್ರ"
+    ],
+    "a": 0,
+    "e": "pluto was reclassified as a dwarf planet by the international astronomical union in 2006."
+  },
+  {
+    "q": "ಎರಡು ಟೆಕ್ಟೋನಿಕ್ ಪ್ಲೇಟ್‌ಗಳು ವಿಭಿನ್ನ ವೇಗಗಳೊಂದಿಗೆ ಪರಸ್ಪರ ಹಿಂದೆ ಚಲಿಸುವಾಗ ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಸಂಭವಿಸುತ್ತದೆ?",
+    "o": [
+      "ಭೂಕಂಪ",
+      "ಜ್ವಾಲಮುಖಿಗಳು",
+      "ಚಂಡಮಾರುತ",
+      "ಹಿಮಪಾತ"
+    ],
+    "a": 0,
+    "e": "transform boundaries where plates slide past each other frequently trigger earthquakes."
+  },
+  {
+    "q": "ಭೂಮಿಯ ಯಾವ ಪದರದಲ್ಲಿ ನೈಸರ್ಗಿಕ ಭೂಕಂಪಗಳು ಸಂಭವಿಸುತ್ತವೆ?",
+    "o": [
+      "Lithosphere",
+      "Inner Core",
+      "Mesosphere",
+      "Asthenosphere"
+    ],
+    "a": 0,
+    "e": "lithosphere comprises the brittle crust and upper mantle where seismic stress releases as earthquakes."
+  },
+  {
+    "q": "ಭೂಕಂಪಗಳನ್ನು ದಾಖಲಿಸಲು ಮತ್ತು ಅಳೆಯಲು ಯಾವ ಸಾಧನಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+    "o": [
+      "Seismometer",
+      "Telescope",
+      "Richter Scale",
+      "Flood sensors"
+    ],
+    "a": 0,
+    "e": "a seismometer records ground motion vibrations generated by seismic waves."
+  },
+  {
+    "q": "ಪ್ರಾಥಮಿಕ ಅಲೆಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+    "o": [
+      "Push Waves",
+      "Small Waves",
+      "Dino Waves",
+      "Side Waves"
+    ],
+    "a": 0,
+    "e": "primary waves or p-waves are compressional waves that push and pull the ground."
+  },
+  {
+    "q": "ವಿಶೇಷ ಭೂಕಂಪನಗ್ರಾಹಕದಿಂದ ಅಳೆಯಲಾದ ಪ್ರಾಥಮಿಕ ಅಲೆಗಳ ನೆಲದ ಚಲನೆಯನ್ನು ಯಾವುದು ಶ್ರೇಣೀಕರಿಸುತ್ತದೆ?",
+    "o": [
+      "Richter scale",
+      "Weight Scale",
+      "Thermometer",
+      "Measurement Scale"
+    ],
+    "a": 0,
+    "e": "the richter scale or moment magnitude scale quantifies the energy released by earthquakes."
+  },
+  {
+    "q": "ಭೂಮಿ ಮತ್ತು ಸೂರ್ಯನ ನಡುವಿನ ಅಂದಾಜು ಅಂತರ ಎಷ್ಟು?",
+    "o": [
+      "149 ದಶಲಕ್ಷ ಕಿಮೀ",
+      "350 ದಶಲಕ್ಷ ಕಿಮೀ",
+      "100 ದಶಲಕ್ಷ ಕಿಮೀ",
+      "250 ದಶಲಕ್ಷ ಕಿಮೀ"
+    ],
+    "a": 0,
+    "e": "the average astronomical distance from earth to the sun is approximately 149 million kilometers."
+  },
+  {
+    "q": "ಟೈಟಾನ್ ಯಾವ ಗ್ರಹದ ಉಪಗ್ರಹವಾಗಿದೆ?",
+    "o": [
+      "ಶನಿ",
+      "ಪ್ಲುಟೊ",
+      "ಯುರೇನಸ್",
+      "ನೆಪ್ಟನ್"
+    ],
+    "a": 0,
+    "e": "titan is the largest natural satellite of saturn, known for its dense atmosphere."
+  },
+  {
+    "q": "ಸೂರ್ಯನ ವಾತಾವರಣದ ಹೊರ ಪದರವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+    "o": [
+      "ಕರೋನಾ",
+      "ಫೋಟೋಸ್ಪಿಯರ್",
+      "ಕ್ರೋಮೋಸ್ಪಿಯರ್",
+      "ಹೀಲಿಯೋಸ್ಪಿಯರ್"
+    ],
+    "a": 0,
+    "e": "corona is the outermost aura of plasma that surrounds the sun visible during total eclipses."
+  },
+  {
+    "q": "ಫಿಲಿಪೈನ್ಸ್‌ ನಲ್ಲಿ ಉಷ್ಣವಲಯದ ಚಂಡಮಾರುತಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+    "o": [
+      "Bagyo",
+      "Typhoons",
+      "Willy-willies",
+      "Taiphu"
+    ],
+    "a": 0,
+    "e": "tropical cyclones occurring in and around the philippines are locally called bagyo."
+  },
+  {
+    "q": "ಅನೇಕ ಹೊಸ ಮತಗಳು ಹುಟ್ಟಿದ ಕಾಲ?",
+    "o": [
+      "ಕ್ರಿ.ಪೂ 6ನೇ ಶತಮಾನ",
+      "ಕ್ರಿ.ಶ 5ನೇ ಶತಮಾನ",
+      "ಕ್ರಿ.ಪೂ 5ನೇ ಶತಮಾನ",
+      "ಕ್ರಿ.ಶ 6ನೇ ಶತಮಾನ"
+    ],
+    "a": 0,
+    "e": "the 6th century BCE witnessed major socio-religious reform movements and rise of heterodox sects."
+  },
+  {
+    "q": "ಮೌರ್ಯ ರಾಜವಂಶದ ಆಡಳಿತಗಾರನಾಗುವ ಮೊದಲು, ಚಕ್ರವರ್ತಿ ಅಶೋಕನು ರಾಜ್ಯಪಾಲನಾಗಿದ್ದನು.",
+    "o": [
+      "ಉಜ್ಜಯಿನಿ",
+      "ರಾಜಾಗೃಹ",
+      "ತಕ್ಷಶೀಲಾ",
+      "ಇಂದೋರ್"
+    ],
+    "a": 0,
+    "e": "ashoka served as the viceroy or governor of ujjain and taxila during his father bindusara's reign."
+  },
+  {
+    "q": "ಯಾವ ಬೌದ್ಧ ಸನ್ಯಾಸಿ ಮಿಲಿಂದನನ್ನು ಬೌದ್ಧ ಧರ್ಮಕ್ಕೆ ಪರಿವರ್ತಿಸಿದನು?",
+    "o": [
+      "ನಾಗಸೇನ",
+      "ಗೌತಮ ಬುಧ",
+      "ಶಾಕ್ಯಮುನಿ",
+      "ಉಪಗುಪ್ತ"
+    ],
+    "a": 0,
+    "e": "the indo-greek king menander i was converted to buddhism by the sage nagasena."
+  },
+  {
+    "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಅತ್ಯಂತ ಹಳೆಯ ಸ್ಮೃತಿ?",
+    "o": [
+      "ಮನು ಸ್ಮೃತಿ",
+      "ಯಾಜ್ಞವಲ್ಯ ಸ್ಮೃತಿ",
+      "ನಾರದ ಸ್ಮೃತಿ",
+      "ಬೃಹಸ್ಪತಿ ಸ್ಮೃತಿ"
+    ],
+    "a": 0,
+    "e": "manusmriti is widely regarded as the earliest and most authoritative legal text among the smritis."
+  },
+  {
+    "q": "ಕುಶಾನ ರಾಜವಂಶದ ದೊರೆ, ಕಾನಿಷ್ಕನು ನ ಅನುಯಾಯಿಯಾಗಿದ್ದನು?",
+    "o": [
+      "ಮಹಾಯಾನಿಸಂ",
+      "ಜೈನ ಧರ್ಮ",
+      "ಹೀನಾಯನಿಸಂ",
+      "ಹಿಂದೂಸಿಮ್"
+    ],
+    "a": 0,
+    "e": "kanishka was a prominent patron of mahayana buddhism and convened the fourth buddhist council."
+  },
+  {
+    "q": "ಕೆಳಗಿನವರಲ್ಲಿ ಯಾರನ್ನು ಟೋಚರಿಯನ್ನರು ಎಂದೂ ಕರೆಯುತ್ತಾರೆ?",
+    "o": [
+      "ಕುಶಾನರು",
+      "ಹೂಣರು",
+      "ಗ್ರೀಕರು",
+      "ಶಕರು"
+    ],
+    "a": 0,
+    "e": "kushans originated from yuezhi tribes, historically linked with tocharian language regions."
+  },
+  {
+    "q": "ಕೆಳಗಿನ ಯಾವ ವೇದಗಳನ್ನು ಕೆಲವೊಮ್ಮೆ 'ಮಾಂತ್ರಿಕ ಸೂತ್ರಗಳ ವೇದ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+    "o": [
+      "ಅಥರ್ವವೇದ",
+      "ಋಗ್ವದ",
+      "ಸಂವೇದ",
+      "ಯಜುರ್ವೇದ"
+    ],
+    "a": 0,
+    "e": "atharvaveda contains chants, spells, charms, and healing formulas addressing daily life concerns."
+  },
+  {
+    "q": "ಕೆಳಗಿನವರಲ್ಲಿ ಯಾರನ್ನು ಭಾರತೀಯ ಪುರಾತತ್ವಶಾಸ್ತ್ರದ ಪಿತಾಮಹ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+    "o": [
+      "ಅಲೆಕ್ಸಾಂಡರ್ ಕನ್ನಿಂಘ್ಯಾಮ್",
+      "ವಿಲಿಯಂ ಜೋನ್ಸ್",
+      "ರಾಬರ್ಟ್ ಸೀವೆಲ್",
+      "ಜಾನ್ ಮಾರ್ಷಲ್"
+    ],
+    "a": 0,
+    "e": "alexander cunningham founded the archaeological survey of india and is hailed as its father."
+  },
+  {
+    "q": "ಅಶೋಕನ ಯಾವ ಬಂಡೆಗಲ್ಲು ಶಾಸನವು ಧಮ್ಮದ ದಾನವು ಎಲ್ಲಾ ಉಡುಗೊರೆಗಳಿಗಿಂತ ಉತ್ತಮ ಕೊಡುಗೆಯಾಗಿದೆ ಎಂದು ಘೋಷಿಸುತ್ತದೆ?",
+    "o": [
+      "ಒಂಬತ್ತನೇ ಶಾಸನ",
+      "ಎಂಟನೇ ಶಾಸನ",
+      "ಹನ್ನೊಂದನೇ ಶಾಸನ",
+      "ಹನ್ನೆರಡನೇ ಶಾಸನ"
+    ],
+    "a": 0,
+    "e": "rock edict ix emphasizes dhamma practice and true charity over ordinary rituals and gifts."
+  },
+  {
+    "q": "ಕೆಳಗಿನ ಯಾವ ಪ್ರದೇಶಗಳಲ್ಲಿ, ಮಳೆಯು ಮುಖ್ಯವಾಗಿ ಚಳಿಗಾಲದಲ್ಲಿ ಸಂಭವಿಸುತ್ತದೆ?",
+    "o": [
+      "ಮೆಡಿಟರೇನಿಯನ್ ಪ್ರದೇಶ",
+      "ಸವನ್ನಾ ಹುಲ್ಲುಗಾವಲು ಪ್ರದೇಶ",
+      "ಉಪಷ್ಣವಲಯದ ಪ್ರದೇಶ",
+      "ಮೇಲಿನ ಯಾವುದು ಅಲ್ಲ"
+    ],
+    "a": 0,
+    "e": "mediterranean climates experience dry summers and wet winters due to shifting pressure belts."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ತಪ್ಪಾಗಿ ಹೋಲಿಕೆಯಾಗಿದೆ?",
+    "o": [
+      "ಕಾರ್ಬನ್ ಡೈ ಆಕ್ಸೆಡ್ = ಹೆನ್ರಿ ಬೂಷನ್",
+      "ನೈಟ್ರೋಜನ್ = ರುದರ್ ಫೋರ್ಡ್",
+      "ಆಕ್ಸಿಜನ್ = ಜೋಸೆಫ್ ಪ್ರಿಸ್",
+      "ಅರ್ಗಾನ್ = ವಿಲಿಯಂ ರಾಮೆ"
+    ],
+    "a": 0,
+    "e": "carbon dioxide was discovered by joseph black; the other associations match discoverers correctly."
+  },
+  {
+    "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಅಕ್ಟೋಬರ್ ಮತ್ತು ನವೆಂಬರ್ ತಿಂಗಳಲ್ಲಿ ಭಾರೀ ಮಳೆಯನ್ನು ಪಡೆಯುತ್ತದೆ?",
+    "o": [
+      "ಕೋರಮಂಡಲ್ ಕರಾವಳಿಗಳು",
+      "ಗಾರೋ, ಖಾಸಿ ಮತ್ತು ಜೈನ್ತಿಯಾ ಬೆಟ್ಟಗಳು",
+      "ಚೋಟಾ ನಾಗುರದ ಪ್ರಸ್ಥಭೂಮಿ",
+      "ಹಿಮಾಲಯ ಪ್ರದೇಶಗಳು"
+    ],
+    "a": 0,
+    "e": "coromandel coast receives northeast monsoon rainfall during october and november."
+  },
+  {
+    "q": "ಭಾರತದಲ್ಲಿನ ಪಶ್ಚಿಮ ಘಟ್ಟಗಳ ದಖನ್ ಪ್ರದೇಶವು ಶುಷ್ಕವಾಗಿರುತ್ತದೆ ಕಾರಣ?",
+    "o": [
+      "rain shadow effect",
+      "low temperature effect",
+      "pressure effect",
+      "high altitude effect"
+    ],
+    "a": 0,
+    "e": "western ghats cause moisture to precipitate on the windward side, creating a rain shadow on the leeward deccan plateau."
+  },
+  {
+    "q": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಅಮೇರಿಕಾದ ಸ್ಥಳೀಯ ಮಾರುತವಾಗಿದೆ?",
+    "o": [
+      "Chinook",
+      "Foehn",
+      "Harmattan",
+      "Mistral"
+    ],
+    "a": 0,
+    "e": "chinook is a warm, dry foehn wind that blows down the eastern slopes of the rocky mountains."
+  },
+  {
+    "q": "ಭೂಮಿ ಮತ್ತು ಸಮುದ್ರದ ಗಾಳಿಯು ಕಾರಣದಿಂದ ಉಂಟಾಗುತ್ತದೆ",
+    "o": [
+      "convection",
+      "acclimatisation",
+      "radiation",
+      "conduction"
+    ],
+    "a": 0,
+    "e": "differential heating of land and water sets up convective thermal circulation cells."
+  },
+  {
+    "q": "ಟ್ರೋಪೋಸ್ಪಿಯರ್ ಮತ್ತು ಸ್ಟ್ರಾಟೋಸ್ಪಿಯರ್ ನಡುವಿನ ಗಡಿಯನ್ನು ಹೀಗೆ ಕರೆಯಲಾಗುತ್ತದೆ?",
+    "o": [
+      "tropopause",
+      "ionopause",
+      "stratopause",
+      "mesopause"
+    ],
+    "a": 0,
+    "e": "tropopause is the boundary layer separating troposphere from stratosphere."
+  },
+  {
+    "q": "ವಾತಾವರಣದ ಮುಖ್ಯ ಘಟಕಗಳು",
+    "o": [
+      "N2 and O2",
+      "CO2 and N2",
+      "CO and CO2",
+      "O3 and SO2"
+    ],
+    "a": 0,
+    "e": "nitrogen and oxygen constitute the vast majority of dry air in earth's atmosphere."
+  },
+  {
+    "q": "ವಾತಾವರಣದ ಮೇಲಿನ ಪದರವನ್ನು ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+    "o": [
+      "Exosphere",
+      "Ionosphere",
+      "Troposphere",
+      "Stratosphere"
+    ],
+    "a": 0,
+    "e": "exosphere forms the uppermost fringe of earth's atmosphere blending into outer space."
+  },
+  {
+    "q": "ಓಜೋನ್ ಪದರವು ಸೂರ್ಯನಿಂದ ಬರುವ ನಿಂದ ಭೂಮಿಯ ಮೇಲ್ಮಯನ್ನು ರಕ್ಷಿಸುತ್ತದೆ.",
+    "o": [
+      "ultraviolet radiation",
+      "infrared rays",
+      "gamma rays",
+      "X-rays"
+    ],
+    "a": 0,
+    "e": "stratospheric ozone absorbs harmful ultraviolet radiation from the sun."
+  },
+  {
+    "q": "ವಾತಾವರಣದ ಯಾವ ಪದರದಲ್ಲಿ ಮಳೆ, ಚಂಡಮಾರುತ, ಗುಡುಗು ಮತ್ತು ಮಿಂಚು ಸಂಭವಿಸುತ್ತದೆ?",
+    "o": [
+      "Troposphere",
+      "Ionosphere",
+      "Stratosphere",
+      "mesosphere"
+    ],
+    "a": 0,
+    "e": "troposphere contains almost all atmospheric water vapor and weather phenomena."
+  },
+  {
+    "q": "ಅತ್ಯಂತ ಕಡಿಮೆ ತಾಪಮಾನವನ್ನು ಹೊಂದಿರುವ ವಾತಾವರಣದ ಪದರ?",
+    "o": [
+      "mesosphere",
+      "Ionosphere",
+      "Stratosphere",
+      "Troposphere"
+    ],
+    "a": 0,
+    "e": "mesosphere records the coldest temperatures in earth's atmosphere near its upper boundary."
+  },
+  {
+    "q": "ಭೂಮಿಯ ಗೋಳಾಕಾರದ ಆಕಾರದಿಂದಾಗಿ 180 ರೇಖಾಂಶಕ್ಕೆ ಯಾವ ಹೆಸರನ್ನು ನೀಡಲಾಗಿದೆ?",
+    "o": [
+      "International date line",
+      "Greenwich line",
+      "Equator",
+      "Capricorn line"
+    ],
+    "a": 0,
+    "e": "the 180-degree meridian serves as the international date line across the pacific ocean."
+  },
+  {
+    "q": "ದೇಶದ ಹವಾಮಾನದ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರುವ ಭಾರತದ ಮಧ್ಯದಲ್ಲಿ ಯಾವ ಅಕ್ಷಾಂಶ ರೇಖೆಯು ಹಾದುಹೋಗುತ್ತದೆ?",
+    "o": [
+      "Tropic of Cancer",
+      "Equator",
+      "Tropic of Capricorn",
+      "Antarctic Circle"
+    ],
+    "a": 0,
+    "e": "tropic of cancer cuts across India, dividing it into tropical and subtropical climatic zones."
+  },
+  {
+    "q": "ಚಿಲ್ಕಾ ಸರೋವರವು ಯಾವ ರೀತಿಯ ನೀರನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ?",
+    "o": [
+      "Brackish water",
+      "Freshwater",
+      "Saltwater",
+      "Thermal water"
+    ],
+    "a": 0,
+    "e": "chilika lake is a brackish water lagoon situated on the eastern coast of india."
+  },
+  {
+    "q": "ಭೌತಿಕ ತತ್ತ್ವಶಾಸ್ತ್ರದ ಮುಖ್ಯ ನಿರೂಪಕರು ಯಾರು?",
+    "o": [
+      "ಚಾರ್ವಾಕ",
+      "ಅಜೀವಿಕಾಸ್",
+      "ಜೈನಧರ್ಮ",
+      "ಬೌದ್ಧಧರ್ಮ"
+    ],
+    "a": 0,
+    "e": "charvaka or lokayata represents the ancient Indian school of materialist philosophy."
+  },
+  {
+    "q": "ಕೆಳಗಿನ ಯಾವ ಶಾಸನದಲ್ಲಿ ಅಶೋಕನನ್ನು ಬುದ್ಧಶಾಕ್ಯ ಎಂದು ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ?",
+    "o": [
+      "ಮಸ್ಕಿ ಶಾಸನ",
+      "ಸಾರನಾಥ ಶಾಸನ",
+      "ಕಂದಹಾರ್ ಶಾಸನ",
+      "ದೆಹಲಿ - ಟೋಪ್ರಾ ಪಿಲ್ಲರ್ ಶಾಸನ"
+    ],
+    "a": 0,
+    "e": "maski rock edict explicitly uses the personal name ashoka alongside his imperial titles."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಶಿಲಾ ಶಾಸನಗಳಲ್ಲಿ ಧಮ್ಮ ಮಹಾಮತ್ತರನ್ನು ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ?",
+    "o": [
+      "ಐದನೇ ಶಾಸನ",
+      "ಮೂರನೇ ಶಾಸನ",
+      "ಏಳನೇ ಶಾಸನ",
+      "ಆರನೇ ಶಾಸನ"
+    ],
+    "a": 0,
+    "e": "rock edict v details the appointment and duties of dhamma mahamatras for moral welfare."
+  },
+  {
+    "q": "ರಾಜ್ಯಶಾಸ್ತ್ರ ಮತ್ತು ರಾಜಕೀಯದ ಕುರಿತಾದ ಪ್ರಾಚೀನ ಭಾರತೀಯ ಗ್ರಂಥವಾದ 'ಅರ್ಥಶಾಸ್ತ್ರ ಇದನ್ನು ಬರೆದವರು?",
+    "o": [
+      "ಚಾಣಕ್ಯ",
+      "ಕಾಳಿದಾಸ",
+      "ವಾಲ್ಮೀಕಿ",
+      "ವಾತ್ಸಾಯನ"
+    ],
+    "a": 0,
+    "e": "chanakya also known as kautilya authored the classical treatise on statecraft called arthashastra."
+  },
+  {
+    "q": "ಮಧ್ಯಕಾಲೀನ ಭಾರತದಲ್ಲಿ 'ಚೋಳ ರಾಜವಂಶ' ಹೆಸರುವಾಸಿಯಾಗಿದೆ:",
+    "o": [
+      "ನೌಕಪಡೆ ಶಕ್ತಿ ಮತ್ತು ವ್ಯಾಪಾರ",
+      "ಕೇಂದ್ರೀಕೃತ ಆಡಳಿತ",
+      "ಬೌದ್ಧ ಪ್ರೋತ್ಸಾಹ",
+      "ಮೆಟ್ಟಿಲುಬಾವಿಗಳ ವಾಸ್ತುಶಿಲ್ಪ"
+    ],
+    "a": 0,
+    "e": "cholas built a formidable naval fleet and dominated overseas maritime trade across southeast asia."
+  },
+  {
+    "q": "ಅವಧಿಯನ್ನು ಭಾರತೀಯ ಇತಿಹಾಸದ 'ಸುವರ್ಣಯುಗ' ಎಂದು ವಿವರಿಸಲಾಗಿದೆ?",
+    "o": [
+      "ಗುಪ್ತ",
+      "ಮೌರ್ಯ",
+      "ಪಲ್ಲವರು",
+      "ಚೋಳರು"
+    ],
+    "a": 0,
+    "e": "gupta empire period is widely celebrated for remarkable progress in arts, science, and literature."
+  },
+  {
+    "q": "ತನ್ನ ವಿಜಯಗಳಿಗಾಗಿ 'ಭಾರತದ ನೆಪೋಲಿಯನ್' ಎಂದು ಕರೆಯಲ್ಪಡುವ ಸಮುದ್ರ ಗುಪ್ತನ ಸಾಧನೆಗಳನ್ನು ಯಾವ ಕಂಬದ ಶಾಸನಗಳು ದಾಖಲಿಸಿವೆ?",
+    "o": [
+      "ಅಲಹಾಬಾದ್ ಪಿಲ್ಲರ್",
+      "ಕಬ್ಬಿಣದ ಕಂಬ",
+      "ಮೆಹುಲಿ ಸ್ತಂಭ",
+      "ವಿಜಯ ಸ್ತಂಭ"
+    ],
+    "a": 0,
+    "e": "allahabad pillar inscription composed by harishena details samudragupta's military campaigns."
+  },
+  {
+    "q": "ಕೆಳಗಿನ ಯಾವ ರಾಜವಂಶದ ಆಡಳಿತಗಾರರು ಮಧ್ಯ ಭಾರತದಲ್ಲಿ 950 ರಿಂದ 1050 A.D ನಡುವೆ ಖಜುರಾಹೊ ದೇವಾಲಯಗಳನ್ನು ನಿರ್ಮಿಸಿದರು?",
+    "o": [
+      "ಚಂದೇಲಾ ರಾಜವಂಶ",
+      "ಗುರ್ಜರ-ಪ್ರತಿಹಾರ ರಾಜವಂಶ",
+      "ರಾಷ್ಟ್ರಕೂಟ ರಾಜವಂಶ",
+      "ಪಾಲ ರಾಜವಂಶ"
+    ],
+    "a": 0,
+    "e": "chandela rulers of bundelkhand constructed the magnificent nagara-style temples at khajuraho."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಸರಣಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ.\n1, 2, 6, 24, 120, ?",
+    "o": [
+      "720",
+      "240",
+      "570",
+      "360"
+    ],
+    "a": 0,
+    "e": "each term is multiplied by consecutive integers (1x1=1, 1x2=2, 2x3=6, 6x4=24, 24x5=120, 120x6=720)."
+  },
+  {
+    "q": "ನಿರ್ದಿಷ್ಟ ಕೋಡ್‌ನಲ್ಲಿ 'FROZEN' ಅನ್ನು 'OFAPSG' ಎಂದು ಬರೆಯಲಾಗಿದೆ. ಆ ಕೋಡ್‌ನಲ್ಲಿ 'MOLTEN' ಅನ್ನು ಹೇಗೆ ಬರೆಯಲಾಗುತ್ತದೆ?",
+    "o": [
+      "OFUNPM",
+      "OFPOMN",
+      "OFSMPN",
+      "OFUMPN"
+    ],
+    "a": 0,
+    "e": "letters follow a specific mirror and shift positional transformation pattern."
+  },
+  {
+    "q": "ರಾಮು ಮಲ್ಲಿಕ್ ನ ಸಹೋದರ, ಮಹಾವೀರ ರಾಮುನ ತಂದೆ,ರೋಹಿತ್ ಪ್ರಿಯಾಳ ಸಹೋದರ ಮತ್ತು ಪ್ರಿಯ ಮಲ್ಲಿಕ್ ನ ಮಗಳು ಹಾಗಾದರೆ ರೋಹಿತನ ಚಿಕ್ಕಪ್ಪ ಯಾರು?",
+    "o": [
+      "ಮಹಾವೀರ್",
+      "ಮಲ್ಲಿಕ್",
+      "ರಾಮು",
+      "ಮೇಲಿನ ಯಾವುದು ಅಲ್ಲ."
+    ],
+    "a": 0,
+    "e": "tracing family tree relations shows mahavir is the father of ramu and mallick, making mahavir the uncle."
+  },
+  {
+    "q": "ಒಬ್ಬ ಮನುಷ್ಯನು ಪಶ್ಚಿಮ ದಿಕ್ಕಿಗೆ ಮುಖ ಮಾಡಿ ನಿಂತಿದ್ದಾನೆ. ಅವನು ಪ್ರದಕ್ಷಿಣವಾಗಿ 45 ಡಿಗ್ರಿಯಲ್ಲಿ ತಿರುಗುತ್ತಾನೆ. ಮತ್ತೆ ಪ್ರದಕ್ಷಿಣವಾಗಿ 180 ಡಿಗ್ರಿಯಲ್ಲಿ ತಿರುಗುತ್ತಾನೆ. ನಂತರದಲ್ಲಿ ಅಪ್ರದಕ್ಷಿಣವಾಗಿ 270 ಡಿಗ್ರಿಯಲ್ಲಿ ತಿರುಗಿದರೆ ಅವನು ಮುಖ ಮಾಡಿ ನಿಂತಿರುವ ದಿಕ್ಕು?",
+    "o": [
+      "ಪಶ್ಚಿಮ",
+      "ದಕ್ಷಿಣ",
+      "ವಾಯುವ್ಯ",
+      "ನೈರುತ್ಯ"
+    ],
+    "a": 0,
+    "e": "calculating net angular rotation brings the facing direction back to the starting point."
+  },
+  {
+    "q": "ಈ ಕೆಳಗೆ ಕೊಟ್ಟಿರುವ ಚಿತ್ರದಲ್ಲಿ ಎಷ್ಟು ತ್ರಿಕೋನಗಳಿವೆ?",
+    "o": [
+      "16",
+      "18",
+      "20",
+      "24"
+    ],
+    "a": 0,
+    "e": "geometric counting of individual and combined triangular segments yields sixteen triangles."
+  },
+  {
+    "q": "ಈ ಕೆಳಗೆ ನೀಡಿರುವ ಚಿತ್ರದಲ್ಲಿ ಎಷ್ಟು ಚೌಕಗಳಿವೆ?",
+    "o": [
+      "13",
+      "15",
+      "16",
+      "17"
+    ],
+    "a": 0,
+    "e": "systematic enumeration of internal grid squares reveals a total count of thirteen squares."
+  },
+  {
+    "q": "ಮೌರ್ಯ ರಾಜವಂಶದ ಪ್ರಸಿದ್ಧ ದೊರೆ ಅಶೋಕನ ರಾಜಧಾನಿ ಯಾವುದು?",
+    "o": [
+      "ಪಾಟಲಿಪುತ್ರ",
+      "ರಾಜಗೃಹ",
+      "ತಕ್ಷಶಿಲಾ",
+      "ಉಜ್ಜಯಿನಿ"
+    ],
+    "a": 0,
+    "e": "pataliputra served as the imperial capital of the mauryan empire."
+  },
+  {
+    "q": "ವೇದಗಳ ಕಾಲದಲ್ಲಿ ಪ್ರಮುಖ ಯಜ್ಞಗಳನ್ನು ನಡೆಸಿಕೊಡುತ್ತಿದ್ದ ಮುಖ್ಯ ಪೂಜಾರಿ ಯಾರು?",
+    "o": [
+      "ಹೋತ್ರಿ",
+      "ಅದ್ವರ್ಯ",
+      "ಉದ್ಧಾತ್ರಿ",
+      "ಬ್ರಹ್ಮನ್"
+    ],
+    "a": 0,
+    "e": "hotri was the chief priest responsible for reciting hymns from the rigveda during rituals."
+  },
+  {
+    "q": "ಸಿಂಧೂ ನಾಗರಿಕತೆಯ ಯಾವ ಸ್ಥಳದಲ್ಲಿ ಬೃಹತ್ ಸ್ನಾನಗೃಹ ಕಂಡುಬಂದಿದೆ?",
+    "o": [
+      "ಮೊಹೆಂಜೋದರೊ",
+      "ಹರಪ್ಪಾ",
+      "ಲೋಥಾಲ್",
+      "ಕಾಲಿಬಂಗನ್"
+    ],
+    "a": 0,
+    "e": "mohenjo-daro features the famous great bath, showcasing advanced brick masonry."
+  },
+  {
+    "q": "ಬೌದ್ಧ ಧರ್ಮದ ಸ್ಥಾಪಕರಾದ ಗೌತಮ ಬುದ್ಧನ ಜನ್ಮಸ್ಥಳ ಯಾವುದು?",
+    "o": [
+      "ಲುಂಬಿನಿ",
+      "ಬೋಧಗಯಾ",
+      "ಸಾರನಾಥ",
+      "ಕುಶಿನಗರ"
+    ],
+    "a": 0,
+    "e": "gautama buddha was born in lumbini located in the foothills of nepal."
+  },
+  {
+    "q": "ಜೈನ ಧರ್ಮದ 24 ನೇ ತೀರ್ಥಂಕರರು ಯಾರು?",
+    "o": [
+      "ವರ್ಧಮಾನ ಮಹಾವೀರ",
+      "ಪಾರ್ಶ್ವನಾಥ",
+      "ಆದಿನಾಥ",
+      "ರಿಷಭನಾಥ"
+    ],
+    "a": 0,
+    "e": "vardhamana mahavira was the twenty-fourth and last tirthankara of jainism."
+  },
+  {
+    "q": "ಗುಪ್ತ ಸಾಮ್ರಾಜ್ಯದ ಸ್ಥಾಪಕರು ಯಾರು?",
+    "o": [
+      "ಶ್ರೀ ಗುಪ್ತ",
+      "ಘಟೋತ್ಕಾಚ",
+      "ಸಮುದ್ರಗುಪ್ತ",
+      "ಚಂದ್ರಗುಪ್ತ I"
+    ],
+    "a": 0,
+    "e": "sri gupta founded the gupta dynasty in the late 3rd century CE."
+  },
+  {
+    "q": "ಭೂಮಿಯ ವಾತಾವರಣದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಪ್ರಮಾಣದಲ್ಲಿರುವ ಅನಿಲ ಯಾವುದು?",
+    "o": [
+      "ನೈಟ್ರೋಜನ್",
+      "ಆಕ್ಸಿಜನ್",
+      "ಅರ್ಗಾನ್",
+      "ಕಾರ್ಬನ್ ಡೈಆಕ್ಸೈಡ್"
+    ],
+    "a": 0,
+    "e": "nitrogen accounts for roughly 78 percent of earth's atmosphere by volume."
+  },
+  {
+    "q": "ಸೌರವ್ಯೂಹದ ಅತಿ ದೊಡ್ಡ ಗ್ರಹ ಯಾವುದು?",
+    "o": [
+      "ಗುರು",
+      "ಶನಿ",
+      "ಯುರೇನಸ್",
+      "ನೆಪ್ಟನ್"
+    ],
+    "a": 0,
+    "e": "jupiter is the largest gas giant planet in our solar system."
+  },
+  {
+    "q": "ಭೂಮಿಯ ಮೇಲ್ಮೈಯಲ್ಲಿ ನೀರು ಆವೃತ್ತವಾಗಿರುವ ಅಂದಾಜು ಶೇಕಡವಾರು ಎಷ್ಟು?",
+    "o": [
+      "ಶೇಕಡಾ 71",
+      "ಶೇಕಡಾ 50",
+      "ಶೇಕಡಾ 85",
+      "ಶೇಕಡಾ 60"
+    ],
+    "a": 0,
+    "e": "approximately 71 percent of earth's surface is covered by oceans and water bodies."
+  },
+  {
+    "q": "ಭಾರತದ ರಾಷ್ಟ್ರೀಯ ಲಾಂಛನವನ್ನು ಎಲ್ಲಿಂದ ತೆಗೆದುಕೊಳ್ಳಲಾಗಿದೆ?",
+    "o": [
+      "ಸಾರನಾಥದ ಸಿಂಹದ ಸ್ತಂಭ",
+      "ಅದ್ಧಲಾಬಾದ್ ಕಂಬ",
+      "ದೆಹಲಿ ಸ್ತಂಭ",
+      "ಸಾಂಚಿ ಸ್ತೂಪ"
+    ],
+    "a": 0,
+    "e": "India's national emblem is an adaptation of the lion capital of ashoka at sarnath."
+  },
+  {
+    "q": "ಸಿಂಧೂ ನಾಗರಿಕತೆಯ ಜನರು ಮುಖ್ಯವಾಗಿ ಯಾವ ಲೋಕವನ್ನು ಬಳಸುತ್ತಿರಲಿಲ್ಲ?",
+    "o": [
+      "ಕಬ್ಬಿಣ",
+      "ತಾಮ್ರ",
+      "ಕಂಚು",
+      "ಚಿನ್ನ"
+    ],
+    "a": 0,
+    "e": "indus valley civilization was a bronze age culture and iron was unknown to them."
+  },
+  {
+    "q": "ಋಗ್ವದದಲ್ಲಿರುವ ಒಟ್ಟು ಮಂಡಲಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
+    "o": [
+      "10",
+      "8",
+      "12",
+      "6"
+    ],
+    "a": 0,
+    "e": "rigveda is traditionally divided into ten books known as mandalas."
+  },
+  {
+    "q": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯದ ಅಂತಿಮ ದೊರೆ ಯಾರು?",
+    "o": [
+      "ಬೃಹದ್ರಥ",
+      "ಅಶೋಕ",
+      "ಬಿಂದುಸಾರ",
+      "ದಶರಥ"
+    ],
+    "a": 0,
+    "e": "brihadratha was the last ruler of the mauryan dynasty, overthrown by pushyamitra sunga."
+  },
+  {
+    "q": "ಭಾರತದ ಅತ್ಯಂತ ಪ್ರಾಚೀನ ಪರ್ವತ ಶ್ರೇಣಿ ಯಾವುದು?",
+    "o": [
+      "ಆ್ಯರಾವಲ್ಲಿ ಪರ್ವತಗಳು",
+      "ಹಿಮಾಲಯ",
+      "ಪಶ್ಚಿಮ ಘಟ್ಟಗಳು",
+      "ವಿಂದ್ಯ ಪರ್ವತಗಳು"
+    ],
+    "a": 0,
+    "e": "aravalli range is among the oldest fold mountain systems in the world."
+  },
+  {
+    "q": "ಸೂರ್ಯನ ಬೆಳಕು ಭೂಮಿಯನ್ನು ತಲುಪಲು ತೆಗೆದುಕೊಳ್ಳುವ ಸಮಯ ಎಷ್ಟು?",
+    "o": [
+      "ಸುಮಾರು 8 ನಿಮಿಷಗಳು",
+      "ಸುಮಾರು 2 ನಿಮಿಷಗಳು",
+      "ಸುಮಾರು 15 ನಿಮಿಷಗಳು",
+      "ಸುಮಾರು 1 ಗಂಟೆ"
+    ],
+    "a": 0,
+    "e": "sunlight travels across space taking roughly eight minutes to reach earth."
+  },
+  {
+    "q": "ಜೈನ ಧರ್ಮದ ಪ್ರಮುಖ ತ್ರಿರತ್ನಗಳಲ್ಲಿ ಈ ಕೆಳಗಿನ ಯಾವುದು ಸೇರಿಲ್ಲ?",
+    "o": [
+      "ಸಮ್ಯಕ್ ಧನ",
+      "ಸಮ್ಯಕ್ ದರ್ಶನ",
+      "ಸಮ್ಯಕ್ ಜ್ಞಾನ",
+      "ಸಮ್ಯಕ್ ಚಾರಿತ್ರ್ಯ"
+    ],
+    "a": 0,
+    "e": "the three jewels of jainism are right faith, right knowledge, and right conduct."
+  },
+  {
+    "q": "ಹರಪ್ಪ ನಾಗರಿಕತೆಯು ಯಾವ ನದಿಯ ದಡದಲ್ಲಿ ನೆಲೆಸಿತ್ತು?",
+    "o": [
+      "ರಾವಿ",
+      "ಸಿಂಧೂ",
+      "ಸಟ್ಲೆಜ್",
+      "ಚೀನಾಬ್"
+    ],
+    "a": 0,
+    "e": "the archaeological site of harappa is located on the left bank of the ravi river."
+  },
+  {
+    "q": "ಭೂಮಿಯ ಅಕ್ಷದ ಓರೆಯ ಕೋನ ಎಷ್ಟು?",
+    "o": [
+      "23.5 ಡಿಗ್ರಿ",
+      "0 ಡಿಗ್ರಿ",
+      "45 ಡಿಗ್ರಿ",
+      "90 ಡಿಗ್ರಿ"
+    ],
+    "a": 0,
+    "e": "earth's rotational axis is tilted at an angle of approximately 23.5 degrees."
+  }
+}
