@@ -1,0 +1,552 @@
+[
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ? A. ಅಕ್ಷರ ಎಂಬ ಪದದ ಪ್ರಸ್ತಾಪವು ಪತಂಜಲಿಯ ಮಹಾಭಾಷ್ಯದಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ. B. ಗಂಗಾಧರ್ ದೇಶ್ ಪಾಂಡೆಯವರು ನಮ್ಮ ಕನ್ನಡ ಲಿಪಿಯನ್ನು \"ಲಿಪಿಗಳ ರಾಣಿ\" ಎಂದು ಕರೆದರು. C. ಶ್ರವಣ ಎಂದರೆ ಮಾತನ್ನು ದ್ವನಿಯ ಮೂಲಕ ಕೇಳಿಸಿಕೊಳ್ಳುವುದು. D. ಚಾಕ್ಷುಷ ಎಂದರೆ ಕಣ್ಣಿನ ಮೂಲಕ ನೋಡುವುದು.",
+    "o": [
+      "A, B, C, D",
+      "A ಮತ್ತು C ಸರಿ",
+      "A, B, C",
+      "A, C, D"
+    ],
+    "a": 0,
+    "e": "ಕನ್ನಡ ಲಿಪಿಯ ಇತಿಹಾಸ ಮತ್ತು ಗ್ರಹಣ ಕೌಶಲಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಈ ಎಲ್ಲಾ ನಾಲ್ಕು ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ."
+  },
+  {
+    "q": "ಕನ್ನಡದ ವರ್ಣಮಾಲೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಈ ಕೆಳಗೆ ನೀಡಿರುವ ನಾಲ್ಕು ಹೇಳಿಕೆಗಳಲ್ಲಿ ಎಷ್ಟು ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ? A. ಮೂರು ಮಾತ್ರೆಗಳ ಕಾಲದಲ್ಲಿ ಉಚ್ಚರಿಸುವ ಅಕ್ಷರಗಳು, ದೀರ್ಘ ಸ್ವರಗಳನ್ನೇ ಸ್ವಲ್ಪ ಎಳೆದು ಉಚ್ಛರಿಸುವ ಅಕ್ಷರಗಳಿಗೆ ಪ್ಲುತಸ್ವರ ಎನ್ನುವರು. B. ಅ, ಆ ಸ್ವರಗಳನ್ನು ಬಿಟ್ಟು ಉಳಿದ ಎಲ್ಲ ಸ್ವರಗಳಿಗೆ ನಾಮಿಗಳೆಂದು ಕರೆಯುತ್ತಾರೆ. C. ಒಂದು ಹ್ರಸ್ವಸ್ವರಕ್ಕೆ ದೀರ್ಘ ಸ್ವರ ಸೇರಿ ಆಗುವ ಅಕ್ಷರಗಳನ್ನು ಅಥವಾ ಎರಡು ಸ್ವರಗಳು ಸೇರಿ ಒಂದೇ ಸ್ವರ ಆಗುವುದಕ್ಕೆ ಸಂಧ್ಯಾಕ್ಷರ ಎನ್ನುವರು. D. ಶ, ಷ ಇವು ಸಂಸ್ಕೃತ ವ್ಯಂಜನ ವರ್ಣಗಳಾಗಿವೆ.",
+    "o": [
+      "3 ಹೇಳಿಕೆಗಳು ಮಾತ್ರ ಸರಿಯಾಗಿವೆ",
+      "1 ಹೇಳಿಕೆ ಮಾತ್ರ ಸರಿ",
+      "4 ಹೇಳಿಕೆಗಳು ಮಾತ್ರ ಸರಿಯಾಗಿವೆ",
+      "2 ಹೇಳಿಕೆಗಳು ಮಾತ್ರ ಸರಿಯಾಗಿವೆ"
+    ],
+    "a": 2,
+    "e": "ಪ್ಲುತಸ್ವರ, ನಾಮಿ ಸ್ವರಗಳು, ಸಂಧ್ಯಾಕ್ಷರ ಮತ್ತು ಸಂಸ್ಕೃತ ವ್ಯಂಜನಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಎಲ್ಲಾ ನಾಲ್ಕು ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ."
+  },
+  {
+    "q": "ಗ್, ಜ್, ಡ್, ದ್, ಬ್ ಈ ಅಕ್ಷರಗಳು ಈ ಕೆಳಗಿನ ಯಾವುದಕ್ಕೆ ಉದಾಹರಣೆಗಳಾಗಿವೆ?",
+    "o": [
+      "ಮಹಾಪ್ರಾಣ",
+      "ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು",
+      "ಅಲ್ಪಪ್ರಾಣ",
+      "ಅನುನಾಸಿಕ"
+    ],
+    "a": 2,
+    "e": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳ ಮೊದಲ ಮತ್ತು ಮೂರನೇ ಅಕ್ಷರಗಳನ್ನು ಕಡಿಮೆ ಉಸಿರಿನಿಂದ ಉಚ್ಚರಿಸುವುದರಿಂದ ಅವು ಈ ವಿಭಾಗಕ್ಕೆ ಸೇರುತ್ತವೆ."
+  },
+  {
+    "q": "ಕೇಶಿರಾಜನ ಪ್ರಕಾರ ಜಿಹ್ವಾಮೂಲಿಯ ಮತ್ತು ಉಪಧ್ಮಾನೀಯ ಎಂಬುವು ಯಾವುವು?",
+    "o": [
+      "ಯೋಗವಾಹಕಗಳು",
+      "ಹ್ರಸ್ವ ಸ್ವರಗಳು",
+      "ದೀರ್ಘ ಸ್ವರಗಳು",
+      "ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು"
+    ],
+    "a": 0,
+    "e": "ಶಬ್ದಮಣಿದರ್ಪಣದಲ್ಲಿ ಕೇಶಿರಾಜನು ಅನುಸ್ವಾರ ಮತ್ತು ವಿಸರ್ಗದ ಜೊತೆಗೆ ಜಿಹ್ವಾಮೂಲಿಯ ಹಾಗೂ ಉಪಧ್ಮಾನೀಯಗಳನ್ನು ಈ ಗುಂಪಿನಲ್ಲಿ ಸೇರಿಸಿದ್ದಾನೆ."
+  },
+  {
+    "q": "ಬಾಯಾರಿಕೆ ಎಂಬ ಪದದಲ್ಲಿ ಎಷ್ಟು ಸ್ವರಗಳಿವೆ?",
+    "o": [
+      "6",
+      "3",
+      "5",
+      "4"
+    ],
+    "a": 3,
+    "e": "ಪದವನ್ನು ಬಿಡಿಸಿದಾಗ ಬ್+ಆ+ಯ್+ಆ+ರ್+ಇ+ಕ್+ಎ ಎಂದಾಗುತ್ತದೆ; ಇದರಲ್ಲಿ ಆ, ಆ, ಇ, ಎ ಎಂಬ ನಾಲ್ಕು ಸ್ವರಗಳಿವೆ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ವಿಲಕ್ಷಣವಾದದನ್ನು ಗುರುತಿಸಿ.",
+    "o": [
+      "ಮಣ್ಣು",
+      "ಕತ್ತಲೆ",
+      "ಬೆಳಕು",
+      "ಉಷ್ಣ"
+    ],
+    "a": 0,
+    "e": "ಉಳಿದವು ಭೌತಿಕ ಸ್ಥಿತಿ ಅಥವಾ ಅನುಭವಕ್ಕೆ ಸಂಬಂಧಿಸಿದ್ದರೆ, ಇದೊಂದು ಭೌತಿಕ ವಸ್ತುವಾಗಿದೆ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಜೋಡಿ ತಪ್ಪಾಗಿ ಹೋಲಿಕೆ ಆಗಿದೆ?",
+    "o": [
+      "ಎ, ಏ, ಐ = ಕಂಠತಾಲು",
+      "ಋ, ಟ, ಠ, ಡ = ದಂತೋಷ್ಟ್ಯ",
+      "ಞ, ಣ, ನ, ಮ = ನಾಸಿಕಗಳು",
+      "ಒ, ಓ, ಔ = ಕಂಠೋಷ್ಠ್ಯ"
+    ],
+    "a": 1,
+    "e": "ಋ, ಟ, ಠ, ಡ ಅಕ್ಷರಗಳು ಮೂರ್ಧನ್ಯ ವರ್ಣಗಳಾಗಿದ್ದು, ದಂತೋಷ್ಟ್ಯ ವರ್ಣೋತ್ಪತ್ತಿ ಸ್ಥಾನಕ್ಕೆ ಸೇರುವುದಿಲ್ಲ."
+  },
+  {
+    "q": "ಅಕ್ಷರವನ್ನು ವರ್ಣ ಎಂದು ಮೊದಲು ಕರೆದವರು ಯಾರು?",
+    "o": [
+      "ಪಂಪ",
+      "ಕೇಶಿರಾಜ",
+      "2ನೇ ನಾಗವರ್ಮ",
+      "ಕುಮಾರವ್ಯಾಸ"
+    ],
+    "a": 2,
+    "e": "ಕನ್ನಡದ ಪ್ರಾಚೀನ ವ್ಯಾಕರಣ ಗ್ರಂಥವಾದ ಕರ್ನಾಟಕ ಭಾಷಾಭೂಷಣದ ಕರ್ತೃ ಈ ವ್ಯಾಕರಣ ಪದವನ್ನು ಬಳಸಿದ್ದಾರೆ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿವೆ? A. ನಾಮಪದದ ಮೂಲ ರೂಪವೇ ನಾಮ ಪ್ರಕೃತಿ ಎಂದು ಕರೆಯುತ್ತೇವೆ. B. ಕ್ರಿಯಾ ಪದದ ಮೂಲರೂಪವನ್ನು ಧಾತು ಎನ್ನುವರು. C. ಎದುರಿಗೆ ಇರುವವರನ್ನು ಸೇರಿಸಿಕೊಂಡು ಮಾತನಾಡುವಾಗ ಬಳಸುವ ಸರ್ವನಾಮವೇ ದರ್ಶಕ ಸರ್ವನಾಮ ಎನ್ನುವರು.",
+    "o": [
+      "B, C ಮಾತ್ರ ಸರಿ",
+      "A, B, C",
+      "A, C ಮಾತ್ರ ಸರಿ",
+      "A, B ಮಾತ್ರ ಸರಿ"
+    ],
+    "a": 3,
+    "e": "ನಾಮಪದದ ಮೂಲರೂಪ ನಾಮ ಪ್ರಕೃತಿ ಮತ್ತು ಕ್ರಿಯಾಪದದ ಮೂಲರೂಪ ಧಾತು ಸರಿಯಾಗಿದ್ದು, ಎದುರಿನವರನ್ನು ಉದ್ದೇಶಿಸಿ ಬಳಸುವುದು ಮಧ್ಯಮ ಪುರುಷವಾಗುತ್ತದೆ."
+  },
+  {
+    "q": "'ಅವನ್' ಎಂಬುದು ಈ ಕೆಳಗಿನ ಯಾವುದಕ್ಕೆ ಉದಾಹರಣೆಯಾಗಿದೆ?",
+    "o": [
+      "ಮಧ್ಯಮ ಪುರುಷ ಸರ್ವನಾಮ",
+      "ಸಾರ್ವನಾಮಿಕ ವಿಶೇಷಣ",
+      "ಪ್ರಥಮ ಪುರುಷ ಸರ್ವನಾಮ",
+      "ಉತ್ತಮ ಪುರುಷ ಸರ್ವನಾಮ"
+    ],
+    "a": 2,
+    "e": "ಮಾತನಾಡುವವನು ಮತ್ತು ಕೇಳುವವನು ಹೊರತಾಗಿ ಮೂರನೇ ವ್ಯಕ್ತಿಯನ್ನು ಸೂಚಿಸುವ ಪದ ಇದಾಗಿದೆ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಪೋರ್ಚುಗೀಸ್ ಭಾಷೆಯಿಂದ ಬಂದಂತಹ ಪದವಲ್ಲ?",
+    "o": [
+      "ಸಾಬೂನು",
+      "ಖುಲಾಸೆ",
+      "ಮೇಜು",
+      "ಅನಾನಸ್"
+    ],
+    "a": 1,
+    "e": "ಮೇಜು, ಸಾಬೂನು ಮತ್ತು ಅನಾನಸ್ ಪೋರ್ಚುಗೀಸ್ ಭಾಷೆಯಿಂದ ಬಂದ ಪದಗಳಾಗಿದ್ದು, ಖುಲಾಸೆ ಅನ್ಯ ಭಾಷಾ ಪದವಾಗಿದೆ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಅರೇಬಿಕ್ ಭಾಷೆಯಿಂದ ಬಂದಂತಹ ಪದಗಳಾಗಿವೆ? 1. ಇಲಾಖೆ 2. ಅದಾಲತ್ 3. ಮೊಕದ್ದಮೆ 4. ಕೋರ್ಟ್ 5. ಆಸ್ಪತ್ರೆ",
+    "o": [
+      "1, 2, 3",
+      "1, 2, 3, 4, 5",
+      "1, 2, 3, 5",
+      "1, 2, 3, 4"
+    ],
+    "a": 0,
+    "e": "ಕಾನೂನು ಮತ್ತು ಆಡಳಿತ ಕ್ಷೇತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಇಲಾಖೆ, ಅದಾಲತ್ ಮತ್ತು ಮೊಕದ್ದಮೆ ಪದಗಳು ಅರೇಬಿಕ್ ಮೂಲದವು."
+  },
+  {
+    "q": "ಅಕೆ, ಉದು, ಕೆ, ವಳಿಗೆ... ಇವು ಈ ಕೆಳಗಿನ ಯಾವುದಕ್ಕೆ ಸಂಬಂಧಿಸಿವೆ?",
+    "o": [
+      "ಕೃದಂತಾವ್ಯಯಗಳು",
+      "ತದ್ದಿತಾಂತ ನಾಮ",
+      "ಕೃದಂತ ಭಾವನಾಮ",
+      "ಕೃದಂತ ನಾಮ"
+    ],
+    "a": 2,
+    "e": "ಧಾತುಗಳಿಗೆ ಸೇರಿ ಭಾವಾರ್ಥವನ್ನು ಸೂಚಿಸುವ ಪ್ರತ್ಯಯಗಳಾಗಿ ಇವು ಬಳಕೆಯಾಗುತ್ತವೆ."
+  },
+  {
+    "q": "ಮಾಡುತ, ಬರುತ, ಕೇಳುತ್ತ, ಮಾಡದೆ... ಇವು ಈ ಕೆಳಗಿನ ಯಾವುದಕ್ಕೆ ಸಂಬಂಧಿಸಿವೆ?",
+    "o": [
+      "ಕೃದಂತ ನಾಮ",
+      "ತದ್ದಿತಾಂತ ನಾಮ",
+      "ಕೃದಂತಾವ್ಯಯಗಳು",
+      "ಕೃದಂತ ಭಾವನಾಮ"
+    ],
+    "a": 2,
+    "e": "ಕ್ರಿಯಾಧಾತುಗಳಿಗೆ ಸೇರಿ ಅವ್ಯಯ ರೂಪ ಪಡೆಯುವ ಶಬ್ದಗಳಾಗಿ ಇವು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ತದ್ದಿತಾಂತ ನಾಮಕ್ಕೆ ಉದಾಹರಣೆ ಅಲ್ಲ?",
+    "o": [
+      "ಬುದ್ಧಿವಂತಿಕೆ",
+      "ಕನ್ನಡಿಗ",
+      "ಕಂಬಾರ",
+      "ಹಾವಾಡಿಗ"
+    ],
+    "a": 0,
+    "e": "ನಾಮಪದಗಳಿಗೆ ತದ್ದಿತ ಪ್ರತ್ಯಯ ಸೇರಿ ರೂಪುಗೊಳ್ಳುವ ಪದಗಳಿಗಿಂತ ಭಿನ್ನವಾಗಿ ಇದು ಭಾವಾರ್ಥಕ ರೂಪವಾಗಿದೆ."
+  },
+  {
+    "q": "ನಿರ್ದಿಷ್ಟ ಅರ್ಥವಿಲ್ಲದ ಧ್ವನಿ ವಿಶೇಷಣಗಳನ್ನು ತಾನು ಕಿವಿಯಿಂದ ಕೇಳಿದಂತೆ ಅನುಕರಣೆ ಮಾಡಿ ಹೇಳುವ ಪದಗಳನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+    "o": [
+      "ಅವಧಾರಣಾರ್ಥಕ ಅವ್ಯಯ",
+      "ಅನುಕರಣಾವ್ಯಯ",
+      "ಸಂಬಂಧ ಸೂಚಕ ಅವ್ಯಯ",
+      "ಭಾವಸೂಚಕ ಅವ್ಯಯ"
+    ],
+    "a": 1,
+    "e": "ಪ್ರಕೃತಿಯಲ್ಲಿ ಕೇಳಿಬರುವ ಧ್ವನಿಗಳನ್ನು ಯಥಾವತ್ತಾಗಿ ಅನುಕರಿಸುವ ಪದಗಳ ವರ್ಗವೇ ಇದಾಗಿದೆ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಎಷ್ಟು ಜೋಡಿಗಳು ಸರಿಯಾಗಿ ಹೋಲಿಕೆ ಆಗಿವೆ? A. ಆಹಾ! ಅಯ್ಯೋ = ಭಾವಸೂಚಕ ಅವ್ಯಯ B. ಸಲುವಾಗಿ, ಆದ್ದರಿಂದ = ಸಂಬಂಧ ಸೂಚಕ ಅವ್ಯಯ C. ರಾಮನೇ, ಅದುವೇ = ಕ್ರಿಯಾರ್ಥಕಾವ್ಯಯ D. ಜಗಮಗ, ಸುಯ್ಯನೆ = ಅನುಕರಣಾವ್ಯಯ",
+    "o": [
+      "3 ಜೋಡಿ",
+      "1 ಜೋಡಿ",
+      "4 ಜೋಡಿ",
+      "2 ಜೋಡಿ"
+    ],
+    "a": 0,
+    "e": "ಆಹಾ/ಅಯ್ಯೋ, ಸಲುವಾಗಿ/ಆದ್ದರಿಂದ ಮತ್ತು ಜಗಮಗ/ಸುಯ್ಯನೆ ಸರಿಯಾಗಿದ್ದು, ರಾಮನೇ/ಅದುವೇ ಅವಧಾರಣಾರ್ಥಕ ಅವ್ಯಯಗಳಾಗಿವೆ."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಎಷ್ಟು ಜೋಡಿಗಳು ಸರಿಯಾಗಿ ಹೋಲಿಕೆ ಆಗಿವೆ? A. ಗ್, ಡ್ = ಅಲ್ಪಪ್ರಾಣ B. ಘ್, ಝ್ = ಮಹಾಪ್ರಾಣ C. ಣ್, ಮ್ = ಅನುನಾಸಿಕ D. ಉ, ಊ = ದೀರ್ಘಸ್ವರಗಳು",
+    "o": [
+      "1 ಜೋಡಿ",
+      "2 ಜೋಡಿ",
+      "4 ಜೋಡಿ",
+      "3 ಜೋಡಿ"
+    ],
+    "a": 2,
+    "e": "ಅಲ್ಪಪ್ರಾಣ, ಮಹಾಪ್ರಾಣ, ಅನುನಾಸಿಕ ಮತ್ತು ದೀರ್ಘಸ್ವರಗಳಿಗೆ ನೀಡಿರುವ ಎಲ್ಲಾ ನಾಲ್ಕು ಉದಾಹರಣೆಗಳು ಸರಿಯಾಗಿವೆ."
+  },
+  {
+    "q": "ಗುಣಿತಾಕ್ಷರಗಳನ್ನು ಬಿಡಿಸಿ ಬರೆಯುವ ಕ್ರಮಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಈ ಕೆಳಗಿನ ಯಾವ ಜೋಡಿ ತಪ್ಪಾಗಿ ಹೋಲಿಕೆ ಆಗಿದೆ?",
+    "o": [
+      "ಜ್ + ಆ + ಯ್ + ಆ + ರ್ + ಇ + ಕ್ + ಎ = ಜಾರಿಕೆ",
+      "ಗ್ + ಊ = ಗೂ",
+      "ಪ್ + ಋ = ಪೃ",
+      "ವ್ + ಆ + ಲ್ + ಇ + ಗ್ + ಎ = ವಳಿಗೆ"
+    ],
+    "a": 0,
+    "e": "ಗುಣಿತಾಕ್ಷರವನ್ನು ಬಿಡಿಸುವಾಗ ಮೂಲ ವ್ಯಂಜನ ಮತ್ತು ಸ್ವರದ ಸಂಯೋಗದ ಬದಲು ಪದವನ್ನೇ ತಪ್ಪಾಗಿ ಬಿಡಿಸಲಾಗಿದೆ."
+  },
+  {
+    "q": "ಋ, ಟ, ಠ, ಡ, ಢ, ಣ, ಳ ಇವು ಈ ಕೆಳಗಿನ ಯಾವ ವರ್ಣೋತ್ಪತ್ತಿ ಸ್ಥಾನಗಳಿಗೆ ಉದಾಹರಣೆಗಳಾಗಿವೆ?",
+    "o": [
+      "ಕಂಠತಾಲು ಅಕ್ಷರಗಳು",
+      "ಓಷ್ಠ್ಯ ಅಕ್ಷರಗಳು",
+      "ದಂತೋಷ್ಠ್ಯ ಅಕ್ಷರಗಳು",
+      "ಮೂರ್ಧನ್ಯ ಅಕ್ಷರಗಳು"
+    ],
+    "a": 3,
+    "e": "ನಾಲಗೆಯ ತುದಿಯನ್ನು ಮೇಲಿನ ದವಡೆಯ ಕಡೆಗೆ ಮಡಚಿ ಉಚ್ಚರಿಸುವ ಈ ಅಕ್ಷರಗಳು ಅದೇ ಸ್ಥಾನಕ್ಕೆ ಸೇರುತ್ತವೆ."
+  },
+  {
+    "q": "He is ___ honest officer and ___ useful person.",
+    "o": [
+      "a, an",
+      "the, a",
+      "an, a",
+      "an, an"
+    ],
+    "a": 2,
+    "e": "The first word starts with a vowel sound while the second starts with a consonant 'y' sound."
+  },
+  {
+    "q": "She is ___ university student studying in ___ European country.",
+    "o": [
+      "a, a",
+      "an, an",
+      "the, the",
+      "a, an"
+    ],
+    "a": 0,
+    "e": "Both 'university' and 'European' begin with a consonant 'y' sound rather than a vowel sound."
+  },
+  {
+    "q": "He plays ___ violin very well.",
+    "o": [
+      "No article",
+      "the",
+      "an",
+      "a"
+    ],
+    "a": 1,
+    "e": "Names of musical instruments when referring to playing them take a specific definite article."
+  },
+  {
+    "q": "___ rich should help ___ poor.",
+    "o": [
+      "No article, The",
+      "An, the",
+      "A, a",
+      "The, the"
+    ],
+    "a": 3,
+    "e": "Using this article before an adjective refers to the entire class or group of people."
+  },
+  {
+    "q": "He was elected ___ chairman of the committee.",
+    "o": [
+      "the",
+      "No article",
+      "an",
+      "a"
+    ],
+    "a": 1,
+    "e": "A unique position or title held by one person at a time after verbs like 'elected' often omits the article."
+  },
+  {
+    "q": "They are students, ___?",
+    "o": [
+      "don't they?",
+      "are they?",
+      "do they?",
+      "aren't they?"
+    ],
+    "a": 3,
+    "e": "A positive statement with the verb 'are' takes a negative tag using the same verb and pronoun."
+  },
+  {
+    "q": "Ramesh went to school, ___?",
+    "o": [
+      "didn't he?",
+      "wasn't he?",
+      "doesn't he?",
+      "does he?"
+    ],
+    "a": 0,
+    "e": "A positive simple past verb requires a negative past-tense auxiliary tag with the matching pronoun."
+  },
+  {
+    "q": "They will come tomorrow, ___?",
+    "o": [
+      "aren't they?",
+      "will they?",
+      "won't they?",
+      "don't they?"
+    ],
+    "a": 2,
+    "e": "A positive statement with 'will' pairs with its contracted negative form in the question tag."
+  },
+  {
+    "q": "There is a problem, ___?",
+    "o": [
+      "doesn't it?",
+      "isn't there?",
+      "is there?",
+      "does there?"
+    ],
+    "a": 1,
+    "e": "Statements starting with 'there is' use 'there' as the subject and negate the auxiliary 'is'."
+  },
+  {
+    "q": "She told you an interesting story, isn't it?",
+    "o": [
+      "didn't you",
+      "No substitution required",
+      "did she",
+      "didn't she"
+    ],
+    "a": 3,
+    "e": "The past-tense verb 'told' and subject 'She' require a negative past tag matching the subject."
+  },
+  {
+    "q": "Computer ಗಳಲ್ಲಿ ಬರುವ ಪ್ರಮುಖ language ಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಈ ಕೆಳಗಿನ ಎಷ್ಟು ಜೋಡಿಗಳು ಸರಿಯಾಗಿವೆ? A. C = Dennis Ritchie B. C++ = Guido van Rossum C. Java = James Gosling D. Python = Bjarne Stroustrup",
+    "o": [
+      "ನಾಲ್ಕು ಜೋಡಿ",
+      "ಎರಡು ಜೋಡಿ",
+      "ಮೂರು ಜೋಡಿ",
+      "ಒಂದು ಜೋಡಿ"
+    ],
+    "a": 1,
+    "e": "C ಮತ್ತು Java ಸರಿಯಾಗಿದ್ದು, C++ ಅನ್ನು Bjarne Stroustrup ಮತ್ತು Python ಅನ್ನು Guido van Rossum ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ್ದಾರೆ."
+  },
+  {
+    "q": "Which of the following statements about ALU is correct?",
+    "o": [
+      "It performs logical comparisons",
+      "It controls all input devices directly",
+      "It performs addition and subtraction",
+      "A and B only"
+    ],
+    "a": 3,
+    "e": "The arithmetic logic unit handles mathematical operations and logical tests, whereas device control belongs elsewhere."
+  },
+  {
+    "q": "Which statements about registers are correct? A. Registers are very fast storage locations. B. Registers are used by the CPU. C. Registers are generally slower than hard disks.",
+    "o": [
+      "A and C only",
+      "A and B only",
+      "A, B and C",
+      "B and C only"
+    ],
+    "a": 1,
+    "e": "Processor registers offer ultra-fast access for active operations and are much faster than secondary storage."
+  },
+  {
+    "q": "Which of the following are the main components of a traditional CPU? 1. ALU 2. Control Unit 3. Registers",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "1 only",
+      "2 and 3 only"
+    ],
+    "a": 1,
+    "e": "Arithmetic logic, control coordination, and high-speed internal storage form the core building blocks of a CPU."
+  },
+  {
+    "q": "Which of the following are CPU registers? 1. Accumulator 2. Program Counter 3. Instruction Register",
+    "o": [
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only",
+      "1 and 2 only"
+    ],
+    "a": 1,
+    "e": "All three hold intermediate values, next instruction addresses, or current instructions inside the processor."
+  },
+  {
+    "q": "ಪ್ರಮುಖ computer ಗಳ ಪೂರ್ಣರೂಪಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಈ ಕೆಳಗಿನ ಯಾವ ಜೋಡಿ ತಪ್ಪಾಗಿದೆ?",
+    "o": [
+      "EDSAC = Electronic Delay Storage Automatic Calculator",
+      "UNIVAC = Universal Arithmetic Computer",
+      "ENIAC = Electronic Numerical Integrator and Computer",
+      "EDVAC = Electronic Discrete Variable Automatic Computer"
+    ],
+    "a": 1,
+    "e": "UNIVAC ಎಂಬುದು Universal Automatic Computer ಎಂಬ ಪೂರ್ಣರೂಪವನ್ನು ಹೊಂದಿದ್ದು, ಇಲ್ಲಿ ನೀಡಿರುವ ಪದ ತಪ್ಪಾಗಿದೆ."
+  },
+  {
+    "q": "Which statements are correct about microprocessors? A. A microprocessor is an integrated circuit. B. It contains CPU functions on a chip. C. It is used in computers and electronic devices.",
+    "o": [
+      "A and B only",
+      "A, B and C",
+      "B and C only",
+      "A and C only"
+    ],
+    "a": 1,
+    "e": "Integrating central processing capabilities onto a single silicon chip powers both computers and modern smart devices."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನವುಗಳನ್ನು ಹೊಂದಿಸಿ ಬರೆಯಿರಿ: 1. Registers - A. High-speed CPU storage, 2. PC - B. Holds next instruction address, 3. IR - C. Holds current instruction, 4. Accumulator - D. Stores intermediate results.",
+    "o": [
+      "1=A, 2=C, 3=D, 4=B",
+      "1=A, 2=B, 3=D, 4=C",
+      "1=A, 2=B, 3=C, 4=D",
+      "1=A, 2=C, 3=B, 4=D"
+    ],
+    "a": 2,
+    "e": "ಪ್ರತಿಯೊಂದು ರಿಜಿಸ್ಟರ್‌ನ ಕಾರ್ಯವೂ ಅದರ ನಿರ್ದಿಷ್ಟ ಸಂಗ್ರಹಣೆ ಅಥವಾ ಸೂಚನಾ ನಿರ್ವಹಣಾ ಉದ್ದೇಶಕ್ಕೆ ಸರಿಯಾಗಿ ಹೊಂದುತ್ತದೆ."
+  },
+  {
+    "q": "Which of the following correctly represents the evolution of computer generations?",
+    "o": [
+      "Vacuum Tubes -> ICs -> Transistors -> AI -> Microprocessors",
+      "ICs -> Vacuum Tubes -> Transistors -> Microprocessors -> AI",
+      "Vacuum Tubes -> Transistors -> ICs -> Microprocessors -> AI-based systems",
+      "Transistors -> Vacuum Tubes -> ICs -> Microprocessors -> AI"
+    ],
+    "a": 2,
+    "e": "Hardware technology progressed chronologically from bulky tubes and transistors to integrated circuits, chips, and AI systems."
+  },
+  {
+    "q": "ಈ ಕೆಳಗಿನ ಎಷ್ಟು ಜೋಡಿಗಳು ಸರಿಯಾಗಿ ಹೋಲಿಕೆಯಾಗಿವೆ? A. First Generation = High heat generation B. Second Generation = Reduced size using transistors C. Third Generation = Multiprogramming D. Fourth Generation = Personal Computers",
+    "o": [
+      "ನಾಲ್ಕು ಜೋಡಿ",
+      "ಎರಡು ಜೋಡಿ",
+      "ಮೂರು ಜೋಡಿ",
+      "ಒಂದು ಜೋಡಿ"
+    ],
+    "a": 0,
+    "e": "ಪ್ರತಿ ಪೀಳಿಗೆಯ ಪ್ರಮುಖ ತಾಂತ್ರಿಕ ಲಕ್ಷಣಗಳನ್ನು ನೀಡಿರುವ ಎಲ್ಲಾ ನಾಲ್ಕು ಜೋಡಿಗಳೂ ಸರಿಯಾಗಿ ವಿವರಿಸುತ್ತವೆ."
+  },
+  {
+    "q": "Identify the correctly matched pair.",
+    "o": [
+      "UNIVAC I - Third generation",
+      "IBM 1401 - Second generation",
+      "IBM System/360 - First generation",
+      "ENIAC - Second generation"
+    ],
+    "a": 1,
+    "e": "This mainframe model relied on transistor technology characteristic of the second computing generation."
+  },
+  {
+    "q": "Which generation witnessed the widespread development of high-level programming languages such as FORTRAN and COBOL?",
+    "o": [
+      "IV Generation",
+      "II Generation",
+      "V Generation",
+      "I Generation"
+    ],
+    "a": 1,
+    "e": "Early high-level languages gained broad adoption during the transistor era as software moved away from machine code."
+  },
+  {
+    "q": "Which of the following is NOT a characteristic of digital computers?",
+    "o": [
+      "They provide high accuracy in numerical calculations",
+      "They primarily process continuously varying physical quantities",
+      "They operate using binary digits",
+      "They process discrete data"
+    ],
+    "a": 1,
+    "e": "Processing continuous physical signals is typical of analog systems, whereas digital machines handle discrete values."
+  },
+  {
+    "q": "Which of the following correctly matches the computer type with its data representation?",
+    "o": [
+      "Analog - Discrete values",
+      "Digital - Physical quantities only",
+      "Hybrid - Both analog and digital data",
+      "Digital - Continuous values"
+    ],
+    "a": 2,
+    "e": "Combining continuous signal processing with discrete numerical computation defines a hybrid system."
+  },
+  {
+    "q": "Which of the following is the correct general order in terms of processing power among traditional computer classifications?",
+    "o": [
+      "Minicomputer -> Microcomputer -> Supercomputer -> Mainframe",
+      "Mainframe -> Minicomputer -> Microcomputer -> Supercomputer",
+      "Supercomputer -> Microcomputer -> Mainframe -> Minicomputer",
+      "Microcomputer -> Minicomputer -> Mainframe -> Supercomputer"
+    ],
+    "a": 3,
+    "e": "Compute capacity scales upward from personal systems to mid-range, enterprise mainframes, and high-performance systems."
+  },
+  {
+    "q": "A computer that can perform various tasks such as word processing, browsing, accounting and gaming is classified as:",
+    "o": [
+      "General-purpose computer",
+      "Special-purpose computer",
+      "Embedded computer",
+      "Analog computer"
+    ],
+    "a": 0,
+    "e": "Machines built to run diverse software applications rather than a single dedicated task fall into this category."
+  },
+  {
+    "q": "Which sequence correctly represents the basic instruction cycle?",
+    "o": [
+      "Fetch -> Decode -> Execute",
+      "Execute -> Fetch -> Decode",
+      "Decode -> Execute -> Fetch",
+      "Fetch -> Execute -> Decode"
+    ],
+    "a": 0,
+    "e": "The CPU retrieves an instruction from memory, interprets its meaning, and then carries out the operation."
+  },
+  {
+    "q": "What is the primary function of the Control Unit (CU) in a CPU?",
+    "o": [
+      "Generating graphical output",
+      "Storing permanent data",
+      "Directing and coordinating the operations of the computer",
+      "Performing arithmetic calculations"
+    ],
+    "a": 2,
+    "e": "It orchestrates data flow and timing signals across processor and memory components without executing math itself."
+  },
+  {
+    "q": "Which type of computer is specifically designed to be integrated into another electronic device?",
+    "o": [
+      "Supercomputer",
+      "Workstation",
+      "Mainframe",
+      "Embedded computer"
+    ],
+    "a": 3,
+    "e": "Dedicated controllers built inside appliances, vehicles, or instruments perform specialized monitoring or control."
+  },
+  {
+    "q": "ಕಂಪ್ಯೂಟರ್ ವಿಧಗಳನ್ನು ಕುರಿತು ಈ ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳನ್ನು ಪರಿಗಣಿಸಿ: A. A supercomputer is optimized for high-speed computational tasks. B. A mainframe is optimized for large-scale data processing and transaction workloads. C. A workstation is generally used for technically demanding professional tasks. D. A microcomputer must always be portable.",
+    "o": [
+      "A, B, C",
+      "A, C, D",
+      "A, B, C, D",
+      "A ಮತ್ತು B ಸರಿ"
+    ],
+    "a": 0,
+    "e": "ಮೊದಲ ಮೂರು ಹೇಳಿಕೆಗಳು ಸರಿಯಾಗಿದ್ದು, ಡೆಸ್ಕ್‌ಟಾಪ್ ಕಂಪ್ಯೂಟರ್‌ಗಳೂ ಮೈಕ್ರೋಕಂಪ್ಯೂಟರ್‌ಗಳಾಗುವುದರಿಂದ ಅವು ಯಾವಾಗಲೂ ಪೋರ್ಟಬಲ್ ಆಗಿರಬೇಕೆಂದಿಲ್ಲ."
+  }
+]
